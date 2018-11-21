@@ -1,7 +1,7 @@
 > **FU Races汉化Mod**  
 > 
 > 作者：微风的龙骑士  
-> Steam：nimorzeki
+> Steam：nimorzeki  
 > Github：DragonKnightOfBreeze  
 > Gitlab：DragonKnightOfBreeze  
 
