@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/regeneration/regenerationfist.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Regen"
+	}
+}]

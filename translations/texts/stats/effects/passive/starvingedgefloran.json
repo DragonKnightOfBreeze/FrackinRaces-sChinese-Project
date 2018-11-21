@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/passive/starvingedgefloran.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "叶族饥饿",
+		"Eng": "Floran Hunger"
+	}
+}]

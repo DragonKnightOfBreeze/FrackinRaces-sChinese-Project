@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/food/carnivorefood.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Tasty Meat - Carnivores won't get sick."
+	}
+}]

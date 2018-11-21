@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/fu_effects/drain/drainnightar.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Health Vampire - drain enemy health on hits during nighttime or in darkness."
+	}
+}]

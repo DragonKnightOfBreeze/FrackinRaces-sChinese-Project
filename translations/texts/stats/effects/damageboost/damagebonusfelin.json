@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/damageboost/damagebonusfelin.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Dmg+"
+	}
+}]

@@ -1,0 +1,24 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/active/raceEffectEnabler.activeitem": [
+			"/shortdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Race Tech Enabler"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/active/raceEffectEnabler.activeitem": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Enables race-specific techs for FR races."
+	}
+}
+]

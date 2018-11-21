@@ -1,0 +1,222 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/gui/title/value"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Advanced stats"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/0/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Max Health"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/1/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Max Energy"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/2/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Power Multiplier"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/3/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Breath Duration"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/4/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Knockback Resistance"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/5/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Shield Bash Chance"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/6/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Health Regen"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/7/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Energy Regen"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/8/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Crit Damage Bonus"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/9/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Breath Regen"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/10/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Knockback Threshold"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/11/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Shield Bash Push"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/12/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Protection"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/13/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Energy Regen Time"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/14/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Crit Chance"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/15/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Food consumption per second"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/0/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Fall Damage"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/tooltipBoxes/0/tooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Ship Mass"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/defaultTooltip"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Hover over a stat for its description"
+	}	
+}
+]

@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/huntersclaw.tech": [
+			"/shotdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Hunter Claws"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/huntersclaw.tech": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Use ^green;[F]^reset; to slash with razor-sharp claws. Hunting damage."
+	}
+}]

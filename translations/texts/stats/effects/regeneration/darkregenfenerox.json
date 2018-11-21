@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/regeneration/darkregenfenerox.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "黑夜疗愈",
+		"Eng": "Night Heal"
+	}
+}]

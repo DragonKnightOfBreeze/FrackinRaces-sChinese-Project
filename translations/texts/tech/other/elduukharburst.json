@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/elduukharburst.tech": [
+			"/shotdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Elduukhar Fire"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/elduukharburst.tech": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Breathe Fire! Use ^green;[F]^reset;."
+	}
+}]

@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/fupest.consumable": [
+			"/shortdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Pest"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/fupest.consumable": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "A small mammalian pest. Edible, and nutritious."
+	}
+}]

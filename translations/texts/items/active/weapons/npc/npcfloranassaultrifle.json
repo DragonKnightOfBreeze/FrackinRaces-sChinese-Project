@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/weapons/npcfloranassaultrifle.activeitem": [
+			"/shortdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "NPC Floran Assault Rifle"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/active/npcfloranassaultrifle.activeitem": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "An automatic rifle made of organic material."
+	}
+}]

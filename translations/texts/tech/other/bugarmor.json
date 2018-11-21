@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/bugarmor.tech": [
+			"/shotdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Thelusian Warrior"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/bugarmor.tech": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Push [Up],[Down] or [Jump] for combat stances. ^green;[F]^reset;"
+	}
+}]

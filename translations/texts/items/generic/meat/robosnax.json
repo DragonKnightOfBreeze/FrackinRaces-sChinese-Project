@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/robosnax.consumable": [
+			"/shortdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Robo-Snax"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/robosnax.consumable": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Specially formulated Robo-Food. ^yellow;Type: Robot^reset;"
+	}
+}]

@@ -1,0 +1,67 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"quests/story/protectorateapex.questtemplate": [
+			"/title"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "You're an Apex"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"quests/story/protectorateapex.questtemplate": [
+			"/text"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Delicious aquatic horror."
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"quests/story/protectorateapex.questtemplate": [
+			"/completionText"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Your Matter Manipulator is, simply put, superior to the crappy ones other races use."
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"quests/story/protectorateapex.questtemplate": [
+			"/scriptConfig/descriptions/graduate"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Attend your graduation ceremony"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"quests/story/protectorateapex.questtemplate": [
+			"/scriptConfig/descriptions/matterManipulator"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Take the matter manipulator"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"quests/story/protectorateapex.questtemplate": [
+			"/scriptConfig/descriptions/escape"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Escape the destruction"
+	}
+}]

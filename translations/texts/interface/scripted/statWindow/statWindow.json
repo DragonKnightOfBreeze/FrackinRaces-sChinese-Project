@@ -1,0 +1,520 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/gui/windowtitle/title"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": " Character Status"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/gui/windowtitle/subtitle"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": " Information about the character"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/gui/immunitiesLabel/value"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^blue;Immunities"
+	}
+},{
+
+
+
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/liquidnitrogenImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#4BF3FD;Liquid Nitrogen"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/nitrogenfreezeImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#4BF3FD;Nitrogen Freeze"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/ffextremecoldImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#4BF3FD;Cold II"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/biomecoldImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#4BF3FD;Cold I"
+	}	
+},{
+	
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/quicksandImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^yellow;Quick Sand"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/snowslowImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#4BF3FD;Snow Slow"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/slushslowImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#4BF3FD;Slush Slow"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/iceslipImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#4BF3FD;Ice Slipping"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/fumudslowImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^brown;Mud Slow"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/fujungleslowImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^green;Jungle Slow"
+	}	
+},{
+	
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/slimefrictionImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#61D13F;Slime Bounce"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/slimestickImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#61D13F;Sticky Slime"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/slimeImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#61D13F;Slime"
+	}	
+},{
+	
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/waterbreathProtection/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^blue;Drowning"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/biooozeImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#78f04f;Bio-Ooze"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/pusImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^yellow;Pus"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/gravrainImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^gray;Gravity Rain"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/blacktarImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#5B6177;Black Tar"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/tarImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#5B6177;Tar"
+	}	
+},{
+	
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/ffextremeheatImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#FDBE4B;Heat II"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/biomeheatImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#FDBE4B;Heat I"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/lavaImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#C83E14;Lava"
+	}	
+},{
+	
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/sandstormImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^orange;Sandstorm"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/breathProtection/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Breath"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/gasImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#D1E160;Gas"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/asteroidImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^gray;Asteroids"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/sulphuricImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#ffd800;Sulphuric Acid"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/protoImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#78f04f;Proto-Poison"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/extremepressureProtection/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^gray;Extreme Pressure"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/pressureProtection/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^gray;Pressure"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/shadowImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#3F2E4D;Shadow"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/aetherImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#E33FFF;Aether"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/insanityImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#EA907E;Insanity"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/darknessImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#EA907E;Darkness"
+	}	
+},{
+	
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/beestingImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#ffae00;Bee Stings"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/honeyslowImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#FFEC84;Honey Slow"
+	}	
+},{
+	
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/electricStatusImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#FFE149;Electrification"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/poisonStatusImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#D1E160;Poisoning"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/fireStatusImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#FDBE4B;Burning"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/iceStatusImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^#4BF3FD;Freeze"
+	}	
+},{
+	
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/ffextremeradiationImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^yellow;Radiation II"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/biomeradiationImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^yellow;Radiation I"
+	}	
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/statsWindow.config": [
+			"/statuses/radiationburnImmunity/name"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "^yellow;Radiation Burn"
+	}	
+}
+
+]

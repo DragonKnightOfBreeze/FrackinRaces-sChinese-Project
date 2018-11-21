@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/dragonfireburst.tech": [
+			"/shotdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Dragonfire"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/dragonfireburst.tech": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Breathe Fire! Use ^green;[F]^reset;."
+	}
+}]

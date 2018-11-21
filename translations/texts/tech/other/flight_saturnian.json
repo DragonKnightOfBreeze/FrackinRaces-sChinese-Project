@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/flight_saturnian.tech": [
+			"/shotdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Saturnian Flight"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/flight_saturnian.tech": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Moth flight. Best in darkness. ^green;[F]^reset;."
+	}
+}]

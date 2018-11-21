@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Steamed meat dumplings. Beautifully simple! ^orange;Type: Cooked Meat^reset;"
+  }
+]

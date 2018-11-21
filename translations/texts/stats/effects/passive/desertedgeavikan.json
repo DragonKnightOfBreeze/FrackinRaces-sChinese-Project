@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/passive/desertedgeavikan.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "沙漠刀锋",
+		"Eng": "Desert Edge"
+	}
+}]

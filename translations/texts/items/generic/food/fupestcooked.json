@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/fupestcooked.consumable": [
+			"/shortdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Cooked Pest"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/fupestcooked.consumable": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Well-cooked rodent meat. Mm."
+	}
+}]

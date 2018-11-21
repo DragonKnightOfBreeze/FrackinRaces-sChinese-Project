@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/food/carnivorefoodfish.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Raw Seafood - Meat eaters and Oceanic species get a buff. Herbivores and Robots get sick."
+	}
+}]

@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/fulobster.consumable": [
+			"/shortdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Lobster"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/fulobster.consumable": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Delicious aquatic horror."
+	}
+}]

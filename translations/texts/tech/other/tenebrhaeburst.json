@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/avaliglide.tech": [
+			"/shotdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "影裔",
+		"Eng": "Shadowborne"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/avaliglide.tech": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Fire a Shadow Burst! Use ^green;[F]^reset;."
+	}
+}]

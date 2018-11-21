@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/meatkibble.consumable": [
+			"/shortdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Meaty Kibble"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"item/generic/food/meatkibble.consumable": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Bloody, raw chunks of meat. Great for carnivores. ^red;Type: Raw Meat^reset;"
+	}
+}]

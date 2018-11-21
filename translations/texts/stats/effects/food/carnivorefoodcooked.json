@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/food/carnivorefoodcooked.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Cooked Meat - Delicious! Unless you're a herbivore or mechanical, I guess..."
+	}
+}]

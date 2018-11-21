@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/passive/darkhunternightar.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "剑术专精",
+		"Eng": "Blade Mastery"
+	}
+}]

@@ -1,0 +1,12 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"stats/effects/food/herbivorefood.statuseffect": [
+			"/label"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Herbivore Food - Meat eaters and robots get ill, but everyone else benefits."
+	}
+}]

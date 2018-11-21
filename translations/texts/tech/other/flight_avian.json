@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/flight_avian.tech": [
+			"/shotdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Avian Slowfall"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/avaliglide.tech": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Your race can glide...just a bit. Use ^green;[F]^reset;."
+	}
+}]

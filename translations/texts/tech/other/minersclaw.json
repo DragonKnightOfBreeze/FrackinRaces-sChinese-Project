@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/minersclaw.tech": [
+			"/shotdescription"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Mining Claws"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"tech/other/minersclaw.tech": [
+			"/description"
+		]
+	},
+	"Texts": {
+		"Chs": "",
+		"Eng": "Use ^green;[F]^reset; to dig with specially adapted claws."
+	}
+}]
