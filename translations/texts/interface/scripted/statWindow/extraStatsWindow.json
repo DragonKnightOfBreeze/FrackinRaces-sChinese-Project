@@ -6,7 +6,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "高级属性",
 		"Eng": "Advanced stats"
 	}
 },{
@@ -17,7 +17,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "生命值上限",
 		"Eng": "Max Health"
 	}	
 },{
@@ -28,7 +28,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "能量值上限",
 		"Eng": "Max Energy"
 	}	
 },{
@@ -39,7 +39,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "攻击力倍率",
 		"Eng": "Power Multiplier"
 	}	
 },{
@@ -50,7 +50,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "呼吸时限",
 		"Eng": "Breath Duration"
 	}	
 },{
@@ -61,7 +61,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "击退抵抗",
 		"Eng": "Knockback Resistance"
 	}	
 },{
@@ -72,7 +72,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "盾牌反伤几率",
 		"Eng": "Shield Bash Chance"
 	}	
 },{
@@ -83,7 +83,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "生命回复速度",
 		"Eng": "Health Regen"
 	}	
 },{
@@ -94,7 +94,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "能量回复速度",
 		"Eng": "Energy Regen"
 	}	
 },{
@@ -105,7 +105,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "暴击伤害加成",
 		"Eng": "Crit Damage Bonus"
 	}	
 },{
@@ -116,7 +116,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "呼吸回复速度",
 		"Eng": "Breath Regen"
 	}	
 },{
@@ -127,7 +127,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "击退临界值",
 		"Eng": "Knockback Threshold"
 	}	
 },{
@@ -138,7 +138,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "盾牌击退",
 		"Eng": "Shield Bash Push"
 	}	
 },{
@@ -149,7 +149,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "防御力",
 		"Eng": "Protection"
 	}	
 },{
@@ -160,7 +160,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "能量回复时间",
 		"Eng": "Energy Regen Time"
 	}	
 },{
@@ -171,7 +171,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "暴击几率",
 		"Eng": "Crit Chance"
 	}	
 },{
@@ -182,7 +182,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "饥饿速度",
 		"Eng": "Food consumption per second"
 	}	
 },{
@@ -193,7 +193,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "掉落伤害",
 		"Eng": "Fall Damage"
 	}
 },{
@@ -204,7 +204,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "飞船质量",
 		"Eng": "Ship Mass"
 	}
 },{
@@ -215,7 +215,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "悬停鼠标以查看具体描述",
 		"Eng": "Hover over a stat for its description"
 	}	
 }

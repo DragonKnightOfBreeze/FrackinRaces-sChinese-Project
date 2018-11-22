@@ -6,7 +6,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "角色属性",
 		"Eng": " Character Status"
 	}
 },{
@@ -17,7 +17,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "角色信息",
 		"Eng": " Information about the character"
 	}	
 },{
@@ -28,7 +28,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^blue;免疫",
 		"Eng": "^blue;Immunities"
 	}
 },{
@@ -42,7 +42,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#4BF3FD;液氮",
 		"Eng": "^#4BF3FD;Liquid Nitrogen"
 	}	
 },{
@@ -53,7 +53,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#4BF3FD;液氮冻结",
 		"Eng": "^#4BF3FD;Nitrogen Freeze"
 	}	
 },{
@@ -64,7 +64,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#4BF3FD;寒冷 II",
 		"Eng": "^#4BF3FD;Cold II"
 	}	
 },{
@@ -75,7 +75,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#4BF3FD;寒冷 I",
 		"Eng": "^#4BF3FD;Cold I"
 	}	
 },{
@@ -87,7 +87,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^yellow;流沙",
 		"Eng": "^yellow;Quick Sand"
 	}	
 },{
@@ -98,7 +98,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#4BF3FD;雪地减速",
 		"Eng": "^#4BF3FD;Snow Slow"
 	}	
 },{
@@ -109,7 +109,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#4BF3FD;雪泥减速",
 		"Eng": "^#4BF3FD;Slush Slow"
 	}	
 },{
@@ -120,7 +120,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#4BF3FD;冰面打滑",
 		"Eng": "^#4BF3FD;Ice Slipping"
 	}	
 },{
@@ -131,7 +131,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^brown;泥地减速",
 		"Eng": "^brown;Mud Slow"
 	}	
 },{
@@ -142,7 +142,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^green;丛林减速",
 		"Eng": "^green;Jungle Slow"
 	}	
 },{
@@ -154,7 +154,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#61D13F;黏液反弹",
 		"Eng": "^#61D13F;Slime Bounce"
 	}	
 },{
@@ -165,7 +165,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#61D13F;粘泥",
 		"Eng": "^#61D13F;Sticky Slime"
 	}	
 },{
@@ -176,7 +176,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#61D13F;黏液",
 		"Eng": "^#61D13F;Slime"
 	}	
 },{
@@ -188,7 +188,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^blue;溺水",
 		"Eng": "^blue;Drowning"
 	}	
 },{
@@ -199,7 +199,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#78f04f;生物软泥",
 		"Eng": "^#78f04f;Bio-Ooze"
 	}	
 },{
@@ -210,7 +210,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^yellow;脓液",
 		"Eng": "^yellow;Pus"
 	}	
 },{
@@ -221,7 +221,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^gray;重力雨",
 		"Eng": "^gray;Gravity Rain"
 	}	
 },{
@@ -232,7 +232,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#5B6177;焦油",
 		"Eng": "^#5B6177;Black Tar"
 	}	
 },{
@@ -243,7 +243,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#5B6177;焦油沥青",
 		"Eng": "^#5B6177;Tar"
 	}	
 },{
@@ -255,7 +255,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#FDBE4B;炎热 II",
 		"Eng": "^#FDBE4B;Heat II"
 	}	
 },{
@@ -266,7 +266,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#FDBE4B;炎热 I",
 		"Eng": "^#FDBE4B;Heat I"
 	}	
 },{
@@ -277,7 +277,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#C83E14;岩浆",
 		"Eng": "^#C83E14;Lava"
 	}	
 },{
@@ -289,7 +289,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^orange;沙暴",
 		"Eng": "^orange;Sandstorm"
 	}	
 },{
@@ -300,7 +300,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "呼吸",
 		"Eng": "Breath"
 	}	
 },{
@@ -311,7 +311,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#D1E160;气体",
 		"Eng": "^#D1E160;Gas"
 	}	
 },{
@@ -322,7 +322,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^gray;小行星",
 		"Eng": "^gray;Asteroids"
 	}	
 },{
@@ -333,7 +333,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#ffd800;硫酸",
 		"Eng": "^#ffd800;Sulphuric Acid"
 	}	
 },{
@@ -344,7 +344,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#78f04f;原毒",
 		"Eng": "^#78f04f;Proto-Poison"
 	}	
 },{
@@ -355,7 +355,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^gray;极端压强",
 		"Eng": "^gray;Extreme Pressure"
 	}	
 },{
@@ -366,7 +366,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^gray;压强",
 		"Eng": "^gray;Pressure"
 	}	
 },{
@@ -377,7 +377,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#3F2E4D;暗影",
 		"Eng": "^#3F2E4D;Shadow"
 	}	
 },{
@@ -388,7 +388,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#E33FFF;以太",
 		"Eng": "^#E33FFF;Aether"
 	}	
 },{
@@ -399,7 +399,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#EA907E;精神错乱",
 		"Eng": "^#EA907E;Insanity"
 	}	
 },{
@@ -410,7 +410,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#EA907E;黑暗",
 		"Eng": "^#EA907E;Darkness"
 	}	
 },{
@@ -422,7 +422,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#ffae00;蜂蜇",
 		"Eng": "^#ffae00;Bee Stings"
 	}	
 },{
@@ -433,7 +433,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#FFEC84;蜂蜜减速",
 		"Eng": "^#FFEC84;Honey Slow"
 	}	
 },{
@@ -445,7 +445,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#FFE149;带电",
 		"Eng": "^#FFE149;Electrification"
 	}	
 },{
@@ -456,7 +456,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#D1E160;中毒",
 		"Eng": "^#D1E160;Poisoning"
 	}	
 },{
@@ -467,7 +467,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#FDBE4B;燃烧",
 		"Eng": "^#FDBE4B;Burning"
 	}	
 },{
@@ -478,7 +478,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^#4BF3FD;冻结",
 		"Eng": "^#4BF3FD;Freeze"
 	}	
 },{
@@ -490,7 +490,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^yellow;辐射 II",
 		"Eng": "^yellow;Radiation II"
 	}	
 },{
@@ -501,7 +501,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^yellow;辐射 I",
 		"Eng": "^yellow;Radiation I"
 	}	
 },{
@@ -512,7 +512,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "^yellow;辐射烧伤",
 		"Eng": "^yellow;Radiation Burn"
 	}	
 }

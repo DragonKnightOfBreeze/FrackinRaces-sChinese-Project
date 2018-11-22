@@ -6,7 +6,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "Thelusian战士",
 		"Eng": "Thelusian Warrior"
 	}
 },{
@@ -17,7 +17,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "按[上键]，[下键]或[跳跃键]切换战斗姿态。^green;[F]^reset;",
 		"Eng": "Push [Up],[Down] or [Jump] for combat stances. ^green;[F]^reset;"
 	}
 }]

@@ -6,7 +6,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "机械快餐",
 		"Eng": "Robo-Snax"
 	}
 },{
@@ -17,7 +17,7 @@
 		]
 	},
 	"Texts": {
-		"Chs": "",
+		"Chs": "特制的机械食物。^yellow;种类：机械^reset;",
 		"Eng": "Specially formulated Robo-Food. ^yellow;Type: Robot^reset;"
 	}
 }]
