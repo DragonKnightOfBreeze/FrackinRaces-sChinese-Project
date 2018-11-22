@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "With bacon, a banana and some wizardry, you get a bananacon. ^orange;Type: Cooked Meat^reset;",
+		"value": "With bacon, a banana and some wizardry, you get a bananacon. ^orange;Type: Cooked Meat^reset;"
+	}
+]

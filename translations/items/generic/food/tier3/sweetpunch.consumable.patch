@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A mixture of only the sweetest of sweet fruit. ^green;Type: Herbivore^reset;",
+		"value": "A mixture of only the sweetest of sweet fruit. ^green;Type: Herbivore^reset;"
+	}
+]

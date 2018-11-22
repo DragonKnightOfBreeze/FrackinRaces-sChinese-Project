@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Various fruits all conveniently mixed together. ^green;Type: Herbivore^reset;",
+		"value": "Various fruits all conveniently mixed together. ^green;Type: Herbivore^reset;"
+	}
+]

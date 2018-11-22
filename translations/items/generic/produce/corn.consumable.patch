@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"value": "Sweet and corny, good for digestion! ^green;Type: Herbivore^reset;"
+	}
+]

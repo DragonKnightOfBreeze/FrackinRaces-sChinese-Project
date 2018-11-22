@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Alien fruit jam. Sticky. ^green;Type: Herbivore^reset;",
+		"value": "Alien fruit jam. Sticky. ^green;Type: Herbivore^reset;"
+	}
+]

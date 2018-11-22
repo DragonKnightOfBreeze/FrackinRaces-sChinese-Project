@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Roasted to perfection. ^green;Type: Herbivore^reset;",
+		"value": "Roasted to perfection. ^green;Type: Herbivore^reset;"
+	}
+]

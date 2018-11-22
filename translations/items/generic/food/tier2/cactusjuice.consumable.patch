@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Cool as a cactus. ^green;Type: Herbivore^reset;",
+		"value": "Cool as a cactus. ^green;Type: Herbivore^reset;"
+	}
+]

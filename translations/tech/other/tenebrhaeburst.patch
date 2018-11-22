@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace",
+		"path": "/shotdescription",
+		"origin": "Shadowborne",
+		"value": "影裔"
+	},
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Fire a Shadow Burst! Use ^green;[F]^reset;.",
+		"value": "暗影爆裂！^green;[F]^reset;"
+	}
+]

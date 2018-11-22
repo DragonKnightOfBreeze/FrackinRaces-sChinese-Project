@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A thick, shake-like drink of meat and pussplum. ^Red;Type: Raw Meat^reset;",
+		"value": "A thick, shake-like drink of meat and pussplum. ^Red;Type: Raw Meat^reset;"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/label",
+		"origin": "Troll- Nocturnal",
+		"value": "巨魔 - 夜行的"
+	}
+]

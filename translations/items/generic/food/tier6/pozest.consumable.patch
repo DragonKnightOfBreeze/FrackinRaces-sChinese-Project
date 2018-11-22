@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A popular Glitch energy drink. Or is it just a placebo? ^yellow;Type: Robot^reset;",
+		"value": "A popular Glitch energy drink. Or is it just a placebo? ^yellow;Type: Robot^reset;"
+	}
+]

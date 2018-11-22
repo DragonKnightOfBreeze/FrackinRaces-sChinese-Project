@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Dirturchin innards stuffed into a coralcreep to make a dish that sounds terrible and tastes alright. ^green;Type: Herbivore^reset;",
+		"value": "Dirturchin innards stuffed into a coralcreep to make a dish that sounds terrible and tastes alright. ^green;Type: Herbivore^reset;"
+	}
+]

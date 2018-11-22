@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Delicious rolls of rice and seaweed. A Hylotl favourite. ^orange;Type: Cooked Meat^reset;",
+		"value": "Delicious rolls of rice and seaweed. A Hylotl favourite. ^orange;Type: Cooked Meat^reset;"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A simple snack formed of rice, held together by seaweed. ^green;Type: Herbivore^reset;",
+		"value": "A simple snack formed of rice, held together by seaweed. ^green;Type: Herbivore^reset;"
+	}
+]

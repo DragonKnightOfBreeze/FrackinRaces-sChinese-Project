@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"value": "Feathercrown, you have to pluck it before consuming. ^green;Type: Herbivore^reset;"
+	}
+]

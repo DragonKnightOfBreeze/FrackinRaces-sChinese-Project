@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A refreshing salsa made from tropical and ocean fruits. ^green;Type: Herbivore^reset;",
+		"value": "A refreshing salsa made from tropical and ocean fruits. ^green;Type: Herbivore^reset;"
+	}
+]

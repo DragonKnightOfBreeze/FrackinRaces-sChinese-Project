@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A simple yet substantial salad of eggshoot and feathercrown. ^green;Type: Herbivore^reset;",
+		"value": "A simple yet substantial salad of eggshoot and feathercrown. ^green;Type: Herbivore^reset;"
+	}
+]

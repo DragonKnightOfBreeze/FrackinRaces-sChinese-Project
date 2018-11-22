@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Commonly known as \"pearl jam\". Has a nice ring to it. ^green;Type: Herbivore^reset;",
+		"value": "Commonly known as \"pearl jam\". Has a nice ring to it. ^green;Type: Herbivore^reset;"
+	}
+]

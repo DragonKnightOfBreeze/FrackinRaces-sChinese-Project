@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A lot more sour than you might have expected. Surprise! ^green;Type: Herbivore^reset;",
+		"value": "A lot more sour than you might have expected. Surprise! ^green;Type: Herbivore^reset;"
+	}
+]

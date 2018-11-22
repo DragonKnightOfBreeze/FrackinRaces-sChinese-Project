@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Sweet and crunchy. If only there was a seedless variety. ^green;Type: Herbivore^reset;",
+		"value": "Sweet and crunchy. If only there was a seedless variety. ^green;Type: Herbivore^reset;"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A buttery ear of corn on the cob. ^green;Type: Herbivore^reset;",
+		"value": "A buttery ear of corn on the cob. ^green;Type: Herbivore^reset;"
+	}
+]

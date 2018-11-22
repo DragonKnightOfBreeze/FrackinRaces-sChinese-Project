@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "It's good if you can get past the metallic aftertaste! ^yellow;Type: Robot^reset;",
+		"value": "It's good if you can get past the metallic aftertaste! ^yellow;Type: Robot^reset;"
+	}
+]

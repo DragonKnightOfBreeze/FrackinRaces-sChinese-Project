@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A bowl of rather bland boiled pearlpeas. ^green;Type: Herbivore^reset;",
+		"value": "A bowl of rather bland boiled pearlpeas. ^green;Type: Herbivore^reset;"
+	}
+]

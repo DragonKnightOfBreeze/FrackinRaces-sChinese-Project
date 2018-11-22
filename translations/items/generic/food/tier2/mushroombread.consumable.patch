@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "This loaf of bread has mushrooms baked right into it. Yum! ^green;Type: Herbivore^reset;",
+		"value": "This loaf of bread has mushrooms baked right into it. Yum! ^green;Type: Herbivore^reset;"
+	}
+]

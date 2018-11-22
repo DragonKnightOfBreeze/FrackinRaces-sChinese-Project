@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Just like mama used to make! ^orange;Type: Cooked Meat^reset;",
+		"value": "Just like mama used to make! ^orange;Type: Cooked Meat^reset;"
+	}
+]

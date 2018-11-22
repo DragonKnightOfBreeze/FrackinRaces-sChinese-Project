@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Sweet, stewed apple under a blanket of golden crumble. ^green;Type: Herbivore^reset;",
+		"value": "Sweet, stewed apple under a blanket of golden crumble. ^green;Type: Herbivore^reset;"
+	}
+]

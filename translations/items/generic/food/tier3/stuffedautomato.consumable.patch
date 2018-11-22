@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Tastes like an actual stuffed tomato, if you can get through it without breaking your teeth! ^yellow;Type: Robot^reset;",
+		"value": "Tastes like an actual stuffed tomato, if you can get through it without breaking your teeth! ^yellow;Type: Robot^reset;"
+	}
+]

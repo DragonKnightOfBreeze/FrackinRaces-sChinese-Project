@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "All the nutritious value of an apple masked by globs of sweet, sweet sugar. ^green;Type: Herbivore^reset;",
+		"value": "All the nutritious value of an apple masked by globs of sweet, sweet sugar. ^green;Type: Herbivore^reset;"
+	}
+]

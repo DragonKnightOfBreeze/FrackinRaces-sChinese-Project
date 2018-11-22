@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Pancake. Bacon. Pancake. Bacon. Pancake. Butter. Eat. ^orange;Type: Cooked Meat^reset;",
+		"value": "Pancake. Bacon. Pancake. Bacon. Pancake. Butter. Eat. ^orange;Type: Cooked Meat^reset;"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Jellied coralcreep inside of a glazed pineapple, served warm. A fancy Hylotl treat! ^green;Type: Herbivore^reset;",
+		"value": "Jellied coralcreep inside of a glazed pineapple, served warm. A fancy Hylotl treat! ^green;Type: Herbivore^reset;"
+	}
+]

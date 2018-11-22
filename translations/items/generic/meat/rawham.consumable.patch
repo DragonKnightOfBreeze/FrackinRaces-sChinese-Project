@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"value": "Raw ham. It's probably best if I cook it first. ^red;Type: Raw Meat^reset;"
+	}
+]

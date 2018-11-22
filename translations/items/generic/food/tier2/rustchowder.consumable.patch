@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Jamed full of nutritious rust and iron. ^yellow;Type: Robot^reset;",
+		"value": "Jamed full of nutritious rust and iron. ^yellow;Type: Robot^reset;"
+	}
+]

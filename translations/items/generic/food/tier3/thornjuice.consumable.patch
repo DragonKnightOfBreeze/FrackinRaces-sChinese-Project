@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "More thorn than juice. ^green;Type: Herbivore^reset;",
+		"value": "More thorn than juice. ^green;Type: Herbivore^reset;"
+	}
+]

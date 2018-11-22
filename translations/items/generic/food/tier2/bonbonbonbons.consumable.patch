@@ -1,0 +1,9 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Eureka! The only possible way to improve on perfection is to multiply it. ^green;Type: Herbivore^reset;",
+		"value": "Eureka! The only possible way to improve on perfection is to multiply it. ^green;Type: Herbivore^reset;"
+	}
+
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A healthy mix of bananas and grapes. ^green;Type: Herbivore^reset;",
+		"value": "A healthy mix of bananas and grapes. ^green;Type: Herbivore^reset;"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Tasty fried fish in stick form. Where's the custard? ^orange;Type: Cooked Meat^reset;",
+		"value": "Tasty fried fish in stick form. Where's the custard? ^orange;Type: Cooked Meat^reset;"
+	}
+]

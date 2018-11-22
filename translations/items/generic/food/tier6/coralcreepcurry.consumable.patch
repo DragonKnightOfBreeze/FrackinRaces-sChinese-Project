@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A mildly spicy curry made with the coralcreep fruit. ^green;Type: Herbivore^reset;",
+		"value": "A mildly spicy curry made with the coralcreep fruit. ^green;Type: Herbivore^reset;"
+	}
+]

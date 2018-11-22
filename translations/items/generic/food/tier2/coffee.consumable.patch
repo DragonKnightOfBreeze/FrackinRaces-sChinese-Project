@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Freshly brewed coffee. ^green;Type: Any^reset;",
+		"value": "Freshly brewed coffee. ^green;Type: Any^reset;"
+	}
+]

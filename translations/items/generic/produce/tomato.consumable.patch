@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"value": "A ripe, juicy tomato! ^green;Type: Herbivore^reset;"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"op": "replace",
+		"path": "/shotdescription",
+		"origin": "Saturnian Flight",
+		"value": "Saturnian飞翔"
+	},
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Moth flight. Best in darkness. ^green;[F]^reset;.",
+		"value": "飞蛾。最好在黑暗中。^green;[F]^reset;。"
+	}
+]

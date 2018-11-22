@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Crispy on the outside, hot as molten lava on the inside. ^green;Type: Herbivore^reset;"
-  }
-]

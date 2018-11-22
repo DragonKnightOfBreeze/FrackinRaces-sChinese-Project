@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A refreshing salsa made from desert fruits. The taste is amazing. ^yellow;Type: Robot^reset;",
+		"value": "A refreshing salsa made from desert fruits. The taste is amazing. ^yellow;Type: Robot^reset;"
+	}
+]

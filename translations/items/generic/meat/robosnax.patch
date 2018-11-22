@@ -1,0 +1,13 @@
+[
+	{
+		"op": "replace",
+		"path": "/shortdescription",
+		"value": "机械快餐",
+		"origin": "Robo-Snax"
+	},{
+		"op": "replace",
+		"path": "/description",
+		"value": "特制的机械食物。^yellow;种类：机械^reset;",
+		"origin": "Specially formulated Robo-Food. ^yellow;Type: Robot^reset;"
+	}
+]

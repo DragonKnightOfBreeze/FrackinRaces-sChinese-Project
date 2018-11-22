@@ -1,8 +1,0 @@
-[
-  
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Pop it like it's hot! ^green;Type: Herbivore^reset;"
-  }
-]

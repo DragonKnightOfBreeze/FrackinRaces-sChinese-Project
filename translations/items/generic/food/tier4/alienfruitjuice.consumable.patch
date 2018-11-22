@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A pleasantly sweet juice made from an alien fruit. ^green;Type: Herbivore^reset;",
+		"value": "A pleasantly sweet juice made from an alien fruit. ^green;Type: Herbivore^reset;"
+	}
+]

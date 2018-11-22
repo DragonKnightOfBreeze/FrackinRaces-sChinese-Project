@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A big bowl of mixed veggies. Nutritious! ^green;Type: Herbivore^reset;",
+		"value": "A big bowl of mixed veggies. Nutritious! ^green;Type: Herbivore^reset;"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A variation on pizzap, it's got more of a coppery tang to it. ^yellow;Type: Robot^reset;",
+		"value": "A variation on pizzap, it's got more of a coppery tang to it. ^yellow;Type: Robot^reset;"
+	}
+]

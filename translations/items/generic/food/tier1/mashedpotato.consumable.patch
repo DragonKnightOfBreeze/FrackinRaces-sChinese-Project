@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Smashing potatoes is scientifically proven to make them 500% tastier. ^green;Type: Herbivore^reset;",
+		"value": "Smashing potatoes is scientifically proven to make them 500% tastier. ^green;Type: Herbivore^reset;"
+	}
+]

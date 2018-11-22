@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Sweet and spicy ribs. Delicious! ^orange;Type: Cooked Meat^reset;",
+		"value": "Sweet and spicy ribs. Delicious! ^orange;Type: Cooked Meat^reset;"
+	}
+]

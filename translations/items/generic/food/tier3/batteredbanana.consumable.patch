@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Your standard banana, battered and fried in a rich dough. ^green;Type: Herbivore^reset;",
+		"value": "Your standard banana, battered and fried in a rich dough. ^green;Type: Herbivore^reset;"
+	}
+]

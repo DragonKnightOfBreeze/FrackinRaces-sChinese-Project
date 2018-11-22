@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "It's an egg! ^orange;Type: Cooked Meat^reset;",
+		"value": "It's an egg! ^orange;Type: Cooked Meat^reset;"
+	}
+]

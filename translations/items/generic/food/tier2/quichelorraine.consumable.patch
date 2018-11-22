@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A classic bacon quiche. Perfect for picnics! ^orange;Type: Cooked Meat^reset;",
+		"value": "A classic bacon quiche. Perfect for picnics! ^orange;Type: Cooked Meat^reset;"
+	}
+]

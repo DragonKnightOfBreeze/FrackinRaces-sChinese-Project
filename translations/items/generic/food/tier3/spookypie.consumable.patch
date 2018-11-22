@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Just spooky enough. ^green;Type: Herbivore^reset;",
+		"value": "Just spooky enough. ^green;Type: Herbivore^reset;"
+	}
+]

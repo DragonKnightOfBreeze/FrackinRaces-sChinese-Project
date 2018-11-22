@@ -1,0 +1,13 @@
+[
+	{
+		"op": "replace",
+		"path": "/shortdescription",
+		"origin": "Cooked Pest",
+		"value": "煮熟的老鼠"
+	},{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Well-cooked rodent meat. Mm.",
+		"value": "煮熟的啮齿动物的肉。好味。"
+	}
+]

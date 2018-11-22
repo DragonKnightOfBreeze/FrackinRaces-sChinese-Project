@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/label",
+		"origin": "Weak : Ice",
+		"value": "虚弱：寒气"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A traditional Earthling pastry meant for snacking on when underground. ^orange;Type: Cooked Meat^reset;",
+		"value": "A traditional Earthling pastry meant for snacking on when underground. ^orange;Type: Cooked Meat^reset;"
+	}
+]

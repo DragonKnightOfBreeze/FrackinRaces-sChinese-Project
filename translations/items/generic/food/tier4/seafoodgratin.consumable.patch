@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Fish baked with fish-like fruit. A fishy dish! ^orange;Type: Cooked Meat^reset;",
+		"value": "Fish baked with fish-like fruit. A fishy dish! ^orange;Type: Cooked Meat^reset;"
+	}
+]

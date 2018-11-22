@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/label",
+		"origin": "Fishman Rage",
+		"value": "鱼人之怒"
+	}
+]

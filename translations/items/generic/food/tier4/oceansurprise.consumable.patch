@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A Hylotl dish, overloaded with ingredients of questionable oceanic origin. ^orange;Type: Cooked Meat^reset;",
+		"value": "A Hylotl dish, overloaded with ingredients of questionable oceanic origin. ^orange;Type: Cooked Meat^reset;"
+	}
+]

@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"value": "Warty but not very weedy. ^green;Type: Herbivore^reset;"
+	}
+]

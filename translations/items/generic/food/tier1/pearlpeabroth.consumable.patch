@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A slightly more substantial meal than just boiling pearlpeas. ^green;Type: Herbivore^reset;",
+		"value": "A slightly more substantial meal than just boiling pearlpeas. ^green;Type: Herbivore^reset;"
+	}
+]

@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"value": "Eggshoot, soft-boiled in texture. Break it open to find a yolk. ^green;Type: Herbivore^reset;"
+	}
+]

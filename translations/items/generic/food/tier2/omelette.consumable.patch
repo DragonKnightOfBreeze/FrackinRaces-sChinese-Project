@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Easily prepared and delicious, you can't go wrong with an omelette! ^orange;Type: Cooked Meat^reset;",
+		"value": "Easily prepared and delicious, you can't go wrong with an omelette! ^orange;Type: Cooked Meat^reset;"
+	}
+]

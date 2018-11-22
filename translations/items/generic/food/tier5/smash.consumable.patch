@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A famous Glitch chef tried to imitate mashed potatoes. He succeeded. Kinda. ^yellow;Type: Robot^reset;",
+		"value": "A famous Glitch chef tried to imitate mashed potatoes. He succeeded. Kinda. ^yellow;Type: Robot^reset;"
+	}
+]

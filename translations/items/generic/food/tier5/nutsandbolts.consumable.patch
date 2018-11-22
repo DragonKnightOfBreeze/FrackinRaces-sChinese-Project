@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Assorted copper flavoured morsels. ^yellow;Type: Robot^reset;",
+		"value": "Assorted copper flavoured morsels. ^yellow;Type: Robot^reset;"
+	}
+]

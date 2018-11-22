@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A banana roasted over a campfire, with gratuitous amounts of chocolate. ^green;Type: Herbivore^reset;",
+		"value": "A banana roasted over a campfire, with gratuitous amounts of chocolate. ^green;Type: Herbivore^reset;"
+	}
+]

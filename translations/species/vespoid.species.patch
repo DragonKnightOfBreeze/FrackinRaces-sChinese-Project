@@ -1,0 +1,12 @@
+[{
+	"op": "replace", 
+	"path": "/charCreationTooltip/description" , 
+	"value": "Insectoid bee-people.
+	
+	^red;50% Weakness: Fire, %30 Weakness: Ice^reset;
+	^green;+15% Health, 50% Poison Resist^reset;
+	^green;-20% Fall Damage, +10% Speed^reset;
+	^green;Increased air agility, poor movement in liquid^reset;
+	Sniper Rifles and Machine Pistols: ^green;+15% Damage^reset;
+	Immune: ^green;Bee Stings, Honey^reset;"
+}]

@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Freshly brewed coffee. ^green;Type: Any^reset;"
-  }
-]

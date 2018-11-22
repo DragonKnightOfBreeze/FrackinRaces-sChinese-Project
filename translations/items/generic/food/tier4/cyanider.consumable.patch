@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "A mulled drink made of oculemon and pussplum. Delicious! ^green;Type: Herbivore^reset;",
+		"value": "A mulled drink made of oculemon and pussplum. Delicious! ^green;Type: Herbivore^reset;"
+	}
+]

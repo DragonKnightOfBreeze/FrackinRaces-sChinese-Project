@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Perfectly ripe pearlpeas work best for this hearty rice dish. ^green;Type: Herbivore^reset;",
+		"value": "Perfectly ripe pearlpeas work best for this hearty rice dish. ^green;Type: Herbivore^reset;"
+	}
+]

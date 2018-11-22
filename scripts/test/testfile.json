@@ -1,0 +1,23 @@
+[{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/gui/title/value"
+		]
+	},
+	"Texts": {
+		"Chs": "高级属性",
+		"Eng": "Advanced stats"
+	}
+},{
+	"DeniedAlternatives": [],
+	"Files": {
+		"interface/statWindow/extraStatsWindow.config": [
+			"/gui/title/value"
+		]
+	},
+	"Texts": {
+		"Chs": "高级属性",
+		"Eng": "Advanced stats"
+	}
+}]

@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Pretty much the only good use for pussplum jam. ^green;Type: Herbivore^reset;",
+		"value": "Pretty much the only good use for pussplum jam. ^green;Type: Herbivore^reset;"
+	}
+]

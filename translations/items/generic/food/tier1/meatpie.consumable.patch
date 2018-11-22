@@ -1,0 +1,8 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"origin": "Minced meat in a rich gravy, topped with creamy mash. ^orange;Type: Cooked Meat^reset;",
+		"value": "Minced meat in a rich gravy, topped with creamy mash. ^orange;Type: Cooked Meat^reset;"
+	}
+]

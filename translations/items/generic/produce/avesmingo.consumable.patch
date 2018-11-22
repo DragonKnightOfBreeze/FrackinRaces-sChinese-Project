@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/description",
+		"value": "Avesmingo, the plant of a 100 different flavours. ^green;Type: Herbivore^reset;"
+	}
+]
