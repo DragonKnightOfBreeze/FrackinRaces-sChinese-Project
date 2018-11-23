@@ -3,6 +3,6 @@
 		"op": "replace",
 		"path": "/foodtype/text",
 		"origin": "^red;TOXINS DETECTED ^reset;: While I am sure that *looked* delicious, I regret to inform you that this type of food ^orange;cannot be digested by your physiology^reset;. Avoid foods like this in the future.",
-		"value": "^red;TOXINS DETECTED ^reset;: While I am sure that *looked* delicious, I regret to inform you that this type of food ^orange;cannot be digested by your physiology^reset;. Avoid foods like this in the future."
+		"value": "^red;检测到有害物质^reset;：尽管我确定这*看起来*非常美味，但是有一件事必须告诉你：你^orange;生理上无法消化^reset;这种食物。以后不要吃像这样的食物。."
 	}
 ]

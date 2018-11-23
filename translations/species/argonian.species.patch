@@ -1,17 +1,17 @@
 [{
 	"op": "replace", 
 	"path": "/charCreationTooltip/description" , 
-	"value": "Sturdy reptilian people. They are resilient and agile, with the ability to thrive both on land and underwater. Amphibious life has increased their natural energy stores, but they are less hardy than land-based reptiles.
+	"value": "强壮的爬虫类人。它们具有弹性，十分灵活，在陆地和水下都能茁壮成长。两栖的生活增加了它们的能量储备，但抗寒性弱于陆地上的爬行动物。
 	
-	^red;HP -12%, Energy -5%, Weak: 40% Ice and 20% Electric^reset; 
-	^green;Low food consumption, +6% speed and +11% jump^reset;
-	^green;,+40% Poison, +10% Cosmic and +10% Radioactive Resist^reset;   
-	^green;Gain a hefty health bonus in bogs, swamps and strange seas^reset;
-	^green;Spears do +10% damage and +10% protection^reset; 
-	^green;Short Spears get +15% crit damage and +10% damage^reset;
-	^green;Crossbows and Harpoons get +5% crit and +15% damage^reset;
-	^green;+1100 oxygen, Swim Boost^reset;
-	^green;Immune: Poison^reset;"
+	^red;生命值-12%，能量-5%，虚弱：40%寒气和20%电系^reset; 
+	^green;食物摄入量低，+6%移动速度，+11%跳跃力^reset;
+	^green;,+40%毒素抗性，+10%射线抗性，+10%放射抗性^reset;   
+	^green;在沼泽和奇特的海生态中获得高额的额外生命值^reset;
+	^green;矛：+10%伤害，+10%防御^reset; 
+	^green;短矛：+15%暴击伤害，+10%伤害^reset;
+	^green;弩/鱼叉：+5%暴击几率，+15%伤害^reset;
+	^green;+1100呼吸时限，游泳速度增加^reset;
+	^green;免疫：毒^reset;"
 }]
 
 
