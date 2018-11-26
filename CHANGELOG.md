@@ -1,3 +1,7 @@
+# v1.2 
+
+* 正式上传到workshop
+
 # v0.3
 
 * 翻译除了species之外的绝大部分文本，翻译部分species
