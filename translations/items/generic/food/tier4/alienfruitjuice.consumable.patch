@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A pleasantly sweet juice made from an alien fruit. ^green;Type: Herbivore^reset;",
-		"value": "A pleasantly sweet juice made from an alien fruit. ^green;Type: Herbivore^reset;"
+		//"origin": "A pleasantly sweet juice made from an alien fruit. ^green;Type: Herbivore^reset;",
+		"value": "一杯用外星水果制成的甜滋滋的果汁。\n^green;类型：素食^reset;"
 	}
 ]

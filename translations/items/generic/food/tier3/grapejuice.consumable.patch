@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A sweet juice made of grapes. ^green;Type: Herbivore^reset;",
-		"value": "A sweet juice made of grapes. ^green;Type: Herbivore^reset;"
+		//"origin": "A sweet juice made of grapes. ^green;Type: Herbivore^reset;",
+		"value": "一杯甜甜的葡萄汁。\n^green;类型：素食^reset;"
 	}
 ]

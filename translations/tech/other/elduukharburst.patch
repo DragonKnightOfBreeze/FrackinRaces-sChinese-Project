@@ -2,13 +2,13 @@
 	{
 		"op": "replace",
 		"path": "/shotdescription",
-		"origin": "Elduukhar Fire",
+		//"origin": "Elduukhar Fire",
 		"value": "Elduukhar火焰"
 	},
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Breathe Fire! Use ^green;[F]^reset;.",
+		//"origin": "Breathe Fire! Use ^green;[F]^reset;.",
 		"value": "火焰吐息！^green;[F]^reset;使用。"
 	}
 ]

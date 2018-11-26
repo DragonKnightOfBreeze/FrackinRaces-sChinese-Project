@@ -2,13 +2,13 @@
 	{
 		"op": "replace",
 		"path": "/shotdescription",
-		"origin": "Thelusian Warrior",
+		//"origin": "Thelusian Warrior",
 		"value": "Thelusian战士"
 	},
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Push [Up],[Down] or [Jump] for combat stances. ^green;[F]^reset;",
+		//"origin": "Push [Up],[Down] or [Jump] for combat stances. ^green;[F]^reset;",
 		"value": "按[上键]，[下键]或[跳跃键]切换战斗姿态。^green;[F]^reset;"
 	}
 ]

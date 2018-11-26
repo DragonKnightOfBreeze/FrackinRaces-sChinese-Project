@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "Feathercrown, you have to pluck it before consuming. ^green;Type: Herbivore^reset;"
+		"value": "羽冠花，你必须在还没自行掉落之前采摘。\n^green;类型：素食^reset;"
 	}
 ]

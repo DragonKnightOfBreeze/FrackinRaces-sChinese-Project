@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Sweet, stewed apple under a blanket of golden crumble. ^green;Type: Herbivore^reset;",
-		"value": "Sweet, stewed apple under a blanket of golden crumble. ^green;Type: Herbivore^reset;"
+		//"origin": "Sweet, stewed apple under a blanket of golden crumble. ^green;Type: Herbivore^reset;",
+		"value": "一张金色的酥皮下是甜甜的炖苹果。\n^green;类型：素食^reset;"
 	}
 ]

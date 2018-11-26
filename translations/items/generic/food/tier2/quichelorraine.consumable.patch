@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A classic bacon quiche. Perfect for picnics! ^orange;Type: Cooked Meat^reset;",
-		"value": "A classic bacon quiche. Perfect for picnics! ^orange;Type: Cooked Meat^reset;"
+		//"origin": "A classic bacon quiche. Perfect for picnics! ^orange;Type: Cooked Meat^reset;",
+		"value": "一个经典的熏肉派。非常适合于野餐！\n^orange;类型：熟肉食^reset;"
 	}
 ]

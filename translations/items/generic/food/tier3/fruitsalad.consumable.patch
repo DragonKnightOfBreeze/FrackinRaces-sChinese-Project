@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Various fruits all conveniently mixed together. ^green;Type: Herbivore^reset;",
-		"value": "Various fruits all conveniently mixed together. ^green;Type: Herbivore^reset;"
+		//"origin": "Various fruits all conveniently mixed together. ^green;Type: Herbivore^reset;",
+		"value": "各种水果随意地混合在一起。\n^green;类型：素食^reset;"
 	}
 ]

@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "More thorn than juice. ^green;Type: Herbivore^reset;",
-		"value": "More thorn than juice. ^green;Type: Herbivore^reset;"
+		//"origin": "More thorn than juice. ^green;Type: Herbivore^reset;",
+		"value": "刺还多过果汁。\n^green;类型：素食^reset;"
 	}
 ]

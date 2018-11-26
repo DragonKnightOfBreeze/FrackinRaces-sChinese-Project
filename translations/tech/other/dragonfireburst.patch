@@ -2,13 +2,13 @@
 	{
 		"op": "replace",
 		"path": "/shotdescription",
-		"origin": "Dragonfire",
+		//"origin": "Dragonfire",
 		"value": "龙息"
 	},
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Breathe Fire! Use ^green;[F]^reset;.",
+		//"origin": "Breathe Fire! Use ^green;[F]^reset;.",
 		"value": "火焰吐息！^green;[F]^reset;使用。"
 	}
 ]

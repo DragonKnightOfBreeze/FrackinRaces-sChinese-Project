@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A refreshing salsa made from desert fruits. The taste is amazing. ^yellow;Type: Robot^reset;",
-		"value": "A refreshing salsa made from desert fruits. The taste is amazing. ^yellow;Type: Robot^reset;"
+		//"origin": "A refreshing salsa made from desert fruits. The taste is amazing. ^yellow;Type: Robot^reset;",
+		"value": "沙漠水果制成的爽口的辣调味汁。\n^yellow;类型：机器人食物^reset;"
 	}
 ]

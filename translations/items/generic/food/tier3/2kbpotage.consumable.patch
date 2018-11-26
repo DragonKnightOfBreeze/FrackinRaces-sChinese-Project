@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "The most basic of Glitch cuisine. ^yellow;Type: Robot^reset;",
-		"value": "The most basic of Glitch cuisine. ^yellow;Type: Robot^reset;"
+		//"origin": "The most basic of Glitch cuisine. ^yellow;Type: Robot^reset;",
+		"value": "一道最基础的电子人菜肴。\n^yellow;类型：机器人食物^reset;"
 	}
 ]

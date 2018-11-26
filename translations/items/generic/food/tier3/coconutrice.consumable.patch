@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "You can't see the coconut, but it's there! The taste is amazing. ^green;Type: Herbivore^reset;",
-		"value": "You can't see the coconut, but it's there! The taste is amazing. ^green;Type: Herbivore^reset;"
+		//"origin": "You can't see the coconut, but it's there! The taste is amazing. ^green;Type: Herbivore^reset;",
+		"value": "你看不到椰子，但它就在那！\n^green;类型：素食^reset;"
 	}
 ]

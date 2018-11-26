@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Boneboo roasted with chillies makes for a crunchy, spicy Floran treat. ^orange;Type: Cooked Meat^reset;",
-		"value": "Boneboo roasted with chillies makes for a crunchy, spicy Floran treat. ^orange;Type: Cooked Meat^reset;"
+		//"origin": "Boneboo roasted with chillies makes for a crunchy, spicy Floran treat. ^orange;Type: Cooked Meat^reset;",
+		"value": "辣椒烤骨竹，是一道爽脆的、辛辣的叶族人菜肴。\n^orange;类型：熟肉食^reset;"
 	}
 ]

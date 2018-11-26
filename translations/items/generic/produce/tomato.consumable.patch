@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "A ripe, juicy tomato! ^green;Type: Herbivore^reset;"
+		"value": "一个成熟的，多汁的番茄！\n^green;类型：素食^reset;"
 	}
 ]

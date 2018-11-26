@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Jellied coralcreep inside of a glazed pineapple, served warm. A fancy Hylotl treat! ^green;Type: Herbivore^reset;",
-		"value": "Jellied coralcreep inside of a glazed pineapple, served warm. A fancy Hylotl treat! ^green;Type: Herbivore^reset;"
+		//"origin": "Jellied coralcreep inside of a glazed pineapple, served warm. A fancy Hylotl treat! ^green;Type: Herbivore^reset;",
+		"value": "在光滑的菠萝中塞入胶状的珊瑚果，热食。高档的鲛人菜肴！\n^green;类型：素食^reset;"
 	}
 ]

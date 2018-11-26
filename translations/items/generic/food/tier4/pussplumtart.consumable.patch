@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Pretty much the only good use for pussplum jam. ^green;Type: Herbivore^reset;",
-		"value": "Pretty much the only good use for pussplum jam. ^green;Type: Herbivore^reset;"
+		//"origin": "Pretty much the only good use for pussplum jam. ^green;Type: Herbivore^reset;",
+		"value": "充分利用了圣女果果酱。\n^green;类型：素食^reset;"
 	}
 ]

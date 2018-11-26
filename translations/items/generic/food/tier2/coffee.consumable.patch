@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Freshly brewed coffee. ^green;Type: Any^reset;",
-		"value": "Freshly brewed coffee. ^green;Type: Any^reset;"
+		//"origin": "Freshly brewed coffee. ^green;Type: Any^reset;",
+		"value": "新鲜煮制的咖啡。^green;类型：任意^reset;"
 	}
 ]

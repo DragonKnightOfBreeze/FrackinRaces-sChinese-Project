@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A simple yet substantial salad of eggshoot and feathercrown. ^green;Type: Herbivore^reset;",
-		"value": "A simple yet substantial salad of eggshoot and feathercrown. ^green;Type: Herbivore^reset;"
+		//"origin": "A simple yet substantial salad of eggshoot and feathercrown. ^green;Type: Herbivore^reset;",
+		"value": "一份简单又大份量的射蛋与羽冠花沙拉。\n^green;类型：素食^reset;"
 	}
 ]

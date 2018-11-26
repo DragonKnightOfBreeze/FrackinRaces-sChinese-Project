@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Pop it like it's hot! ^green;Type: Herbivore^reset;",
-		"value": "Pop it like it's hot! ^green;Type: Herbivore^reset;"
+		//"origin": "Pop it like it's hot! ^green;Type: Herbivore^reset;",
+		"value": "像热浪一般膨胀爆开！\n^green;类型：素食^reset;"
 	}
 ]

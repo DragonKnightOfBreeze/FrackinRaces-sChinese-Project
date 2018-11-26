@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/label",
-		"origin": "Invisible",
+		//"origin": "Invisible",
 		"value": "隐形"
 	}
 ]

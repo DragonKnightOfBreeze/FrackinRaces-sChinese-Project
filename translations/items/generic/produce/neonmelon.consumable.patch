@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "A tangy jam made from neonmelons. ^green;Type: Herbivore^reset;"
+		"value": "一块泡泡糖口味的霓虹瓜。\n^green;类型：素食^reset;"
 	}
 ]

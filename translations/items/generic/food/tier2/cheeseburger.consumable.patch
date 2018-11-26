@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A juicy hamburger, topped with cheese. ^orange;Type: Cooked Meat^reset;",
-		"value": "A juicy hamburger, topped with cheese. ^orange;Type: Cooked Meat^reset;"
+		//"origin": "A juicy hamburger, topped with cheese. ^orange;Type: Cooked Meat^reset;",
+		"value": "一个夹着芝士的多汁的汉堡。\n^orange;类型：熟肉食^reset;"
 	}
 ]

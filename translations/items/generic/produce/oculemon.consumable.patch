@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "Sour but so worth it. ^green;Type: Carnivore^reset;"
+		"value": "酸，但是是值得的。^green;类型：肉食^reset;"
 	}
 ]

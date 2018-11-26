@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/label",
-		"origin": "Tasty Meat - Carnivores won't get sick.",
+		//"origin": "Tasty Meat - Carnivores won't get sick.",
 		"value": "美味的肉 - 食肉种族不会生病。"
 	}
 ]

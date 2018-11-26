@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "A fillet of raw fish...slimy. Type: Raw Meat ^red;Type: Raw Meat^reset;"
+		"value": "一片生鱼片…黏糊糊的。\n^red;类型：生肉食^reset;"
 	}
 ]

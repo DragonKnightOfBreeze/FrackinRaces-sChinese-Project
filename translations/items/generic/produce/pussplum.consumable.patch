@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "Pussplum, some claim it is delicious! ^green;Type: Herbivore^reset;"
+		"value": "圣女果，有人称它是美味的！\n^green;类型：素食^reset;"
 	}
 ]

@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Pearlpeas wrapped neatly in a wartweed bundle. ^green;Type: Herbivore^reset;",
-		"value": "Pearlpeas wrapped neatly in a wartweed bundle. ^green;Type: Herbivore^reset;"
+		//"origin": "Pearlpeas wrapped neatly in a wartweed bundle. ^green;Type: Herbivore^reset;",
+		"value": "珍珠豆被瓦特果包裹在当中。\n^green;类型：素食^reset;"
 	}
 ]

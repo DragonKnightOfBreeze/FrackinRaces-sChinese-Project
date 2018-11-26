@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A bowl of rather bland boiled pearlpeas. ^green;Type: Herbivore^reset;",
-		"value": "A bowl of rather bland boiled pearlpeas. ^green;Type: Herbivore^reset;"
+		//"origin": "A bowl of rather bland boiled pearlpeas. ^green;Type: Herbivore^reset;",
+		"value": "一碗清淡的煮珍珠豆。\n^green;类型：素食^reset;"
 	}
 ]

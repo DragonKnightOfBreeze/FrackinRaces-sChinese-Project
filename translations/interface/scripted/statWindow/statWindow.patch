@@ -2,277 +2,277 @@
 	{
 		"op": "replace",
 		"path": "/gui/windowtitle/title",
-		"origin": " Character Status",
+		//"origin": " Character Status",
 		"value": "角色属性"
 	},
 	{
 		"op": "replace",
 		"path": "/gui/windowtitle/subtitle",
-		"origin": " Information about the character",
+		//"origin": " Information about the character",
 		"value": "角色信息"
 	},
 	{
 		"op": "replace",
 		"path": "/gui/immunitiesLabel/value",
-		"origin": "^blue;Immunities",
+		//"origin": "^blue;Immunities",
 		"value": "^blue;免疫"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/liquidnitrogenImmunity/name",
-		"origin": "^#4BF3FD;Liquid Nitrogen",
+		//"origin": "^#4BF3FD;Liquid Nitrogen",
 		"value": "^#4BF3FD;液氮"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/nitrogenfreezeImmunity/name",
-		"origin": "^#4BF3FD;Nitrogen Freeze",
+		//"origin": "^#4BF3FD;Nitrogen Freeze",
 		"value": "^#4BF3FD;液氮冻结"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/ffextremecoldImmunity/name",
-		"origin": "^#4BF3FD;Cold II",
+		//"origin": "^#4BF3FD;Cold II",
 		"value": "^#4BF3FD;寒冷 II"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/biomecoldImmunity/name",
-		"origin": "^#4BF3FD;Cold I",
+		//"origin": "^#4BF3FD;Cold I",
 		"value": "^#4BF3FD;寒冷 I"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/quicksandImmunity/name",
-		"origin": "^yellow;Quick Sand",
+		//"origin": "^yellow;Quick Sand",
 		"value": "^yellow;流沙"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/snowslowImmunity/name",
-		"origin": "^#4BF3FD;Snow Slow",
+		//"origin": "^#4BF3FD;Snow Slow",
 		"value": "^#4BF3FD;雪地减速"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/slushslowImmunity/name",
-		"origin": "^#4BF3FD;Slush Slow",
+		//"origin": "^#4BF3FD;Slush Slow",
 		"value": "^#4BF3FD;雪泥减速"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/iceslipImmunity/name",
-		"origin": "^#4BF3FD;Ice Slipping",
+		//"origin": "^#4BF3FD;Ice Slipping",
 		"value": "^#4BF3FD;冰面打滑"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/fumudslowImmunity/name",
-		"origin": "^brown;Mud Slow",
+		//"origin": "^brown;Mud Slow",
 		"value": "^brown;泥地减速"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/fujungleslowImmunity/name",
-		"origin": "^green;Jungle Slow",
+		//"origin": "^green;Jungle Slow",
 		"value": "^green;丛林减速"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/slimefrictionImmunity/name",
-		"origin": "^#61D13F;Slime Bounce",
+		//"origin": "^#61D13F;Slime Bounce",
 		"value": "^#61D13F;黏液反弹"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/slimestickImmunity/name",
-		"origin": "^#61D13F;Sticky Slime",
+		//"origin": "^#61D13F;Sticky Slime",
 		"value": "^#61D13F;粘泥"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/slimeImmunity/name",
-		"origin": "^#61D13F;Slime",
+		//"origin": "^#61D13F;Slime",
 		"value": "^#61D13F;黏液"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/waterbreathProtection/name",
-		"origin": "^blue;Drowning",
+		//"origin": "^blue;Drowning",
 		"value": "^blue;溺水"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/biooozeImmunity/name",
-		"origin": "^#78f04f;Bio-Ooze",
+		//"origin": "^#78f04f;Bio-Ooze",
 		"value": "^#78f04f;生物软泥"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/pusImmunity/name",
-		"origin": "^yellow;Pus",
+		//"origin": "^yellow;Pus",
 		"value": "^yellow;脓液"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/gravrainImmunity/name",
-		"origin": "^gray;Gravity Rain",
+		//"origin": "^gray;Gravity Rain",
 		"value": "^gray;重力雨"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/blacktarImmunity/name",
-		"origin": "^#5B6177;Black Tar",
+		//"origin": "^#5B6177;Black Tar",
 		"value": "^#5B6177;焦油"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/tarImmunity/name",
-		"origin": "^#5B6177;Tar",
+		//"origin": "^#5B6177;Tar",
 		"value": "^#5B6177;焦油沥青"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/ffextremeheatImmunity/name",
-		"origin": "^#FDBE4B;Heat II",
+		//"origin": "^#FDBE4B;Heat II",
 		"value": "^#FDBE4B;炎热 II"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/biomeheatImmunity/name",
-		"origin": "^#FDBE4B;Heat I",
+		//"origin": "^#FDBE4B;Heat I",
 		"value": "^#FDBE4B;炎热 I"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/lavaImmunity/name",
-		"origin": "^#C83E14;Lava",
+		//"origin": "^#C83E14;Lava",
 		"value": "^#C83E14;岩浆"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/sandstormImmunity/name",
-		"origin": "^orange;Sandstorm",
+		//"origin": "^orange;Sandstorm",
 		"value": "^orange;沙暴"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/breathProtection/name",
-		"origin": "Breath",
+		//"origin": "Breath",
 		"value": "呼吸"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/gasImmunity/name",
-		"origin": "^#D1E160;Gas",
+		//"origin": "^#D1E160;Gas",
 		"value": "^#D1E160;气体"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/asteroidImmunity/name",
-		"origin": "^gray;Asteroids",
+		//"origin": "^gray;Asteroids",
 		"value": "^gray;小行星"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/sulphuricImmunity/name",
-		"origin": "^#ffd800;Sulphuric Acid",
+		//"origin": "^#ffd800;Sulphuric Acid",
 		"value": "^#ffd800;硫酸"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/protoImmunity/name",
-		"origin": "^#78f04f;Proto-Poison",
+		//"origin": "^#78f04f;Proto-Poison",
 		"value": "^#78f04f;原毒"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/extremepressureProtection/name",
-		"origin": "^gray;Extreme Pressure",
+		//"origin": "^gray;Extreme Pressure",
 		"value": "^gray;极端压强"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/pressureProtection/name",
-		"origin": "^gray;Pressure",
+		//"origin": "^gray;Pressure",
 		"value": "^gray;压强"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/shadowImmunity/name",
-		"origin": "^#3F2E4D;Shadow",
+		//"origin": "^#3F2E4D;Shadow",
 		"value": "^#3F2E4D;暗影"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/aetherImmunity/name",
-		"origin": "^#E33FFF;Aether",
+		//"origin": "^#E33FFF;Aether",
 		"value": "^#E33FFF;以太"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/insanityImmunity/name",
-		"origin": "^#EA907E;Insanity",
+		//"origin": "^#EA907E;Insanity",
 		"value": "^#EA907E;精神错乱"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/darknessImmunity/name",
-		"origin": "^#EA907E;Darkness",
+		//"origin": "^#EA907E;Darkness",
 		"value": "^#EA907E;黑暗"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/beestingImmunity/name",
-		"origin": "^#ffae00;Bee Stings",
+		//"origin": "^#ffae00;Bee Stings",
 		"value": "^#ffae00;蜂蜇"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/honeyslowImmunity/name",
-		"origin": "^#FFEC84;Honey Slow",
+		//"origin": "^#FFEC84;Honey Slow",
 		"value": "^#FFEC84;蜂蜜减速"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/electricStatusImmunity/name",
-		"origin": "^#FFE149;Electrification",
+		//"origin": "^#FFE149;Electrification",
 		"value": "^#FFE149;带电"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/poisonStatusImmunity/name",
-		"origin": "^#D1E160;Poisoning",
+		//"origin": "^#D1E160;Poisoning",
 		"value": "^#D1E160;中毒"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/fireStatusImmunity/name",
-		"origin": "^#FDBE4B;Burning",
+		//"origin": "^#FDBE4B;Burning",
 		"value": "^#FDBE4B;燃烧"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/iceStatusImmunity/name",
-		"origin": "^#4BF3FD;Freeze",
+		//"origin": "^#4BF3FD;Freeze",
 		"value": "^#4BF3FD;冻结"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/ffextremeradiationImmunity/name",
-		"origin": "^yellow;Radiation II",
+		//"origin": "^yellow;Radiation II",
 		"value": "^yellow;辐射 II"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/biomeradiationImmunity/name",
-		"origin": "^yellow;Radiation I",
+		//"origin": "^yellow;Radiation I",
 		"value": "^yellow;辐射 I"
 	},
 	{
 		"op": "replace",
 		"path": "/statuses/radiationburnImmunity/name",
-		"origin": "^yellow;Radiation Burn",
+		//"origin": "^yellow;Radiation Burn",
 		"value": "^yellow;辐射烧伤"
 	}
 ]

@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "Pearlpeas! I'll need to bite down hard. ^green;Type: Herbivore^reset;"
+		"value": "珍珠豆！我要使劲地咬。\n^green;类型：素食^reset;"
 	}
 ]

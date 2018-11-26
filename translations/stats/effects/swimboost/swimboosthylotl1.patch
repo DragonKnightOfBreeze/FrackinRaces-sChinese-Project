@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/label",
-		"origin": "Hylotl",
+		//"origin": "Hylotl",
 		"value": "鲛人"
 	}
 ]

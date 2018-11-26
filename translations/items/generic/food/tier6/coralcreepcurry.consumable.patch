@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A mildly spicy curry made with the coralcreep fruit. ^green;Type: Herbivore^reset;",
-		"value": "A mildly spicy curry made with the coralcreep fruit. ^green;Type: Herbivore^reset;"
+		//"origin": "A mildly spicy curry made with the coralcreep fruit. ^green;Type: Herbivore^reset;",
+		"value": "一份用珊瑚果制作的微辣咖喱。\n^green;类型：素食^reset;"
 	}
 ]

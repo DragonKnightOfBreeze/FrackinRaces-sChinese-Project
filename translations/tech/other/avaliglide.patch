@@ -2,13 +2,13 @@
 	{
 		"op": "replace",
 		"path": "/shotdescription",
-		"origin": "Avali Glide",
+		//"origin": "Avali Glide",
 		"value": "滑翔(羽族)"
 	},
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Slowfall [Down], Glide [Up]. Activate with ^green;[F]^reset;",
+		//"origin": "Slowfall [Down], Glide [Up]. Activate with ^green;[F]^reset;",
 		"value": "缓慢降落^green[下键]^reset;，滑翔^green;[上键]^reset。^green;[F]^reset;激活"
 	}
 ]

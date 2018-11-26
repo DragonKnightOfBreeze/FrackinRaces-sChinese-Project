@@ -1,26 +1,13 @@
 {
-
-
   "author": "DragonKnightOfBreeze",
-
   "description": "Frackin' Races汉化Mod\n当前版本：v1.0",
-
-  "friendlyName": "Frackin' Races SChinese Mod",
-
+  "friendlyName": "FR SChinese Mod",
   "includes": [
-
 	"FrackinRaces"
-
   ],
-
   "link": "steam://url/CommunityFilePage/???",
-
-  "name": "Frackin' Races SChinese",
-
+  "name": "FR SChinese",
   "steamContentId": "???",
-
   "version": "1.0",  
-
   "priority": -9999
-
 }

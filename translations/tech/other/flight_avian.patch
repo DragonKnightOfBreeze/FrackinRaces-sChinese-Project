@@ -2,13 +2,13 @@
 	{
 		"op": "replace",
 		"path": "/shotdescription",
-		"origin": "Avian Slowfall",
+		//"origin": "Avian Slowfall",
 		"value": "缓慢降落(翼族)"
 	},
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Your race can glide...just a bit. Use ^green;[F]^reset;.",
+		//"origin": "Your race can glide...just a bit. Use ^green;[F]^reset;.",
 		"value": "你的种族可以滑翔......一点点。^green;[F]^reset;使用。"
 	}
 ]

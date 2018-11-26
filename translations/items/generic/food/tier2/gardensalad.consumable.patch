@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A big bowl of mixed veggies. Nutritious! ^green;Type: Herbivore^reset;",
-		"value": "A big bowl of mixed veggies. Nutritious! ^green;Type: Herbivore^reset;"
+		//"origin": "A big bowl of mixed veggies. Nutritious! ^green;Type: Herbivore^reset;",
+		"value": "一大碗混合蔬菜。有营养！\n^green;类型：素食^reset;"
 	}
 ]

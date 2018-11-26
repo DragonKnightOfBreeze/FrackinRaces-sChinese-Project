@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "Automatoes! Be sure to spit out the screws. ^yellow;Type: Robot^reset;"
+		"value": "硬番茄！一定要吐出螺钉。\n^yellow;类型：机器人食物^reset;"
 	}
 ]

@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/label",
-		"origin": "Weak : Fire",
+		//"origin": "Weak : Fire",
 		"value": "虚弱：火炎"
 	}
 ]

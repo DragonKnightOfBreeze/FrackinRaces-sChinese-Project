@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "A Hylotl dish, overloaded with ingredients of questionable oceanic origin. ^orange;Type: Cooked Meat^reset;",
-		"value": "A Hylotl dish, overloaded with ingredients of questionable oceanic origin. ^orange;Type: Cooked Meat^reset;"
+		//"origin": "A Hylotl dish, overloaded with ingredients of questionable oceanic origin. ^orange;Type: Cooked Meat^reset;",
+		"value": "一道鲛人菜，有大量可疑的海洋源性成份。\n^orange;类型：熟肉食^reset;"
 	}
 ]

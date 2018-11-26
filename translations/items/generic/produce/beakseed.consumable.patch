@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "Beakseed. Mmm crunchy. ^green;Type: Herbivore^reset;"
+		"value": "鸟喙果。嗯，脆脆的。\n^green;类型：素食^reset;"
 	}
 ]

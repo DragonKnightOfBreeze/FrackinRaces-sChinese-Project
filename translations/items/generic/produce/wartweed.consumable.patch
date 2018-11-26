@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "Warty but not very weedy. ^green;Type: Herbivore^reset;"
+		"value": "疣状但不是杂草。\n^green;类型：素食^reset;"
 	}
 ]

@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/label",
-		"origin": "Health Vampire - drain enemy health on hits during nighttime or in darkness.",
+		//"origin": "Health Vampire - drain enemy health on hits during nighttime or in darkness.",
 		"value": "吸血 - 在夜间或黑暗中可以通过攻击吸取敌人生命。"
 	}
 ]

@@ -2,8 +2,8 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Dense, heavy bread packed full of seeds. ^green;Type: Herbivore^reset;",
-		"value": "Dense, heavy bread packed full of seeds. ^green;Type: Herbivore^reset;"
+		//"origin": "Dense, heavy bread packed full of seeds. ^green;Type: Herbivore^reset;",
+		"value": "密实的、沉重的面包，里面和着的全是鸟喙果。\n^green;类型：素食^reset;"
 	}
 ]
 		

@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "So long as you watch out for the thorns, these are delicious. ^green;Type: Herbivore^reset;"
+		"value": "只要你小心那些刺，这些都是美味。\n^green;类型：素食^reset;"
 	}
 ]

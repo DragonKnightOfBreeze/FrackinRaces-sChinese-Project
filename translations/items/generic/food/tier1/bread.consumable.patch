@@ -1,8 +1,8 @@
 [
 	{
 		"op": "replace",
-		"op": "/description",
-		"origin": "It is bread. ^green;Type: Herbivore^reset;",
-		"value": "It is bread. ^green;Type: Herbivore^reset;"
+		"path": "/description",
+		//"origin": "It is bread. ^green;Type: Herbivore^reset;",
+		"value": "这是一片面包。\n^green;类型：素食^reset;"
 	}
 ]

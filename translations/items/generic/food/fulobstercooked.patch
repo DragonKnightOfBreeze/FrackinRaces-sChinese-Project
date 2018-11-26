@@ -2,12 +2,12 @@
 	{
 		"op": "replace",
 		"path": "/shortdescription",
-		"origin": "Cooked Lobster",
+		//"origin": "Cooked Lobster",
 		"value": "熟龙虾"
 	},{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Delicious aquatic horror.",
+		//"origin": "Delicious aquatic horror.",
 		"value": "美味的恐怖水产。"
 	}
 ]

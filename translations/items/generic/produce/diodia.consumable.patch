@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "Diodia, tastes like copper. ^yellow;Type: Robot^reset;"
+		"value": "双梅，尝起来像铜。\n^yellow;类型：机器人食物^reset;"
 	}
 ]

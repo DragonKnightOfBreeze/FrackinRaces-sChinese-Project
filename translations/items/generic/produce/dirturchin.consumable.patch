@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "Kind of squidgy and a bit tasteless. ^green;Type: Herbivore^reset;"
+		"value": "干巴巴的。没有什么味道。\n^green;类型：素食^reset;"
 	}
 ]

@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Alien fruit jam. Sticky. ^green;Type: Herbivore^reset;",
-		"value": "Alien fruit jam. Sticky. ^green;Type: Herbivore^reset;"
+		//"origin": "Alien fruit jam. Sticky. ^green;Type: Herbivore^reset;",
+		"value": "外星水果果酱。黏糊糊。\n^green;类型：素食^reset;"
 	}
 ]

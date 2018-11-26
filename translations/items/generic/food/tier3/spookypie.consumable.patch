@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"origin": "Just spooky enough. ^green;Type: Herbivore^reset;",
-		"value": "Just spooky enough. ^green;Type: Herbivore^reset;"
+		//"origin": "Just spooky enough. ^green;Type: Herbivore^reset;",
+		"value": "太怪异了。\n^green;类型：素食^reset;"
 	}
 ]

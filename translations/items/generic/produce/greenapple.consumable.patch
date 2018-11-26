@@ -2,6 +2,6 @@
 	{
 		"op": "replace",
 		"path": "/description",
-		"value": "A crunchy and nutritious apple. ^green;Type: Herbivore^reset;"
+		"value": "一个酸的绿苹果，可以用来烘烤或者拿来吃。\n^green;类型：素食^reset;"
 	}
 ]

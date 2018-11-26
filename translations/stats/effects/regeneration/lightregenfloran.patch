@@ -2,7 +2,7 @@
 	{
 		"op": "replace",
 		"path": "/label",
-		"origin": "Photosynthesis",
+		//"origin": "Photosynthesis",
 		"value": "光合作用"
 	}
 ]
