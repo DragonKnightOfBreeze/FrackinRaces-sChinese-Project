@@ -1,29 +1,29 @@
 [{
 	"op": "replace", 
 	"path": "/charCreationTooltip/description" , 
-	"value": "The Novakids are a mysterious race of 'interstellar gas-bag people'. They have few charted settlements and no documented history. 
+	"value": "星之子是一被戏称为“星际气袋人”的神秘种族。他们没有归属土地，也没有记载历史。
  
-	Diet: Omnivore 
+	食性：杂食性
 	
-	^orange;Perks^reset;: 
-	+^green;20%^reset; Energy, +^green;25%^reset; Knockback Resist, +^green;5%^reset; Speed
-	Resist: ^green;25%^reset; Fire, ^green;20%^reset; Ice, ^green;40%^reset; Radiation
-	Immune: Burning, Radiation Burn
+	^orange;天赋^reset;: 
+	+^green;20%^reset;能量，+^green;25%^reset;击退抗性，+^green;5%^reset;移动速度
+	抗性：^green;25%^reset;火炎抗性，^green;20%^reset;寒气抗性，^green;40%^reset;放射抗性
+	免疫：燃烧，辐射灼伤
 	
-	^orange;Environment^reset;: 
-	On ^green;Radioactive^reset; biomes gain ^green;15%^reset; Energy and Health
-	^green;Regenerate^reset; from sunlight when fed. Night regen ^red;consumes food^reset; and -^red;25%^reset; Energy 
+	^orange;环境^reset;: 
+	在^green;辐射^reset;生态中获得额外^green;15%^reset;的生命值和能量
+	饱食度满时，可以在阳光下^green;再生^reset;。夜间再生会^red;消耗饱食度^reset;，-^red;25%^reset;能量
 	
-	^orange;Weapons^reset;:	
-	Pistols gain increased firing speed in daylight
-	Pistol (dual): +^green;25%^reset; Knockback Resist, +^green;15%^reset; Energy
-	Sniper: +^green;5%^reset; Crit and +^green;20%^reset; Crit Damage
-	Shotgun: +^green;20%^reset; dmg, +^green;20%^reset; Crit Dmg
-	Whip: +^green;15%^reset; Damage and +^green;10%^reset; Speed
+	^orange;武器^reset;:	
+	手枪：夜间增加开火速度
+	双持手枪：+^green;25%^reset;击退抗性，+^green;15%^reset;能量
+	狙击步枪：+^green;5%^reset;暴击几率，+^green;20%^reset;暴击伤害
+	霰弹枪：+^green;20%^reset;伤害，+^green;20%^reset;暴击伤害
+	鞭：+^green;15%^reset;伤害，+^green;10%^reset;移动速度
 	
-	^red;Weaknesses^reset;: 
-	-^red;10%^reset; Health
-	Weak: -^red;15%^reset; Physical, -^red;20%^reset;Electric, -^red;40%^reset; Shadow" 
+	^red;弱点^reset;: 
+	-^red;10%^reset;生命值
+	虚弱：-^red;15%^reset;物理抗性，-^red;20%^reset;电系抗性。，-^red;40%^reset;暗影抗性" 
 }]
 
 
