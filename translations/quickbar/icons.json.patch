@@ -3,6 +3,6 @@
 		"op": "replace",
 		"path": "/normal/0/label",
 		//"origin": "Character Status",
-		"value": "角色状态"
+		"value": "角色属性"
 	}
 ]
