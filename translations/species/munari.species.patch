@@ -10,5 +10,5 @@
 	Fist: ^green;+3% Crit, +5% Speed^reset;
 	Spear: ^green;+2% Crit, +10% Damage^reset;
 	Shortspear: ^green;+2% Crit, +5% Physical Resistance^reset;
-	Immune: ^green;Mud, Breathing, Wet^reset;"
+	免疫：^green;Mud, Breathing, Wet^reset;"
 }]

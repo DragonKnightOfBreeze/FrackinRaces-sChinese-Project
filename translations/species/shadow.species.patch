@@ -3,24 +3,24 @@
 	"path": "/charCreationTooltip/description" , 
 	"value": "A mystery to the cosmos, the illusive Shadow people prefer to speak only to each other. This is simple, as other species cannot even hear their language.
 
-	Diet: Any 
+	食性：Any 
 	
-	^orange;Perks^reset;: 
+	^orange;天赋^reset;: 
 	^green;+15%^reset; Health, +^green;5%^reset; Energy, +^green;5%^reset; Protection
-	Resist: ^green;40%^reset; Shadow, ^green;40%^reset; Ice
-	Immune: Darkness/Shadow
+	抗性：^green;40%^reset; Shadow, ^green;40%^reset; Ice
+	免疫：Darkness/Shadow
 	Tech: Shadow Burst. Craft Racial Tech Enabler with [C].
 	
-	^orange;Environment^reset;: 
+	^orange;环境^reset;: 
 	^green;Dark^reset; biomes grant +^green;2^reset; Crit Chance, +^green;15%^reset; Energy
 	Glows in Dark
 	Darkness increases power and protection. Light reduces it.
 	
-	^orange;Weapons^reset;:
+	^orange;武器^reset;:
 	Staff/Wand: +^green;25%^reset; health
 	Magnorb: +^green;25%^reset; Protection
 	Dagger/Rapier: ^green;+6%^reset; Damage 
-	^red;Weaknesses^reset;: 
+	^red;弱点^reset;: 
 	Increased metabolism requires frequent feeding
 	^red;40%^reset; Fire, Cosmic, Poison" 
 }]

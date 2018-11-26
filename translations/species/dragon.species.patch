@@ -1,15 +1,15 @@
 [{
 	"op": "replace", 
 	"path": "/charCreationTooltip/description" , 
-	"value": "An unusually evolved carnivorous humanoid with reptilian aspects melded into their forms.
+	"value": "一种不同寻常的食肉类人形生物，具有爬行动物的特征。
 	
-	^red;Weak: 40% Poison, 40% Cold^reset;
-	^green;40% Fire, 20% Physical resistance^reset;
-	^green;Immune to Burning and Heat^reset;
-	^green;Hot biomes increase your health and speed by 15%^reset;
-	^red;Cold biomes reduce your health by 25% and your speed by 10%^reset;
-	^green;Exceptional aerial agility. 50% Fall Damage resist.^reset;
-	Hammer/Mace: ^green;+2% Crit^reset;
-	Wand/Staff: ^green;+12% Damage^reset;
-	Dagger: ^green;get +20% Crit Damage^reset;"
+	^red;虚弱：40%毒素，寒气抗性^reset;
+	^green;40%火炎抗性，20% 物理抗性^reset;
+	^green;免疫：燃烧，炎热^reset;
+	^green;在炎热生态中，获得额外15%的生命值和移动速度^reset;
+	^red;在寒冷生态中，减少25%的生命值，减少10%的移动速度^reset;
+	^green;非凡的空中灵活性。减少50%掉落伤害^reset;
+	锤/钉头锤：^green;+2%暴击几率^reset;
+	魔杖/法杖：^green;+12%伤害^reset;
+	匕首：^green;+20%暴击伤害^reset;"
 }]

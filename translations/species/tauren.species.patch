@@ -5,14 +5,14 @@
 
 	^red;Larger body demands twice as much food^reset;
 	^red;Heavy. -10% Speed, -10% Jump^reset;
-	^red;Weak: 50% Fire, 20% Shadow, 20% Radiation^reset;
+	^red;虚弱：50% Fire, 20% Shadow, 20% Radiation^reset;
 	Machine Pistol, Pistol, Assault Rifle, Shotgun, Grenade Launcher, Rocket Launcher: ^red;-10% Damage^reset;
 	^green;+30 Health, +5 Protection, +10% Damage, 10% Electric Resist, 20% Poison Resist, 30% Ice Resist^reset;
-	^green;Omnivore, but avoid raw meat and mechanical food^reset;
+	^green;杂食性, but avoid raw meat and mechanical food^reset;
 	^green;In Jungle, Forest, Snow, Savannah and Garden biomes, gain increased Speed and Jump^reset;
 	Shortspear / Spear / Axe: ^green;+8% dmg, +5% Crit.^reset;
 	Hammer / Greataxe / Broadsword: ^green;5% Damage, +3% Crit, +15% Crit Damage^reset;
-	Bows / Wands / Staves: ^green;10% Damage and Energy^reset;
+	Bows / Wands / 魔杖：^green;10% Damage and Energy^reset;
 	^green;Immunities: Jungle Tiles, Desert Heat^reset;"
 }]
 

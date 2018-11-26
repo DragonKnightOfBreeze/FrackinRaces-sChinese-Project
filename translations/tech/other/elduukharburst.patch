@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/shotdescription",
 		//"origin": "Elduukhar Fire",
-		"value": "Elduukhar火焰"
+		"value": "埃尔杜卡火焰"
 	},
 	{
 		"op": "replace",

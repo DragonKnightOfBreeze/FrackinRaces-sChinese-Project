@@ -9,5 +9,5 @@
 	^green;1h combos increase protection^reset;
 	Rapier/Shortsword/Mace: ^green;+10% Damage, +0.25% Crit Chance^reset;
 	Rapier/Dagger: ^green;+25% Protection^reset;
-	Immune: ^green;Poison, Bee Stings^reset;"
+	免疫：^green;Poison, Bee Stings^reset;"
 }]

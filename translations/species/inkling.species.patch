@@ -5,7 +5,7 @@
 	
 	^green;10% Physical resist, 30% Radioactive resist^reset;
 	^green;5% movement speed increase, 20% jump height increase^reset;
-	^red;Weak: 20% Ice, Electric^reset;
+	^red;虚弱：20% Ice, Electric^reset;
 	^green;Ocean biomes significantly increase stats and give breath immunity^reset;
 	^green;Warm biomes slightly increase Health and Energy^reset;
 	^red;Cold biomes slightly reduce Health and Energy^reset;

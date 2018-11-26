@@ -2,20 +2,20 @@
 	"op": "replace", 
 	"path": "/charCreationTooltip/description" , 
 	"value": "Hyper-advanced machines.
-	Diet: Robotic 
+	食性：Robotic 
 	
-	^orange;Perks^reset;: 
+	^orange;天赋^reset;: 
 	+^green;25%^reset; Energy, +^green;25%^reset; Knockback Resist, +^green;5%^reset; Speed
-	Resist: ^green;25%^reset; Physical, ^green;50%^reset; Poison, ^green;50%^reset; Radiation
-	Immune: Cold, Snow, Ice, Slush, Poison, Breath
+	抗性：^green;25%^reset; Physical, ^green;50%^reset; Poison, ^green;50%^reset; Radiation
+	免疫：Cold, Snow, Ice, Slush, Poison, Breath
 	
-	^orange;Environment^reset;: 
+	^orange;环境^reset;: 
 	On ^green;hot^reset; biomes you lose -^red;50%^reset; Energy Regen
 	In ^green;cold^reset; biomes you gain ^green;extensive energy regen^reset;
 	
-	^red;Weaknesses^reset;: 
+	^red;弱点^reset;: 
 	-^red;50%^reset; Energy when Electrified
-	Weak: -^red;100%^reset;Electric" 
+	虚弱：-^red;100%^reset;Electric" 
 }]
 
 

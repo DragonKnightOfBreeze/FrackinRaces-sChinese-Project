@@ -5,10 +5,10 @@
 	^green;Herbavore.^reset;
 	
 	^red; -10% Electric, -50% Shadow, -20% Health and Physical Resistance. ^reset;
-	^green;+10% Energy, Resist: 20% Cold, Fire, Poison, 40% Radioactive, 40% Cosmic^reset; 
+	^green;+10% Energy, 抗性：20% Cold, Fire, Poison, 40% Radioactive, 40% Cosmic^reset; 
 	^red;Debuffs on Atropus worlds^reset; 
 	^green;Breath and Radiation immunity^reset;
 	^green;(Built-In)Small Profile (3 blocks tall)^reset;
 	Wands: ^green;+5% Damage and Protection^reset;
-	Staves: ^green;+10% Damage and Protection^reset;"
+	魔杖：^green;+10% Damage and Protection^reset;"
 }]

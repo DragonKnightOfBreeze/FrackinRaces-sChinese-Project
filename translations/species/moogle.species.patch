@@ -3,7 +3,7 @@
 	"path": "/charCreationTooltip/description" , 
 	"value": "Adorable, fluffy, cosmic-attuned lagomorphic critters from a distant world of fantasy that have a pom-pom, bat-like wings, and a thing for saying \"Kupo!\". They are usually expert machinists, but on occasion, they may choose to become a knight or a mage instead.
 	
-	^orange;Diet: Omnivore^reset;
+	^orange;食性：杂食性^reset;
 	^green;+20% Energy, +30% Electric, Ice, Cosmic Resistances^reset;
 	^red;-20% Life, -20% Physical, Fire, Shadow Resistances^reset;
 	^green;Adorable, Halved Fall Damage^reset;

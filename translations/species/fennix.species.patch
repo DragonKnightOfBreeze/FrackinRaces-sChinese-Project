@@ -3,11 +3,11 @@
 	"path": "/charCreationTooltip/description" , 
 	"value": "Anthropomorphic Fennixes were created through artificial genetic mutation and have become more widespread in recent years. Their fiery bloodline allows them to survive immense heat.
 	
-	Diet: Omnivore
+	食性：杂食性
 	
 	^red;-5 Health^reset;, ^green;+15 Energy, +10 Attack^reset;
-	^red;Weak: 50% Ice^reset;
-	^green;Resist: 50% Fire^reset;
+	^red;虚弱：50% Ice^reset;
+	^green;抗性：50% Fire^reset;
 	^green;+35% speed, +10% jump height^reset;
 	^green;Immune to biome heat, fire, and sandstorms^reset;
 	^green;+25% Health Regen / Energy in Lava^reset;

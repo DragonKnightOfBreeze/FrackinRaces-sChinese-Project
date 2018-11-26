@@ -3,7 +3,7 @@
 	"path": "/charCreationTooltip/description" , 
 	"value": "The primitive Fenerox are new to the established galactic order. Their tech is generally rather low, and only a few have moved beyond their hunter-gatherer lifestyle. These nocturnal hunters are exceptional at their craft, and are agile and deadly.
 	
-	^red;-10% HP, Weak: 20% Fire, 20% Shadow, Eats often^reset;
+	^red;-10% HP, 虚弱：20% Fire, 20% Shadow, Eats often^reset;
 	^green;40% Electric and 40% Poison resistance^reset;
 	^green;When in a dry grassland, gain +15% Damage^reset;
 	Gains Hunter's Claw tech (use Race Tech Enabler). When unarmed, can hunt with F.
