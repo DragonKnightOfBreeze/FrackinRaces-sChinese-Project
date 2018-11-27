@@ -3,6 +3,6 @@
 		"op": "replace",
 		"path": "/description",
 		//"origin": "An automato milkshake! Mmm. ^yellow;Type: Robot^reset;",
-		"value": "一杯硬番茄奶昔！嗯。\n^yellow;类型：机器人食物^reset;"
+		"value": "一杯硬番茄奶昔！嗯。\n^yellow;类型：机械食物^reset;"
 	}
 ]

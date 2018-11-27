@@ -3,6 +3,6 @@
 		"op": "replace",
 		"path": "/label",
 		//"origin": "Mechanical Food - only mechanical beings can digest this. Anything else will suffer for it.",
-		"value": "机械食物 - 只有机械种族可以消化。其他的就会受苦。"
+		"value": "机械食物 - 只有机械种族可以消化，其他的就会受苦。"
 	}
 ]

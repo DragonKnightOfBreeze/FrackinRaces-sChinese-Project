@@ -3,6 +3,6 @@
 		"op": "replace",
 		"path": "/label",
 		//"origin": "Bleeding",
-		"value": "出血(长效)"
+		"value": "出血"
 	}
 ]
