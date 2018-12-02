@@ -1,25 +1,25 @@
 [{
 	"op": "replace", 
 	"path": "/charCreationTooltip/description" , 
-	"value": "Evolved in the depths of a Penumbral world, the Nightar dislike light intensely. They are noble warriors of Shadow.
+	"value": "孕育于半影世界的深处，夜族极度厌光。他们是高贵的暗影战士。
   
 	食性：杂食性
 	 
 	^orange;天赋^reset;:
-	^green;Darkness^reset; increases ^green;Physical Resistance^reset; and ^green;Damage^reset; and enables Vampiric strikes.
-	抗性：^green;40%^reset; Shadow, ^green;10%^reset; Ice
-	免疫：Bio-Ooze, Poison
+	在^green;黑暗^reset;中增加^green;物理抗性^reset;和^green;伤害^reset;，并且开启吸血攻击。
+	抗性：^green;40%^reset;暗影抗性，^green;10%^reset;寒气抗性
+	免疫：生物软泥，中毒
 	 
 	^orange;武器^reset;:
-	All Swords: ^green;+1%^reset; Crit Chance, ^green;+10%^reset; damage and ^green;3%^reset; Shadow Burst Chance (^green;5 damage^reset;) when fully healed. 
-	Shortswords or Daggers: ^green;+10%^reset; Crit Damage
-	Longsword or Katana: ^green;+6%^reset; Damage
-	Katana/Rapier + Dagger: ^green;+1.5%^reset; Crit Chance
-	2x Small Blades: ^green;+12%^reset; Protection, ^green;+5%^reset; Movement Speed
-	Shield: ^green;+2 Shield Bash, +25% Knockback Resist^reset;
-	Whip: ^green;+10%^reset; Movement Speed
+	所有剑：^green;+1%^reset;暴击几率，^green;+10%^reset;伤害，满血时有^green;3%^reset;几率释放暗影爆裂(^green;5伤害^reset;)。
+	短剑或匕首：^green;+10%^reset;暴击几率
+	长剑或武士刀：^green;+6%^reset;伤害
+	武士刀/刺剑 + 匕首：^green;+1.5%^reset;暴击几率
+	双持短刃：^green;+12%^reset;防御，^green;+5%^reset;移动速度
+	盾牌：^green;+2盾牌反伤，+25%击退抗性^reset;
+	鞭：^green;+10%^reset;移动速度
 	
 	^red;弱点^reset;:
-	虚弱：^red;20%^reset; Cosmic, ^red;20%^reset; Radiation, ^red;20%^reset; Electric
-	^red;Light^reset; reduces ^red;Protection and Damage^reset; and cancels ^red;Vampiric effect^reset; of attacks."
+	虚弱：^red;20%^reset;射线抗性，^red;20%^reset;放射抗性，^red;20%^reset;电系抗性
+	在^red;亮^reset;处减少^red;防御和伤害^reset;，并且关闭攻击附带的^red;吸血效果^reset;。"
 }]

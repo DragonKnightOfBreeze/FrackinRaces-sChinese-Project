@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/shotdescription",
 		//"origin": "Thelusian Warrior",
-		"value": "Thelusian战士"
+		"value": "瑟卢锡安战士"
 	},
 	{
 		"op": "replace",
