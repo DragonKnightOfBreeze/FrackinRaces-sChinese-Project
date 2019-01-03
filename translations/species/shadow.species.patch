@@ -1,28 +1,28 @@
 [{
-	"op": "replace", 
-	"path": "/charCreationTooltip/description" , 
-	"value": "宇宙中的一个谜，这些虚幻的影裔喜欢只和彼此对话。这很简单，因为其他种族甚至听不到他们的语言。
+    "op": "replace", 
+    "path": "/charCreationTooltip/description" , 
+    "value": "宇宙中的一个谜，这些虚幻的影裔喜欢只和彼此对话。这很简单，因为其他种族甚至听不到他们的语言。
 
-	食性：什么都吃
-	
-	^orange;天赋^reset;: 
-	^green;+15%^reset;生命，+^green;5%^reset;能量，+^green;5%^reset;防御
-	抗性：^green;40%^reset;暗影抗性，^green;40%^reset;寒气抗性
-	免疫：黑暗/暗影
-	科技：暗影爆裂。在[C]键菜单中制作种族科技激活器。
-	
-	^orange;环境^reset;: 
-	在^green;黑暗^reset;生态中+^green;2^reset;暴击几率，+^green;15%^reset;能量
-	在黑暗中会发光
-	黑暗会增加攻击力和防御，光亮则会减少。
-	
-	^orange;武器^reset;:
-	法杖/魔杖：+^green;25%^reset;生命
-	磁力珠：+^green;25%^reset;防御
-	匕首/刺剑：^green;+6%^reset;伤害
-	^red;弱点^reset;: 
-	新陈代谢需要更多的食物
-	^red;40%^reset;火炎，射线，毒素抗性" 
+    食性：什么都吃
+    
+    ^orange;天赋^reset;： 
+    +^green;15%^reset;生命，+^green;5%^reset;能量，+^green;5%^reset;防御
+    抗性：^green;40%^reset;暗影抗性，^green;40%^reset;寒气抗性
+    免疫：黑暗/暗影
+    科技：暗影爆裂。在[C]键菜单中制作种族科技激活器。
+    
+    ^orange;环境^reset;： 
+    在^green;黑暗^reset;生态中+^green;2^reset;暴击几率，+^green;15%^reset;能量
+    在黑暗中会发光
+    黑暗会增加攻击力和防御，光亮则会减少。
+    
+    ^orange;武器^reset;：
+    法杖/魔杖：+^green;25%^reset;生命
+    磁力珠：+^green;25%^reset;防御
+    匕首/刺剑：+^green;6%^reset;伤害
+    ^red;弱点^reset;： 
+    新陈代谢需要更多的食物
+    ^red;40%^reset;火炎，射线，毒素抗性" 
 }]
 
 

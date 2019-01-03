@@ -103,13 +103,13 @@
 	},
 	{
 		"op": "replace",
-		"path": "/tooltipBoxes/0/tooltip",
+		"path": "/tooltipBoxes/16/tooltip",
 		//"origin": "Fall Damage",
 		"value": "掉落伤害"
 	},
 	{
 		"op": "replace",
-		"path": "/tooltipBoxes/0/tooltip",
+		"path": "/tooltipBoxes/17/tooltip",
 		//"origin": "Ship Mass",
 		"value": "飞船质量"
 	},

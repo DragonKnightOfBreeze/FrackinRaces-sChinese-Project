@@ -63,7 +63,7 @@
 		"op": "replace",
 		"path": "/statuses/iceslipImmunity/name",
 		//"origin": "^#4BF3FD;Ice Slipping",
-		"value": "^#4BF3FD;冰面打滑"
+		"value": "^#4BF3FD;冰面滑行"
 	},
 	{
 		"op": "replace",
@@ -87,7 +87,7 @@
 		"op": "replace",
 		"path": "/statuses/slimestickImmunity/name",
 		//"origin": "^#61D13F;Sticky Slime",
-		"value": "^#61D13F;粘泥"
+		"value": "^#61D13F;黏泥"
 	},
 	{
 		"op": "replace",
@@ -129,7 +129,7 @@
 		"op": "replace",
 		"path": "/statuses/tarImmunity/name",
 		//"origin": "^#5B6177;Tar",
-		"value": "^#5B6177;焦油沥青"
+		"value": "^#5B6177;油"
 	},
 	{
 		"op": "replace",
@@ -237,7 +237,7 @@
 		"op": "replace",
 		"path": "/statuses/electricStatusImmunity/name",
 		//"origin": "^#FFE149;Electrification",
-		"value": "^#FFE149;带电"
+		"value": "^#FFE149;感电"
 	},
 	{
 		"op": "replace",

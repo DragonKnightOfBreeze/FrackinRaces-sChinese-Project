@@ -1,24 +1,24 @@
 [{
-	"op": "replace", 
-	"path": "/charCreationTooltip/description" , 
-	"value": "人类的属性很全面，具有出色的防御能力。你见过他们中的一员吗？人类非常奇怪。我建议避开他们。
-	    
-	食性：杂食性
-	    
-	^orange;天赋^reset;: 
-	+^green;0.08s^reset;跳跃时间
-		
-	^orange;环境^reset;: 
-	无
-		
-	^orange;武器^reset;:
-	突击步枪：+^green;12%^reset;伤害
-	溜溜球：+^green;10%^reset;伤害
-	短剑：+^green;12%^reset;伤害，+^green;20%^reset;击退抵抗
-	盾牌：完美格挡时^green;增加防御^reset;(大量)
-	    
-	^red;弱点^reset;: 
-	无" 
+    "op": "replace", 
+    "path": "/charCreationTooltip/description" , 
+    "value": "人类的属性很全面，具有出色的防御能力。你见过他们中的一员吗？人类非常奇怪。我建议避开他们。
+        
+    食性：杂食性
+        
+    ^orange;天赋^reset;： 
+    跳跃时间+^green;0.08s^reset;
+        
+    ^orange;环境^reset;： 
+    无
+
+    ^orange;武器^reset;：
+    突击步枪：伤害+^green;12%^reset;
+    溜溜球：伤害+^green;10%^reset;
+    短剑：伤害+^green;12%^reset;，击退抗性+^green;20%^reset;
+    盾牌：完美格挡时^green;增加防御^reset;(大量)
+
+    ^red;弱点^reset;： 
+	无"
 }]
 
 
