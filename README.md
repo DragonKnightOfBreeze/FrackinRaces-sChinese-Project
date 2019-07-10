@@ -15,11 +15,9 @@ Frakin Races的汉化mod。
 * Github：DragonKnightOfBreeze  
 * Gitlab：DragonKnightOfBreeze
 
-# 已检查的目录：
+# 未检查的目录：
 
-* interface
-* objects
-* quests
-* quickbar
-* radiomessages
-* tech
+* items/generic
+* objects/generic
+* species
+* stats/effects
