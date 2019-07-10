@@ -1,0 +1,6 @@
+name: slimestickimmunity
+effectConfig: {
+  }
+defaultDuration: 120
+scripts:
+- slimestickimmunity.lua

@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    把烤肉酱拿来！
+    ^orange;类型：熟肉食^reset;

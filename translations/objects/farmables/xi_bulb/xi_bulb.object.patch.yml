@@ -1,0 +1,9 @@
+##@ @NotTranslate
+- op: replace
+  path: /shortdescription
+  rawValue$: X'ian Seed Bulb
+  value: X'ian Seed Bulb
+- op: replace
+  path: /description
+  rawValue$: Provides light, and can be used to form many X'ian tools. Radioactive.
+  value: Provides light, and can be used to form many X'ian tools. Radioactive.

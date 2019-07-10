@@ -1,0 +1,5 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    Offshoot of humanity.
+    ^red;Exactly like a human^reset; Machine Pistol:^green;+23% Damage^reset; Perfect Blocks ^green;increase Damage^reset; Shortspears: ^green;+12% Damage, +20% Knockback Resist^reset;

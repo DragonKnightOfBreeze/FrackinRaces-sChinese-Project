@@ -1,0 +1,10 @@
+- op: replace
+  path: /effects
+  value:
+  - - meat_plant
+- op: replace
+  path: /maxStack
+  value: 20
+- op: replace
+  path: /description
+  value: 'Sour but so worth it. ^green;Type: Meaty Plant?^reset;'

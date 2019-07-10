@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    一杯硬番茄奶昔！嗯。
+    ^yellow;类型：机械食物^reset;

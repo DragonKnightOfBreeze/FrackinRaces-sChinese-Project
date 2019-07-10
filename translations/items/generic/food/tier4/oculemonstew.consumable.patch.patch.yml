@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    一份填满酸眼球菜的馅饼，覆盖着香甜酥脆的外皮。
+    ^orange;类型：熟肉食^reset;

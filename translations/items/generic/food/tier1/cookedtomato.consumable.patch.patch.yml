@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'Mmm, fresh out of the oven. ^green;Type: Herbivore^reset;'
+  value: |-
+    嗯，新鲜出炉的。
+    ^green;类型：素食^reset;

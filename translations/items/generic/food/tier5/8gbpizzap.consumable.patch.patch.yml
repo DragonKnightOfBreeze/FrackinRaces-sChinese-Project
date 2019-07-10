@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    如果你能忍受金属的后味那么它的味道还可以！
+    ^yellow;类型：机械食物^reset;

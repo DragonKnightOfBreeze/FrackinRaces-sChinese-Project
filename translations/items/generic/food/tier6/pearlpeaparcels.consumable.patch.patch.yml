@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    珍珠豆被瓦特果包裹在当中。
+    ^green;类型：素食^reset;

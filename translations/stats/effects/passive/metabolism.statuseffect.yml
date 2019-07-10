@@ -1,0 +1,6 @@
+name: metabolism
+effectConfig: {
+  }
+defaultDuration: 1
+scripts:
+- metabolism.lua

@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    一杯用肉和圣女果一起摇匀制成的浓厚的饮料。
+    ^Red;类型：生肉食^reset;

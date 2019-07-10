@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    硬番茄！一定要吐出螺钉。
+    ^yellow;类型：机械食物^reset;

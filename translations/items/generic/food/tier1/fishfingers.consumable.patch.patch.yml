@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'Tasty fried fish in stick form. Where''s the custard? ^orange;Type: Cooked Meat^reset;'
+  value: |-
+    美味的棒型炸鱼。卡仕达酱在哪呢？
+    ^orange;类型：熟肉食^reset;

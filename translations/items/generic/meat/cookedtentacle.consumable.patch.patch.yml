@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    非常耐嚼。
+    ^orange;类型：熟肉食^reset;

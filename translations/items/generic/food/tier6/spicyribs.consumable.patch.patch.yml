@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    香辣的排骨。美味！
+    ^orange;类型：熟肉食^reset;

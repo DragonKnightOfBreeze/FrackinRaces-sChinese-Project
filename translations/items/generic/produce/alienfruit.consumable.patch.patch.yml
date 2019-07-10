@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    一个外星水果，非常多汁。
+    ^green;类型：素食^reset;

@@ -1,0 +1,7 @@
+name: egg_food
+effectConfig:
+  foodTypes:
+  - EGG
+defaultDuration: 0
+scripts:
+- /stats/effects/food/foodBase.lua

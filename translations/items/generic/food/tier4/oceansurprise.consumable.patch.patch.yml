@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    一道鲛人菜，有大量可疑的海洋源性成份。
+    ^orange;类型：熟肉食^reset;

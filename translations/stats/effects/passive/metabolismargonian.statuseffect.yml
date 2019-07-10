@@ -1,0 +1,6 @@
+name: metabolismargonian
+effectConfig: {
+  }
+defaultDuration: 1
+scripts:
+- metabolismargonian.lua

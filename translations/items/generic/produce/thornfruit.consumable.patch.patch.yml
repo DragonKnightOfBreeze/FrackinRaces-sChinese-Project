@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    只要你小心那些刺，这些都是美味。
+    ^green;类型：素食^reset;

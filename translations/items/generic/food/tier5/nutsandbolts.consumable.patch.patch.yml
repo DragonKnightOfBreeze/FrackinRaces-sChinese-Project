@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    什锦铜味佳肴。
+    ^yellow;类型：机械食物^reset;

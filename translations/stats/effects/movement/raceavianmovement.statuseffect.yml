@@ -1,0 +1,7 @@
+name: raceavianmovement
+effectConfig: {
+  }
+defaultDuration: 1
+scripts:
+- raceavianmovement.lua
+animationConfig: raceavianmovement.animation

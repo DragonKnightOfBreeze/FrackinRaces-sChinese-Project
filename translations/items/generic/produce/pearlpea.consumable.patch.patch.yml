@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    珍珠豆！我要使劲地咬。
+    ^green;类型：素食^reset;

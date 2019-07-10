@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    你还想用这些毒果果酱做些其他的事情吗？
+    ^green;类型：素食^reset;

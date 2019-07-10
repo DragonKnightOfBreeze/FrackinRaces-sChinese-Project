@@ -1,0 +1,13 @@
+##@ @NotTranslate
+- op: replace
+  path: /upgrades/size1/description
+  rawValue$:  Increase area of effect by +1
+  value: Increase area of effect by +1
+- op: replace
+  path: /upgrades/size2/description
+  rawValue$:  Increase area of effect by +1
+  value: Increase area of effect by +1
+- op: replace
+  path: /upgrades/size3/description
+  rawValue$:  Increase area of effect by +1
+  value: Increase area of effect by +1

@@ -1,0 +1,4 @@
+##@ @NotTranslate
+- op: replace
+  path: /description
+  value: 'A cold sweet drink. ^green;Type: Herbivore^reset;'

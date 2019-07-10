@@ -1,0 +1,6 @@
+name: coldimmunity
+effectConfig: {
+  }
+defaultDuration: 120
+scripts:
+- coldimmunity.lua

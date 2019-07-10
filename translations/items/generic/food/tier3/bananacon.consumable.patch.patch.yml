@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    给一根香蕉裹上培根，再施点巫术，你就得到了香蕉培根。
+    ^orange;类型：熟肉食^reset;

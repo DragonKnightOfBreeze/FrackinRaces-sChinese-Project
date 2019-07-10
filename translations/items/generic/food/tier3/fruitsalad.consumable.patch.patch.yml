@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    各种水果随意地混合在一起。
+    ^green;类型：素食^reset;

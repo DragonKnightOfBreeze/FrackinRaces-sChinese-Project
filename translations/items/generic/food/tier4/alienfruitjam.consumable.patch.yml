@@ -1,0 +1,11 @@
+- op: replace
+  path: /effects
+  value: [
+    ]
+- op: replace
+  path: /effects/-
+  value:
+  - effect: fruit_dessert
+- op: replace
+  path: /description
+  value: 'Alien fruit jam. Sticky. ^green;Type: Herbivore^reset;'

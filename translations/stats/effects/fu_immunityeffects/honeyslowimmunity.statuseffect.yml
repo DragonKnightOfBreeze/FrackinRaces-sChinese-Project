@@ -1,0 +1,6 @@
+name: honeyslowimmunity
+effectConfig: {
+  }
+defaultDuration: 120
+scripts:
+- honeyslowimmunity.lua

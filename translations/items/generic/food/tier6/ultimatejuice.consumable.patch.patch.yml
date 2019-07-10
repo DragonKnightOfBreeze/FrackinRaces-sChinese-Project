@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    包含所有水果的果汁。
+    ^green;类型：素食^reset;

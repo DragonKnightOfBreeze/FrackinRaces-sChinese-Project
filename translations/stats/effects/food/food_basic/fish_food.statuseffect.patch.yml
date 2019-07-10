@@ -1,0 +1,7 @@
+name: fish_food
+effectConfig:
+  foodTypes:
+  - FISH
+defaultDuration: 0
+scripts:
+- /stats/effects/food/foodBase.lua

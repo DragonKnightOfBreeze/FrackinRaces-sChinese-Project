@@ -1,0 +1,8 @@
+name: pusimmunity
+effectConfig: {
+  }
+defaultDuration: 60
+scripts:
+- pusimmunity.lua
+label: Pus Proof
+icon: /interface/statuses/antidote.png

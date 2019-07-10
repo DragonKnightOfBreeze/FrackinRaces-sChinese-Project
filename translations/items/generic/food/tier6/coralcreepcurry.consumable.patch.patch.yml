@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    一份用珊瑚果制作的微辣咖喱。
+    ^green;类型：素食^reset;

@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    钉丝球！令人惊讶的软。
+    ^yellow;类型：机械食物^reset;

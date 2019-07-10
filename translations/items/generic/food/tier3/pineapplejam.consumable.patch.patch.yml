@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    一罐超级甜的菠萝果酱。
+    ^green;类型：素食^reset;

@@ -1,0 +1,6 @@
+name: blacktarimmunity
+effectConfig: {
+  }
+defaultDuration: 120
+scripts:
+- blacktarimmunity.lua

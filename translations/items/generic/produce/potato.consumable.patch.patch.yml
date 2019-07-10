@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    也叫马铃薯。
+    ^green;类型：素食^reset;

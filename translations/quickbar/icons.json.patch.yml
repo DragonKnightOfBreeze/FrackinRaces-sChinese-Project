@@ -1,0 +1,4 @@
+- op: replace
+  path: /normal/0/label
+  rawValue$: Character Status
+  value: 角色属性

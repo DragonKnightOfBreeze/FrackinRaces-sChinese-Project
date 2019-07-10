@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'Simple fish dumplings, steamed and lightly seasoned. ^orange;Type: Cooked Meat^reset;'
+  value: |-
+    简单的蒸熟的鱼饺子，有点清淡。
+    ^orange;类型：熟肉食^reset;

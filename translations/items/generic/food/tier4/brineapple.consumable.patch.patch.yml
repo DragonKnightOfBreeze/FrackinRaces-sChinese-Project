@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    在光滑的菠萝中塞入胶状的珊瑚果，热食。高档的鲛人菜肴！
+    ^green;类型：素食^reset;

@@ -1,0 +1,4 @@
+- op: replace
+  path: /itemTags/-
+  rawValue$:  whip
+  value: 鞭子

@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    香蕉和胡萝卜切成块混合放进碗里，这是猿人最爱吃的零食。
+    ^green;类型：素食^reset;

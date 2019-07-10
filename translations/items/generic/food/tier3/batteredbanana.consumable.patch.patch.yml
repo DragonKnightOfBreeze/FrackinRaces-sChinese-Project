@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    标准的香蕉，被裹在面团中炸了一遍。
+    ^green;类型：素食^reset;

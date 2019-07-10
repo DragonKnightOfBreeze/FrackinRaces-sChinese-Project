@@ -1,0 +1,9 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: ''
+- op: replace
+  path: /charCreationTooltip/description
+  value: "Foxy explorers\nDiet: Carnivore\n^orange;Perks^reset;: ^green;+12%^reset; Health, Energy ^green;+14%^reset; Speed,\
+    \ ^green;40%^reset; Knockback Resistance, ^green;+30%^reset; Ice Resist, Immune: Jungle\n^orange;Environment^reset;:\n\
+    ^orange;Weapons^reset;: Dagger, Shortsword, Broadsword: ^green;+2^reset Protection Whip: ^green;+12%^reset; Damage\n^red;Weaknesses^reset;:\
+    \ ^red;-50%^reset; Radioactive resist "

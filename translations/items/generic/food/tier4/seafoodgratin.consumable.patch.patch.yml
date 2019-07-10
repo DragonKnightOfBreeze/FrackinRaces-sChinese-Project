@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    和鱼形水果一起烤的鱼。很是有味道！
+    ^orange;类型：熟肉食^reset;

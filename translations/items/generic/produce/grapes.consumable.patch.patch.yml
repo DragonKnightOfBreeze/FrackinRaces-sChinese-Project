@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    葡萄，天然的糖果。
+    ^green;类型：素食^reset;

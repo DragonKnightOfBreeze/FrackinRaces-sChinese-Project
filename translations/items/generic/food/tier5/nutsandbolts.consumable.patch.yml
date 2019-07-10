@@ -1,0 +1,7 @@
+- op: replace
+  path: /effects/0/0
+  value:
+    effect: robot_food
+- op: replace
+  path: /description
+  value: 'Assorted copper flavoured morsels. ^yellow;Type: Robot^reset;'

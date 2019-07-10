@@ -1,0 +1,8 @@
+- op: replace
+  path: /shortdescription
+  rawValue$: Cooked Lobster
+  value: 熟龙虾
+- op: replace
+  path: /description
+  rawValue$: Delicious aquatic horror.
+  value: 美味的水产。

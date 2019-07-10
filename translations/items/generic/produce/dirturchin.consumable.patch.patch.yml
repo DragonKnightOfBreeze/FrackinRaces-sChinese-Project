@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    干巴巴的。没有什么味道。
+    ^green;类型：素食^reset;

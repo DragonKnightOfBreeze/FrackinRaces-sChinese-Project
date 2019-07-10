@@ -1,0 +1,4 @@
+- op: replace
+  path: /itemTags/-
+  rawValue$: boomerang
+  value: 回旋镖

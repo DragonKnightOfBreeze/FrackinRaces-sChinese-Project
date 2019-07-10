@@ -1,0 +1,4 @@
+- op: replace
+  path: /description
+  rawValue$: Mmm, milk.
+  value: 嗯，牛奶。

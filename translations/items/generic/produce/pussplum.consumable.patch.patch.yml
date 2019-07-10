@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    圣女果，有人称它是美味的！
+    ^green;类型：素食^reset;

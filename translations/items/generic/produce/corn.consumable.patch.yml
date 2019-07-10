@@ -1,0 +1,10 @@
+- op: replace
+  path: /effects
+  value:
+  - - plant_food
+- op: replace
+  path: /maxStack
+  value: 20
+- op: replace
+  path: /description
+  value: 'Sweet and corny, good for digestion! ^green;Type: Plant^reset;'

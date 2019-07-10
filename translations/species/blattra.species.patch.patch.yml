@@ -1,0 +1,5 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    长得像蟑螂的外星人，喜好食腐和发明。
+    ^red;+4防御，虚弱：20%火炎，寒气抗性^reset; +^green;40%放射，毒素抗性^reset; ^green;杂食性^reset; 免疫：^green;辐射和中毒^reset; 激光挖掘器：+^green;25%伤害^reset;

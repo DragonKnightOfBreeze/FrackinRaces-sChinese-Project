@@ -1,0 +1,9 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    因一场自然灾害而逃离地球的人类的后裔。善于外交，爱好和平，并且技术先进。埃癸斯建立了一个跨星际，跨物种的联盟--伊利蒂安联盟。
+    食性：肉食性
+    ^orange;天赋^reset;： +^green;5%^reset;移动速度 抗性：^green;20%^reset;射线，暗影 优秀商人：+^green;15^reset;魅力
+    ^orange;环境^reset;： 在^green;葱郁，森林，原始森林^reset;生态中获得额外的生命值和防御
+    ^orange;武器^reset;： 手枪：+^green;10%^reset;伤害 自动手枪：+^green;15%^reset;防御 突击步枪：+^green;0.25%^reset;暴击几率，+^green;12%^reset;伤害 榴弹发射器：+^green;15%^reset;伤害，+^green;18%^reset;防御
+    ^red;弱点^reset;： ^red;10%^reset;火炎，放射抗性

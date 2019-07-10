@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    充分利用了圣女果果酱。
+    ^green;类型：素食^reset;

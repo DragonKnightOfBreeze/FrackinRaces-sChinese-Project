@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    百味果，100种不同味道的植物。
+    ^green;类型：素食^reset;

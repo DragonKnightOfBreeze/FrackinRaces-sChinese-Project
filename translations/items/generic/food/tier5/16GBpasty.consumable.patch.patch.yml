@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    一个大到足以容纳你所有喜爱的金属味蔬菜的馅饼。
+    ^yellow;类型：机械食物^reset;

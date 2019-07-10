@@ -14,3 +14,12 @@ Frakin Races的汉化mod。
 * Steam：微风的龙骑士 风游迩
 * Github：DragonKnightOfBreeze  
 * Gitlab：DragonKnightOfBreeze
+
+# 已检查的目录：
+
+* interface
+* objects
+* quests
+* quickbar
+* radiomessages
+* tech

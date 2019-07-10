@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    披萨的一个变种，有更多的铜的味道。
+    ^yellow;类型：机械食物^reset;

@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    疣状但不是杂草。
+    ^green;类型：素食^reset;

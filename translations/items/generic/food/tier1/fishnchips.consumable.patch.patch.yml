@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'Fry all the things! This is an old favorite for humans. ^orange;Type: Cooked Meat^reset;'
+  value: |-
+    油炸所有东西！这是人类的一种古老的喜好。
+    ^orange;类型：熟肉食^reset;

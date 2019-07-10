@@ -1,0 +1,6 @@
+name: airimmunity
+effectConfig: {
+  }
+defaultDuration: 120
+scripts:
+- airimmunity.lua

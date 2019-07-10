@@ -1,0 +1,5 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    Cosmic-attuned bunny-folk from a distant world of fantasy. Skilled fencers, archers, and spellcasters.
+    ^red;30% Weakness: Shadow, Slighty increased hunger, -20% Health^reset; ^green;+20% Energy, 30% Cosmic Resist, +12% Speed^reset; ^green;In Rainforest, Forest and Primeval biomes you gain increased Energy and Speed^reset; Wands and Staves: ^green;+15% Damage and Energy^reset; Bows: ^green;+15% Damage and Energy^reset; Rapier(one): ^green;+10% Damage, +1 Protection (Rapier + Dagger) +2% Crit and +10% Physical Resistance^reset; Rapier, Shortsword and Dagger ^green;have a low chance to shoot mystic blasts during combos^reset; Immune: ^green;Slime^reset;

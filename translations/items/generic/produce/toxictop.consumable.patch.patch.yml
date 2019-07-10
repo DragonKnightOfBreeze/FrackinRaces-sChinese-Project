@@ -1,0 +1,5 @@
+- op: replace
+  path: /description
+  value: |-
+    一种有毒的果实。外表可能具有欺骗性？
+    ^green;类型：素食^reset;

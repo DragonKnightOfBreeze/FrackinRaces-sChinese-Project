@@ -1,0 +1,9 @@
+##@ @NotTranslate
+- op: replace
+  path: /shortdescription
+  rawValue$: X'ian Flag
+  value: X'ian Flag
+- op: replace
+  path: /description
+  rawValue$: A flag used to identify X'ian settlements. Use ^green;[E]^white; to bookmark a teleportation location.
+  value: A flag used to identify X'ian settlements. Use ^green;[E]^white; to bookmark a teleportation location.

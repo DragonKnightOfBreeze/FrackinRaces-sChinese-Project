@@ -1,0 +1,14 @@
+##@ @NotTranslate
+- op: replace
+  path: /radienmsg/text
+  rawValue$: '^green;Excellent^reset;! You have remembered how to spawn X'i Bulbs. With them you can craft many things in your [C] menu, or use them for other purposes unique to the X'i.'
+- op: replace
+  path: /foodtype/text
+  rawValue$: '^red;TOXINS DETECTED ^reset;: While I am sure that *looked* delicious, I regret to inform you that this type of food ^orange;cannot be digested by your physiology^reset;. Avoid foods like this in the future.'
+  value: <-
+    ^red;检测到有害物质^reset;：
+    尽管我确定这*看起来*非常美味，但是有一件事必须告诉你
+    ——你^orange;在生理上无法消化^reset;这种食物，以后请不要吃像这样的食物。
+- op: replace
+  path: /foodtyperad/text
+  rawValue$: '^red;RADIOACTIVE MATERIAL DETECTED ^reset;: You just ate potentially lethal radioactive isotopes. Your chance of painful death has increased by 99.72%.'

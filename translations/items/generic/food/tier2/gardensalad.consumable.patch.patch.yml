@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'A big bowl of mixed veggies. Nutritious! ^green;Type: Herbivore^reset;'
+  value: |-
+    一大碗混合蔬菜。有营养！
+    ^green;类型：素食^reset;

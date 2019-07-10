@@ -1,0 +1,3 @@
+- op: replace
+  path: /label
+  value: 叶族饥饿

@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'Freshly brewed coffee. ^green;Type: Any (would we deny anyone their coffee?)^reset;'
+  value: |-
+    新鲜煮制的咖啡。
+    ^green;类型：任意^reset;

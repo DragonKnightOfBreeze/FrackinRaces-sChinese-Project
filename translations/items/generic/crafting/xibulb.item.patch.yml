@@ -1,0 +1,9 @@
+##@ @NotTranslate
+- op: replace
+  path: /shotdescription
+  rawValue$: X'ian Bulb
+  value: X'ian Bulb
+- op: replace
+  path: /description
+  rawValue$: A highly radioactive plant-like bulb.
+  value: A highly radioactive plant-like bulb.

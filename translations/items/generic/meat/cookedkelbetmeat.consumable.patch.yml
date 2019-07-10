@@ -1,0 +1,4 @@
+- op: replace
+  path: /effects
+  value:
+  - - effect: meat_cooked

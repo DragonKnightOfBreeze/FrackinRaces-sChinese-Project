@@ -1,0 +1,7 @@
+name: fruit_food
+effectConfig:
+  foodTypes:
+  - FRUIT
+defaultDuration: 0
+scripts:
+- /stats/effects/food/foodBase.lua
