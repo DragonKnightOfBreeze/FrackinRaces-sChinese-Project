@@ -33,6 +33,7 @@ private fun deleteNotTextFiles(reTranslationsPath: String) {
 	println("已删除所有非文本文件。")
 }
 
+//加上.yml后缀
 private fun renameTextFiles(reTranslationsPath: String) {
 	Path.of(reTranslationsPath).toFile().walk()
 		.filter { it.isFile && it.name !in excludeFileNames && it.extension != "yml" }
