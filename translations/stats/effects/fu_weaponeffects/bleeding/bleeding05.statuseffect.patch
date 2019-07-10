@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Healing",
-		"value": "治疗"
-	}
-]

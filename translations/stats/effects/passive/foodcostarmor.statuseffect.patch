@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Thelusian Battlestance - Push Up, Jump or Down to swap stances",
-		"value": "Thelusian战斗姿态 - 增加击退，通过跳跃键或下键切换姿态"
-	}
-]

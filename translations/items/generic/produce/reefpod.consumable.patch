@@ -1,7 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		"value": "海洋里的水果。\n^green;类型：素食^reset;"
-	}
-]

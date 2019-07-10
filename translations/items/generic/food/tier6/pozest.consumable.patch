@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		//"origin": "A popular Glitch energy drink. Or is it just a placebo? ^yellow;Type: Robot^reset;",
-		"value": "一种流行的电子人能量饮料。或者只是一种安慰剂？\n^yellow;类型：机械食物^reset;"
-	}
-]

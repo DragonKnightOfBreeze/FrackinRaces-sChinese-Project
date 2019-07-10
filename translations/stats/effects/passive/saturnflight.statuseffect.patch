@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Saturnian Flutter",
-		"value": "Saturnian鼓翼"
-	}
-]

@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		//"origin": "Mmm, milk.",
-		"value": "嗯，牛奶。"
-	}
-]

@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		//"origin": "A fiery salsa made from fruit and veg that can really bring the heat! ^green;Type: Herbivore^reset;",
-		"value": "一罐用蔬菜和水果制成的火辣的辣调味汁，可以让你全身发热！\n^green;类型：素食^reset;"
-	}
-]

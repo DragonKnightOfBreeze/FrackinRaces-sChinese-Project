@@ -1,0 +1,10 @@
+- op: replace
+  path: /shotdescription
+  rawValue$: Veluu Claws
+  ##@ @NotTranslate
+  value: Veluu Claws
+- op: replace
+  path: /description
+  rawValue$: Use ^green;[F]^reset; to slash with razor-sharp claws. Hunting damage.
+  ##@ @NotTranslate
+  value: Use ^green;[F]^reset; to slash with razor-sharp claws. Hunting damage.

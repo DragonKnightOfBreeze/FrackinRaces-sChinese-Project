@@ -1,0 +1,10 @@
+- op: replace
+  path: /shotdescription
+  rawValue$: X'ian Radbulb
+  ##@ @NotTranslate
+  value: X'ian Radbulb
+- op: replace
+  path: /description
+  rawValue$: Hold [Down] to produce a Rad Bulb. ^green;[F]^reset;
+  ##@ @NotTranslate
+  value: Hold [Down] to produce a Rad Bulb. ^green;[F]^reset;

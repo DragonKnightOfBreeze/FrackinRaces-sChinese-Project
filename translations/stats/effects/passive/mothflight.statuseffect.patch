@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Moth Flutter",
-		"value": "飞蛾扑动"
-	}
-]

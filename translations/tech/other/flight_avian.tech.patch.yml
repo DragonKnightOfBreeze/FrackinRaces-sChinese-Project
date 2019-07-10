@@ -1,0 +1,9 @@
+- op: replace
+  path: /shotdescription
+  rawValue$: Your race can glide...just a bit. Use ^green;[F]^reset;.
+  value: 缓慢降落(翼族)
+- op: replace
+  path: /description
+  rawValue$: Avian Slowfall
+  value: 你的种族可以滑翔......一点点。^green;[F]^reset;。
+

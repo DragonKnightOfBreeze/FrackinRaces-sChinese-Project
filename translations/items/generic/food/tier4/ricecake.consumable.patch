@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		//"origin": "A simple snack formed of rice, held together by seaweed. ^green;Type: Herbivore^reset;",
-		"value": "用海藻裹住米饭的一种简单的零食。\n^green;类型：素食^reset;"
-	}
-]

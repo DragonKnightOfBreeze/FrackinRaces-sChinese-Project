@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "50% Energy or greater grants Regen",
-		"value": "50%或更高的额外能量回复"
-	}
-]

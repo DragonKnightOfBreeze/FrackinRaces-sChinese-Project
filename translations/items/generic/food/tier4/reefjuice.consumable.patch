@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		//"origin": "A pleasantly sweet and salty juice. Refreshing! ^green;Type: Herbivore^reset;",
-		"value": "一杯又甜又咸的果汁。清爽！\n^green;类型：素食^reset;"
-	}
-]

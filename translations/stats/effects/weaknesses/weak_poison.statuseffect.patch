@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Weak : Poison",
-		"value": "虚弱：毒素"
-	}
-]

@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		//"origin": "A slice of warm, eggy bread. Delicious. ^green;Type: Herbivore^reset;",
-		"value": "一片温热的蛋奶土司。美味。\n^green;类型：素食^reset;"
-	}
-]

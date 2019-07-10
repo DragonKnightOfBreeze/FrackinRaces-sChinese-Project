@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		//"origin": "A traditional Avian ceremonial food eaten at celebrations. ^green;Type: Herbivore^reset;",
-		"value": "庆祝仪式上的传统翼族食品。^green;乐西：素食^reset;"
-	}
-]

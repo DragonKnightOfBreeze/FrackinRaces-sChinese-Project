@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Carnivore Food - Meat eaters get a buff. Omnivores, Robots and Herbivores get sick.",
-		"value": "食肉种族的食物 - 肉食种族获得加成，杂食种族、机械种族和食草种族则会生病。"
-	}
-]

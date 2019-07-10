@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Weak : Electric",
-		"value": "虚弱：电系"
-	}
-]

@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Night Hunter",
-		"value": "黑夜猎手"
-	}
-]

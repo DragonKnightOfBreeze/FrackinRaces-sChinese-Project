@@ -1,7 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		"value": "一块生肉。或许我得先把这玩意弄熟了再吃？\n^red;类型：生肉食^reset;"
-	}
-]

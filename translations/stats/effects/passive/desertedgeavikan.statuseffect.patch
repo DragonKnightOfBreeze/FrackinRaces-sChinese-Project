@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Desert Edge",
-		"value": "沙漠刀锋"
-	}
-]

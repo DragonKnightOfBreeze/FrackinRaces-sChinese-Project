@@ -1,0 +1,10 @@
+- op: replace
+  path: /shotdescription
+  rawValue$: Harden
+  ##@ @NotTranslate
+  value: Harden
+- op: replace
+  path: /description
+  rawValue$: Hold [Down] to activate superior defenses. Cannot move or attack.
+  ##@ @NotTranslate
+  value: Hold [Down] to activate superior defenses. Cannot move or attack.

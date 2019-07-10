@@ -1,0 +1,10 @@
+- op: replace
+  path: /shotdescription
+  rawValue$: Nightar Conshak
+  ##@ @NotTranslate
+  value: Nightar Conshak
+- op: replace
+  path: /description
+  rawValue$: Hold [Down] to commune with your blade(8s). Activate with ^green;[F]^reset;
+  ##@ @NotTranslate
+  value: Hold [Down] to commune with your blade(8s). Activate with ^green;[F]^reset;

@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Jump Boost",
-		"value": "跳跃增强"
-	}
-]

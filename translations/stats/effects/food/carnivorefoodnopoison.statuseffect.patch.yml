@@ -1,0 +1,3 @@
+- op: replace
+  path: /label
+  value: 美味的肉 - 食肉种族不会生病。

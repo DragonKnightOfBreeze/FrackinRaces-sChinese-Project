@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/label",
-		//"origin": "Floran Hunger",
-		"value": "叶族饥饿"
-	}
-]

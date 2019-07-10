@@ -1,0 +1,22 @@
+type: array
+items:
+  type: object
+  properties:
+    op:
+      description: 操作的类型。应当为replace。
+      type: string
+      enum: [replace, add]
+      default: replace
+    path:
+      description: 操作的目录路径。
+      type: string
+    rawValue$:
+      description: 原始文本。一般为英文。
+      type: string
+      $gen: ${#/[]/path}
+    value:
+      description: 翻译后文本。一般为中文。
+      type: string
+    translateNote$:
+      description: 翻译笔记。用作备注。
+      type: string

@@ -1,8 +1,0 @@
-[
-	{
-		"op": "replace",
-		"path": "/description",
-		//"origin": "All the fruit, in a juice. ^green;Type: Herbivore^reset;",
-		"value": "包含所有水果的果汁。\n^green;类型：素食^reset;"
-	}
-]
