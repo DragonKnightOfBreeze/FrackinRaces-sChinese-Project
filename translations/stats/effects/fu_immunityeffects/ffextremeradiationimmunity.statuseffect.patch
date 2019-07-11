@@ -1,0 +1,5 @@
+##@ @Fixed
+- op: replace
+  path: /label
+  rawValue$: Rad Proof
+  value: 极端辐射免疫

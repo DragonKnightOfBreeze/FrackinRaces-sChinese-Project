@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  rawValue$: Delicious plant matter!
+  value: 美味的素食！

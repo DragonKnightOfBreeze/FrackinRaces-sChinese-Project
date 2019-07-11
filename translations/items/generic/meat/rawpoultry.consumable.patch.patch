@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'Raw poultry. Might wanna cook it first... ^red;Type: Raw Meat^reset;'
+  value: |-
+    一块生鸟肉，或许我得先把这玩意弄熟了再吃？
+    ^red;类型：生肉食^reset;

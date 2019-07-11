@@ -1,5 +1,0 @@
-- op: replace
-  path: /description
-  value: |-
-    太怪异了。
-    ^green;类型：素食^reset;

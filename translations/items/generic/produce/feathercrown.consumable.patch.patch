@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'Feathercrown, you have to pluck it before consuming. ^green;Type: Plant^reset;'
+  value: |-
+    羽冠花。你必须在其还没自行掉落之前采摘。
+    ^green;类型：素食^reset;

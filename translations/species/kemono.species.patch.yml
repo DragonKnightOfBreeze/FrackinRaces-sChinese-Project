@@ -1,9 +1,0 @@
-- op: replace
-  path: /charCreationTooltip/description
-  value: ''
-- op: replace
-  path: /charCreationTooltip/description
-  value: "Able fox-like warriors.\nDiet: Carnivorous\n^orange;Perks^reset;: ^green;+10%^reset; Speed, ^green;+10%^reset; Jump,\
-    \ ^green;+30%^reset; Health ^green;+2x%^reset; Shield Regen ^green;+35%^reset; Perfect Block Time.\n^orange;Weapons^reset;:\
-    \ Dagger/Sword: ^green;+30%^reset; Damage. Combos increase defense. Shield: Perfect Blocks increase Protection and damage\n\
-    ^red;Weaknesses^reset;: ^red;-12%^reset; Energy ^red;-50%^reset; Shadow Resist "

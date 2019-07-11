@@ -1,4 +1,0 @@
-- op: replace
-  path: /label
-  rawValue$: Def +
-  value: 防御+

@@ -1,0 +1,4 @@
+##@ @NotTranslate
+- op: replace
+  path: /description
+  value: 'A berry that is sweet and removes poison from the body. ^green;Type: Fruit^reset;'

@@ -1,5 +1,0 @@
-- op: replace
-  path: /description
-  value: |-
-    外星水果果酱。黏糊糊。
-    ^green;类型：素食^reset;

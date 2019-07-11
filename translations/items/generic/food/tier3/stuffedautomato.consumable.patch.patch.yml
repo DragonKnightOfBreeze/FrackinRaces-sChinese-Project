@@ -1,5 +1,0 @@
-- op: replace
-  path: /description
-  value: |-
-    尝起来像一个真西红柿，前提是你可以咬破它的话！
-    ^yellow;类型：机械食物^reset;

@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'A Hylotl dish, overloaded with ingredients of questionable oceanic origin. ^orange;Type: Cooked Meat^reset;'
+  value: |-
+    一道鲛人菜，有大量可疑的海洋源性成份。
+    ^orange;类型：熟肉食^reset;

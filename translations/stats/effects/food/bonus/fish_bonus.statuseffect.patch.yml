@@ -1,5 +1,0 @@
-- op: replace
-  path: /label
-  rawValue$: All about that fishy stuff.
-  ##@ @NotTranslate
-  value: All about that fishy stuff.

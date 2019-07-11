@@ -1,5 +1,0 @@
-- op: replace
-  path: /description
-  value: |-
-    这火腿还是生的，或许我得先把这玩意弄熟了再吃？
-    ^red;类型：生肉食^reset;

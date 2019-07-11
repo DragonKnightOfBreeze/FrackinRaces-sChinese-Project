@@ -1,0 +1,44 @@
+- op: replace
+  path: /charCreationTooltip/description
+  rawValue$: |-
+    Hoppy space explorers.
+
+    Diet: Herbivore
+
+    ^orange;Perks^reset;:
+    ^green;+18%^reset Speed, ^green;+20%^reset Jump, ^green;-35%^reset Fall Damage.
+    ^green;+30%^reset Ice Resist, ^green;+20%^reset Cosmic Resist.
+    Immune: Slime Stick, Jungle Tiles, Mud
+
+    ^orange;Environment^reset;:
+    On Garden, Forest, Tundra and Snow biomes, gain ^green;+10%^reset Health and Energy
+    Gain additional vitality and protection in jungles
+
+    ^orange;Weapons^reset;:
+    Boomerang/Chakram: ^green;+10%^reset Crit Chance, ^green;+15%^reset Crit Damage
+    Fist Weapons: ^green;+15%^reset Protection and ^green;+25%^reset Knockback Resist
+
+    ^red;Weaknesses^reset;:
+    ^red;-20%^reset Health, ^red;-10%^reset Energy
+    ^red;-20%^reset Fire Resist
+  value: |-
+    蹦蹦跳跳的太空探险家。
+
+    食性：素食性
+
+    ^orange;天赋^reset;：
+    ^green;+18%^reset Speed, ^green;+20%^reset Jump, ^green;-35%^reset Fall Damage.
+    ^green;+30%^reset Ice Resist, ^green;+20%^reset Cosmic Resist.
+    Immune: Slime Stick, Jungle Tiles, Mud
+
+    ^orange;环境^reset;：
+    On Garden, Forest, Tundra and Snow biomes, gain ^green;+10%^reset Health and Energy
+    Gain additional vitality and protection in jungles
+
+    ^orange;武器^reset;：
+    Boomerang/Chakram: ^green;+10%^reset Crit Chance, ^green;+15%^reset Crit Damage
+    Fist Weapons: ^green;+15%^reset Protection and ^green;+25%^reset Knockback Resist
+
+    ^red;弱点^reset;：
+    ^red;-20%^reset Health, ^red;-10%^reset Energy
+    ^red;-20%^reset Fire Resist

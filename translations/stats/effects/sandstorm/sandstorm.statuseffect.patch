@@ -1,0 +1,4 @@
+- op: replace
+  path: /blockingStat
+  rawValue$: sandstormImmunity
+  value: 沙暴免疫

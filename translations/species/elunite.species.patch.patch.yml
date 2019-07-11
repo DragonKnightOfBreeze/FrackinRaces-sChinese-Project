@@ -1,5 +1,0 @@
-- op: replace
-  path: /charCreationTooltip/description
-  value: |-
-    超棒的数码生物，装备超棒。
-    -^red;15%生命，虚弱：50%暗影抗性，在液体中减少移动速度^reset; +^green;15%能量，+5%跳跃力，+4% 移动速度，+40%电系抗性^reset; +^green;1物质枪功率^reset; 免疫：^green;带电^reset; 环刃/回旋镖：+^green;12.5%伤害^reset; 剑，匕首：+^green;2防御，+能量回复速度

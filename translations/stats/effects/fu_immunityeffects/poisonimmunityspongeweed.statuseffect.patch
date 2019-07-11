@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  rawValue$: Antidote
+  value: 解毒药

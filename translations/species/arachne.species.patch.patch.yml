@@ -1,9 +1,0 @@
-- op: replace
-  path: /charCreationTooltip/description
-  value: |-
-    滑溜溜的半蛛人。
-    食性：杂食性
-    ^orange;天赋^reset;： +^green;25%^reset;生命值 抗性：^green;40%^reset;毒素坑性，^green;20%^reset;暗影抗性 +^green;15%^reset;移动速度 免疫：精神错乱，粘网
-    ^orange;环境^reset;： 在^green;黑暗^reset;生态中获得额外的生命值和能量
-    ^orange;武器^reset;： 矛：+^green;10%^reset;伤害 双手武器(带刃): +^green;15%^reset;防御
-    ^red;虚弱^reset;：20%火炎，射线

@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  rawValue$: Fishman Rage
+  value: 鱼人之怒

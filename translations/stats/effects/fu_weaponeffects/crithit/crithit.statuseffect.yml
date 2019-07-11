@@ -1,8 +1,0 @@
-name: crithit
-blockingStat: critImmunity
-effectConfig: {
-  }
-defaultDuration: 1
-scripts:
-- crithit.lua
-animationConfig: crithit.animation

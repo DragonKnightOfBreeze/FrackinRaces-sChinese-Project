@@ -1,8 +1,0 @@
-- op: replace
-  path: /charCreationTooltip/description
-  value: |-
-    Adorable, Omnivorous and nearly electric-proof space rodents. They prowl the stars seeking excitement, and are abnormally brave for rodents. Trustworthy and wise, they've earned a reputation as traders.
-    食性：杂食性
-    ^orange;天赋^reset;： +^green;10%^reset; Speed, +^green;10%^reset; Jump 抗性：^green;50%^reset; Electric, ^green;20%^reset; Ice, ^green;40%^reset; Radiation Great Traders: +^green;21%^reset; Charisma 免疫：Electrified
-    ^orange;武器^reset;： Striker: +^green;1%^reset; Crit, +^green;5^reset; Crit Dmg Scythe: +^green;15%^reset; Protection
-    ^red;弱点^reset;： -^red;10%^reset; Health 虚弱：-^red;20%^reset; Fire, -^red;25%^reset;Poison, -^red;20%^reset; Cosmic

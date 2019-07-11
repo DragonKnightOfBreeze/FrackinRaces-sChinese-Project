@@ -1,8 +1,0 @@
-name: meatc_fruit_meal
-effectConfig:
-  foodTypes:
-  - MEAT_COOKED
-  - FRUIT
-defaultDuration: 0
-scripts:
-- /stats/effects/food/foodBase.lua

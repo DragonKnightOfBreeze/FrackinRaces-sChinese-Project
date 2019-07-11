@@ -93,7 +93,7 @@
 
 ### 标准属性（三度仪中注明的高级属性）
 
-* 生命值上限&emsp;Max Health&emsp;Health&emsp;［默认：100］
+* 生命上限&emsp;Max Health&emsp;Health&emsp;［默认：100］
 * 生命回复速度&emsp;Health Regen %&emsp;Regen %&emsp;［默认：0］
 * 防御力&emsp;Protection&emsp;Defense, DEF&emsp;［默认：0］
 &emsp;
@@ -119,7 +119,7 @@
 
 ### 所有属性
 
-* 生命值上限&emsp;Max Health&emsp;Health&emsp;［默认：100］
+* 生命上限&emsp;Max Health&emsp;Health&emsp;［默认：100］
 * 生命回复速度&emsp;Health Regen %&emsp;Regen %&emsp;［默认：0］
 &emsp;
 * 能量值上限&emsp;Max Energy&emsp;Energy&emsp;［默认：100］
@@ -166,7 +166,7 @@
 
 ### 一般
 
-* 生命值上限&emsp;Health,Max Health
+* 生命上限&emsp;Health,Max Health
 * 能量值上限,&emsp;Energy,Max,Energy
 * 生命回复速度&emsp;Health Regen
 * 能量回复速度&emsp;Energy Regen
@@ -669,7 +669,7 @@
 
 * 免疫 - 蜂蜇&emsp;X-Sting
 	`stats/effects/fu_immunityeffects/beestingimmunity`
-* 免疫 - 精神错乱和黑暗&emsp;Immunity - Insanity and Darkness
+* 免疫 - 狂乱和黑暗&emsp;Immunity - Insanity and Darkness
 	`stats/effects/fu_immunityeffects/darklightimmunity`
 * 免疫 - 黑暗&emsp;Immunity - Darkness
 	`stats/effects/fu_immunityeffects/darknessimmunity`
@@ -685,7 +685,7 @@
 	`stats/effects/fu_immunityeffects/ffextremeradiationimmunityicon`
 * 免疫所有 - 重力雨&emsp;X-Grav
 	`stats/effects/fu_immunityeffects/gravrainimmunity`
-* 免疫 - 精神错乱&emsp;Immunity - Insanity
+* 免疫 - 狂乱&emsp;Immunity - Insanity
 	`stats/effects/fu_immunityeffects/insanityimmunity`
 * 免疫 - 脓液&emsp;Pus Proof
 	`stats/effects/fu_immunityeffects/pusimmunity`
@@ -748,7 +748,7 @@
 	`stats/effects/fu_tileeffects/poison_effects/sulphuricacideffect/sulphuricacideffect`
 	［来源］硫酸土块？？
 &emsp;
-* 精神错乱&emsp;Insane&emsp;★★★
+* 狂乱&emsp;Insane&emsp;★★★
 	`stats/effects/fu_tileeffects/specialty_effects/insanity/insanity & 2`
 	［来源］阿托罗斯的一些物块？
 * 消极瘴气。-阻碍压强保护和治疗。&emsp;Negative Miasma - Blocks pressure protection and healing
@@ -1051,7 +1051,7 @@
 * 蜂蜇&emsp;Stinging, Sting
 * 反伤&emsp;Thorns
 * 狂暴&emsp;Rage
-* 精神错乱&emsp;
+* 狂乱&emsp;
 * 恐惧 & 狩猎&emsp;Terrified & Hunted&emsp;erchiussickness & 2
 * 减速&emsp;Slow
 * 滑行&emsp;Slide

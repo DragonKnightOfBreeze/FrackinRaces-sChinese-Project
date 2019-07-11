@@ -1,7 +1,0 @@
-- op: replace
-  path: /effects
-  value:
-  - - effect: meat_cooked
-- op: replace
-  path: /description
-  value: 'Pass the barbecue sauce! ^orange;Type: Cooked Meat^reset;'

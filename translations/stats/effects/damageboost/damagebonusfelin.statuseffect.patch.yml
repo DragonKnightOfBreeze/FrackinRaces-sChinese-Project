@@ -1,4 +1,0 @@
-- op: replace
-  path: /label
-  rawValue$: Dmg+
-  value: 伤害+

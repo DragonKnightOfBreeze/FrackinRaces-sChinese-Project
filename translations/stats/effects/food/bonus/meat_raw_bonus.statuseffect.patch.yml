@@ -1,5 +1,0 @@
-- op: replace
-  path: /label
-  rawValue$: Mmmmm, tasty raw meat!
-  ##@ @NotTranslate
-  value: Mmmmm, tasty raw meat!

@@ -1,0 +1,34 @@
+- op: replace
+  path: /charCreationTooltip/description
+  rawValue$: |-
+    Effective, light combat droids. Fragile, but resistant to radiation and poison. Capable with swords and assault rifles.
+    Diet: Robotic
+
+    ^orange;Perks^reset;:
+    +^green;15%^reset; Energy, +^green;10%^reset; Dmg, +^green;10%^reset; Speed
+    Resist: ^green;40%^reset; Poison, ^green;40%^reset; Radiation
+    ^green;+250% Max Food^reset;
+    Immune: Poison, Breath
+
+    ^orange;Weapons^reset;:
+    Broadsword/Shortsword: +^green;2%^reset; Crit Chance
+    Assault Rifle: +^green;25%^reset; Crit Dmg
+
+    ^red;Weaknesses^reset;:
+    Weak: -^red;25%^reset; Physical, -^red;40%^reset;Electric
+  value: |-
+    高效的轻型战斗机器人，脆弱，但是耐辐射和毒素。擅长使用剑和突击步枪。
+
+    食性：机械食性
+
+    ^orange;天赋^reset;：
+    能量上限+^green;15%^reset;，伤害+^green;10%^reset;，移动速度+^green;10%^reset;
+    抗性：^green;40%^reset;毒素抗性，^green;40%^reset;放射抗性
+    免疫：中毒&窒息&饥饿
+
+    ^orange;武器^reset;：
+    宽剑/短剑：暴击几率+^green;2%^reset;
+    突击步枪：暴击伤害+^green;25%^reset;
+
+    ^red;弱点^reset;：
+    抗性：^red;-25%^reset;物理抗性，^red;-40%^reset;电系抗性

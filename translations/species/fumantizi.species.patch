@@ -1,0 +1,45 @@
+- op: replace
+  path: /charCreationTooltip/description
+  rawValue$: |-
+    Beetle-like omnivorous bipeds with tough chitin plates and a love for the exuberant.
+
+    Diet: Omnivorous
+
+    ^orange;Perks^reset;:
+    ^green;+5^reset; Protection, ^green;+50%^reset; Max Food
+    ^green;+30%^reset; Knockback Resistance
+    Resist: ^green;20%^reset;Electric, Radioactive
+
+    ^orange;Environment^reset;:
+    Gain additional energy and protection in ^green;Jungles, Deserts and Sulphuric^reset; biomes
+
+    ^orange;Weapons^reset;:
+    Short Spear/Short Sword (+Shield): ^green;+20%^reset; Damage, ^green;+20%^reset; Protection
+    Bow/Crossbow: ^green;+10%^reset; Protection,^green;+10%^reset; Damage
+    Shield: ^green;+2%^reset; Shield Bash, ^green;+2^reset; Shield Push distance
+    Perfect Block restores ^green;health and ^green;20%^reset; shield stamina^reset;
+
+    ^red;Weaknesses^reset;:
+    Poor traders (^red;-25%^reset; Charisma penalty)
+    ^red;-30%^reset; Fire, ^red;-20%^reset; Ice
+  value: |-
+    外形像甲虫一样的杂食性两足种族。拥有坚硬的几丁质外壳，总是元气满满。
+
+    食性：杂食性
+
+    ^orange;天赋^reset;：
+    +^green;5^reset;防御 +^green;30%^reset;击退抗性
+    抗性：^green;20%^reset;电系&放射抗性
+
+    ^orange;环境^reset;：
+    ^green;丛林/沙漠/硫酸^reset;生态：获得额外的能量和防御
+
+    ^orange;武器^reset;：
+    短矛/短剑（+盾牌）：+^green;20%^reset;伤害，+^green;20%^reset;防御
+    弓/弩：+^green;10%^reset;防御，+^green;10%^reset;伤害
+    盾牌：+^green;2%^reset;盾牌反伤，+^green;2^reset;盾牌击退距离
+    完美格挡回复^green;生命和^green;20%^reset;盾牌耐久^reset;
+
+    ^red;弱点^reset;：
+    交易苦手(-^red;25%^reset;魅力惩罚)
+    抗性：^red;-30%^reset;火炎抗性，^red;-20%^reset;寒气抗性

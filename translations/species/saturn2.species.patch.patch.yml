@@ -1,9 +1,0 @@
-- op: replace
-  path: /charCreationTooltip/description
-  value: |-
-    A winged, moth-like race from far across the stars. Nocturnal. Well suited to combat.
-    食性：Herbivore
-    ^orange;天赋^reset;： +^green;10%^reset; Health +^green;15%^reset; Jump Boost 抗性：^green;15%^reset; Shadow and Cosmic Tech: ^green;Saturnian Flight - build in [C] menu^reset;
-    ^orange;环境^reset;： On ^green;Lush, Forest, Primeval and Rainforest^reset; biomes you gain +^green;25%^resset; health.
-    ^orange;武器^reset;： Wand/Staff: +^green;20%^reset; protection Bow/Crossbow:+^green;5% Crit Chance, +5 Crit Damage^reset; Scythe:+^green;12% damage^reset;
-    ^red;弱点^reset;： -^red;25%^reset; Energy, 虚弱：^red;35%^reset; Fire, ^red;20%^reset; Poison, ^red;15%^reset; Physical

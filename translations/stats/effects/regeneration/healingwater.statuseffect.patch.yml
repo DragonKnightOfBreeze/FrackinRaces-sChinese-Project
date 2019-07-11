@@ -1,3 +1,0 @@
-- op: replace
-  path: /scripts/0
-  value: regen_healingwater.lua

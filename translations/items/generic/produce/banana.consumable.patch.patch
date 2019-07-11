@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'A genetically enhanced banana. ^green;Type: Fruit^reset;'
+  value: |-
+    一根转基因香蕉。
+    ^green;类型：素食^reset;

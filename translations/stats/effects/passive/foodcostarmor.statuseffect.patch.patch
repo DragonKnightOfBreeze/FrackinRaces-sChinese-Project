@@ -1,0 +1,6 @@
+- op: replace
+  path: /label
+  rawValue$: Thelusian Battlestance - Push Up, Jump or Down to swap stances
+  value: |-
+    瑟卢锡安战斗姿态 - 增加击退。
+    切换姿态：[Jump]/[Down]

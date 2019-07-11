@@ -1,9 +1,0 @@
-- op: replace
-  path: /charCreationTooltip/description
-  value: |-
-    一种高度智能的灵长类动物。这些科学大师是熟练的矿工和敏捷的战士，但受伤时，他们会变成无法阻挡的猛兽。
-    食性：杂食性
-    ^orange;天赋^reset;： +^green;1^reset;物质枪挖掘格数 受伤时^red;损耗能量^reset;但^green;增加防御，伤害和暴击几率^reset; +^green;8%^reset;移动速度，+^green;15%^reset;跳跃力，抗性：^green;30%^reset;寒气抗性，^green;10%^reset;毒素抗性 免疫：泥和丛林泥块
-    ^orange;环境^reset;： 在^green;丛林，原始森林，森林，雨林以及冰雪^reset;生态中获得额外的生命值和防御
-    ^orange;武器^reset;： 拳套：+^green;1%^reset;暴击几率 锤：+^green;10%^reset;伤害 激光挖掘器：+^green;50%^reset;伤害 磁力珠/投掷武器: +^green;12%^reset;伤害，+防御
-    ^red;弱点^reset;： 新陈代谢需要更多的食物 虚弱：^red;30%^reset;火炎，^red;10%^reset;射线

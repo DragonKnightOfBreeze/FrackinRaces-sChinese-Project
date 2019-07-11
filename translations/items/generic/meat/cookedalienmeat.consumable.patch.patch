@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'A slab of delicious cooked alien meat. ^orange;Type: Cooked Meat^reset;'
+  value: |-
+    一块煮熟的、美味的外星肉。
+    ^orange;类型：熟肉食^reset;

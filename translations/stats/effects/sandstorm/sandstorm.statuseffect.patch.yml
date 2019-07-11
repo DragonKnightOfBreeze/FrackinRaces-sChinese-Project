@@ -1,3 +1,0 @@
-- op: replace
-  path: /blockingStat
-  value: sandstormImmunity

@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue$: 'A super sweet jam made of pineapples. ^green;Type: Herbivore^reset;'
+  value: |-
+    一罐超级甜的菠萝果酱。
+    ^green;类型：素食^reset;

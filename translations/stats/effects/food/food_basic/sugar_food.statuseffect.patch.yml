@@ -1,7 +1,0 @@
-name: sugar_food
-effectConfig:
-  foodTypes:
-  - HIGH_GLUCOSE
-defaultDuration: 0
-scripts:
-- /stats/effects/food/foodBase.lua

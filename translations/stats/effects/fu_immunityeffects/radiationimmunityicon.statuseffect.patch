@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  rawValue$: Rad Shld
+  value: 辐射护盾

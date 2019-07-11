@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  rawValue$: Sugar rush!
+  value: 糖果大战！

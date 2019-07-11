@@ -1,8 +1,0 @@
-name: fish_plant_meal
-effectConfig:
-  foodTypes:
-  - FISH
-  - PLANT
-defaultDuration: 0
-scripts:
-- /stats/effects/food/foodBase.lua

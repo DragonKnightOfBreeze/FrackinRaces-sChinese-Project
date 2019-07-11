@@ -1,0 +1,5 @@
+##@ @Fixed
+- op: replace
+  path: /label
+  rawValue$: Cold Immunity
+  value: 极端寒冷免疫

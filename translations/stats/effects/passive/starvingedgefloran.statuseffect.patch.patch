@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  rawValue$: Floran Hunger
+  value: 叶族饥饿

@@ -1,5 +1,9 @@
 package com.windea.mod.starbound.frchs
 
+import com.windea.commons.kotlin.extension.*
+import java.io.*
+import kotlin.text.endsWith
+
 //操作：
 //替换 op: add -> op: replace
 //提取 value?, description, shotdescription, label, ...
@@ -12,5 +16,16 @@ package com.windea.mod.starbound.frchs
 //.statuseffect -> /label
 //.activeitem, .item, .consumable, .tech -> /shotdescription, /description
 
-//忽略：
-///species
+//忽略：species
+
+// fun main() {
+// 	File("translations").walk()
+// 		.forEach {
+// 			if(it.name endsWith ".raceeffect.yml") {
+// 				it.deleteOnExit()
+// 			}
+// 			if(it.name endsWith ".patch.yml") {
+// 				it.renameTo(File(it.path.removeSuffix(".yml")))
+// 			}
+// 		}
+// }

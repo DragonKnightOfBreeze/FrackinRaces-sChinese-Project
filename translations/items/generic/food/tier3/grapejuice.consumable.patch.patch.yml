@@ -1,5 +1,0 @@
-- op: replace
-  path: /description
-  value: |-
-    一杯甜甜的葡萄汁。
-    ^green;类型：素食^reset;

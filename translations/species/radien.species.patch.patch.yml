@@ -1,9 +1,0 @@
-- op: replace
-  path: /charCreationTooltip/description
-  value: |-
-    起源未知的无性放射性生物，容易害羞。其主要武器是他们的尖腿，这使他们在近战中兼具速度和力量。该种族适用于生存或硬核模式。
-    食性：什么都吃
-    ^orange;天赋^reset;： 能量上限+^green;10%^reset;，移动速度+^green;5%^reset; 抗性：火炎抗性+^green;25%^reset;，放射抗性+^green;50%^reset; 免疫：辐射烧伤
-    ^orange;环境^reset;： ^green;辐射^reset;生态：伤害和能量回复速度+^green;15%^reset; 饱腹时获得极高增益。饥饿使你虚弱。
-    ^orange;武器^reset;： 刺剑、短剑、短矛、匕首：暴击几率+^green;1%^reset;，暴击伤害+^green;4%^reset;
-    ^red;弱点^reset;： ^red;快速饥饿^reset; 生命值上限-^red;5%^reset; 虚弱：火炎抗性-^red;40%^reset;，毒素抗性-^red;25%^reset;

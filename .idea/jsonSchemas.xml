@@ -24,13 +24,13 @@
           <value>
             <SchemaInfo>
               <option name="name" value="patch.schema" />
-              <option name="relativePathToSchema" value="schema/patch.schema.yml" />
+              <option name="relativePathToSchema" value="reference/schema/patch.schema.yml" />
               <option name="schemaVersion" value="JSON schema version 7" />
               <option name="patterns">
                 <list>
                   <Item>
                     <option name="pattern" value="true" />
-                    <option name="path" value="translations/*.patch.yml" />
+                    <option name="path" value="translations/*.patch" />
                     <option name="mappingKind" value="Pattern" />
                   </Item>
                 </list>

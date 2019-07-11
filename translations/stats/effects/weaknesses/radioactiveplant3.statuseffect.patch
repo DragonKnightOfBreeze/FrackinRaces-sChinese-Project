@@ -1,0 +1,4 @@
+##@ @NotTranslate
+- op: replace
+  path: /label
+  value: 'Radioactive Plant III: Standing near the X''i bulbs is hazardous to carbon-based life. ^green;X''ians get Health and Hunger regeneration^reset;.'

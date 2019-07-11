@@ -1,5 +1,0 @@
-- op: replace
-  path: /description
-  value: |-
-    一瓶用霓虹瓜制成的美味的果酱。
-    ^green;类型：素食^reset;

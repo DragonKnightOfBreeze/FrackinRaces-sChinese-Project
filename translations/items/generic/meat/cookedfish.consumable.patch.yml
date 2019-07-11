@@ -1,7 +1,0 @@
-- op: replace
-  path: /effects
-  value:
-  - - effect: fish_food
-- op: replace
-  path: /description
-  value: 'A tasty fillet of cooked fish. ^orange;Type: Fish^reset;'
