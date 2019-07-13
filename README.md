@@ -24,3 +24,4 @@ Mod概述：见[translations/_metadata](translations/_metadata)。
     * `##@ @Fixed` 为了确保特殊名词之间的统一性，修改过后的已确定原本含义的翻译。
 * 仅包含已翻译的种族资料文件（即`/translations/species`目录下的文件）。
 * 如想翻译其他种族资料，请从FR项目自行添加，并转为yaml文件。
+* 非创意工坊的Mod下载地址（下载后直接放到游戏的mods文件夹下即可）：`release/FR SChinese.pak`。

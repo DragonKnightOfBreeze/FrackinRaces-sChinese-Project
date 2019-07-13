@@ -20,7 +20,7 @@ private fun convertFiles() {
 		.forEach {
 			println("转化文件：${it.path}")
 			val data = YamlLoader.instance().fromFile(it.path, Any::class.java)
-			JsonLoader.instance().toFile(data, it.path)
+			JsonLoader.instance().configureGsonBuilder { b->b.disableHtmlEscaping() } .toFile(data, it.path)
 		}
 	println("已生成所有文件。")
 }

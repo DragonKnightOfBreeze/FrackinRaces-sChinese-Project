@@ -1,12 +1,12 @@
 author: DragonKnightOfBreeze
 description: |-
-  Frackin' Races汉化Mod
-
   [h1]说明[/h1]
 
-  订阅了FU的汉化Mod后，游玩FU时可能还会有部分未翻译的文本，例如食物描述、种族介绍等。
-  这些文本基本都是Frackin' Races的内容，考虑到FU和FR基本都会一并订阅，在这里顺便翻译了FR的文本。
+  订阅了FU的汉化Mod后，游玩FU时可能还会有部分未翻译的文本，例如食物描述、种族资料等。
+  这些文本基本都是Frackin' Races的内容，而非FU本身的内容。
+  考虑到FU和FR基本都会一并订阅，在这里顺便翻译了FR的文本。
   Mod本身不包含字体包，请自行安装。
+  关于非创意工坊的Mod下载地址，请转至项目地址。
 
   [h1]相关链接[/h1]
 
@@ -23,11 +23,11 @@ description: |-
   Sayter - FU作者
   Project Sky - FU汉化Mod作者
   以及其他协助翻译的小伙伴们
-friendlyName: FR SChinese Mod
+friendlyName: Frackin' Races汉化Mod
 includes:
 - FrackinRaces
-link: steam:#url/CommunityFilePage/1575016526
-name: FR SChinese
-steamContentId: 1575016526
-version: 1.0.4
-priority: 10000
+link: steam://url/CommunityFilePage/1575016526
+name: FR sChinese Mod
+steamContentId: "1575016526"
+version: "1.0.4"
+priority: 1000
