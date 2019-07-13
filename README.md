@@ -1,19 +1,17 @@
 # 概述
 
-Frakin Races的汉化mod。
+Frackin' Races汉化Mod。
 
-项目地址：[Github](https://github.com/DragonKnightOfBreeze/FrackinRaces-sChinese-Project)。
+Mod概述：见[translations/_metadata](translations/_metadata)。
 
-Mod概述：[translations/_metadata](translations/_metadata)。
+如有问题，请发Issue。如想合作，请发Issue或Pull Request。
 
-如想合作，请发Issue或Pull Request。
-如有问题，请发Issue。
+# 相关链接
 
-# 相关信息
-
-* 作者：微风的龙骑士 风游迩  
-* Steam：微风的龙骑士 风游迩
-* Github：DragonKnightOfBreeze   
+* [本Mod的项目地址](https://github.com/DragonKnightOfBreeze/FrackinRaces-sChinese-Project)
+* [FU汉化Mod的项目地址](https://gitlab.imsky.cc:666/ProjectSky/FrackinUniverse-sChinese-Project)
+* [Frackin' Universe的项目地址](https://github.com/sayterdarkwynd/FrackinUniverse)
+* [Frackin' Race的项目地址](https://github.com/sayterdarkwynd/FrackinRaces)
 
 # 说明
 
