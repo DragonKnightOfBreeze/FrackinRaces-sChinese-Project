@@ -1,4 +1,4 @@
-package com.windea.mod.starbound.frchs
+package com.windea.mod.starbound.frchs.script
 
 import com.windea.commons.kotlin.extension.*
 import com.windea.commons.kotlin.loader.*
@@ -59,8 +59,7 @@ fun main() {
 		从指定目录中选择需要翻译的文件。
 		危险操作，是否执行？（Y/N）
 	""".trimIndent())
-	if(readLine()?.toLowerCase() == "y") {
-		deleteFiles()
-		convertFiles()
-	}
+	if(readLine()?.toLowerCase() != "y") return
+	deleteFiles()
+	convertFiles()
 }

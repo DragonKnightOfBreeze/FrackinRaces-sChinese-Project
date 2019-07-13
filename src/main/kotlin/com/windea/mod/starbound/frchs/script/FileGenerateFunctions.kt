@@ -1,5 +1,6 @@
-package com.windea.mod.starbound.frchs
+package com.windea.mod.starbound.frchs.script
 
+import com.windea.commons.kotlin.extension.*
 import com.windea.commons.kotlin.loader.*
 import java.io.*
 
@@ -7,7 +8,7 @@ private const val relTranslationsPath = "translations"
 
 private const val relPackagePath = "package"
 
-private val convertFileNames = arrayOf("patch", "yml", "yaml")
+private val convertFileNames = arrayOf("patch", "yml", "yaml", "_metadata")
 
 private fun copyFiles() {
 	File(relTranslationsPath).copyRecursively(File(relPackagePath), true)
@@ -15,7 +16,7 @@ private fun copyFiles() {
 
 private fun convertFiles() {
 	File(relPackagePath).walk()
-		.filter { it.extension in convertFileNames }
+		.filter { it.name endsWith convertFileNames }
 		.forEach {
 			println("转化文件：${it.path}")
 			val data = YamlLoader.instance().fromFile(it.path, Any::class.java)
@@ -28,10 +29,7 @@ private fun convertFiles() {
 fun main() {
 	println("""
 		生成mod包包含的文件到指定目录。
-		是否执行？（Y/N）
 	""".trimIndent())
-	if(readLine()?.toLowerCase() == "y") {
-		copyFiles()
-		convertFiles()
-	}
+	copyFiles()
+	convertFiles()
 }

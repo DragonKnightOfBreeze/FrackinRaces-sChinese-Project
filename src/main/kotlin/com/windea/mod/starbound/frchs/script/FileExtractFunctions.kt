@@ -1,4 +1,4 @@
-package com.windea.mod.starbound.frchs
+package com.windea.mod.starbound.frchs.script
 
 import com.windea.commons.kotlin.extension.*
 import java.io.*
