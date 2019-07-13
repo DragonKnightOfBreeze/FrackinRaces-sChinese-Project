@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'A bowl of rather bland boiled pearlpeas. ^green;Type: Herbivore^reset;'
+  rawValue$: "A bowl of rather bland boiled pearlpeas. ^green;Type: Herbivore^reset;"
   value: |-
     一碗清淡的煮珍珠豆。
     ^green;类型：素食^reset;

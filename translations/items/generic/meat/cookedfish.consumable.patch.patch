@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'A tasty fillet of cooked fish. ^orange;Type: Fish^reset;'
+  rawValue$: "A tasty fillet of cooked fish. ^orange;Type: Fish^reset;"
   value: |-
     一块美味的熟鱼片。
     ^orange;类型：熟肉食^reset;

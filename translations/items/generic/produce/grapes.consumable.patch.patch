@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'Grapes, nature''s snackfood. ^green;Type: Fruit^reset;'
+  rawValue$: "Grapes, nature''s snackfood. ^green;Type: Fruit^reset;"
   value: |-
     葡萄。天然的糖果。
     ^green;类型：素食^reset;

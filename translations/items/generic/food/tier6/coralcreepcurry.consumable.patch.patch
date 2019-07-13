@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'A mildly spicy curry made with the coralcreep fruit. ^green;Type: Herbivore^reset;'
+  rawValue$: "A mildly spicy curry made with the coralcreep fruit. ^green;Type: Herbivore^reset;"
   value: |-
     一份用珊瑚果制作的微辣咖喱。
     ^green;类型：素食^reset;

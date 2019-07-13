@@ -17,15 +17,3 @@ import kotlin.text.endsWith
 //.activeitem, .item, .consumable, .tech -> /shotdescription, /description
 
 //忽略：species
-
-// fun main() {
-// 	File("translations").walk()
-// 		.forEach {
-// 			if(it.name endsWith ".raceeffect.yml") {
-// 				it.deleteOnExit()
-// 			}
-// 			if(it.name endsWith ".patch.yml") {
-// 				it.renameTo(File(it.path.removeSuffix(".yml")))
-// 			}
-// 		}
-// }

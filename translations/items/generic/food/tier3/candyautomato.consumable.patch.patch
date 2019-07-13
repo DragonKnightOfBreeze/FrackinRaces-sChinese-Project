@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'It''s like an automato flavoured lollipop! Which is kind of weird. ^yellow;Type: Robot^reset;'
+  rawValue$: "It''s like an automato flavoured lollipop! Which is kind of weird. ^yellow;Type: Robot^reset;"
   value: |-
     它就像一个硬番茄的棒棒糖！有点奇怪。
     ^yellow;类型：机械食物^reset;

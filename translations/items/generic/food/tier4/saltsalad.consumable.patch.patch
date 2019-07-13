@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'Coralcreep, reefpod and pearlpea make for a salty, crunchy salad. ^green;Type: Herbivore^reset;'
+  rawValue$: "Coralcreep, reefpod and pearlpea make for a salty, crunchy salad. ^green;Type: Herbivore^reset;"
   value: |-
     珊瑚果、礁荚和珍珠豆制成的爽脆的鲜味沙拉。
     ^green;类型：素食^reset;

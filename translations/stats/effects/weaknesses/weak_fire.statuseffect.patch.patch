@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue$: 'Weak : Fire'
+  rawValue$: "Weak : Fire"
   value: 抗性：火炎

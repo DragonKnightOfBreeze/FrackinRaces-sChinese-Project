@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'Crispy on the outside, hot as molten lava on the inside. ^green;Type: Herbivore^reset;'
+  rawValue$: "Crispy on the outside, hot as molten lava on the inside. ^green;Type: Herbivore^reset;"
   value: |-
     外皮酥脆，里面和熔岩一样烫。
     ^green;类型：素食^reset;

@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'The best reason to crack open a coconut. The taste is amazing. ^green;Type: Herbivore^reset;'
+  rawValue$: "The best reason to crack open a coconut. The taste is amazing. ^green;Type: Herbivore^reset;"
   value: |-
     打开椰子的最好的理由。味道好极了。
     ^green;类型：素食^reset;

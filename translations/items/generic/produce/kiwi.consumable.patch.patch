@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'Soft texture and sweet flavour, yum. ^green;Type: Fruit^reset;'
+  rawValue$: "Soft texture and sweet flavour, yum. ^green;Type: Fruit^reset;"
   value: |-
     柔软的质地和甜蜜的味道，好吃。
     ^green;类型：素食^reset;

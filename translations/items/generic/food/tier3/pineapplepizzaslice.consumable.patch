@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$:  'More toppings! ^green;Type: Meat, Fruit^reset;'
+  rawValue$: "More toppings! ^green;Type: Meat, Fruit^reset;"
   value: |-
     好多配料！
     ^green;类型：水果^reset;

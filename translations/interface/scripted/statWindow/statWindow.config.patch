@@ -1,10 +1,10 @@
 - op: replace
   path: /gui/windowtitle/title
-  rawValue$: ' Character Status'
+  rawValue$: " Character Status"
   value: 角色属性
 - op: replace
   path: /gui/windowtitle/subtitle
-  rawValue$: ' Information about the character'
+  rawValue$: " Information about the character"
   value: 角色信息
 - op: replace
   path: /gui/immunitiesLabel/value

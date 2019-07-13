@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'Boltbulb! Surprisingly soft. ^yellow;Type: Robot^reset;'
+  rawValue$: "Boltbulb! Surprisingly soft. ^yellow;Type: Robot^reset;"
   value: |-
     钉丝球！令人惊讶的软。
     ^yellow;类型：机械食物^reset;

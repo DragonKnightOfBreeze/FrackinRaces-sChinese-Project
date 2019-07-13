@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'A tangy fruit with a highly sought flavor. ^green;Type: Fruit^reset;'
+  rawValue$: "A tangy fruit with a highly sought flavor. ^green;Type: Fruit^reset;"
   value: |-
     一块泡泡糖口味的霓虹瓜。
     ^green;类型：素食^reset;

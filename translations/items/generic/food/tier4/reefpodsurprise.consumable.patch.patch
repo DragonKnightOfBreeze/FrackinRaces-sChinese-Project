@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'A lot more sour than you might have expected. Surprise! ^green;Type: Herbivore^reset;'
+  rawValue$: "A lot more sour than you might have expected. Surprise! ^green;Type: Herbivore^reset;"
   value: |-
     可能比你想象的还要酸很多。惊喜！
     ^green;类型：素食^reset;

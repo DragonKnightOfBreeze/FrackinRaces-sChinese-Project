@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'Delicious rolls of rice and seaweed. A Hylotl favourite. ^orange;Type: Cooked Meat^reset;'
+  rawValue$: "Delicious rolls of rice and seaweed. A Hylotl favourite. ^orange;Type: Cooked Meat^reset;"
   value: |-
     美味的海带米饭卷。鲛人最爱的食物之一。
     ^orange;类型：熟肉食^reset;

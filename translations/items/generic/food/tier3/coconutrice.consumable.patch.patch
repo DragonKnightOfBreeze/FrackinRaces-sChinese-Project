@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue$: 'You can''t see the coconut, but it''s there! The taste is amazing. ^green;Type: Herbivore^reset;'
+  rawValue$: "You can''t see the coconut, but it''s there! The taste is amazing. ^green;Type: Herbivore^reset;"
   value: |-
     你看不到椰子，但它就在那！
     ^green;类型：素食^reset;
