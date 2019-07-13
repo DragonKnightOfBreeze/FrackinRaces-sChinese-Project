@@ -34,7 +34,7 @@
     ^orange;天赋^reset;：
     +^green;10%^reset;能量上限
     抗性：^green;40%^reset;辐射抗性，^green;10%^reset;冷气&电系抗性，^green;7%^reset;射线抗性
-    科技：生成球茎。在[C]键菜单中制作种族科技激活器。
+    科技：生成种子球茎。在[C]键菜单中制作种族科技激活器。
     免疫：辐射烧伤
 
     ^orange;环境^reset;：
@@ -44,7 +44,7 @@
     可以使用完整的种族科技。
 
     ^orange;武器^reset;：
-    X'i武器: +^green;1%^reset;暴击，+^green;14%^reset;防御
+    锡安武器: +^green;1%^reset;暴击，+^green;14%^reset;防御
 
     ^red;弱点^reset;：
     ^red;快速饥饿^reset;

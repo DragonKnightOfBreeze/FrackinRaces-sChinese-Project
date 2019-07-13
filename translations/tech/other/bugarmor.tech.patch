@@ -5,4 +5,6 @@
 - op: replace
   path: /description
   rawValue$: Push [Up],[Down] or [Jump] for combat stances. ^green;[F]^reset;
-  value: 按[上键]，[下键]或[跳跃键]切换战斗姿态。^green;[F]^reset;
+  value: |-
+    使用[Up]、[Down]或[Jump]切换战斗姿态。
+    激活：^green;[F]^reset;

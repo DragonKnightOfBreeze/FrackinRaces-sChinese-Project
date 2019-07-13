@@ -5,4 +5,6 @@
 - op: replace
   path: /description
   rawValue$: Use ^green;[F]^reset; to slash with razor-sharp claws. Hunting damage.
-  value: 用^green;[F]^reset;挥舞利爪。造成狩猎伤害。
+  value: |-
+    挥舞利爪，造成狩猎伤害。
+    使用：^green;[F]^reset;

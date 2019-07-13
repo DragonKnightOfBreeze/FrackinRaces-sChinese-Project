@@ -5,4 +5,6 @@
 - op: replace
   path: /description
   rawValue$: Use ^green;[F]^reset; to dig with specially adapted claws.
-  value: 按^green;[F]^reset;来用特殊适应的爪子来挖掘。
+  value: |-
+    使用经过特殊适应的爪子进行挖掘。
+    使用：^green;[F]^reset;

@@ -24,7 +24,7 @@ definitions:
             Immune:
               description: 免疫。
               type: string
-      Enviroment:
+      Environment:
         description: 环境。
         oneOf:
         - type: string

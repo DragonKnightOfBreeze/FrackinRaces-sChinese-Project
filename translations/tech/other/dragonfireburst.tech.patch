@@ -5,4 +5,6 @@
 - op: replace
   path: /description
   rawValue$: Breathe Fire! Use ^green;[F]^reset;.
-  value: 火焰吐息！^green;[F]^reset;。
+  value: |-
+    喷射火焰！
+    使用：^green;[F]^reset;。
