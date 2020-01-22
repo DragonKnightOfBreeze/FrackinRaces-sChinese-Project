@@ -1,4 +1,4 @@
-package com.windea.mod.starbound.frchs.script
+package com.windea.mod.starbound.frchs
 
 import com.fasterxml.jackson.core.*
 import com.fasterxml.jackson.databind.*
@@ -17,12 +17,29 @@ private const val packagePath = "package"
 private const val drive = "D:"
 private const val projectPath = "D:\\My Documents\\My Projects\\Managed\\FrackinRaces-sChinese-Project"
 private const val starBoundPath = "D:\\Programs\\Steam\\steamapps\\common\\Starbound"
-private const val frProjectPath = "https://github.com/sayterdarkwynd/FrackinRaces"
+private const val frProjectPath = "https://github.com/sayterdarkwynd/FrackinRaces.git"
 
 private const val pakPath = "release\\FrChinese.pak"
 private const val assetPackerPath = "win32\\asset_packer.exe"
 
-private val filterRules = arrayOf(
+private val notDeleteFileExtensions = arrayOf(
+	"activeitem", "activeitem.patch",
+	"consumable", "consumable.patch",
+	"item", "item.patch",
+	"beamaxe", "beamaxe.patch",
+	"object", "object.patch",
+	"questtemplate", "questtemplate.patch",
+	"radiomessages", "radiomessages.patch",
+	"species", "species.patch",
+	"statuseffect", "statuseffect.patch",
+	"tech", "tech.patch",
+	"mmupgradegui.config.","mmupgradegui.config.patch",
+	"mmupgradegui.original.config","mmupgradegui.original.config.patch",
+	"statWindow.config","statWindow.config.patch",
+	"extraStatsWindow.config","extraStatsWindow.config.patch"
+)
+
+private val selectRules = arrayOf(
 	"*.activeitem" to arrayOf(
 		"/itemTags/-",
 		"/shotdescription",
@@ -36,61 +53,45 @@ private val filterRules = arrayOf(
 		"/title",
 		"/text",
 		"/completionText",
-		"scriptConfig/descriptions/{step}"
+		"scriptConfig/descriptions/{descriptionName}"
 	),
 	"*.radiomessages" to arrayOf(
-		"/{message}/text"
+		"/{messageName}/text"
 	),
 	"*.species" to arrayOf(
 		"/charCreationTooltip/description"
 	),
-	"statuseffect" to arrayOf(
+	"*.statuseffect" to arrayOf(
 		"/label"
 	),
-	"tech" to arrayOf(
+	"*.tech" to arrayOf(
 		"/shotdescription",
 		"/description"
 	),
-	"mmupgradegui.config" to arrayOf(
+	"*.mmupgradegui.config" to arrayOf(
 		"/upgrades/{size}/description"
 	),
-	"mmupgradegui.original.config" to arrayOf(
+	"*.mmupgradegui.original.config" to arrayOf(
 		"/upgrades/{size}/description"
 	),
-	"statsWindow.config" to arrayOf(
+	"*.statsWindow.config" to arrayOf(
 		"/gui/windowtitle/title",
 		"/gui/windowtitle/subtitle",
 		"/gui/immunitiesLabel/value",
 		"/statuses/{statusName}/name"
 	),
-	"extraStatsWindow.config" to arrayOf(
+	"*.extraStatsWindow.config" to arrayOf(
 		"/gui/title/value",
 		"/tooltipBoxes/-/tooltip",
 		"/defaultTooltip"
 	)
 )
 
-private val selectFileExtensions = arrayOf(
-	"activeitem", "activeitem.patch",
-	"consumable", "consumable.patch",
-	"item", "item.patch",
-	"beamaxe", "beamaxe.patch",
-	"object", "object.patch",
-	"questtemplate", "questtemplate.patch",
-	"radiomessages", "radiomessages.patch",
-	"species", "species.patch",
-	"statuseffect", "statuseffect.patch",
-	"tech", "tech.patch",
-	"mmupgradegui.config",
-	"mmupgradegui.original.config",
-	"statsWindow.config",
-	"extraStatsWindow.config"
+private val notConvertFileExtensions = arrayOf(
+	"_previewimage",
+	"_LICENSE"
 )
 
-private val convertFileExtensions = arrayOf(
-	"patch",
-	"_metadata"
-)
 
 fun main() {
 	configure()
@@ -99,19 +100,21 @@ fun main() {
 	//命令：git clone https://github.com/sayterdarkwynd/FrackinRaces ./origin
 	//getOrigin()
 
+	//删除origin目录下不必要的文件
+	deleteFiles()
+
 	//根据过滤规则，将origin目录下的文件合并到translations目录下
 	//如果不是patch文件，需要改为patch文件
 	//selectFiles()
 
 	//将translations目录下的翻译文件提取到package目录下
-	extractFiles()
+	//extractFiles()
 
 	//打包package目录下的所有文件为release/FrChinese.pak
-	//命令：
-	//cd {starboundPath}\win32
-	//asset_packer.exe "{projectPath}\package" "{projectPath}\FrChinese.pak"
-	generatePak()
+	//命令：{starboundPath}\win32\asset_packer.exe "{projectPath}\package" "{projectPath}\FrChinese.pak"
+	//generatePak()
 }
+
 
 private fun configure() {
 	//如何保证字符串的输出格式的一致性？
@@ -136,46 +139,54 @@ private fun getOrigin() {
 	println("已克隆FR项目仓库到 $originPath 目录。")
 }
 
+private fun deleteFiles(){
+	//删除非必要的文件
+	originPath.toFile().walk()
+		.filterNot { file -> !file.isFile || file.name endsWithIc notDeleteFileExtensions }
+		.forEach {
+			file->file.delete()
+			println("\t已删除文件：${file.path}")
+		}
+	//删除空目录
+	originPath.toFile().walkBottomUp()
+		.filter { dir -> dir.isDirectory }
+		.forEach { dir ->
+			dir.delete()
+			println("\t已删除目录：${dir.path}")
+		}
+	println("已删除所有非必要的文件和目录。")
+}
+
 @Suppress("UNCHECKED_CAST")
 private fun selectFiles() {
 	originPath.toFile().walk()
-		.filter { file -> file.isFile && file.name endsWithIc selectFileExtensions }
+		.filter { file -> file.isFile }
 		.forEach { file ->
-			//对于非patch文件
-			val rule = filterRules.first { file.name matchesPath it.first }.second
 			//考虑到starbound json可能包含多行字符串和注释，这里按照yaml格式读取数据
+			//匹配路径时去除.patch后缀
+			val rule = selectRules.first { file.name.removeSuffix(".patch") matchesPath it.first }.second
 			val data = YamlSerializer.instance.load<Any>(file)
 			val selectedData = when(data) {
 				//认为是非patch的配置文件
 				is Map<*, *> -> rule.flatMap { path ->
-					data.deepQuery(path).map { (k, v) ->
-						mapOf(
-							"op" to "replace",
-							"path" to k.switchCaseBy(ReferenceCase.JsonSchema),
-							"rawValue" to v,
-							"translationAnnotation" to "NotTranslated"
-						)
-					}
+					data.deepQueryByPath(path)
 				}
 				//认为是patch文件
-				is List<*> -> (data as List<Map<String, Any?>>).map {
-					//TODO 这里还需要转换value
-					mapOf(
-						"op" to "replace",
-						"path" to it["path"],
-						"rawValue" to it["value"],
-						"translationAnnotation" to "NotTranslated"
-					)
+				is List<*> -> rule.flatMap{path->
+					data.queryAndFilterByPath(path)
 				}
 				//认为不可能发生
 				else -> throw IllegalArgumentException()
 			}
 
-			//合并新文件和旧文件中的数据
-			val oldFile = file.path.replace(originPath, translationsPath).toFile()
-			val newData = if(oldFile.exists()) {
-				val oldData = YamlSerializer.instance.load<List<Map<String, Any?>>>(oldFile)
-				selectedData.innerJoin(oldData) { a, b -> a["path"] == b["path"] }.map { (a, b) ->
+			//如果没有选择到任何数据，则结束这次循环
+			if(selectedData.isEmpty()) return@forEach
+
+			//合并两个文件中的数据
+			val translationFile = file.path.replace(originPath, translationsPath).addSuffix(".patch").toFile()
+			val mergedData = if(translationFile.exists()) {
+				val translationData = YamlSerializer.instance.load<List<Map<String, Any?>>>(translationFile)
+				selectedData.innerJoin(translationData) { a, b -> a["path"] == b["path"] }.map { (a, b) ->
 					mapOf(
 						"op" to "replace",
 						"path" to a["path"],
@@ -195,7 +206,7 @@ private fun selectFiles() {
 			} else {
 				selectedData
 			}
-			YamlSerializer.instance.dump(newData,oldFile)
+			YamlSerializer.instance.dump(mergedData,translationFile)
 		}
 	println("已选择所有必要的文件到 $translationsPath 目录。")
 }
@@ -208,7 +219,7 @@ private fun extractFiles() {
 	//将yaml文件转化为json文件
 	//相信package目录下除了notToConvertFileNames之外，全部需要转换为json文件
 	packagePath.toFile().walk()
-		.filter { file -> file.isFile && file.name endsWithIc convertFileExtensions }
+		.filterNot { file -> !file.isFile || file.name endsWithIc notConvertFileExtensions }
 		.forEach { file ->
 			//转化yaml文件为json文件
 			val data = YamlSerializer.instance.load<Any>(file)
@@ -237,6 +248,71 @@ private fun generatePak() {
 		$starBoundPath\$assetPackerPath "$projectPath\$packagePath" "$projectPath\$pakPath"
 	""".trimIndent())
 	println("已生成pak包。")
+}
+
+
+private fun Map<*,*>.deepQueryByPath(path:String): List<Map<String, Any?>> {
+	return this.deepQuery(path).map { (k, v) ->
+		mapOf(
+			"op" to "replace",
+			"path" to k.switchCaseBy(ReferenceCase.JsonSchema),
+			"rawValue" to v,
+			"translationAnnotation" to "NotTranslated"
+		)
+	}
+}
+
+@Suppress("UNCHECKED_CAST")
+private fun List<*>.queryAndFilterByPath(path:String):List<Map<String,Any?>>{
+	return (this as List<Map<String,Any?>>).flatMap {
+		val pathValue = it["path"].toString()
+		val value = it["value"]
+		if(pathValue matchesReference path){
+			//如果路径匹配，说明value属性的值就是我们要找的值
+			listOf(mapOf(
+				"op" to "replace",
+				"path" to it["path"],
+				"rawValue" to it["value"],
+				"translationAnnotation" to "NotTranslated"
+			))
+		}else if(value is List<*>){
+			//如果路径不匹配，但value属性是列表，说明我们需要进一步到value属性中勋章我们要找的值
+			value.deepQuery(path.removePrefix(pathValue)).map { (k, v) ->
+				mapOf(
+					"op" to "replace",
+					"path" to k.switchCaseBy(ReferenceCase.JsonSchema),
+					"rawValue" to v,
+					"translationAnnotation" to "NotTranslated"
+				)
+			}
+		}else if(value is Map<*,*>){
+			//同上
+			value.deepQuery(path.removePrefix(pathValue)).map { (k, v) ->
+				mapOf(
+					"op" to "replace",
+					"path" to pathValue + "/" + k.switchCaseBy(ReferenceCase.JsonSchema),
+					"rawValue" to v,
+					"translationAnnotation" to "NotTranslated"
+				)
+			}
+		}else{
+			//说明不匹配
+			listOf()
+		}
+	}
+}
+
+private infix fun String.matchesReference(pattern:String):Boolean{
+	//仅供项目使用，不考虑所有情况
+	val subPaths = this.removePrefix("/").split("/")
+	val subPatterns = pattern.removePrefix("/").split("/")
+	return subPaths.zip(subPatterns).all {(a,b)->
+		when{
+			b.startsWith("{") && b.endsWith("}") -> true
+			b == "-" || b.startsWith("[") && b.endsWith("]") -> true
+			else -> a== b
+		}
+	}
 }
 
 private infix fun String.matchesPath(pattern: String): Boolean {
