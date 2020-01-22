@@ -1,4 +1,0 @@
-- op: replace
-  path: /label
-  rawValue$: Health Vampire - drain enemy health on hits during nighttime or in darkness.
-  value: 吸血 - 在夜间或者夜间，可以通过攻击吸取敌人生命。

@@ -1,5 +1,5 @@
-##@ @NotSure
 - op: replace
   path: /label
-  rawValue$: Ahhh, this fuels your power cells.
+  rawValue: Ahhh, this fuels your power cells.
   value: 啊，能量正流向你的动力电池。
+  translationAnnotation: Unsure

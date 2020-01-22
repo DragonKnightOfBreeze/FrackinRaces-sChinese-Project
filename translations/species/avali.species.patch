@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Adorable fuzzy space raptors with wings. Highly adapted to arctic climates and low gravity, they can use the wind to control their falls, and they are deadly with heavy weapons.
 
     Diet: Carnivore

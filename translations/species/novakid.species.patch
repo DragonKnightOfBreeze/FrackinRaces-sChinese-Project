@@ -1,7 +1,6 @@
-##@ @NotSure
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     The Novakids are a mysterious race of 'interstellar gas-bag people'. They have few charted settlements and no documented history.
 
     Diet: Omnivore

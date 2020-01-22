@@ -1,6 +1,0 @@
-- op: replace
-  path: /description
-  rawValue$: "A haunch of roasted alien ham. ^orange;Type: Cooked Meat^reset;"
-  value: |-
-    一块烤外星火腿。
-    ^orange;类型：熟肉食^reset;

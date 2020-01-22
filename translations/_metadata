@@ -11,7 +11,7 @@ description: |-
   [h1]相关链接[/h1]
 
   [url=https://github.com/DragonKnightOfBreeze/FrackinRaces-sChinese-Project]本Mod的项目地址，欢迎加入！[/url]
-  [url=https://gitlab.imsky.cc:666/ProjectSky/FrackinUniverse-sChinese-Project]FU汉化Mod的项目地址，欢迎加入！[/url]
+  [url=https://github.com/ProjectSky/FrackinUniverse-sChinese-Project]FU汉化Mod的项目地址，欢迎加入！[/url]
   [url=https://github.com/sayterdarkwynd/FrackinUniverse]Frackin' Universe的项目地址[/url]
   [url=https://github.com/sayterdarkwynd/FrackinRaces]Frackin' Race的项目地址[/url]
 
@@ -23,11 +23,11 @@ description: |-
   Sayter - FU作者
   Project Sky - FU汉化Mod作者
   以及其他协助翻译的小伙伴们
-friendlyName: Frackin' Races汉化Mod
+friendlyName: Fr sChinese Mod
 includes:
 - FrackinRaces
 link: steam://url/CommunityFilePage/1575016526
-name: FR sChinese Mod
+name: Fr sChinese
 steamContentId: "1575016526"
-version: "1.0.5"
+version: "1.0.6"
 priority: 1000

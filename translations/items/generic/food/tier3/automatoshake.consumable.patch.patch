@@ -1,6 +1,0 @@
-- op: replace
-  path: /description
-  rawValue$: "An automato milkshake! Mmm. ^yellow;Type: Robot^reset;"
-  value: |-
-    一杯硬番茄奶昔！嗯。
-    ^yellow;类型：机械食物^reset;

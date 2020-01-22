@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Stoic, calm and mysterious, the Elduukhar prefer to take the role of artisans or philosophers. They seek discovery and enlightenment.
 
     Diet: Can eat almost anything

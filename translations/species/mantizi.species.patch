@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Beetle-like omnivorous bipeds with tough chitin plates and a love for the exuberant.
 
     Diet: Omnivorous

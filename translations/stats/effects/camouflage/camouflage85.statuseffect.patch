@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue$: Camouflage
+  rawValue: Camouflage
   value: 伪装

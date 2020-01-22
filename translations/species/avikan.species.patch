@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Noble desert nomads.
 
     Diet: Omnivore

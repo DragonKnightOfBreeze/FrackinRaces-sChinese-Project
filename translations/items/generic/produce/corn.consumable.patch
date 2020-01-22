@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue: "Sweet and corny, good for digestion! ^green;Type: Plant^reset;"
+  value: |-
+    甜的，糯的，好消化！
+    ^green;类型：素食^reset;

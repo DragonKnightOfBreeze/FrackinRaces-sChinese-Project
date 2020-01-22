@@ -1,4 +1,4 @@
 - op: replace
   path: /itemTags/-
-  rawValue$: fist
+  rawValue: fist
   value: 拳套

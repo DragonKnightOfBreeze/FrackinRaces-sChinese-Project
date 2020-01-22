@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     The peaceful Hylotl place great value on ancestral tradition and take great comfort in the arts. While not lovers of violence, they are quite skilled in martial arts and are not to be trifled with.
 
     Diet: Omnivorous

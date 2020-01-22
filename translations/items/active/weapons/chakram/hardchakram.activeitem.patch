@@ -1,4 +1,4 @@
 - op: replace
   path: /itemTags/-
-  rawValue$: charkram
-  value: ^环刃
+  rawValue: charkram
+  value: 环刃

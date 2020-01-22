@@ -1,8 +1,8 @@
 - op: replace
   path: /shortdescription
-  rawValue$: Enhanced Manipulator
+  rawValue: Enhanced Manipulator
   value: 增强物质枪
 - op: replace
   path: /description
-  rawValue$: Manipulates anything that matters. ^green;Quick select with [R] key.
+  rawValue: Manipulates anything that matters. ^green;Quick select with [R] key.
   value: 操纵任何东西。^green;快速选择：[R]

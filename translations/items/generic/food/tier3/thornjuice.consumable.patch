@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue: "More thorn than juice. ^green;Type: Herbivore^reset;"
+  value: |-
+    刺还多过果汁。
+    ^green;类型：素食^reset;

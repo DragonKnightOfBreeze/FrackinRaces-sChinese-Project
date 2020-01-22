@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue: "All the nutritious value of an apple masked by globs of sweet, sweet sugar. ^green;Type: Herbivore^reset;"
+  value: |-
+    一个苹果所有的营养成分都被晶莹剔透的糖衣包住了。
+    ^green;类型：素食^reset;

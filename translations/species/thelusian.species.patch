@@ -1,7 +1,6 @@
-##@ @NotSure
 - op: replace
   path: /charCreationTooltip/description
-- rawValue$: |-
+  rawValue: |-
     The carnivorous Thelusians are well known for their tough chitin shell and exceptionally dangerous combat abilities. Able to adapt to suit any combat situation.
 
     Diet: Carnivore

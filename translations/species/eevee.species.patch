@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Adaptive and agile, the once quadruped Pokemon has become more humanoid at the cost of their ability to evolve. However, they have rectified this by inventing specialized equipment.
 
     Diet: Omnivore

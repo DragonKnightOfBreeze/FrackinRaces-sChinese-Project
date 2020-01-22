@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue$: X-Sting
+  rawValue: X-Sting
   value: 蜂蛰免疫

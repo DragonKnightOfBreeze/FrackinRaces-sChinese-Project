@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Space wolves with a love for energy weapons and tech. They're swift and extremely mobile, navigating almost any terrain, but a tad on the fragile side.
 
     Diet: Carnivore

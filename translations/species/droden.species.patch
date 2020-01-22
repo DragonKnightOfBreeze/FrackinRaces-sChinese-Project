@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Effective, light combat droids. Fragile, but resistant to radiation and poison. Capable with swords and assault rifles.
     Diet: Robotic
 

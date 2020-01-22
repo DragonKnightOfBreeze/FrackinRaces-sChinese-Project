@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue: "A raw tentacle. Might be more edible if it''s cooked... ^red;Type: Raw Meat^reset;"
+  value: |-
+    一条生的触手，或许我得先把这玩意弄熟了再吃？
+    ^red;类型：生肉食^reset;

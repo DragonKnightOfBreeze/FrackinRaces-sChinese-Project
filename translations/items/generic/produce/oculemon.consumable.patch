@@ -1,0 +1,4 @@
+- op: replace
+  path: /description
+  rawValue: "Sour but so worth it. ^green;Type: Meaty Plant?^reset;"
+  value: 酸，但是值得。^green;类型：肉食^reset;

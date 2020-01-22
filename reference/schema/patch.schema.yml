@@ -1,58 +1,7 @@
-definitions:
-  RaceInformation:
-    description: 种族资料。
-    type: object
-    properties:
-      Description:
-        description: 描述。
-        type: string
-      Diet:
-        description: 食性。
-        type: string
-      Perks:
-        description: 天赋。
-        oneOf:
-        - type: string
-        - type: object
-          properties:
-            Summary:
-              description: 概述。
-              type: string
-            Resist:
-              description: 抗性。
-              type: string
-            Immune:
-              description: 免疫。
-              type: string
-      Environment:
-        description: 环境。
-        oneOf:
-        - type: string
-        - type: object
-          properties:
-            Summary:
-              description: 概述。
-          patternProperties:
-            ".*":
-              description: 对应环境加成。
-      Weapons:
-        description: 武器。
-        oneOf:
-        - type: string
-        - type: object
-          properties:
-            Summary:
-              description: 概述。
-          patternProperties:
-            ".*":
-              description: 对应武器加成。
-      Weaknesses:
-        description: 弱点。
-        type: string
-
 type: array
 items:
   type: object
+  required: [op, path, value]
   properties:
     op:
       description: 操作的类型。应当为replace。
@@ -62,13 +11,17 @@ items:
     path:
       description: 操作的目录路径。
       type: string
-    rawValue$:
+    value:
+      description: 翻译后文本。一般为中文，未翻译时为英文。
+      type: string
+    rawValue:
       description: 原始文本。一般为英文。
       type: string
-      $gen: ${#/[]/path}
-    value:
-      description: 翻译后文本。一般为中文。
+    translationAnnotation:
+      description: 翻译注解。用作备注。
       type: string
-    translateNote$:
+      enum: [Translated, NotTranslated, Unsure, Fixed, Changed]
+      default: Translated
+    translationNote:
       description: 翻译笔记。用作备注。
       type: string

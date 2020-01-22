@@ -1,5 +1,5 @@
-##@ @NotSure
 - op: replace
   path: /label
-  rawValue$: Conshak Meditation
+  rawValue: Conshak Meditation
   value: 冥想
+  translationAnnotation: Unsure

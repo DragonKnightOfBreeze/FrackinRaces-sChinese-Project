@@ -1,0 +1,6 @@
+- op: replace
+  path: /label
+  rawValue: Racial Flame Attack [F]
+  value: |-
+    种族火焰攻击
+    使用：[F]

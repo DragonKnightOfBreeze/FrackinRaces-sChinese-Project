@@ -1,10 +1,10 @@
 - op: replace
   path: /shotdescription
-  rawValue$: X'ian Radbulb
+  rawValue: X'ian Radbulb
   value: 锡安辐射球茎
 - op: replace
   path: /description
-  rawValue$: Hold [Down] to produce a Rad Bulb. ^green;[F]^reset;
+  rawValue: Hold [Down] to produce a Rad Bulb. ^green;[F]^reset;
   value: |-
     按住[Down]以产生一个辐射球茎。
     激活：^green;[F]^reset;

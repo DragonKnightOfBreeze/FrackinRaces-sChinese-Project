@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue: "A juicy hamburger. ^orange;Type: Cooked Meat^reset;"
+  value: |-
+    一个多汁的汉堡包。
+    ^orange;类型：熟肉食^reset;

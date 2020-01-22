@@ -1,5 +1,5 @@
-##@ @NotSure
 - op: replace
   path: /label
-  rawValue$: Juux Hardening
+  rawValue: Juux Hardening
   value: 硬化
+  translationAnnotation: Unsure

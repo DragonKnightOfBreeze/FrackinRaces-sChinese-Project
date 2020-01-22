@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue$: Daylight Power
+  rawValue: Daylight Power
   value: 日间猎手

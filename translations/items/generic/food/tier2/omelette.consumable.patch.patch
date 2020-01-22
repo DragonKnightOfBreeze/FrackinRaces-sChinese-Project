@@ -1,6 +1,0 @@
-- op: replace
-  path: /description
-  rawValue$: "Easily prepared and delicious, you can''t go wrong with an omelette! ^orange;Type: Cooked Meat^reset;"
-  value: |-
-    简单易做且美味，你总不会搞砸一个煎蛋的！
-    ^orange;类型：熟肉食^reset;

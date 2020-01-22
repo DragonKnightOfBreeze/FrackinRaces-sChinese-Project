@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     A people of powerful faith and strongly attuned to the universe, Avians are naturals with staves and wands and are exceptionally agile.
 
     Diet: Omnivorous

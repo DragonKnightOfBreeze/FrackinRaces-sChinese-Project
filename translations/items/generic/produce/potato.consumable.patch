@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue: "Po-ta-to. ^green;Type: Plant^reset;"
+  value: |-
+    或谓马铃薯。
+    ^green;类型：素食^reset;

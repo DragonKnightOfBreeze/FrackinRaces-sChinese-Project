@@ -1,5 +1,5 @@
-##@ @Fixed
 - op: replace
   path: /label
-  rawValue$: Heat Shld
+  rawValue: Heat Shld
   value: 极端炎热免疫
+  translationAnnotation: Fixed

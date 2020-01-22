@@ -1,4 +1,0 @@
-- op: replace
-  path: /label
-  rawValue$: Bleeding
-  value: 出血中

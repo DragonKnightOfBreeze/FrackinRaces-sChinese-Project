@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     The descendants of Humans who fled Earth in the face of a natural disaster. Diplomatic, peaceful and technologically advanced, the Aegi have established themselves as the founders of an interstellar, inter-species alliance called the Elithian Alliance.
 
     Diet: Omnivorous
@@ -22,7 +22,7 @@
     ^red;Weaknesses^reset;:
     ^red;10%^reset; Fire, Radiation
   value: |-
-    因一场自然灾害而逃离地球的人类的后裔。善于外交，爱好和平，且技术先进。艾吉建立了一个跨星际，跨物种的联盟——伊利蒂安联盟。
+    因一场自然灾害而逃离地球的人类的后裔。善于外交，爱好和平，且技术先进。艾吉建立了一个跨星际、跨物种的联盟——伊利蒂安联盟。
 
     食性：肉食性
 

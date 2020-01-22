@@ -1,10 +1,10 @@
 - op: replace
   path: /shotdescription
-  rawValue$: Harden
+  rawValue: Harden
   value: 变硬
 - op: replace
   path: /description
-  rawValue$: Hold [Down] to activate superior defenses. Cannot move or attack.
+  rawValue: Hold [Down] to activate superior defenses. Cannot move or attack.
   value: |-
     按住[Down]以变得超级硬。不能移动或攻击。
     激活：^green;[F]^reset;

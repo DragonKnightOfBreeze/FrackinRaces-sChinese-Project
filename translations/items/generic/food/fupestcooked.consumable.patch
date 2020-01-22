@@ -1,8 +1,8 @@
 - op: replace
   path: /shortdescription
-  rawValue$: Cooked Pest
+  rawValue: Cooked Pest
   value: 煮熟的老鼠
 - op: replace
   path: /description
-  rawValue$: Well-cooked rodent meat. Mm.
+  rawValue: Well-cooked rodent meat. Mm.
   value: 煮熟的老鼠肉。好味。

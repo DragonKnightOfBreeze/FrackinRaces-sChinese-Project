@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Deer-like, these herbivorous pacifists are among the fastest of the known races. They are full of vitality, if a little fragile.
 
     Diet: Herbivore

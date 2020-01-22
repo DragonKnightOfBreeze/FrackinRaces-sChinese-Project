@@ -1,6 +1,0 @@
-- op: replace
-  path: /description
-  rawValue$: "It is bread. ^green;Type: Herbivore^reset;"
-  value: |-
-    这是一片面包。
-    ^green;类型：素食^reset;

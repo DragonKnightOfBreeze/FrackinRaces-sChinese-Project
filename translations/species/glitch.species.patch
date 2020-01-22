@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Their creation is lost to history. This suits them just fine, as they prefer a primitive state of being. Their medieval culture favors training with shields, maces and crossbows.
 
     Diet: Robotic

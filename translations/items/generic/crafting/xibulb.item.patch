@@ -1,8 +1,8 @@
 - op: replace
   path: /shotdescription
-  rawValue$: X'ian Bulb
+  rawValue: X'ian Bulb
   value: 锡安球茎
 - op: replace
   path: /description
-  rawValue$: A highly radioactive plant-like bulb.
+  rawValue: A highly radioactive plant-like bulb.
   value: 一种高辐射的植物状的球茎。

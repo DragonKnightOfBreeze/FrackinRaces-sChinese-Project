@@ -1,7 +1,6 @@
-##@ @NotSure
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     A mystery to the cosmos, the illusive Shadow people prefer to speak only to each other. This is simple, as other species cannot even hear their language.
 
     Diet: Any

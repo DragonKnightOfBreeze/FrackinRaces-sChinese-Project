@@ -1,8 +1,8 @@
 - op: replace
   path: /shortdescription
-  rawValue$: Pest
+  rawValue: Pest
   value: 老鼠
 - op: replace
   path: /description
-  rawValue$: A small mammalian pest. Edible, and nutritious.
+  rawValue: A small mammalian pest. Edible, and nutritious.
   value: 一种有害的小型哺乳动物。可食用，营养丰富。

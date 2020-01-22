@@ -1,6 +1,0 @@
-- op: replace
-  path: /description
-  rawValue$: "Pussplum, some claim it is delicious! ^green;Type: Plant^reset;"
-  value: |-
-    圣女果，据说非常美味！
-    ^green;类型：素食^reset;

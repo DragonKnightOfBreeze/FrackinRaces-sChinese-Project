@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     An unusually evolved carnivorous humanoid with reptilian aspects melded into their forms.
 
     Diet: Carnivore

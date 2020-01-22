@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue: "Fish baked with fish-like fruit. A fishy dish! ^orange;Type: Cooked Meat^reset;"
+  value: |-
+    和鱼形水果一起烤的鱼。很是有味道！
+    ^orange;类型：熟肉食^reset;

@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Florans are known throughout the universe to be aggressive, carnivorous hunters. They still partially sustain themselves on sunlight, but every blow they strike only adds to their hunger.
 
     Diet: Carnivorous

@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue$: Radiation Immunity
+  rawValue: Radiation Immunity
   value: 辐射免疫

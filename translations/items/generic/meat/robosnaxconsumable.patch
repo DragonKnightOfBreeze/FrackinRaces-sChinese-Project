@@ -1,0 +1,8 @@
+- op: replace
+  path: /shortdescription
+  rawValue: Robo-Snax
+  value: 机械快餐
+- op: replace
+  path: /description
+  rawValue: "Specially formulated Robo-Food. ^yellow;Type: Robot^reset;"
+  value: 特制的机械食物。^yellow;类型：机械食物^reset;

@@ -1,5 +1,5 @@
-##@ @Fixed
 - op: replace
   path: /label
-  rawValue$: Cold Shld
+  rawValue: Cold Shld
   value: 极端寒冷护盾
+  translationAnnotation: Fixed

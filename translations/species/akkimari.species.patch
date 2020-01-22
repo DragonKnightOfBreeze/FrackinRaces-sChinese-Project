@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     The Akkimari are a broken race, their society still recovering from the loss of the AI that ruled them. Now, many Akkimari roam the galaxy as scavengers and bounty hunters, searching for their AI and riches both.
 
     Diet: Anything

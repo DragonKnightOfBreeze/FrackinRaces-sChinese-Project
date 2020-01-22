@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Skittery half-spiders.
 
     Diet: Omnivorous, But can eat Raw Meat.

@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue$: |-
+  rawValue: |-
     Super-awesome digital beings with some amazingly cool niche gear.
 
     Diet: Robot

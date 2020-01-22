@@ -1,8 +1,8 @@
 - op: replace
   path: /shotdescription
-  rawValue$: Edible Neptunium
+  rawValue: Edible Neptunium
   value: 食用镎
 - op: replace
   path: /description
-  rawValue$: X'ian processes have stripped the impurities.
+  rawValue: X'ian processes have stripped the impurities.
   value: 锡安处理流程已经去除了其中的杂质。

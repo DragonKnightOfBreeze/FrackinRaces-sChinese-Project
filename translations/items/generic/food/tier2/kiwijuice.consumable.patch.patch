@@ -1,6 +1,0 @@
-- op: replace
-  path: /description
-  rawValue$: "A sweet and tropical juice made of kiwis. ^green;Type: Herbivore^reset;"
-  value: |-
-    一杯猕猴桃做的甜甜的热带果汁。
-    ^green;类型：素食^reset;

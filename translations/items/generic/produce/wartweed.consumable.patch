@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  rawValue: "Warty but not very weedy. ^green;Type: Plant^reset;"
+  value: |-
+    有疣，但并非都是杂草。
+    ^green;类型：素食^reset;
