@@ -21,8 +21,8 @@ Mod概述：见项目文件`translations/_metadata`。
 * 翻译文件的格式说明：
   * `op` 操作的类型。应当为replace。
   * `path` 操作的目录路径。
-  * `value` 原始文本。一般为英文。
-  * `rawValue` 翻译后文本。一般为中文，未翻译时为英文。
+  * `value` 翻译后文本。一般为中文，未翻译时为英文。
+  * `rawValue` 原始文本。一般为英文。
   * `translationAnnotation` 翻译注解。用作备注。
     * `Translated` 已翻译。
     * `NotTranslated` 未翻译。
@@ -31,4 +31,5 @@ Mod概述：见项目文件`translations/_metadata`。
     * `Changed` 原文已发生改变，但是尚未同步翻译。
   * `translationNote` 翻译笔记。用作备注。
 * 如果翻译文本是多行文本，请考虑使用多行字符串（即在`value: `后添加`|-`，然后另起一行缩进，写上下一行的内容）。
-* 仅包含已翻译的种族资料文件（即`translations/species`目录下的文件）。
+* 原则上，不会翻译更多的种族描述文本（因为实在是太多了）。
+  
