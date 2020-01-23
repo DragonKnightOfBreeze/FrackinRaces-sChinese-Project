@@ -1,10 +1,10 @@
 - op: replace
-  path: /shotdescription
-  rawValue: Saturnian Flight
+  path: /shortdescription
   value: Saturnian飞行
+  rawValue: Saturnian Flight
 - op: replace
   path: /description
-  rawValue: Moth flight. Best in light.^green;[F]^reset;.
   value: |-
     飞蛾飞行。畅游黑暗。
     激活：^green;[F]^reset;。
+  rawValue: Moth flight. Best in light.^green;[F]^reset;.

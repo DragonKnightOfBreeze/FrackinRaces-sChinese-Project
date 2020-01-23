@@ -1,6 +1,7 @@
 - op: replace
   path: /description
-  rawValue: "A simple yet substantial salad of eggshoot and feathercrown. ^green;Type: Herbivore^reset;"
   value: |-
-    一份简单又大份量的射蛋与羽冠花沙拉。
+    一份简单而大份量的由射蛋和羽冠花组成的沙拉。
     ^green;类型：素食^reset;
+  rawValue: 'A simple yet substantial salad of eggshoot and feathercrown. ^green;Type:
+    Herbivore^reset;'

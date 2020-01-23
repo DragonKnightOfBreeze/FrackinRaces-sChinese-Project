@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "Tangy and refreshing. Try it on toast! ^green;Type: Herbivore^reset;"
   value: |-
     扑鼻而来的清新。试试把它涂在吐司上！
     ^green;类型：素食^reset;
+  rawValue: 'Tangy and refreshing. Try it on toast! ^green;Type: Herbivore^reset;'

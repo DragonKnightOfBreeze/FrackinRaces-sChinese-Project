@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue: Blade Mastery
   value: 剑术精通
+  rawValue: Blade Mastery

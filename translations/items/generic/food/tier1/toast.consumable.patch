@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    一片暖洋洋的蛋黄面包，美味十足。
+    ^green;类型：素食^reset;
+  rawValue: 'A slice of warm, eggy bread. Delicious. ^green;Type: Herbivore^reset;'

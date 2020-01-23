@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "A light stew that goes down easy. ^orange;Type: Cooked Meat^reset;"
   value: |-
     稍微炖一下就可以轻松搞定。
-    ^orange;类型：熟肉食^reset;
+    ^orange;类型：海鲜 + 素食^reset;
+  rawValue: 'A light stew that goes down easy. ^orange;Type: Seafood + Vegetable^reset;'

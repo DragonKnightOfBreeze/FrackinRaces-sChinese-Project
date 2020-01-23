@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  rawValue: Increased Weapon Ammo +1
+  translationAnnotation: NotTranslated

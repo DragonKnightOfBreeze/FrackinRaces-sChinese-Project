@@ -1,30 +1,5 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |-
-    The Novakids are a mysterious race of 'interstellar gas-bag people'. They have few charted settlements and no documented history.
-
-    Diet: Omnivore
-
-    ^orange;Perks^reset;:
-    +^green;20%^reset; Energy, +^green;25%^reset; Knockback Resist, +^green;5%^reset; Speed
-    Resist: ^green;+25%^reset; Fire, ^green;20%^reset; Ice, ^green;+40%^reset; Radiation
-    Immune: Burning, Radiation Burn
-
-    ^orange;Environment^reset;:
-    On ^green;Radioactive^reset; biomes gain ^green;15%^reset; Energy and Health
-    ^green;Regenerate^reset; from sunlight when fed. ^green;+20%^reset; Energy Regen.
-    Night regen ^red;consumes food^reset; and -^red;25%^reset; Energy
-
-    ^orange;Weapons^reset;:
-    Pistol (single): +^green;9%^reset; Damage
-    Pistol (dual): +^green;25%^reset; Knockback Resist, +^green;15%^reset; Energy,  +^green;9%^reset; Damage
-    Sniper: +^green;5%^reset; Crit and +^green;20%^reset; Crit Damage
-    Shotgun: +^green;20%^reset; dmg, +^green;20%^reset; Crit Dmg
-    Whip: +^green;15%^reset; Damage and +^green;10%^reset; Speed
-
-    ^red;Weaknesses^reset;:
-    -^red;10%^reset; Health
-    Weak: -^red;15%^reset; Physical, -^red;20%^reset;Electric, -^red;40%^reset; Shadow
   value: |-
     星之子是一个被戏称为“星际气袋人”的神秘种族。他们既没有归属的土地，也没有有记载的历史。
 
@@ -50,3 +25,28 @@
     ^red;弱点^reset;：
     生命上限-^red;10%^reset;
     抗性：^red;-15%^reset;物理抗性，^red;-20%^reset;电系抗性，^red;-40%^reset;暗影抗性
+  rawValue: |-
+    The Novakids are a mysterious race of 'interstellar gas-bag people'. They have few charted settlements and no documented history.
+
+    Diet: Omnivore
+
+    ^orange;Perks^reset;:
+    +^green;20%^reset; Energy, +^green;25%^reset; Knockback Resist, +^green;5%^reset; Speed
+    Resist: ^green;+25%^reset; Fire, ^green;20%^reset; Ice, ^green;+40%^reset; Radiation
+    Immune: Burning, Radiation Burn
+
+    ^orange;Environment^reset;:
+    On ^green;Radioactive^reset; biomes gain ^green;15%^reset; Energy and Health
+    ^green;Regenerate^reset; from sunlight when fed. ^green;+20%^reset; Energy Regen.
+    Night regen ^red;consumes food^reset; and -^red;25%^reset; Energy
+
+    ^orange;Weapons^reset;:
+    Pistol (single): +^green;9%^reset; Damage
+    Pistol (dual): +^green;25%^reset; Knockback Resist, +^green;15%^reset; Energy,  +^green;9%^reset; Damage
+    Sniper: +^green;5%^reset; Crit and +^green;20%^reset; Crit Damage
+    Shotgun: +^green;20%^reset; dmg, +^green;20%^reset; Crit Dmg
+    Whip: +^green;15%^reset; Damage and +^green;10%^reset; Speed
+
+    ^red;Weaknesses^reset;:
+    -^red;10%^reset; Health
+    Weak: -^red;15%^reset; Physical, -^red;20%^reset;Electric, -^red;40%^reset; Shadow

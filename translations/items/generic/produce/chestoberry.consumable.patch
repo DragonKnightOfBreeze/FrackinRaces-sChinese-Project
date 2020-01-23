@@ -1,6 +1,7 @@
 - op: replace
   path: /description
-  rawValue:  'A berry that provides a energy boost and is dry tasting. ^green;Type: Fruit^reset;'
   value: |-
     一种能够提供能量加成的干浆果。
     ^green;类型：水果^reset;
+  rawValue: 'A berry that provides a energy boost and is dry tasting. ^green;Type:
+    Fruit^reset;'

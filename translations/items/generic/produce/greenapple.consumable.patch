@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "A crunchy and nutritious apple. ^green;Type: Fruit^reset;"
   value: |-
     很脆，很有营养的绿苹果。
     ^green;类型：素食^reset;
+  rawValue: 'A crunchy and nutritious apple. ^green;Type: Fruit^reset;'

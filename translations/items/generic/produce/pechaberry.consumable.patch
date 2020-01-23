@@ -1,6 +1,7 @@
 - op: replace
   path: /description
-  rawValue:  'A berry that is sweet and removes poison from the body. ^green;Type: Fruit^reset;'
   value: |-
     一种已从体内去除毒素的甜浆果。
     ^green;类型：水果^reset;
+  rawValue: 'A berry that is sweet and removes poison from the body. ^green;Type:
+    Fruit^reset;'

@@ -1,6 +1,7 @@
 - op: replace
   path: /description
-  rawValue: "It''s good if you can get past the metallic aftertaste! ^yellow;Type: Robot^reset;"
   value: |-
-    如果你能忍受金属的后味那么它的味道还可以！
+    如果你能够忍受金属的余味，那么它的味道还可以！
     ^yellow;类型：机械食物^reset;
+  rawValue: 'It''s good if you can get past the metallic aftertaste! ^yellow;Type:
+    Robot^reset;'

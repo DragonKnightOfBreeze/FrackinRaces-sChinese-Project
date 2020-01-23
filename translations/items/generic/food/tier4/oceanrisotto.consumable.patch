@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "A salty and aromatic rice dish. ^orange;Type: Cooked Meat^reset;"
   value: |-
     一份咸香的米饭。
-    ^orange;类型：熟肉食^reset;
+    ^orange;类型：鱼，植物^reset;
+  rawValue: 'A salty and aromatic rice dish. ^orange;Type: Fish, Plant^reset;'

@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue: Nice and healthy gamma radiation!
   value: 美好而健康的伽玛射线！
+  rawValue: Nice and healthy gamma radiation!

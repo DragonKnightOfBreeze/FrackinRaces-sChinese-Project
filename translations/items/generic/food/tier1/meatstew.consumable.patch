@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "Just like mama used to make! ^orange;Type: Cooked Meat^reset;"
   value: |-
-    就像妈妈曾经做的一样！
-    ^orange;类型：熟肉食^reset;
+    就像妈妈曾经做过的一样！
+    ^orange;类型：熟肉食 + 素食^reset;
+  rawValue: 'Just like mama used to make! ^orange;Type: Cooked Meat + Vegetable^reset;'

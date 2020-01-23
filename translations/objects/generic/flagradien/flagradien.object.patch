@@ -1,8 +1,9 @@
 - op: replace
   path: /shortdescription
-  rawValue: X'ian Flag
   value: 锡安旗帜
+  rawValue: X'ian Flag
 - op: replace
   path: /description
-  rawValue: A flag used to identify X'ian settlements. Use ^green;[E]^white; to bookmark a teleportation location.
   value: 一面用于识别锡安殖民地的旗帜。使用^green;[E]^white;标记一个传送位置。
+  rawValue: A flag used to identify X'ian settlements. Use ^green;[E]^white; to bookmark
+    a teleportation location.

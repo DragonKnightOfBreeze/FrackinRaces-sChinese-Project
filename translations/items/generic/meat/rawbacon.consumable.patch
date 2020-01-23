@@ -1,6 +1,7 @@
 - op: replace
   path: /description
-  rawValue: "Raw strips of bacon. I should cook them first, right? ^red;Type: Raw Meat^reset;"
   value: |-
     一大块奇怪的外星肉，或许我得先把这玩意弄熟了再吃？
     ^red;类型：生肉食^reset;
+  rawValue: 'Raw strips of bacon. I should cook them first, right? ^red;Type: Raw
+    Meat^reset;'

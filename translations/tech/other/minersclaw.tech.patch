@@ -1,10 +1,10 @@
 - op: replace
-  path: /shotdescription
-  rawValue: Mining Claws
+  path: /shortdescription
   value: 挖掘爪
+  rawValue: Mining Claws
 - op: replace
   path: /description
-  rawValue: Use ^green;[F]^reset; to dig with specially adapted claws.
   value: |-
     使用经过特殊适应的爪子进行挖掘。
     使用：^green;[F]^reset;
+  rawValue: Use ^green;[F]^reset; to dig with specially adapted claws.

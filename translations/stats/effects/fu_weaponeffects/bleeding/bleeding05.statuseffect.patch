@@ -1,6 +1,6 @@
 - op: replace
   path: /label
-  rawValue: Healing
   value: 治疗中
+  rawValue: Healing
   translationAnnotation: Unsure
   translationNote: 为什么是治疗？

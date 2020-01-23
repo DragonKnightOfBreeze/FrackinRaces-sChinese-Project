@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue: 30% Physical Resistance
   value: 30%的物理抗性
+  rawValue: 30% Physical Resistance

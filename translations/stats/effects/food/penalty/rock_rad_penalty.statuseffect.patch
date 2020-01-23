@@ -1,4 +1,5 @@
 - op: replace
   path: /label
-  rawValue: Congrats, you're dying of internal radiation poisoning. Don't eat fissionable material, genius.
   value: 恭喜，你将死于内部辐射中毒。不要吃可裂变物质，你这个傻瓜。
+  rawValue: Congrats, you're dying of internal radiation poisoning. Don't eat fissionable
+    material, genius.

@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "A tropical treat! ^green;Type: Fruit^reset;"
   value: |-
     热带的盛宴！
     ^green;类型：素食^reset;
+  rawValue: 'A tropical treat! ^green;Type: Fruit^reset;'

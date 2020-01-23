@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue: Photosynthesis
   value: 光合作用
+  rawValue: Photosynthesis

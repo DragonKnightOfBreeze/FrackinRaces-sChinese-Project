@@ -1,7 +1,7 @@
 type: array
 items:
   type: object
-  required: [op, path, value]
+  required: [op, path, rawValue]
   properties:
     op:
       description: 操作的类型。应当为replace。

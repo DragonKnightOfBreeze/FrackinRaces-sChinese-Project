@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue: Hey, wait, you can't eat this planty stuff, can you?
   value: 喂，等一下，你不能吃这种植物！
+  rawValue: Hey, wait, you can't eat this planty stuff, can you?

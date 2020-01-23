@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  rawValue: Infection - Nearby creatures suffer the same poisonus agony.
+  translationAnnotation: NotTranslated

@@ -1,25 +1,5 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |-
-    Humans are well rounded, and have excellent defensive ability. Ever met one of these things? They are a strange bunch. I advise avoiding them.
-
-    Diet: Omnivore
-
-    ^orange;Perks^reset;:
-    +^green;0.08s^reset; jump time
-    +^green;30%^reset; Max Food
-
-    ^orange;Environment^reset;:
-    None
-
-    ^orange;Weapons^reset;:
-    Assault Rifle: +^green;12%^reset; Dmg
-    Yo-Yo: +^green;10%^reset; Dmg
-    Shortsword: +^green;12%^reset; Damage and +^green;20%^reset; Knockback Resistance
-    Shield: Perfect Blocks ^green;increase defense^reset;(stacks)
-
-    ^red;Weaknesses^reset;:
-    None
   value: |-
     人类的属性很全面，具有出色的防御能力。你见过他们中的一员吗？人类是一种奇怪的群体，我建议避开他们。
 
@@ -40,3 +20,22 @@
 
     ^red;弱点^reset;：
     无
+  rawValue: |-
+    Humans are well rounded, and have excellent defensive ability. Ever met one of these things? They are a strange bunch. I advise avoiding them.
+
+    Diet: Omnivore
+
+    ^orange;Perks^reset;:
+    +^green;0.08s^reset; jump time
+    +^green;30%^reset; Max Food
+    ^orange;Environment^reset;:
+    None
+
+    ^orange;Weapons^reset;:
+    Assault Rifle: +^green;12%^reset; Dmg
+    Yo-Yo: +^green;10%^reset; Dmg
+    Shortsword: +^green;12%^reset; Damage and +^green;20%^reset; Knockback Resistance
+    Shield: Perfect Blocks ^green;increase defense^reset;(stacks)
+
+    ^red;Weaknesses^reset;:
+    None

@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue: Orcana
   value: 奥卡娜
+  rawValue: Orcana

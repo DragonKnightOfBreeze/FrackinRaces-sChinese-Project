@@ -1,5 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    外形像甲虫一样的杂食性两足种族。拥有坚硬的几丁质外壳，总是元气满满。
+
+    食性：杂食性
+
+    ^orange;天赋^reset;：
+    防御+^green;5^reset;，饱食度上限+^green;50%^reset;
+    抗性：^green;20%^reset;电系&放射抗性
+
+    ^orange;环境^reset;：
+    ^green;丛林/沙漠/硫酸^reset;生态：增加能量上限和防御
+
+    ^orange;武器^reset;：
+    短矛/短剑（+盾牌）：伤害+^green;20%^reset;，防御+^green;20%^reset;
+    弓/弩：防御+^green;10%^reset;，伤害+^green;10%^reset;
+    盾牌：盾牌反伤+^green;2%^reset;，盾牌击退距离+^green;2^reset;
+    完美格挡时回复^green;生命和^green;20%^reset;的盾牌耐久^reset;
+
+    ^red;弱点^reset;：
+    交易苦手（魅力-^red;25%^reset;）
+    抗性：^red;-30%^reset;火炎抗性，^red;-20%^reset;寒气抗性
   rawValue: |-
     Beetle-like omnivorous bipeds with tough chitin plates and a love for the exuberant.
 
@@ -22,24 +43,3 @@
     ^red;Weaknesses^reset;:
     Poor traders (^red;-25%^reset; Charisma penalty)
     ^red;-30%^reset; Fire, ^red;-20%^reset; Ice
-  value: |-
-    外形像甲虫一样的杂食性两足种族。拥有坚硬的几丁质外壳，总是元气满满。
-
-    食性：杂食性
-
-    ^orange;天赋^reset;：
-    防御+^green;5^reset;，饱食度上限+^green;50%^reset;
-    抗性：^green;20%^reset;电系&放射抗性
-
-    ^orange;环境^reset;：
-    ^green;丛林/沙漠/硫酸^reset;生态：增加能量上限和防御
-
-    ^orange;武器^reset;：
-    短矛/短剑（+盾牌）：伤害+^green;20%^reset;，防御+^green;20%^reset;
-    弓/弩：防御+^green;10%^reset;，伤害+^green;10%^reset;
-    盾牌：盾牌反伤+^green;2%^reset;，盾牌击退距离+^green;2^reset;
-    完美格挡时回复^green;生命和^green;20%^reset;的盾牌耐久^reset;
-
-    ^red;弱点^reset;：
-    交易苦手（魅力-^red;25%^reset;）
-    抗性：^red;-30%^reset;火炎抗性，^red;-20%^reset;寒气抗性

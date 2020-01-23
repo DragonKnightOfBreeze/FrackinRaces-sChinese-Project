@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue: Invisible
   value: 隐形
+  rawValue: Invisible

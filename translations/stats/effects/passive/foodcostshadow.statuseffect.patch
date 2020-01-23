@@ -1,6 +1,7 @@
 - op: replace
   path: /label
-  rawValue: Racial Shadow Attack. Damage increases from darkness level, energy, and food. [F]
   value: |-
     种族暗影攻击。伤害受黑暗程度、能量和饱食度影响。
     使用：[F]
+  rawValue: Racial Shadow Attack. Damage increases from darkness level, energy, and
+    food. [F]

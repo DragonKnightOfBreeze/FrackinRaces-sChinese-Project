@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "It''s an egg! ^orange;Type: Omnivore^reset;"
   value: |-
     这是一个鸡蛋！
     ^orange;类型：熟肉食^reset;
+  rawValue: 'It''s an egg! ^orange;Type: Omnivore^reset;'

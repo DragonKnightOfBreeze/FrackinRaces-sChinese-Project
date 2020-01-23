@@ -1,10 +1,10 @@
 - op: replace
-  path: /shotdescription
-  rawValue: Thelusian Warrior
+  path: /shortdescription
   value: 瑟卢锡安战士
+  rawValue: Thelusian Warrior
 - op: replace
   path: /description
-  rawValue: Push [Up],[Down] or [Jump] for combat stances. ^green;[F]^reset;
   value: |-
     使用[Up]、[Down]或[Jump]切换战斗姿态。
     激活：^green;[F]^reset;
+  rawValue: Push [Up],[Down] or [Jump] for combat stances. ^green;[F]^reset;

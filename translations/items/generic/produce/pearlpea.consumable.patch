@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "Pearlpeas! I''ll need to bite down hard. ^green;Type: Plant^reset;"
   value: |-
     珍珠豆！我得使劲地咬。
     ^green;类型：素食^reset;
+  rawValue: 'Pearlpeas! I''ll need to bite down hard. ^green;Type: Plant^reset;'

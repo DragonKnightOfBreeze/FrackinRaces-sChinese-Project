@@ -1,13 +1,35 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    夜族起源于半影世界深处，极度厌光。他们皆是出色的战士和优秀的密探。
+
+    食性：杂食性
+
+    ^orange;天赋^reset;：
+    ^green;黑暗^reset;中：增加^green;物理抗性^reset;和^green;伤害^reset;，启用枯竭攻击。
+    科技：^green;康沙克^reset;
+    抗性：暗影抗性+^green;40%^reset;，寒气抗性+^green;10%^reset;
+    免疫：生物软泥&中毒
+
+    ^orange;武器^reset;：
+    剑：暴击几率+^green;1%^reset;，伤害+^green;10%^reset;，满血时有^green;3%^reset;的几率释放暗影爆裂(^green;5伤害^reset;)。
+    短剑/匕首：暴击几率+^green;10%^reset;
+    长剑/武士刀：伤害+^green;6%^reset;
+    武士刀/刺剑+匕首：暴击几率+^green;1.5%^reset; 双持短刃：防御+^green;12%^reset;，移动速度+^green;5%^reset;
+    盾牌：盾牌反伤+^green;2^reset;，击退抗性+^green;25%^reset;
+    鞭：移动速度+^green;10%^reset;
+
+    ^red;弱点^reset;：
+    抗性：^red;-20%^reset;射线抗性，^red;-20%^reset;放射抗性，^red;-20%^reset;电系抗性
+    在^red;亮处^reset;减少^red;生命值，能力值，物理防御和伤害^reset;，取消攻击时的^red;枯竭效果^reset;。
   rawValue: |-
-    Evolved in the depths of a Penumbral world, the Nightar dislike light intensely. They are noble warriors of Shadow.
+    Evolved in the depths of a Penumbral world, the Nightar dislike light intensely. They are able warriors and capable spies.
 
     Diet: Omnivorous
 
     ^orange;Perks^reset;:
-    ^green;Darkness^reset; increases ^green;Physical Resistance^reset; and ^green;Damage^reset; and enables Vampiric strikes.
-    Racial Tech: ^green;Conshak^reset;: Kneel for 10s, in darkness. +Resistances and Thorns for 60s.
+    ^green;Darkness^reset; increases ^green;Physical Resistance^reset; and ^green;Damage^reset; and enables Draining strikes.
+    Tech: ^green;Conshak^reset;
     Resist: ^green;40%^reset; Shadow, ^green;10%^reset; Ice
     Immune: Bio-Ooze, Poison
 
@@ -22,25 +44,5 @@
 
     ^red;Weaknesses^reset;:
     Weak: ^red;20%^reset; Cosmic, ^red;20%^reset; Radiation, ^red;20%^reset; Electric
-    ^red;Light^reset; reduces ^red;Energy, Health, Physical Resistance and Damage^reset; and cancels ^red;Vampiric effect^reset; of attacks.
-  value: |-
-    夜族起源于半影世界深处，极度厌光。他们皆是高贵的暗影战士。
-
-    食性：杂食性
-
-    ^orange;天赋^reset;：
-    ^green;黑暗^reset;中：增加^green;物理抗性^reset;和^green;伤害^reset;，开启吸血攻击。
-    抗性：暗影抗性+^green;40%^reset;，寒气抗性+^green;10%^reset;
-    免疫：生物软泥&中毒
-
-    ^orange;武器^reset;：
-    剑：暴击几率+^green;1%^reset;，伤害+^green;10%^reset;，满血时有^green;3%^reset;的几率释放暗影爆裂(^green;5伤害^reset;)。
-    短剑/匕首：暴击几率+^green;10%^reset;
-    长剑/武士刀：伤害+^green;6%^reset;
-    武士刀/刺剑+匕首：暴击几率+^green;1.5%^reset; 双持短刃：防御+^green;12%^reset;，移动速度+^green;5%^reset;
-    盾牌：盾牌反伤+^green;2^reset;，击退抗性+^green;25%^reset;
-    鞭：移动速度+^green;10%^reset;
-
-    ^red;弱点^reset;：
-    抗性：^red;-20%^reset;射线抗性，^red;-20%^reset;放射抗性，^red;-20%^reset;电系抗性
-    在^red;亮处^reset;减少^red;防御和伤害^reset;，关闭攻击附带的^red;吸血效果^reset;。
+    ^red;Light^reset; reduces ^red;Energy, Health, Physical Resistance and Damage^reset; and cancels ^red;Drain effect^reset; of attacks.
+  translationAnnotation: Unsure

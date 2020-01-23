@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "A toxic looking fruit. Can looks be deceiving? ^green;Type: Plant^reset;"
   value: |-
     一种有毒的果实。外表可能具有欺骗性？
     ^green;类型：素食^reset;
+  rawValue: 'A toxic looking fruit. Can looks be deceiving? ^green;Type: Plant^reset;'

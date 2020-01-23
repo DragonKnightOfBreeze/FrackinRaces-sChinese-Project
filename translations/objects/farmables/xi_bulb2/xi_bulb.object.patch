@@ -1,8 +1,8 @@
 - op: replace
   path: /shortdescription
-  rawValue: Mutated Seed Bulb
   value: 突变的种子球茎
+  rawValue: Mutated Seed Bulb
 - op: replace
   path: /description
-  rawValue: Provides light, and can be used to form many X'ian tools. Radioactive.
   value: 产生光亮，且可用于组成其他多种锡安工具。有辐射的。
+  rawValue: Provides light, and can be used to form many X'ian tools. Radioactive.

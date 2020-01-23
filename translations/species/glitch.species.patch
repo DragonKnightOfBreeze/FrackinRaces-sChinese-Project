@@ -1,33 +1,9 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |-
-    Their creation is lost to history. This suits them just fine, as they prefer a primitive state of being. Their medieval culture favors training with shields, maces and crossbows.
-
-    Diet: Robotic
-
-    ^orange;Perks^reset;:
-    ^green;+15%^reset; Health, +^green;5%^reset; Energy, +^green;5%^reset; Protection
-    Resist: ^green;20%^reset; Physical, Poison, Radiation
-    Immune: Poison, Bee Stings
-
-    ^orange;Environment^reset;:
-    ^green;Regen^reset; within ^green;Oil/Liquid Proto/Erchius^reset;
-
-    ^orange;Weapons^reset;:
-    Mace/Greataxes/Axe:+^green;2% Crit Chance, +5 to Crit Damage^reset;
-    1h combos increase defense by +^green;2^reset;
-    Bow/Crossbow: ^green;+2%^reset; Crit Chance
-    Shield: +^green;8%^reset; Health,+^green;2%^reset; Shield Bash, (Raised)+^green;3^reset; Protection,  (Raised)+^green;1%^reset; Regen
-    Shield: Perfect Blocks ^green;increase damage^reset; (stacks)
-    Shield Bash ^green;restores health^reset;
-
-    ^red;Weaknesses^reset;:
-    When Electrified lose ^red;50%^reset; power and energy
-    ^red;30%^reset; Electric, Cosmic
   value: |-
     他们的造物被淹没在了历史的长河中，这恰巧适合他们，因为他们更喜欢原始的存在状态，中世纪文化使他们更倾向于使用盾牌、钉头锤和弩进行训练。
 
-    食性：机械食性
+    食性：机械食性，杂食性
 
     ^orange;天赋^reset;：
     生命上限+^green;15%^reset;，能量上限+^green;5%^reset;，防御+^green;5%^reset;
@@ -48,3 +24,27 @@
     ^red;弱点^reset;：
     感电状态：攻击力&能量上限-^red;50%^reset;
     抗性：^red;-30%^reset;电系&射线抗性
+  rawValue: |-
+    Their creation is lost to history. This suits them just fine, as they prefer a primitive state of being. Their medieval culture favors training with shields, maces and crossbows.
+
+    Diet: Robotic/Omnivore
+
+    ^orange;Perks^reset;:
+    ^green;+15%^reset; Health, +^green;5%^reset; Energy, +^green;5%^reset; Protection
+    Resist: ^green;20%^reset; Physical, Poison, Radiation
+    Immune: Poison, Bee Stings
+
+    ^orange;Environment^reset;:
+    ^green;Regen^reset; within ^green;Oil/Liquid Proto/Erchius^reset;
+
+    ^orange;Weapons^reset;:
+    Mace/Greataxes/Axe:+^green;2% Crit Chance, +5 to Crit Damage^reset;
+    1h combos increase defense by +^green;2^reset;
+    Bow/Crossbow: ^green;+2%^reset; Crit Chance
+    Shield: +^green;8%^reset; Health,+^green;2%^reset; Shield Bash, (Raised)+^green;3^reset; Protection,  (Raised)+^green;1%^reset; Regen
+    Shield: Perfect Blocks ^green;increase damage^reset; (stacks)
+    Shield Bash ^green;restores health^reset;
+
+    ^red;Weaknesses^reset;:
+    When Electrified lose ^red;50%^reset; power and energy
+    ^red;30%^reset; Electric, Cosmic

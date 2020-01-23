@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue: Saturnian Flutter
   value: 萨杜恩鼓翼
+  rawValue: Saturnian Flutter

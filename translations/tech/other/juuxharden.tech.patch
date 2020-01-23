@@ -1,10 +1,8 @@
 - op: replace
-  path: /shotdescription
-  rawValue: Harden
+  path: /shortdescription
   value: 变硬
+  rawValue: Harden
 - op: replace
   path: /description
-  rawValue: Hold [Down] to activate superior defenses. Cannot move or attack.
-  value: |-
-    按住[Down]以变得超级硬。不能移动或攻击。
-    激活：^green;[F]^reset;
+  value: 按住[F]使用毒性爆炸，使用[W/S/A/D]进行瞄准。
+  rawValue: Hold [F] to use psionic blasts. Aim with WASD.

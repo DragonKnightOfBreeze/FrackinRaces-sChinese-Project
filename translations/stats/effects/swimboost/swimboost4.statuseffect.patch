@@ -1,4 +1,4 @@
 - op: replace
   path: /label
-  rawValue: Swim +
-  value: 游泳速度+
+  value: 游泳速度4
+  rawValue: Swim 4

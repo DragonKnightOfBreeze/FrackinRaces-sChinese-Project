@@ -1,6 +1,6 @@
 - op: replace
   path: /description
-  rawValue: "Just spooky enough. ^green;Type: Herbivore^reset;"
   value: |-
     太怪异了。
     ^green;类型：素食^reset;
+  rawValue: 'Just spooky enough. ^green;Type: Herbivore^reset;'
