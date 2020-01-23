@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     These humanoid, sapient wasps are each their own hive, and are handy in the air.
 
     Diet:  Meat, Sugars, Fruits

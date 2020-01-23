@@ -1,5 +1,5 @@
 - op: replace
-  path: /shortdescription
+  path: /shortDescription
   value: 猎人之爪
   rawValue: Hunter Claws
 - op: replace

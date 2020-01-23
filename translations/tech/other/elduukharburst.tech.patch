@@ -1,5 +1,5 @@
 - op: replace
-  path: /shortdescription
+  path: /shortDescription
   value: 厄修安火焰
   rawValue: Elduukhar Fire
 - op: replace

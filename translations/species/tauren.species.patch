@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     The Tauren are a towering, strong and noble race of bovine humanoids from a distant world, with soft, short fur, hooves, tails and imposing horns. They value their shamanistic and druidic culture highly, and they are talented hunters, but aren't quite as proficient with modern weaponry. Nomadic by nature, they can adapt to their surroundings.
 
     Diet: Omnivore

@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     Insectoid bee-people.
 
     Diet: Herbavore, prefers sugary items.

@@ -1,4 +1,4 @@
 - op: replace
   path: /label
+  value: 传染 - 周围的生物将会遭受同样的毒性痛苦。
   rawValue: Infection - Nearby creatures suffer the same poisonus agony.
-  translationAnnotation: NotTranslated

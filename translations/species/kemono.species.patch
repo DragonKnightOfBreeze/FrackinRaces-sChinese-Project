@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     Able fox-like warriors.
 
     Diet: Carnivorous

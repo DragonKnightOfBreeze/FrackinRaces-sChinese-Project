@@ -1,8 +1,8 @@
 - op: replace
-  path: /shortdescription
-  value: 变硬
-  rawValue: Harden
+  path: /shortDescription
+  value: 毒性冲击
+  rawValue: Psychic Blast
 - op: replace
   path: /description
-  value: 按住[F]使用毒性爆炸，使用[W/S/A/D]进行瞄准。
+  value: 按住[F]使用毒性冲击，使用[W/S/A/D]进行瞄准。
   rawValue: Hold [F] to use psionic blasts. Aim with WASD.

@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     A Small, social, and overly cute reality-bending dinosaur-like things. They imagine, and reality follows suit.
 
     Diet: Herbivore

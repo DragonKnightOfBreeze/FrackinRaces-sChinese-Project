@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     Bizarre pseudo-dead constructs
 
     Diet: Anything, but almost never eats.

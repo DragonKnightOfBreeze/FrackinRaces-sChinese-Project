@@ -1,5 +1,5 @@
 - op: replace
-  path: /shortdescription
+  path: /shortDescription
   value: Saturnian飞行
   rawValue: Saturnian Flight
 - op: replace

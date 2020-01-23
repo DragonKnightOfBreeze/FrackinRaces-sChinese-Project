@@ -62,7 +62,7 @@ private val selectRules = arrayOf(
 		"/label"
 	),
 	"*.tech" to arrayOf(
-		"/shortdescription",
+		"/shortDescription", //居然不一样？？？
 		"/description"
 	),
 	"mmupgradegui.config" to arrayOf(
@@ -86,7 +86,7 @@ private val selectRules = arrayOf(
 
 private val notConvertFileExtensions = arrayOf(
 	"_previewimage",
-	"_LICENSE"
+	"LICENSE"
 )
 
 
@@ -186,8 +186,7 @@ private fun selectFiles() {
 
 			//考虑到starbound json可能包含注释和多行字符串，需要特殊配置jackson
 			//另外对于species文件，需要做进一步的处理
-			val fileText = file.readText().handleFileText(file.name)
-			val data = JsonSerializer.instance.load<Any>(fileText)
+			val data = JsonSerializer.instance.load<Any>(file)
 
 			//匹配路径时去除.patch后缀
 			val rule = selectRules.first { file.name.removeSuffix(".patch").matchesBy(it.first, MatchType.EditorConfig) }.second
@@ -209,7 +208,17 @@ private fun selectFiles() {
 			if(selectedData.isEmpty()) {
 				file.delete()
 			} else {
-				YamlSerializer.instance.dump(selectedData, file)
+				//以防某些种族mod作者脑子有坑
+				val fixedSelectedData = when {
+					//规范species文档中的翻译文本，去除每行缩进，去除最后一行空行
+					file.name.contains("species") -> selectedData.map { map ->
+						map.toMutableMap().also { m->
+							m["rawValue"] = m["rawValue"].toString().lines().dropLastBlank().joinToString("\n") { it.trim() }
+						}
+					}
+					else -> selectedData
+				}
+				YamlSerializer.instance.dump(fixedSelectedData, file)
 			}
 			println("\t已选择文件：${file.path}")
 		}
@@ -238,7 +247,7 @@ private fun mergeFiles() {
 	originPath.toFile().walk()
 		.filter { file -> file.isFile }
 		.forEach { file ->
-			if(file.name.contains("beamaxehylotl")){
+			if(file.name.contains("beamaxehylotl")) {
 				println("1")
 			}
 			//合并两个文件中的数据
@@ -272,7 +281,7 @@ private fun mergeFiles() {
 			}
 			//暂时不主动改变translationFile中的数据
 			YamlSerializer.instance.dump(mergedData, file)
-			println("\t已合并文件：${file.path}\n <- ${translationFile.path}")
+			println("\t已合并文件：${file.path}\n\t <- ${translationFile.path}")
 		}
 	println("已合并所有必要的文件从 $translationsPath 到 $originPath 目录。")
 }
@@ -302,7 +311,7 @@ private fun extractFiles() {
 							"value" to when(it["translationAnnotation"]) {
 								"NotTranslated" -> it["rawValue"].handleSingleQuote()
 								"Changed" -> it["rawValue"].handleSingleQuote()
-								else -> it["value"]?:it["rawValue"].handleSingleQuote()
+								else -> it["value"] ?: it["rawValue"].handleSingleQuote()
 							}
 						)
 					}
@@ -355,7 +364,7 @@ private fun List<*>.queryAndFilterByPath(path: String): List<Map<String, Any?>> 
 					"translationAnnotation" to "NotTranslated"
 				))
 			}
-			//如果path不包含pathValue，说明不匹配（但是可能部分匹配）
+			//TODO 如果path不包含pathValue，说明不匹配（但是可能部分匹配）
 			pathValue !in path -> listOf()
 			//如果路径不匹配，但value属性是列表，说明我们需要进一步到value属性中勋章我们要找的值
 			value is List<*> -> {
@@ -384,30 +393,18 @@ private fun List<*>.queryAndFilterByPath(path: String): List<Map<String, Any?>> 
 	}
 }
 
-/**处理文件文本。*/
-private fun String.handleFileText(fileName: String): String {
-	//将缩进改为两个引号
-	return this.replace("\t", "  ").let {
-		//对于species文件需要特殊对待
-		if(fileName.contains("species")) {
-			it.lines().joinToString("\n") { s -> s.trim() }
-		} else {
-			it
-		}
-	}
-}
-
 /**处理单引号。*/
-private fun Any?.handleSingleQuote(): String {
-	return this.toString().replace("''","'").replace("''","'")
+private fun Any?.handleSingleQuote(): String? {
+	if(this == null) return null
+	return this.toString().replace("''", "'").replace("''", "'")
 }
 
 /**排序指定目录内的数据文件的键的顺序（按照既定顺序）。*/
-private fun sortData(path:String){
+private fun sortData(path: String) {
 	path.toFile().walk()
 		.filter { it.name.endsWith(".patch") }
-		.forEach { file->
-			val data = YamlSerializer.instance.load<List<Map<String,Any?>>>(file)
+		.forEach { file ->
+			val data = YamlSerializer.instance.load<List<Map<String, Any?>>>(file)
 			val sortedData = data.map {
 				linkedMapOf(
 					"op" to it["op"],
@@ -416,17 +413,19 @@ private fun sortData(path:String){
 					"rawValue" to it["rawValue"],
 					"translationAnnotation" to it["translationAnnotation"],
 					"translationNote" to it["translationNote"]
-				).filterValues { v->v != null }
+				).filterValues { v -> v != null }
 			}
-			YamlSerializer.instance.dump(sortedData,file)
+			YamlSerializer.instance.dump(sortedData, file)
 		}
+	println("已排序所有文件在 $path 目录。")
 }
 
 /**删除指定目录内的空目录。*/
-private fun deleteEmptyDirectories(path:String){
+private fun deleteEmptyDirectories(path: String) {
 	path.toFile().walkBottomUp()
 		.filter { dir -> dir.isDirectory }
 		.forEach { dir ->
 			dir.delete()
 		}
+	println("已删除所有空文件夹在 $path 目录。")
 }

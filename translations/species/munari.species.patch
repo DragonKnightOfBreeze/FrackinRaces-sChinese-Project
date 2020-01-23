@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     Wonderful fish-men.
 
     Diet: Omnivore, can eat raw meat.

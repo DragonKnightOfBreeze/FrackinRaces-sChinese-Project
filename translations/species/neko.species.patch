@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     Personable cat-people. Light on their feet and quick to regain their stamina, they excel in close quarters despite their frailty, and are hardened against the forces of nature.
 
     Diet: Omnivore, can eat raw meat.

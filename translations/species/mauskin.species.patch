@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     A history as a prey-animal has led these now highly evolved rodents to become protectors of the weak and downtrodden.
 
     Diet: Omnivore

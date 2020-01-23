@@ -1,5 +1,5 @@
 - op: replace
-  path: /shortdescription
+  path: /shortDescription
   value: 锡安辐射球茎
   rawValue: X'ian Radbulb
 - op: replace

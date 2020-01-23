@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     Cosmic-attuned bunny-folk from a distant world of fantasy. Skilled fencers, archers, and spellcasters.
 
     Diet: Omnivore

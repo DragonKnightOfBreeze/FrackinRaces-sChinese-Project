@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     Despite their fluffy appearance, this species is incredibly adaptive. They are no strangers to fighting and have their own unique power named Aura. In past they were guardians of their home world, and merged perfectly with the Protectorate.
 
     Diet: Omnivore (berries)

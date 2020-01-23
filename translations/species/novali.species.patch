@@ -1,6 +1,6 @@
 - op: replace
   path: /charCreationTooltip/description
-  rawValue: |
+  rawValue: |-
     Adorable hybrid glowing space raptors with wings. Though they have a disputed, potentially nonexistant origin, they share traits with both Novakids and Avalis, and they are deadly with heavy weapons.
 
     Diet: Omnivore
