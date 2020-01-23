@@ -37,6 +37,7 @@ Mod概述：见项目文件`translations/_metadata`。
   * 推荐安装的IDEA插件：Kotlin，Translation。
   * 本项目采用Yaml格式进行汉化，相对Json格式要更加简洁清晰。
   * 可以通过启动`Script.kt`脚本，执行一些常用命令，请参阅命令行说明。
+  * 通过修改或添加translations目录中的翻译文档中，与`rawValue`属性对应的`value`属性，即可完成对应文本的翻译。
   * 通过对照比较和修订origin和translations目录中的对应文件，可以大大加快和简化翻译流程。
   * 请仅修改translations目录中的翻译文档的中的`value`、`translationAnnotation`和`translationNote`属性，不要修改其他内容。
   * 请参照其他同类文本完成翻译，部分文本的翻译格式可能与原文的原始格式有所不同（词语顺序、缩进、换行等）。 
