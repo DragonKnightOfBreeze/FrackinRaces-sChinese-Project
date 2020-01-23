@@ -16,7 +16,6 @@ private const val originPath = "origin"
 private const val translationsPath = "translations"
 private const val packagePath = "package"
 
-private const val drive = "D:"
 private const val projectPath = "D:\\My Documents\\My Projects\\Managed\\FrackinRaces-sChinese-Project"
 private const val starBoundPath = "D:\\Programs\\Steam\\steamapps\\common\\Starbound"
 private const val frProjectPath = "https://github.com/sayterdarkwynd/FrackinRaces.git"
