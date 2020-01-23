@@ -1,0 +1,10 @@
+- op: replace
+  path: /shortDescription
+  value: 维鲁之爪
+  rawValue: Veluu Claws
+- op: replace
+  path: /description
+  value: |-
+    挥舞利爪，造成狩猎伤害。
+    使用：^green;[F]^reset;
+  rawValue: Use ^green;[F]^reset; to slash with razor-sharp claws. Hunting damage.

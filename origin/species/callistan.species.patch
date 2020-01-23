@@ -1,0 +1,43 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    这些太空狼热爱能量武器和科技。他们敏捷而又极其灵活，几乎可以在任何地形上航行。
+
+    食性：肉食性
+
+    ^orange;天赋^reset;：
+    Staying fed increases movement (max  +^green;16.6%^reset;)
+    ^green;+5%^reset; Damage, ^green;+12%^reset; Energy
+    Resist: ^green;20%^reset; Shadow, ^green;20%^reset; Radiation
+    Immune: Slush, Snow, Soil, Mud, Web and Sandstorm effects
+
+    ^orange;环境^reset;：
+    Gain additional power and health in ^green;Lush, Forest and Tundra^reset; biomes
+    ^green;40% Hunger Reduction^reset;
+
+    ^orange;武器^reset;：
+    Energy Weapons: ^green;+3%^reset; Crit Chance, ^green;+25%^reset; Energy Regen
+    ^red;弱点^reset;：
+    Weak: ^red;20%^reset; Cosmic, ^red;-20%^reset; Poison
+    ^red;40%^reset; Smaller Stomach
+  rawValue: |-
+    Space wolves with a love for energy weapons and tech. They're swift and extremely mobile, navigating almost any terrain, but a tad on the fragile side.
+
+    Diet: Carnivore
+
+    ^orange;Perks^reset;:
+    Staying fed increases movement (max  +^green;16.6%^reset;)
+    ^green;+5%^reset; Damage, ^green;+12%^reset; Energy
+    Resist: ^green;20%^reset; Shadow, ^green;20%^reset; Radiation
+    Immune: Slush, Snow, Soil, Mud, Web and Sandstorm effects
+
+    ^orange;Environment^reset;:
+    Gain additional power and health in ^green;Lush, Forest and Tundra^reset; biomes
+    ^green;40% Hunger Reduction^reset;
+
+    ^orange;Weapons^reset;:
+    Energy Weapons: ^green;+3%^reset; Crit Chance, ^green;+25%^reset; Energy Regen
+
+    ^red;Weaknesses^reset;:
+    Weak: ^red;20%^reset; Cosmic, ^red;-20%^reset; Poison
+    ^red;40%^reset; Smaller Stomach

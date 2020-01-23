@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  value: 跳跃增强
+  rawValue: Jump Boost

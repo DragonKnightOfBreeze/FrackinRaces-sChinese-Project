@@ -1,0 +1,8 @@
+- op: replace
+  path: /description
+  value: |-
+    新鲜煮制的咖啡。
+    ^green;类型：任意^reset;
+  rawValue: 'Freshly brewed coffee. ^green;Type: Universal (would we deny anyone their
+    coffee?)^reset;'
+  translationAnnotation: Fixed

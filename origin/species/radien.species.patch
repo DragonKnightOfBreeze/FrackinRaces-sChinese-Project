@@ -1,0 +1,54 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    起源未知的无性放射性生物，容易害羞。其主要武器是他们的尖腿，这使他们在近战中兼具速度和力量。
+    该种族适用于生存模式或困难模式，^red;要求^reset;FrackinRaces，并且非饥饿状态时减少50%的加成效果。富有挑战性。
+
+    食性：什么都吃，包括辐射食物。
+
+    ^orange;天赋^reset;：
+    能量上限+^green;10%^reset;
+    抗性：^green;40%^reset;放射抗性，^green;10%^reset;冷气&电系抗性，^green;7%^reset;射线抗性
+    科技：种子球茎
+    免疫：辐射烧伤
+
+    ^orange;环境^reset;：
+    ^green;辐射^reseet;生态：伤害&能量回复速度+^green;15%^reset;，降低饥饿速度。
+    ^red;炎热^reset;生态：防御-^red;15%^reset;，提高饥饿速度。
+    随时间增加防御。
+    可以使用完整的种族科技。
+
+    ^orange;武器^reset;：
+    锡安武器：暴击几率+^green;1%^reset;，防御+^green;14%^reset;
+
+    ^red;弱点^reset;：
+    ^red;快速饥饿^reset;
+    生命上限-^red;5%^reset;
+    抗性: ^red;-25%^reset;火炎抗性，^red;-10%^reset;暗影抗性。饥饿时更加糟糕。
+    ^red;不能^reset;使用回复物品，必须使用种族专用回复物品。
+  rawValue: |-
+    A race of shy radioactive beings with a disputed origin. This species is intended for Survival or Hardcore modes and ^red;*requires*^reset; FrackinRaces, and will recieve 50% reduced benefits without Hunger. Challenge is high.
+
+    Diet: Any, including prepared Isotopes.
+
+    ^orange;Perks^reset;:
+    +^green;10%^reset; Energy
+    Resist: ^green;40%^reset; Radiation, 10% Ice & Electric, 7% Cosmic
+    Tech: Seed Bulb
+    Immune: Radiation Burn
+
+    ^orange;Environment^reset;:
+    On ^green;Radioactive-type^reset; biomes :^green;+15%^reset; Dmg and Energy Regen, Reduced Hunger
+    On ^red;Hot^reset; biomes:^red;-15%^reset; Protection increased Hunger.
+    Protection increases over time
+    Racial Tech is integral to success.
+
+    ^orange;Weapons^reset;:
+    X'i Weapons: +^green;1%^reset; Crit and +^green;14%^reset; Protection
+
+    ^red;Weaknesses^reset;:
+    ^red;High Hunger Rate^reset;
+    -^red;10%^reset; Health
+    Resist: -^red;25%^reset; Fire, -^red;10%^reset; Shadow. Worsens with hunger.
+    ^red;CAN NOT^reset; use Healing items. Must use racial heals.
+  translationAnnotation: Changed

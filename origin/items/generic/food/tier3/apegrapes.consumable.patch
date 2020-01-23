@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    一种混合了香蕉和葡萄的健康食品。
+    ^green;类型：素食^reset;
+  rawValue: 'A healthy mix of bananas and grapes. ^green;Type: Herbivore^reset;'

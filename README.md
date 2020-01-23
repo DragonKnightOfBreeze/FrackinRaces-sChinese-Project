@@ -18,6 +18,7 @@ Mod概述：见项目文件`translations/_metadata`。
 # 说明
 
 * 翻译文件存储在`translations`目录下，采用yaml格式。
+* 原则上，不会翻译更多的种族描述文本（因为实在是太多了）。
 * 翻译文件的格式说明：
   * `op` 操作的类型。应当为replace。
   * `path` 操作的目录路径。
@@ -30,6 +31,14 @@ Mod概述：见项目文件`translations/_metadata`。
     * `Fixed` 为了确保特殊名词之间的统一性，修改后的已确定原本含义的翻译。  
     * `Changed` 原文已发生改变，但是尚未同步翻译。
   * `translationNote` 翻译笔记。用作备注。
-* 如果翻译文本是多行文本，请考虑使用多行字符串（即在`value: `后添加`|-`，然后另起一行缩进，写上下一行的内容）。
-* 原则上，不会翻译更多的种族描述文本（因为实在是太多了）。
-  
+* 协助翻译指南：
+  * 请首先百度学习：Github，Git，Json，Yaml。
+  * 推荐使用（提供IDE+文件比较+翻译功能）：IntelliJ IDEA, Capslock+。
+  * 推荐安装的IDEA插件：Kotlin，Translation。
+  * 本项目采用Yaml格式进行汉化，相对Json格式要更加简洁清晰。
+  * 可以通过启动`Script.kt`脚本，执行一些常用命令，请参阅命令行说明。
+  * 通过对照比较和修订origin和translations目录中的对应文件，可以大大加快和简化翻译流程。
+  * 请仅修改translations目录中的翻译文档的中的`value`、`translationAnnotation`和`translationNote`属性，不要修改其他内容。
+  * 请参照其他同类文本完成翻译，部分文本的翻译格式可能与原文的原始格式有所不同（词语顺序、缩进、换行等）。 
+  * 请保持翻译文档中的字符串属性的显示格式（单行，单引号包围，折行，多行等）。
+  * 请根据情况选择对应的`translationAnnotation`，并编写必要的`translationNote`。

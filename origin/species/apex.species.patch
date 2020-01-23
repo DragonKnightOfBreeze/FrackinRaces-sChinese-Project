@@ -1,0 +1,47 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    一种高度智能的灵长类动物。这些科学大师是熟练的矿工和敏捷的战士，但受伤时，他们则会变成无法阻挡的猛兽。
+
+    食性：杂食性
+
+    ^orange;天赋^reset;：
+    物质枪挖掘格数+^green;1^reset;能量上限+^green;30%^reset;
+    移动速度+^green;8%^reset;，跳跃力+^green;15%^reset;
+    抗性：^#e43774;20%^reset;疯狂抗性，^green;20%^reset;寒气抗性，^green;10%^reset;毒素抗性
+    免疫：丛林泥块&泥
+
+    ^orange;环境^reset;：
+    ^green;丛林/原始森林/森林/雨林/冰雪^reset;生态：增加生命上限&防御
+
+    ^orange;武器^reset;：
+    拳套：暴击几率+^green;1%^reset;
+    锤：伤害+^green;10%^reset;
+    激光挖掘器：伤害+^green;50%^reset;
+    磁力珠/投掷武器：伤害+^green;12%^reset;，增加防御
+
+    ^red;弱点^reset;：
+    饱食度上限-^red;20%^reset;
+    抗性：^red;-20%^reset;暗影抗性，^red;-20%^reset;射线抗性，^red;-20%^reset;放射抗性
+  rawValue: |-
+    A race of highly intelligent primates. These masters of science are skilled miners and agile combatants, but become near-unstoppable brutes when wounded.
+
+    Diet: Omnivorous
+
+    ^orange;Perks^reset;:
+    +^green;1^reset; Radius Matter Manipulator, +^green;30%^reset; Max Energy.
+    +^green;8%^reset; speed and +^green;15%^reset; jump, Resist: ^#e43774;20%^reset; Madness, ^green;20%^reset; Cold, ^green;10%^reset; Poison
+    Immune: Jungle Dirt and Mud
+
+    ^orange;Environment^reset;:
+    Gain additional vitality and protection in ^green;Jungle, Primeval, Forest, Rainforest, Snow^reset; biomes
+
+    ^orange;Weapons^reset;:
+    Fists: ^green;+1%^reset; Crit Chance
+    Hammers: ^green;+10%^reset; Dmg
+    Mining Lasers: ^green;+50%^reset; Dmg
+    Magnorb/Thrown: ^green;+12%^reset; Dmg, +Protection
+
+    ^red;Weaknesses^reset;:
+    ^red;20%^reset; Smaller stomache,
+    Weak: ^red;20%^reset; Shadow, ^red;20%^reset; Cosmic,^red;20%^reset; Radioactive

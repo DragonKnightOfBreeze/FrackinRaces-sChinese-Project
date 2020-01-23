@@ -1,0 +1,8 @@
+- op: replace
+  path: /shortdescription
+  value: 种族科技激活器
+  rawValue: Race Tech Enabler
+- op: replace
+  path: /description
+  value: 为支持FR的种族解锁种族特有的科技。
+  rawValue: Enables race-specific techs for FR races.

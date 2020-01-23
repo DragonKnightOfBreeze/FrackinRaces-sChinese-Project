@@ -1,0 +1,10 @@
+- op: replace
+  path: /shortDescription
+  value: 厄修安火焰
+  rawValue: Elduukhar Fire
+- op: replace
+  path: /description
+  value: |-
+    火焰吐息！
+    使用：^green;[F]^reset;。
+  rawValue: Breathe Fire! Use ^green;[F]^reset;.

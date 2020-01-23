@@ -1,0 +1,46 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    超酷的数码生物，带有神奇的小齿轮。
+
+    食性：机械食性
+
+    ^orange;天赋^reset;：
+    物质枪采集速率^green;+1^reset;
+    能力上限^green;+20%^reset;
+    移动速度^green;+4%^reset;，跳跃力^green;+5%^reset;
+    抗性：^green;40^reset;电系抗性
+    免疫：^green;感电^reset;
+
+    ^orange;环境^reset;：
+    液体中：移动速度^red;-40%^reset
+
+    ^orange;武器^reset;：
+    回旋镖/环刃：伤害^green;+12.5%^reset;
+    剑/匕首：防御^green;+2^reset;
+
+    ^red;弱点^reset;：
+    生命上限^red;-15%^reset;
+    抗性：^red;-50%^reset;暗影抗性
+  rawValue: |-
+    Super-awesome digital beings with some amazingly cool niche gear.
+
+    Diet: Robot
+
+    ^orange;Perks^reset;:
+    ^green;+1^reset; Power Matter Manipulator
+    ^green;+20%^reset; Energy
+    ^green;+4%^reset Speed, ^green;+5%^reset Jump
+    ^green;+40^reset Electric Resist
+    Immune: ^green;Electrified^reset;
+
+    ^orange;Environment^reset;:
+    ^red;-40%^reset Speed in Liquids
+
+    ^orange;Weapons^reset;:
+    Boomerang/Chakram: ^green;+12.5%^reset Damage
+    Swords and Daggers: ^green;+2^reset Protection
+
+    ^red;Weaknesses^reset;:
+    ^red;-15%^reset Health,
+    ^red;-50%^reset Shadow Resist.

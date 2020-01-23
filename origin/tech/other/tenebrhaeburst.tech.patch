@@ -1,0 +1,10 @@
+- op: replace
+  path: /shortDescription
+  value: 影裔
+  rawValue: Shadowborne
+- op: replace
+  path: /description
+  value: |-
+    释放一次暗影冲击！
+    使用：^green;[F]^reset;。
+  rawValue: Fire a Shadow Burst! Use ^green;[F]^reset;.

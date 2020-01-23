@@ -1,0 +1,4 @@
+- op: replace
+  path: /description
+  value: ^green;类型：素食^reset;
+  rawValue: '^green;Type: Herbivore^reset;'

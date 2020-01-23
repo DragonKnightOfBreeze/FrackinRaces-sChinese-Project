@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  value: 巨魔 - 夜行的
+  rawValue: Troll- Nocturnal

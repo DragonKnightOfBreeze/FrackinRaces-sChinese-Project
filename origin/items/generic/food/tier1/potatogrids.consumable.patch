@@ -1,0 +1,7 @@
+- op: replace
+  path: /description
+  value: |-
+    一片外皮金黄酥脆，内部蓬松土豆。
+    ^green;类型：素食^reset;
+  rawValue: 'A crispy golden exterior protects the soft and fluffy potato within.
+    ^green;Type: Herbivore^reset;'

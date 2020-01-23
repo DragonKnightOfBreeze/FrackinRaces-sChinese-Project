@@ -1,0 +1,81 @@
+- op: replace
+  path: /gui/title/value
+  value: 高级属性
+  rawValue: Advanced stats
+- op: replace
+  path: /tooltipBoxes/0/tooltip
+  value: 生命上限
+  rawValue: Maximum Health
+- op: replace
+  path: /tooltipBoxes/1/tooltip
+  value: 能量上限
+  rawValue: Maximum Energy
+- op: replace
+  path: /tooltipBoxes/2/tooltip
+  value: 攻击力倍率
+  rawValue: Power Multiplier
+- op: replace
+  path: /tooltipBoxes/3/tooltip
+  value: 呼吸时限
+  rawValue: Breath Duration
+- op: replace
+  path: /tooltipBoxes/4/tooltip
+  value: 击退抵抗
+  rawValue: Knockback Resist
+- op: replace
+  path: /tooltipBoxes/5/tooltip
+  value: 盾牌反伤几率
+  rawValue: Shield Bash Chance
+- op: replace
+  path: /tooltipBoxes/6/tooltip
+  value: 生命回复速度
+  rawValue: Health Regen
+- op: replace
+  path: /tooltipBoxes/7/tooltip
+  value: 能量回复速度
+  rawValue: Energy Regen
+- op: replace
+  path: /tooltipBoxes/8/tooltip
+  value: 暴击伤害加成
+  rawValue: Bonus Crit Dmg
+- op: replace
+  path: /tooltipBoxes/9/tooltip
+  value: 呼吸回复速度
+  rawValue: Breath Regen Time
+- op: replace
+  path: /tooltipBoxes/10/tooltip
+  value: 击退临界值
+  rawValue: Knockback Threshold
+- op: replace
+  path: /tooltipBoxes/11/tooltip
+  value: 盾牌击退
+  rawValue: Shield Bash Push
+- op: replace
+  path: /tooltipBoxes/12/tooltip
+  value: 防御力
+  rawValue: Protection
+- op: replace
+  path: /tooltipBoxes/13/tooltip
+  value: 能量回复时间
+  rawValue: Energy Block Duration
+- op: replace
+  path: /tooltipBoxes/14/tooltip
+  value: 暴击几率
+  rawValue: Bonus Crit Chance
+- op: replace
+  path: /tooltipBoxes/15/tooltip
+  value: 饥饿速度
+  rawValue: Hunger Rate (delta / Max Food
+  translationAnnotation: Fixed
+- op: replace
+  path: /tooltipBoxes/16/tooltip
+  value: 坠落伤害抵抗
+  rawValue: Fall Damage Resist
+- op: replace
+  path: /tooltipBoxes/17/tooltip
+  value: 飞船质量
+  rawValue: Ship Mass
+- op: replace
+  path: /defaultTooltip
+  value: 悬停鼠标以查看具体描述。
+  rawValue: Hover over a stat for its description

@@ -1,0 +1,199 @@
+- op: replace
+  path: /gui/windowtitle/title
+  value: ' 角色属性'
+  rawValue: ' Character Status'
+- op: replace
+  path: /gui/windowtitle/subtitle
+  value: ' 角色信息'
+  rawValue: ' Information about the character'
+- op: replace
+  path: /gui/immunitiesLabel/value
+  value: ^blue;免疫
+  rawValue: ^blue;Immunities
+- op: replace
+  path: /statuses/liquidnitrogenImmunity/name
+  value: ^#4BF3FD;液氮
+  rawValue: ^#4BF3FD;Liquid Nitrogen
+- op: replace
+  path: /statuses/nitrogenfreezeImmunity/name
+  value: ^#4BF3FD;液氮冻结
+  rawValue: ^#4BF3FD;Nitrogen Freeze
+- op: replace
+  path: /statuses/ffextremecoldImmunity/name
+  value: ^#4BF3FD;寒冷 II
+  rawValue: ^#4BF3FD;Cold II
+- op: replace
+  path: /statuses/biomecoldImmunity/name
+  value: ^#4BF3FD;寒冷 I
+  rawValue: ^#4BF3FD;Cold I
+- op: replace
+  path: /statuses/quicksandImmunity/name
+  value: ^yellow;流沙
+  rawValue: ^yellow;Quick Sand
+- op: replace
+  path: /statuses/snowslowImmunity/name
+  value: ^#4BF3FD;雪地减速（物块效果）
+  rawValue: ^#4BF3FD;Snow [Tile]
+  translationAnnotation: Fixed
+- op: replace
+  path: /statuses/slushslowImmunity/name
+  value: ^#4BF3FD;雪泥减速（物块效果）
+  rawValue: ^#4BF3FD;Slush [Tile]
+  translationAnnotation: Fixed
+- op: replace
+  path: /statuses/iceslipImmunity/name
+  value: ^#4BF3FD;冰面滑行（物块效果）
+  rawValue: ^#4BF3FD;Ice [Tile]
+  translationAnnotation: Fixed
+- op: replace
+  path: /statuses/fumudslowImmunity/name
+  value: ^brown;泥地减速（物块效果）
+  rawValue: ^brown;Mud [Tile]
+  translationAnnotation: Fixed
+- op: replace
+  path: /statuses/fujungleslowImmunity/name
+  value: ^green;丛林减速（物块效果）
+  rawValue: ^green;Jungle [Tile]
+  translationAnnotation: Fixed
+- op: replace
+  path: /statuses/slimefrictionImmunity/name
+  value: ^#61D13F;黏液弹力
+  rawValue: ^#61D13F;Slime Bounce
+- op: replace
+  path: /statuses/slimestickImmunity/name
+  value: ^#61D13F;黏泥（物块效果）
+  rawValue: ^#61D13F;Slime [Tile]
+  translationAnnotation: Fixed
+- op: replace
+  path: /statuses/slimeImmunity/name
+  value: ^#61D13F;黏液
+  rawValue: ^#61D13F;Slime
+- op: replace
+  path: /statuses/waterbreathProtection/name
+  value: ^blue;溺水
+  rawValue: ^blue;Drowning
+- op: replace
+  path: /statuses/biooozeImmunity/name
+  value: ^#78f04f;生物软泥
+  rawValue: ^#78f04f;Bio-Ooze
+- op: replace
+  path: /statuses/pusImmunity/name
+  value: ^yellow;脓液
+  rawValue: ^yellow;Pus
+- op: replace
+  path: /statuses/gravrainImmunity/name
+  value: ^gray;重力雨
+  rawValue: ^gray;Gravity Rain
+- op: replace
+  path: /statuses/blacktarImmunity/name
+  value: ^#5B6177;焦油
+  rawValue: ^#5B6177;Black Tar
+- op: replace
+  path: /statuses/tarImmunity/name
+  value: ^#5B6177;油
+  rawValue: ^#5B6177;Tar
+- op: replace
+  path: /statuses/ffextremeheatImmunity/name
+  value: ^#FDBE4B;炎热 II
+  rawValue: ^#FDBE4B;Heat II
+- op: replace
+  path: /statuses/biomeheatImmunity/name
+  value: ^#FDBE4B;炎热 I
+  rawValue: ^#FDBE4B;Heat I
+- op: replace
+  path: /statuses/lavaImmunity/name
+  value: ^#C83E14;岩浆
+  rawValue: ^#C83E14;Lava
+- op: replace
+  path: /statuses/sandstormImmunity/name
+  value: ^orange;沙暴
+  rawValue: ^orange;Sandstorm
+- op: replace
+  path: /statuses/breathProtection/name
+  value: 呼吸
+  rawValue: Breath
+- op: replace
+  path: /statuses/gasImmunity/name
+  value: ^#D1E160;气体
+  rawValue: ^#D1E160;Gas
+- op: replace
+  path: /statuses/stunImmunity/name
+  value: ^gray;眩晕
+  rawValue: ^gray;Stun
+- op: replace
+  path: /statuses/asteroidImmunity/name
+  value: ^gray;小行星带
+  rawValue: ^gray;Asteroids
+- op: replace
+  path: /statuses/sulphuricImmunity/name
+  value: ^#ffd800;硫酸
+  rawValue: ^#ffd800;Sulph. Acid
+- op: replace
+  path: /statuses/protoImmunity/name
+  value: ^#78f04f;原毒
+  rawValue: ^#78f04f;Proto-Poison
+- op: replace
+  path: /statuses/extremepressureProtection/name
+  value: ^gray;极端压强
+  rawValue: ^gray;Pressure
+  translationAnnotation: Fixed
+- op: replace
+  path: /statuses/pressureProtection/name
+  value: ^gray;压强
+  rawValue: ^gray;Pressure
+- op: replace
+  path: /statuses/shadowImmunity/name
+  value: ^#3F2E4D;暗影
+  rawValue: ^#3F2E4D;Shadow
+- op: replace
+  path: /statuses/aetherImmunity/name
+  value: ^#E33FFF;以太
+  rawValue: ^#E33FFF;Aether
+- op: replace
+  path: /statuses/insanityImmunity/name
+  value: ^#EA907E;狂乱
+  rawValue: ^#EA907E;Insanity
+- op: replace
+  path: /statuses/darknessImmunity/name
+  value: ^#EA907E;黑暗
+  rawValue: ^#EA907E;Darkness
+- op: replace
+  path: /statuses/beestingImmunity/name
+  value: ^#ffae00;蜂蜇
+  rawValue: ^#ffae00;Bee Sting
+- op: replace
+  path: /statuses/honeyslowImmunity/name
+  value: ^#FFEC84;蜂蜜减速
+  rawValue: ^#FFEC84;Honey Slow
+- op: replace
+  path: /statuses/electricStatusImmunity/name
+  value: ^#FFE149;感电
+  rawValue: ^#FFE149;Shock
+- op: replace
+  path: /statuses/poisonStatusImmunity/name
+  value: ^#D1E160;中毒
+  rawValue: ^#D1E160;Poisoning
+- op: replace
+  path: /statuses/fireStatusImmunity/name
+  value: ^#FDBE4B;烧伤
+  rawValue: ^#FDBE4B;Burning
+- op: replace
+  path: /statuses/iceStatusImmunity/name
+  value: ^#4BF3FD;冻结
+  rawValue: ^#4BF3FD;Freeze
+- op: replace
+  path: /statuses/biomeelectricImmunity/name
+  value: ^#4BF3FD;闪电
+  rawValue: ^#4BF3FD;Lightning
+- op: replace
+  path: /statuses/ffextremeradiationImmunity/name
+  value: ^yellow;辐射 II
+  rawValue: ^yellow;Radiation II
+- op: replace
+  path: /statuses/biomeradiationImmunity/name
+  value: ^yellow;辐射 I
+  rawValue: ^yellow;Radiation I
+- op: replace
+  path: /statuses/radiationburnImmunity/name
+  value: ^yellow;辐射烧伤
+  rawValue: ^yellow;Radiation Burn

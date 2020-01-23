@@ -1,0 +1,10 @@
+- op: replace
+  path: /shortDescription
+  value: 龙息
+  rawValue: Dragonfire
+- op: replace
+  path: /description
+  value: |-
+    喷射火焰！
+    使用：^green;[F]^reset;。
+  rawValue: Breathe Fire! Use ^green;[F]^reset;.

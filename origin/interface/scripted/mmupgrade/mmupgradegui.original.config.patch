@@ -1,0 +1,12 @@
+- op: replace
+  path: /upgrades/size1/description
+  value: 作用范围+1
+  rawValue: Increase area of effect by +1
+- op: replace
+  path: /upgrades/size2/description
+  value: 作用范围+1
+  rawValue: Increase area of effect by +1
+- op: replace
+  path: /upgrades/size3/description
+  value: 作用范围+1
+  rawValue: Increase area of effect by +1

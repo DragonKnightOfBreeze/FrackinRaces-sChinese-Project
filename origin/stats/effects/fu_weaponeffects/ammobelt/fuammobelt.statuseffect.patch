@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  value: 武器弹药+1
+  rawValue: Increased Weapon Ammo +1

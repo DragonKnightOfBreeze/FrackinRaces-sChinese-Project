@@ -1,0 +1,7 @@
+- op: replace
+  path: /description
+  value: |-
+    将一个毒果和一个外星水果混合在一起你能得到什么？没错，你猜对了。
+    ^green;类型：素食^reset;
+  rawValue: 'What do you get if you blend a toxictop with an alien fruit? That''s
+    right, you guessed it. ^green;Type: Herbivore^reset;'

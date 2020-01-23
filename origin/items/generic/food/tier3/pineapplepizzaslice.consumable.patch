@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    好多配料！
+    ^green;类型：水果^reset;
+  rawValue: 'More toppings! ^green;Type: Meat, Fruit^reset;'

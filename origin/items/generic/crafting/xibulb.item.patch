@@ -1,0 +1,8 @@
+- op: replace
+  path: /shortdescription
+  value: 锡安球茎
+  rawValue: X'ian Bulb
+- op: replace
+  path: /description
+  value: 一种高辐射的植物状的球茎。
+  rawValue: A highly radioactive plant-like bulb.

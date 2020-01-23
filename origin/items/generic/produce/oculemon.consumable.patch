@@ -1,0 +1,7 @@
+- op: replace
+  path: /description
+  value: |-
+    酸，但是值得。
+    ^green;类型：肉质植物？^reset;
+  rawValue: 'Sour but so worth it. ^green;Type: Meaty Plant?^reset;'
+  translationAnnotation: Unsure

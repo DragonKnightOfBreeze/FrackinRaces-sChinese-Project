@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    叶族人的一道罕见的用甜培根做成的菜。
+    ^orange;类型：熟肉食^reset;
+  rawValue: 'A rare sweet Floran dish of candied bacon. ^orange;Type: Cooked Meat^reset;'

@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    鸟喙果。嗯，脆脆的。
+    ^green;类型：素食^reset;
+  rawValue: 'Beakseed. Mmm crunchy. ^green;Type: Plant^reset;'

@@ -1,0 +1,43 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    阿基米利是一个残缺的种族，他们的社会还未从统治者AI的遗失中恢复过来。
+    现在，许多阿基米利作为拾荒者和赏金猎人在银河系中游荡，寻找着他们遗失的AI，当然，还有财富。
+
+    食性：什么都吃
+
+    ^orange;天赋^reset;：
+    抗性：^green;10%^reset;物理抗性，^green;30%^reset;毒素抗性
+    磨损：很少需要进食 ^green;缓慢回复生命^reset;
+
+    ^orange;环境^reset;：
+    在^green;葱郁，森林，沙漠和沼泽^reset;生态中获得额外15%的生命值和防御
+
+    ^orange;武器^reset;：
+    宽剑：+^green;10%^reset;伤害，+^green;10%^reset;防御
+    弓/弩：+^green;2%^reset;暴击几率，+^green;15%^reset;攻击力
+    矛/短矛：+^green;2%^reset;暴击几率，+^green;25%^reset;击退抗性
+
+    ^red;弱点^reset;：
+    抗性：^red;-10%^reset;暗影抗性，^red;-20%^reset;放射抗性
+  rawValue: |-
+    The Akkimari are a broken race, their society still recovering from the loss of the AI that ruled them. Now, many Akkimari roam the galaxy as scavengers and bounty hunters, searching for their AI and riches both.
+
+    Diet: Anything
+
+    ^orange;Perks^reset;:
+    Resist: ^green;10%^reset; Physical, ^green;30%^reset; Poison
+    Attrition: +100% Max Food
+    ^green;+7%^reset; Jump and Speed
+    ^green;Slowly regenerate HP^reset;
+
+    ^orange;Environment^reset;:
+    Gain additional 15% vitality and protection in ^green;Lush, Forest, Desert and Bog^reset; biomes
+
+    ^orange;Weapons^reset;:
+    Broadsword: ^green;+10%^reset; Damage, ^green;+10%^reset; Protection
+    Bow/Crossbow: ^green;+2%^reset; Crit Chance, ^green;+15%^reset; Power
+    Spear/Shortspear: ^green;+2%^reset; Crit Chance, ^green;+25%^reset; Knockback Resistance
+
+    ^red;Weaknesses^reset;:
+    ^red;10%^reset; Shadow, ^red;20%^reset; Radiation

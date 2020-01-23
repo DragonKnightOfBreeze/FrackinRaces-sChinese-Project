@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  value: 回复 1
+  rawValue: Regen 1

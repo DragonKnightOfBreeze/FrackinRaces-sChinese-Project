@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    海洋里的水果。
+    ^green;类型：素食^reset;
+  rawValue: 'Fruit of the ocean. ^green;Type: Fruit^reset;'

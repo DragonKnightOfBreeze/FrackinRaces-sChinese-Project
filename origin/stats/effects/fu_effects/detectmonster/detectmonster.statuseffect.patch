@@ -1,0 +1,4 @@
+- op: replace
+  path: /label
+  value: 怪物探测
+  rawValue: Detect Monster

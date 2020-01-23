@@ -1,0 +1,7 @@
+- op: replace
+  path: /description
+  value: |-
+    毒果制成的果酱。但它真的有毒么？只有一种方法能弄清楚！
+    ^green;类型：素食^reset;
+  rawValue: 'Jam made from toxictop fruit. But is it actually toxic to eat? Only one
+    way to find out! ^green;Type: Herbivore^reset;'

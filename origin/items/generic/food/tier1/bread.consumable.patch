@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    这是一片面包。
+    ^green;类型：粮食^reset;
+  rawValue: 'It is bread. ^green;Type: Grain^reset;'

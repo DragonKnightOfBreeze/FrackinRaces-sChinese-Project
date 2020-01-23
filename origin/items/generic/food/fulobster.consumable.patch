@@ -1,0 +1,10 @@
+- op: replace
+  path: /shortdescription
+  value: 龙虾
+  rawValue: Lobster
+- op: replace
+  path: /description
+  value: |-
+    美味的水产。
+    ^green;类型：生海鲜^reset;'
+  rawValue: 'Delicious aquatic horror. ^green;Type: Raw Seafood^reset;'

@@ -1,0 +1,7 @@
+- op: replace
+  path: /description
+  value: |-
+    它看起来像是古代万圣节的糖果，但每块糖中都含有玉米。
+    ^green;类型：素食^reset;
+  rawValue: 'It looks like the old spooky holiday treat, but there''s actual corn
+    in the centre of each morsel. ^green;Type: Herbivore^reset;'

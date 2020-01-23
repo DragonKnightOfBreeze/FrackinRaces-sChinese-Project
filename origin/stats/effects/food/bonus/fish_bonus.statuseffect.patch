@@ -1,0 +1,5 @@
+- op: replace
+  path: /label
+  value: 都是那条鱼惹的祸。
+  rawValue: All about that fishy stuff.
+  translationAnnotation: Unsure

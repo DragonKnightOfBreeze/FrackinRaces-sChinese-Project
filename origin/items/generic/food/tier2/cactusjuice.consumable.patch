@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    口感像仙人掌一样爽。
+    ^green;类型：素食^reset;
+  rawValue: 'Cool as a cactus. ^green;Type: Herbivore^reset;'

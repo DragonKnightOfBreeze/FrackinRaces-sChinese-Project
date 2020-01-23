@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    又甜又腻的肋骨，真好吃！
+    ^orange;类型：熟肉食.^reset;
+  rawValue: 'Sweet and sticky ribs. Delicious! ^orange;Type: Cooked Meat.^reset;'

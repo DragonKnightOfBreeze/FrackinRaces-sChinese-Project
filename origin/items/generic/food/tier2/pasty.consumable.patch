@@ -1,0 +1,7 @@
+- op: replace
+  path: /description
+  value: |-
+    一种能够充当地下探索时的小吃的传统糕点。
+    ^orange;类型：熟肉食^reset;
+  rawValue: 'A traditional Earthling pastry meant for snacking on when underground.
+    ^orange;Type: Cooked Meat^reset;'

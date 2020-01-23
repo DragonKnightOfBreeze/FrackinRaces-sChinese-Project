@@ -1,0 +1,7 @@
+- op: replace
+  path: /description
+  value: |-
+    庆祝仪式上的传统翼族食品。
+    ^green;类型：素食^reset;
+  rawValue: 'A traditional Avian ceremonial food eaten at celebrations. ^green;Type:
+    Herbivore^reset;'

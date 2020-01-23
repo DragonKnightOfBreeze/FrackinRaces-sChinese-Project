@@ -1,0 +1,6 @@
+- op: replace
+  path: /description
+  value: |-
+    包含所有水果的果汁。
+    ^green;类型：素食^reset;
+  rawValue: 'All the fruit, in a juice. ^green;Type: Herbivore^reset;'

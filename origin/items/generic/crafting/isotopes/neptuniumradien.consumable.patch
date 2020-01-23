@@ -1,0 +1,8 @@
+- op: replace
+  path: /shortdescription
+  value: 食用镎
+  rawValue: Edible Neptunium
+- op: replace
+  path: /description
+  value: 锡安处理流程已经去除了其中的杂质。
+  rawValue: X'ian processes have stripped the impurities.

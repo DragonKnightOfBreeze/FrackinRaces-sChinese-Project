@@ -1,0 +1,8 @@
+- op: replace
+  path: /shortdescription
+  value: 锡安种子球茎
+  rawValue: X'ian Seed Bulb
+- op: replace
+  path: /description
+  value: 产生光亮，且可用于组成其他多种锡安工具。有辐射的。
+  rawValue: Provides light, and can be used to form many X'ian tools. Radioactive.

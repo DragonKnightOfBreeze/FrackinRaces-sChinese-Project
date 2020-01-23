@@ -1,0 +1,10 @@
+- op: replace
+  path: /shortDescription
+  value: 缓慢降落(翼族)
+  rawValue: Avian Slowfall
+- op: replace
+  path: /description
+  value: |-
+    你的种族可以滑翔……一点点。
+    激活：^green;[F]^reset;。
+  rawValue: Your race can glide...just a bit. Use ^green;[F]^reset;.
