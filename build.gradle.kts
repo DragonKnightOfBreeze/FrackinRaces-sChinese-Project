@@ -23,10 +23,10 @@ dependencies {
 	implementation(kotlin("stdlib"))
 	implementation(kotlin("test-junit"))
 
-	implementation("com.windea.breezeframework:breeze-core:1.0.9")
-	implementation("com.windea.breezeframework:breeze-data:1.0.9")
-	implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.10.0.pr2")
-	implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.0.pr2")
+	implementation("com.windea.breezeframework:breeze-core:1.0.10")
+	implementation("com.windea.breezeframework:breeze-data:1.0.10")
+	implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.10.1")
+	implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.1")
 }
 
 tasks {
