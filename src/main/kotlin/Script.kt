@@ -247,9 +247,6 @@ private fun mergeFiles() {
 	originPath.toFile().walk()
 		.filter { file -> file.isFile }
 		.forEach { file ->
-			if(file.name.contains("beamaxehylotl")) {
-				println("1")
-			}
 			//合并两个文件中的数据
 			val translationFile = file.path.replace("$originPath\\", "$translationsPath\\").toFile()
 
