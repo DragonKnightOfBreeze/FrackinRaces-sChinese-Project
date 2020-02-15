@@ -22,7 +22,7 @@
 
     ^red;弱点^reset;：
     生命值-^red;15%^reset;
-    抗性：^red;-40%^reset;寒气抗性，^red;-25%^reset;毒素抗性，^red;-5%^reset;物理抗性
+    抗性：^red;-30%^reset;寒气抗性，^red;-25%^reset;毒素抗性，^red;-5%^reset;物理抗性
   rawValue: |-
     A people of powerful faith and strongly attuned to the universe, Avians are naturals with staves and wands and are exceptionally agile.
 
@@ -46,5 +46,4 @@
 
     ^red;Weaknesses^reset;:
     -^red;15%^reset; Health,
-    Weak: ^red;40%^reset; Ice, ^red;25%^reset; Poison, ^red;5%^reset; Physical
-  translationAnnotation: Changed
+    Weak: ^red;30%^reset; Ice, ^red;25%^reset; Poison, ^red;5%^reset; Physical

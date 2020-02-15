@@ -3,7 +3,7 @@ package com.windea.mod.starbound.frchs
 import com.fasterxml.jackson.core.json.*
 import com.fasterxml.jackson.databind.*
 import com.fasterxml.jackson.dataformat.yaml.*
-import com.windea.breezeframework.core.enums.core.*
+import com.windea.breezeframework.core.enums.text.*
 import com.windea.breezeframework.core.extensions.*
 import com.windea.breezeframework.data.serializers.*
 import com.windea.breezeframework.data.serializers.json.*
@@ -22,6 +22,7 @@ private const val frProjectPath = "https://github.com/sayterdarkwynd/FrackinRace
 
 private const val pakPath = "release\\FrChinese.pak"
 private const val assetPackerPath = "win32\\asset_packer.exe"
+
 
 private val notDeleteFileExtensions = arrayOf(
 	"activeitem", "activeitem.patch",
@@ -116,8 +117,6 @@ fun main() {
 			"m" -> mergeFiles()
 			"e" -> extractFiles()
 			"g" -> generatePak()
-			"s $originPath" -> sortData(originPath)
-			"s $translationsPath" -> sortData(translationsPath)
 			"d $originPath" -> deleteEmptyDirectories(originPath)
 			"d $translationsPath" -> deleteEmptyDirectories(translationsPath)
 			"exit" -> exitProcess(0)
@@ -149,9 +148,7 @@ private fun fetchOrigin() {
 	if(originPath.toPath().exists()) return
 
 	//需要等待拉取完毕
-	Runtime.getRuntime().exec("""
-		git clone $frProjectPath ./$originPath
-	""".trimIndent()).waitFor()
+	execBlocking{"""git clone $frProjectPath ./$originPath"""}
 	println("已克隆FR项目仓库到 $originPath 目录。")
 }
 
@@ -159,10 +156,10 @@ private fun fetchOrigin() {
 private fun deleteFiles() {
 	//删除非必要的文件
 	originPath.toFile().walk()
-		.filterNot { file -> !file.isFile || file.name endsWithIc notDeleteFileExtensions }
+		.filterNot { file -> !file.isFile || file.name endsWithIgnoreCase notDeleteFileExtensions }
 		.forEach { file ->
 			file.delete()
-			println("\t已删除文件：${file.path}")
+			println("已删除文件：${file.path}")
 		}
 	//删除空目录
 	originPath.toFile().walkBottomUp()
@@ -188,7 +185,7 @@ private fun selectFiles() {
 			val data = JsonSerializer.instance.load<Any>(file)
 
 			//匹配路径时去除.patch后缀
-			val rule = selectRules.first { file.name.removeSuffix(".patch").matchesBy(it.first, MatchType.EditorConfig) }.second
+			val rule = selectRules.first { file.name.removeSuffix(".patch") matches it.first.toRegexBy(MatchType.EditorConfigPath) }.second
 			val selectedData = when(data) {
 				//认为是非patch的配置文件
 				is Map<*, *> -> rule.flatMap { path ->
@@ -211,7 +208,7 @@ private fun selectFiles() {
 				val fixedSelectedData = when {
 					//规范species文档中的翻译文本，去除每行缩进，去除最后一行空行
 					file.name.contains("species") -> selectedData.map { map ->
-						map.toMutableMap().also { m->
+						map.toMutableMap().also { m ->
 							m["rawValue"] = m["rawValue"].toString().lines().dropLastBlank().joinToString("\n") { it.trim() }
 						}
 					}
@@ -219,7 +216,7 @@ private fun selectFiles() {
 				}
 				YamlSerializer.instance.dump(fixedSelectedData, file)
 			}
-			println("\t已选择文件：${file.path}")
+			println("已选择文件：${file.path}")
 		}
 	//重命名文件
 	originPath.toFile().walk()
@@ -227,7 +224,7 @@ private fun selectFiles() {
 		.forEach { file ->
 			//如果不是patch文件，则重命名为patch文件
 			if(!file.name.endsWith("patch")) {
-				println("\t已重命名文件：${file.path}")
+				println("已重命名文件：${file.path}")
 				file.renameTo(("${file.path}.patch").toFile())
 			}
 		}
@@ -277,7 +274,7 @@ private fun mergeFiles() {
 			}
 			//暂时不主动改变translationFile中的数据
 			YamlSerializer.instance.dump(mergedData, file)
-			println("\t已合并文件：${file.path}\n\t <- ${translationFile.path}")
+			println("已合并文件：${file.path}\n <- ${translationFile.path}")
 		}
 	println("已合并所有必要的文件从 $translationsPath 到 $originPath 目录。")
 }
@@ -291,7 +288,7 @@ private fun extractFiles() {
 	//将yaml文件转化为json文件
 	//相信package目录下除了notToConvertFileNames之外，全部需要转换为json文件
 	packagePath.toFile().walk()
-		.filterNot { file -> !file.isFile || file.name endsWithIc notConvertFileExtensions }
+		.filterNot { file -> !file.isFile || file.name endsWithIgnoreCase notConvertFileExtensions }
 		.forEach { file ->
 			//转化yaml文件为json文件
 			val data = YamlSerializer.instance.load<Any>(file)
@@ -317,7 +314,7 @@ private fun extractFiles() {
 				}
 			}
 			JsonSerializer.instance.dump(simplifiedData, file)
-			println("\t已转化文件：${file.path}")
+			println("已转化文件：${file.path}")
 		}
 	println("已提取所有文件到 $packagePath 目录。")
 }
@@ -325,16 +322,24 @@ private fun extractFiles() {
 /**生成mod包。*/
 private fun generatePak() {
 	//最好不要在java命令行中使用cd命令
-	Runtime.getRuntime().exec("""
-		$starBoundPath\$assetPackerPath "$projectPath\$packagePath" "$projectPath\$pakPath"
-	""".trimIndent())
+	exec { """$starBoundPath\$assetPackerPath "$projectPath\$packagePath" "$projectPath\$pakPath"""" }
 	println("已生成pak包。")
+}
+
+/**删除指定目录内的空目录。*/
+private fun deleteEmptyDirectories(path: String) {
+	path.toFile().walkBottomUp()
+		.filter { dir -> dir.isDirectory }
+		.forEach { dir ->
+			dir.delete()
+		}
+	println("已删除所有空文件夹在 $path 目录。")
 }
 
 
 /**根据路径查询翻译文本组。*/
 private fun Map<*, *>.deepQueryByPath(path: String): List<Map<String, Any?>> {
-	return this.deepQuery<Any?>(path.replace("-", "[]")).map { (k, v) ->
+	return this.deepQuery<Any?>(path).map { (k, v) ->
 		linkedMapOf(
 			"op" to "replace",
 			"path" to k,
@@ -352,7 +357,7 @@ private fun List<*>.queryAndFilterByPath(path: String): List<Map<String, Any?>> 
 		val value = it["value"]
 		when {
 			//如果路径匹配或者相等，说明value属性的值就是我们要找的值
-			pathValue == path || pathValue.matchesBy(path, MatchType.PathReference) -> {
+			pathValue == path || pathValue matches path.toRegexBy(MatchType.PathReference) -> {
 				listOf(linkedMapOf(
 					"op" to "replace",
 					"path" to it["path"],
@@ -362,12 +367,12 @@ private fun List<*>.queryAndFilterByPath(path: String): List<Map<String, Any?>> 
 			}
 			//TODO 如果path不包含pathValue，说明不匹配（但是可能部分匹配）
 			pathValue !in path -> listOf()
-			//如果路径不匹配，但value属性是列表，说明我们需要进一步到value属性中勋章我们要找的值
+			//如果路径不匹配，但value属性是列表，说明我们需要进一步到value属性中寻找我们要找的值
 			value is List<*> -> {
-				value.deepQuery<Any?>(path.removePrefix(pathValue).replace("-", "[]")).map { (k, v) ->
+				value.deepQuery<Any?>(path.removePrefix(pathValue)).map { (k, v) ->
 					linkedMapOf(
 						"op" to "replace",
-						"path" to k,
+						"path" to "$pathValue/$k",
 						"rawValue" to v.handleSingleQuote(),
 						"translationAnnotation" to "NotTranslated"
 					)
@@ -375,7 +380,7 @@ private fun List<*>.queryAndFilterByPath(path: String): List<Map<String, Any?>> 
 			}
 			//同上
 			value is Map<*, *> -> {
-				value.deepQuery<Any?>(path.removePrefix(pathValue).replace("-", "[]")).map { (k, v) ->
+				value.deepQuery<Any?>(path.removePrefix(pathValue)).map { (k, v) ->
 					linkedMapOf(
 						"op" to "replace",
 						"path" to "$pathValue/$k",
@@ -393,35 +398,4 @@ private fun List<*>.queryAndFilterByPath(path: String): List<Map<String, Any?>> 
 private fun Any?.handleSingleQuote(): String? {
 	if(this == null) return null
 	return this.toString().replace("''", "'").replace("''", "'")
-}
-
-/**排序指定目录内的数据文件的键的顺序（按照既定顺序）。*/
-private fun sortData(path: String) {
-	path.toFile().walk()
-		.filter { it.name.endsWith(".patch") }
-		.forEach { file ->
-			val data = YamlSerializer.instance.load<List<Map<String, Any?>>>(file)
-			val sortedData = data.map {
-				linkedMapOf(
-					"op" to it["op"],
-					"path" to it["path"],
-					"value" to it["value"],
-					"rawValue" to it["rawValue"],
-					"translationAnnotation" to it["translationAnnotation"],
-					"translationNote" to it["translationNote"]
-				).filterValues { v -> v != null }
-			}
-			YamlSerializer.instance.dump(sortedData, file)
-		}
-	println("已排序所有文件在 $path 目录。")
-}
-
-/**删除指定目录内的空目录。*/
-private fun deleteEmptyDirectories(path: String) {
-	path.toFile().walkBottomUp()
-		.filter { dir -> dir.isDirectory }
-		.forEach { dir ->
-			dir.delete()
-		}
-	println("已删除所有空文件夹在 $path 目录。")
 }
