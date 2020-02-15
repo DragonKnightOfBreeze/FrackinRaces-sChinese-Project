@@ -309,7 +309,7 @@ private fun extractFiles() {
 					}
 				}
 				else -> {
-					data
+					data as List<Map<String, Any?>>
 				}
 			}
 			JsonSerializer.instance.dump(simplifiedData, file)
