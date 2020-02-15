@@ -105,7 +105,6 @@ fun main() {
 			m: 根据过滤规则，将translations目录下的文件合并到origin目录下
 			e: 将translations目录下的翻译文件提取到package目录下
 			g: 打包package目录下的所有文件为release/FrChinese.pak
-			s {path}: 排序指定目录内的数据文件的键的顺序（按照既定顺序）
 			d {path}: 删除指定目录内的空目录
 			exit: 退出
 			************
