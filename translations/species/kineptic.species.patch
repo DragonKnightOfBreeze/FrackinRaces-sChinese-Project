@@ -9,8 +9,8 @@
     <green>During the night, shadowy power restores your health</green>
 
     <orange>［武器］</orange>
-    Wand/Staff:<green>+25% Damage. Also gain Energy regeneration increase</green>
-    Quarterstaff:<green>+15% Damage , +3 Protection</green>
+    魔杖，法杖：伤害<green>+25%</green>，<green>增加</green>能量回复速度
+    长棍：伤害<green>+15%</green>，防御力<green>+3</green>
   rawValue: |-
     Energy-wielding space cats. Missing for years. If they reappear again, please tell the FU crew since we'll need to redo them from scratch.
 

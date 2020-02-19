@@ -14,10 +14,10 @@
     <green>+10%</green> Health, <green>+15%</green> Energy, <green>+19%</green> Speed In Rainforest, Forest and Primeval biomes
 
     <orange>［武器］</orange>
-    Wands and Staves: <green>+15%</green> Damage and Energy
-    Bows: <green>+15%</green> Damage and Energy
-    Rapier(one): <green>+10%</green> Damage, <green>+1 Protection (Rapier <green>+ Dagger) <green>+2%</green> Crit and <green>+10%</green> Physical Resistance
-    Rapier, Shortsword and Dagger: <green>+15%</green> Physical Resist, <green>+12%</green> Damage, has a <green>5%</green> chance to shoot mystic blasts during combos.
+    魔杖，法杖：伤害<green>+15%</green>，能量值上限<green>+15%</green>
+    弓：伤害<green>+15%</green>，能量值上限<green>+15%</green>
+    刺剑（单持）：伤害<green>+10%</green>，防御力<green>+1</green>，暴击几率<green>+2%</green>，物理抗性<green>+10%</green>
+    刺剑，短剑，匕首：伤害<green>+12%</green>，物理抗性<green>+15%</green>，每次连击时有<green>5%</green>的几率释放神秘爆炸
 
     <red>［弱点］</red>
     生命值上限<red>-20%</red>，饱食度上限<red>-20%</red>

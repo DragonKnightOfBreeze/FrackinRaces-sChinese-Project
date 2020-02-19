@@ -17,8 +17,8 @@
     Rain grants very slight regeneration.
 
     <orange>［武器］</orange>
-    Spear/Trident: <green>+20%</green> Damage when above <green>75%</green> health
-    Spear/Trident/Shortspear: <green>+8%</green> Speed, <green>+4</green> Protection, <green>+1%</green> Crit
+    矛，三叉戟：生命值大于<green>75%</green>时，伤害<green>+20%</green>
+    矛，短矛，三叉戟：防御力<green>+4</green>，暴击几率<green>+1%</green>，移动速度<green>+8%</green>
 
     <red>［弱点］</red>
     抗性：电系抗性<red>-40%</red>
@@ -46,3 +46,4 @@
     ^red;Weaknesses^reset;:
     ^red;40%^reset; Electric
   translationAnnotation: NotTranslated
+  translationNote: 三叉戟又是什么？

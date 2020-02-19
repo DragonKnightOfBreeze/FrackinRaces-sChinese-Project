@@ -13,10 +13,10 @@
     <green>+15%</green> Health, Speed, and Jump in Jungle, Forest, Snow, Savannah and Lush biomes
 
     <orange>［武器］</orange>
-    Guns, Grenade Launcher, Rocket Launcher: <red>-10%</red> Damage
-    Shortspear / Spear / Axe: <green>+8%</green> dmg, <green>+5%</green> Crit.
-    Hammer / Greataxe / Broadsword: <green>5%</green> Damage, <green>+3%</green> Crit, <green>+15%</green> Crit Damage
-    Bows / Wands / Staves: <green>10%</green> Damage and Energy
+    枪，榴弹发射器，火箭发射器：伤害<red>-10%</red>
+    短矛，矛，斧：伤害<green>+8%</green>，暴击几率<green>+5%</green>
+    锤，巨斧，阔剑：伤害<green>+5%</green>，暴击几率<green>+3%</green>，暴击伤害<green>+15%</green>
+    弓，魔杖，法杖：伤害<green>+10%</green>，能量值上限<green>+10%</green>
 
     <red>［弱点］</red>
     饥饿速度<red>+100%</red>

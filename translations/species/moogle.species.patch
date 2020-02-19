@@ -10,15 +10,15 @@
     <green>+20%</green> Jump, <green>-50%</green> Fall Damage
     <green>+30%</green> Cosmic & Ice Resist, <green>+20%</green> Electric Resist
     Tech: <green>Glide</green>
-    Immune: Electrified, Mud
+    免疫：感电，泥
 
     <orange>［武器］</orange>
-    Shortswords, Staves, and Wands: <green>+5%</green> damage
-    Pistols, Spears, and Daggers: <green>+10%</green> damage, <green>+1%</green> crit
-    Energy Weapons: <green>+10%</green> damage, <green>+10%</green> crit damage
+    短剑，魔杖，法杖：伤害<green>+5%</green>
+    手枪，矛，匕首：伤害<green>+10%</green>，暴击几率<green>+1%</green>
+    能量武器：伤害<green>+10%</green>，暴击伤害<green>+10%</green>
 
     <red>［弱点］</red>
-    糟糕的游泳者
+    <red>糟糕的游泳者</red>
     生命值上限<red>-20%</red>，饱食度上限<red>-20%</red>
     抗性：暗影抗性<red>-40%</red>，火炎抗性<red>-20%</red>，物理抗性<red>-20%</red>
   rawValue: |-

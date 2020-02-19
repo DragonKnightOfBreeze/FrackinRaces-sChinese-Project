@@ -12,8 +12,8 @@
     Immune: Jungle
 
     <orange>［武器］</orange>
-    Dagger, Shortsword, Broadsword: <green>+2^reset Protection
-    Whip: <green>+12%</green> Damage
+    匕首，短剑，阔剑：防御力<green>+2</green>
+    鞭：伤害<green>+12%</green>
 
     <red>［弱点］</red>
     抗性：放射抗性<red>-50%</red>

@@ -14,10 +14,10 @@
     <green>+20%</green> Health on Lush, Forest, and Rainforest biomes.
 
     <orange>［武器］</orange>
-    Axe/Greataxe: <green>+10%</green> Damage
-    Scythe: <green>+25%</green> Damage
-    Spear/Shortspear: <green>+10%</green> Damage & Speed
-    Axe: Each hit fills <green>+0.5%</green> Hunger
+    斧，巨斧：伤害<green>+10%</green>
+    镰刀：伤害<green>+25%</green>
+    矛，短矛：伤害<green>+10%</green>，移动速度<green>+10%</green>
+    斧：每次攻击时饱食度<green>+0.5%</green>
 
     <red>［弱点］</red>
     移动速度<red>-5%</red>

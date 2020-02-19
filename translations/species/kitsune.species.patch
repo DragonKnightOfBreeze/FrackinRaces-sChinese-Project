@@ -14,11 +14,11 @@
     Gain <green>+10%</green> Health and Protection in <green>Lush,Primeval, Forest, Jungle, Rainforest, Tundra, and Snow</green> biomes
 
     <orange>［武器］</orange>
-    Dagger/Shortsword: <green>+3%</green> Crit Chance
-    Quarterstaff: <green>+15%</green> Dmg, <green>+20%</green> Protection
-    Hammer/Mace: <green>+15%</green> Stun Chance
-    Melee Combos increase protection per-strike
-    <orange>Perfect Blocks</orange> increase protection(<green>+2</green>) and damage(<green>+2%</green>)
+    匕首，短剑：暴击几率<green>+3%</green>
+    长棍：伤害<green>+15%</green>，防御力<green>+20%</green>
+    锤，锤矛：击晕几率<green>+15%</green>
+    每次近战武器连击时增加防御力
+    完美格挡时：防御力<green>+2</green>，伤害<green>+2%</green>
 
     <red>［弱点］</red>
     能量值上限<red>-12%</red>

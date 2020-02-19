@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    一种非常聪明的类虎鲸种族。
+    一种非常聪明的虎鲸种族。
 
     食性：杂食性
 
@@ -15,9 +15,9 @@
     In water/healing water, you gain <green>-50%</green> Hunger Rate, <green>+20%</green> Poison Resist, and <green>minor health regen</green>
 
     <orange>［武器］</orange>
-    Boltgun: <green>+20</green> Damage, <green>+1%</green> Crit Chance,<green>+3</green> Crit Bonus Damage
-    Trident: <green>+10</green> Damage, <green>+3%</green> Crit Chance, <green>+5</green> Crit Bonus Damage
-    Spear: <green>+20</green> Damage
+    爆矢枪: 伤害<green>+20</green>，暴击几率<green>+1%</green>，暴击伤害<green>+3</green>
+    三叉戟：伤害<green>+10</green>，暴击几率<green>+3%</green>，暴击伤害<green>+5</green>
+    矛：伤害<green>+20</green>
 
     <red>［弱点］</red>
     抗性：电系抗性<red>-30%</red>，毒素抗性<red>-20%</red>
@@ -43,3 +43,4 @@
     ^red;Weaknesses^reset;:
     ^red;30%^reset; Electric, ^red;20%^reset; Poison
   translationAnnotation: NotTranslated
+  translationNote: 不知道Boltgun的确切含义。

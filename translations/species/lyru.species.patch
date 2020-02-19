@@ -12,13 +12,13 @@
     Immune: Erchius
 
     <orange>［武器］</orange>
-    Shortsword: <green>+12%</green> Damage and <green>+20%</green> Knockback Resistance
-    Dagger and Spear: <green>+12%</green> Damage and <green>+5%</green> Crit
-    Machinepistol: <green>+10%</green> Damage and <green>+1%</green> Crit Dmg
-    Sniper Rifle: <green>+3%</green> Crit and <green>+10%</green> Crit Dmg
-    Shotgun: <green>+12%</green> Damage and <green>+10%</green> Crit Dmg
-    Boomerang and Chakram: <green>+12%</green> Damage and <green>+2%</green> Protection
-    Shield: Perfect Blocks <green>increase defense</green>(stacks)
+    短剑：伤害<green>+12%</green>，击退抵抗力<green>+20%</green>
+    匕首，矛：伤害<green>+12%</green>，暴击几率<green>+5%</green>
+    自动手枪：伤害<green>+10%</green>，暴击几率<green>+1%</green>
+    狙击步枪：暴击几率<green>+3%</green>，暴击伤害<green>+10%</green>
+    霰弹枪：伤害<green>+12%</green>，暴击伤害<green>+10%</green>
+    回旋镖，环刃：伤害<green>+12%</green>，防御力<green>+2%</green>
+    盾牌：完美格挡时<green>增加防御（可叠加）</green>
 
     <red>［弱点］</red>
     日间或在辐射环境时：<red>降低</red>生命值上限，能量值上限和辐射抗性

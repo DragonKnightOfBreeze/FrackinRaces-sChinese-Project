@@ -14,10 +14,9 @@
     Hot / Dry Biomes: <red>-15% Max Energy</red> <red>-15% Max Health</red> <red>-30% Energy Regen</red>
 
     <orange>［武器］</orange>
-    Shortspear / Spear: <green>+10%</green> Damage, <green>+15%</green> Protection
-    Wands / Staves: <green>8%</green> Damage and Energy
-    Broadswords / Shortswords / Daggers: <green>+15%</green> Damage, <green>+5%</green> Critical Chance
-    Playstyle: <yellow>Fighting</yellow>
+    短矛，矛：伤害<green>+10%</green>，防御力<green>+15%</green>
+    魔杖，法杖：伤害<green>8%</green>，能量值上限<green>+8%</green>
+    阔剑，短剑，匕首：伤害<green>+15%</green>暴击几率<green>+5%</green>
 
     <red>［抗性］</red>
     生命值上限<red>-5%</red>，防御力<red>-10%</red>，饥饿速度<red>+5%</red>

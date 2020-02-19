@@ -15,11 +15,10 @@
     Jungle Biomes: <green>+5%</green> Max Energy, <green>+10%</green> Knockback
 
     <orange>［武器］</orange>
-    Pistol / Machinepistol: <green>+15%</green> Damage and Energy
-    Shortspear / Spear: <green>+8%</green> dmg, +5%<reset> Crit. Strike faster when full
-    Wands / Staves: <green>5%</green> Damage and Energy
-    Fists: <green>+10%</green> Damage
-    Playstyle: <yellow>Fighting</yellow>
+    手枪，自动手枪：伤害<green>+15%</green>，能量值上限<green>+15%</green>
+    短矛，矛：伤害<green>+8%</green>，暴击几率<green>+5%</green>
+    魔杖，法杖：伤害<green>+5%</green>，暴击几率<green>+5%</green>
+    拳套：伤害<green>+10%</green>
 
     <red>［弱点］</red>
     生命值上限<red>-5%</red>，防御力<red>-5%</red>

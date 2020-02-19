@@ -20,10 +20,10 @@
     Night regen <red>consumes food</red> and <red>-25%</red> Energy
 
     <orange>［武器］</orange>
-    <green>+10%</green> airborne damage
-    Energy: <green>+12%</green> Dmg
-    Grenade Launcher: <green>+20%</green> Crit Dmg
-    Sniper: <green>+2%</green> Crit Chance and <green>+10%</green> Crit Damage
+    空中伤害<green>+10%</green>
+    能量武器：伤害<green>+12%</green>
+    榴弹发射器：暴击伤害<green>+20%</green>
+    狙击步枪：暴击伤害<green>+10%</green>，暴击几率<green>+2%</green>
 
     <red>［弱点］</red>
     生命值上限<red>-5%</red>

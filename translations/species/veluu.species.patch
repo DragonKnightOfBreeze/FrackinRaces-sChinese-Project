@@ -16,11 +16,11 @@
     <green>+10%</green> Health, <green>+15%</green> Energy on <green>Jungle, Primeval, Forest, Rainforest, Desert</green> biomes
 
     <orange>［武器］</orange>
-    Fists, Daggers, Shortswords: <green>+1%</green> Crit Chance
-    Thrown Weapons/Grenades: <green>+25%</green> Dmg
-    Magnorb: <green>+2%</green> Crit Chance
-    Arm Cannon: <green>+15%</green> Protection,<green>+15%</green> Damage
-    Bow: <green>-0.1</green>s Draw Time
+    拳套，匕首，短剑：暴击几率<green>+1%</green>
+    投掷武器，手榴弹：伤害<green>+25%</green>
+    磁力珠：：暴击几率<green>+2%</green>
+    手炮：伤害<green>+15%</green>，防御力<green>+15%</green>
+    弓：蓄力时间<green>-0.1s</green>
 
     <red>［弱点］</red>
     抗性：射线抗性<red>-20%</red>，电系抗性<red>-20%</red>

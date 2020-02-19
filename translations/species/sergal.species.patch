@@ -14,10 +14,10 @@
     Gain additional vitality, jumping and speed in <green>Rainforest, Jungle, Savannah, and Primeval</green> biomes
 
     <orange>［武器］</orange>
-    Bow: <green>+15%</green> Damage
-    Mace: <green>+25%</green> Stun Chance
-    Dagger: <green>+15%</green> Damage, +1% Crit Chance
-    Spear: <green>+25</green> Max Health, <green>+15%</green> Protection
+    弓：伤害<green>+15%</green>
+    锤矛：击晕几率<green>+25%</green>
+    匕首：伤害<green>+15%</green>，暴击几率<green>+1%</green>
+    矛：生命值上限<green>+25</green>，防御力<green>+15%</green>
 
     <red>［弱点］</red>
     能量值上限<red>-20%</red>，击退抵抗力<red>-50%</red>

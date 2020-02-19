@@ -11,9 +11,9 @@
     Immune: Poison, Bee Stings
 
     <orange>［武器］</orange>
-    1h combos increase protection
-    Rapier/Shortsword/Mace: <green>+10%</green> Damage, <green>+0.25%</green> Crit Chance
-    Rapier/Dagger: <green>+25%</green> Protection
+    单手武器连击时增加防御力
+    刺剑，短剑，锤矛：伤害<green>+10%</green>，暴击几率<green>+0.25%</green>
+    刺剑，匕首：防御力<green>+25%</green>
 
     <red>［弱点］</red>
     抗性：电系抗性<red>-30%</red>，暗影抗性<red>-30%</red>，放射抗性<red>-30%</red>
