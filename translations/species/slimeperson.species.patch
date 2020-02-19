@@ -5,22 +5,22 @@
 
     食性：杂食性
 
-    ^orange;［天赋］^reset;
-    ^green;+20% Electric Resist, +40% Fire Resist^reset;
-    ^green;+20% Poison Resist, -15% Fall Damage^reset;
-    ^green;Can Regenerate^reset;
-    Tech:^green;Sticky ball, Wall Grab^reset;
-    ^green;Immune: Slime Bounce, Slime Stick, Poison, Webs^reset;
+    <orange>［天赋］</orange>
+    <green>+20% Electric Resist, +40% Fire Resist</green>
+    <green>+20% Poison Resist, -15% Fall Damage</green>
+    <green>Can Regenerate</green>
+    Tech:<green>Sticky ball, Wall Grab</green>
+    <green>Immune: Slime Bounce, Slime Stick, Poison, Webs</green>
 
-    ^orange;［环境］^reset;
-    ^green;+25% Health and +15% speed on Gelatinous, Bog and Swamp biomes^reset;
-    ^red;-25% HP on cold biomes^reset;
+    <orange>［环境］</orange>
+    <green>+25% Health and +15% speed on Gelatinous, Bog and Swamp biomes</green>
+    <red>-25% HP on cold biomes</red>
 
-    ^orange;［武器］^reset;
-    Whips: ^green;+20% damage, +12% protection^reset;
-    Bio/Slime: ^green;+15% damage, +2 Crit Damage^reset;
+    <orange>［武器］</orange>
+    Whips: <green>+20% damage, +12% protection</green>
+    Bio/Slime: <green>+15% damage, +2 Crit Damage</green>
 
-    ^red;［弱点］^reset;
+    <red>［弱点］</red>
     ^red;-50% Ice Resistance, -25% Radiation Resistance
     ^red;Extreme metabolism - always hungry
   rawValue: |-

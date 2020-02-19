@@ -5,22 +5,22 @@
 
     食性：杂食性
 
-    ^orange;［天赋］^reset;
-    生命上限&能量上限+^green;15%^reset;，防御+^green;5%^reset;，移动速度+^green;5%^reset;
-    抗性：^green;40%^reset;火炎抗性，^green;10%^reset;放射抗性，^green;25%^reset;击退抗性
+    <orange>［天赋］</orange>
+    生命上限&能量上限+<green>15%</green>，防御+<green>5%</green>，移动速度+<green>5%</green>
+    抗性：<green>40%</green>火炎抗性，<green>10%</green>放射抗性，<green>25%</green>击退抗性
     免疫：燃烧&沙暴&流沙&焦油
 
-    ^orange;［环境］^reset;
-    ^green;沙漠^reset;生态：防御+^green;5%^reset;，生命上限&生命回复速度+^green;15%^reset;
-    ^green;寒冷^reset;生态：能量回复速度-^red;50%^reset;
+    <orange>［环境］</orange>
+    <green>沙漠</green>生态：防御+<green>5%</green>，生命上限&生命回复速度+<green>15%</green>
+    <green>寒冷</green>生态：能量回复速度-<red>50%</red>
 
-    ^orange;［武器］^reset;
-    双持时增加伤害（^green;生命值/50^reset;）
-    匕首/矛：伤害+^green;5%^reset;，暴击几率+^green;2%^reset;
-    能量武器：伤害+^green;15%^reset;
+    <orange>［武器］</orange>
+    双持时增加伤害（<green>生命值/50</green>）
+    匕首/矛：伤害+<green>5%</green>，暴击几率+<green>2%</green>
+    能量武器：伤害+<green>15%</green>
 
-    ^red;［弱点］^reset;
-    抗性：-^red;40%^reset;寒气抗性
+    <red>［弱点］</red>
+    抗性：-<red>40%</red>寒气抗性
   rawValue: |-
     Noble desert nomads.
 

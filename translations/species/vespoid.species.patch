@@ -5,19 +5,19 @@
 
     食性：素食性，更喜欢含糖食物
 
-    ^orange;［天赋］^reset;
-    ^green;+15%^reset; Health, ^green;-20%^reset; Fall Damage, ^green;+10%^reset; Speed
-    ^green;+50%^reset; Poison Resist
+    <orange>［天赋］</orange>
+    <green>+15%</green> Health, <green>-20%</green> Fall Damage, <green>+10%</green> Speed
+    <green>+50%</green> Poison Resist
     Immune: Bee Stings, Honey
 
-    ^orange;［环境］^reset;
+    <orange>［环境］</orange>
     Increased air agility, poor movement in liquid
 
-    ^orange;［武器］^reset;
-    Sniper Rifles / Machine Pistols: ^green;+15%^reset; Damage
+    <orange>［武器］</orange>
+    Sniper Rifles / Machine Pistols: <green>+15%</green> Damage
 
-    ^red;［弱点］^reset;
-    ^red;-50%^reset; Fire resist, ^red;-30%^reset; Ice resist
+    <red>［弱点］</red>
+    <red>-50%</red> Fire resist, <red>-30%</red> Ice resist
   rawValue: |-
     Insectoid bee-people.
 

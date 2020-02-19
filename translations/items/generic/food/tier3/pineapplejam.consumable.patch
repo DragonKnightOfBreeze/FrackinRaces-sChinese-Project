@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一罐超级甜的菠萝果酱。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'A super sweet jam made of pineapples. ^green;Type: Herbivore^reset;'

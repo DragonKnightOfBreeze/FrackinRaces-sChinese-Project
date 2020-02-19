@@ -2,6 +2,6 @@
   path: /description
   value: |-
     它就像一个硬番茄的棒棒糖！有点奇怪。
-    ^yellow;类型：机械食物^reset;
+    <yellow>类型：机械食物</yellow>
   rawValue: 'It''s like an automato flavoured lollipop! Which is kind of weird. ^yellow;Type:
     Robot^reset;'

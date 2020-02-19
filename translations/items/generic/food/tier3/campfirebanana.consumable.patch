@@ -2,6 +2,6 @@
   path: /description
   value: |-
     用篝火烤出来的沾满了巧克力的香蕉。
-    ^green;类型：水果甜点^reset;
+    <green>类型：水果甜点</green>
   rawValue: 'A banana roasted over a campfire, with gratuitous amounts of chocolate.
     ^green;Type: Fruity Dessert^reset;'

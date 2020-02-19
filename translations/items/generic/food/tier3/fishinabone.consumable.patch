@@ -2,6 +2,6 @@
   path: /description
   value: |-
     一整条鱼被随意地塞入了一节骨竹中。
-    ^orange;类型：熟海鲜^reset;
+    <orange>类型：熟海鲜</orange>
   rawValue: 'A whole fish shoved haphazardly inside a boneboo. ^orange;Type: Cooked
     Seafood^reset;'

@@ -5,23 +5,23 @@
 
     食性：机械食性
 
-    ^orange;［天赋］^reset;
-    物质枪采集速率^green;+1^reset;
-    能力上限^green;+20%^reset;
-    移动速度^green;+4%^reset;，跳跃力^green;+5%^reset;
-    抗性：^green;40^reset;电系抗性
-    免疫：^green;感电^reset;
+    <orange>［天赋］</orange>
+    物质枪采集速率<green>+1</green>
+    能力上限<green>+20%</green>
+    移动速度<green>+4%</green>，跳跃力<green>+5%</green>
+    抗性：<green>40</green>电系抗性
+    免疫：<green>感电</green>
 
-    ^orange;［环境］^reset;
+    <orange>［环境］</orange>
     液体中：移动速度^red;-40%^reset
 
-    ^orange;［武器］^reset;
-    回旋镖/环刃：伤害^green;+12.5%^reset;
-    剑/匕首：防御^green;+2^reset;
+    <orange>［武器］</orange>
+    回旋镖/环刃：伤害<green>+12.5%</green>
+    剑/匕首：防御<green>+2</green>
 
-    ^red;［弱点］^reset;
-    生命上限^red;-15%^reset;
-    抗性：^red;-50%^reset;暗影抗性
+    <red>［弱点］</red>
+    生命上限<red>-15%</red>
+    抗性：<red>-50%</red>暗影抗性
   rawValue: |-
     Super-awesome digital beings with some amazingly cool niche gear.
 

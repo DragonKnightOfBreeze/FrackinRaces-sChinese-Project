@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一种能够提供能量加成的冷饮。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'A cold drink that provides a energy boost. ^green;Type: Herbivore^reset;'

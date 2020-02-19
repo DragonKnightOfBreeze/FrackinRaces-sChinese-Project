@@ -2,5 +2,5 @@
   path: /description
   value: |-
     有疣，但并非都是杂草。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Warty but not very weedy. ^green;Type: Plant^reset;'

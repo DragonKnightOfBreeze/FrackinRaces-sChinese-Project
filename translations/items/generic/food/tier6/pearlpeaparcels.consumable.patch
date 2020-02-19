@@ -2,5 +2,5 @@
   path: /description
   value: |-
     珍珠豆被瓦特果包裹在当中。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Pearlpeas wrapped neatly in a wartweed bundle. ^green;Type: Herbivore^reset;'

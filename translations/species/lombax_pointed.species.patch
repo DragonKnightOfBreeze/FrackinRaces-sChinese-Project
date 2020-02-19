@@ -5,22 +5,22 @@
 
     食性：杂食性
 
-    ^orange;［天赋］^reset;
-    ^green;+10%^reset; Speed, ^green;+15%^reset; Jump
-    ^green;+20%^reset; Energy,
-    ^green;+50%^reset; Fire Resist, ^green;+20%^reset; Electric Resist,
+    <orange>［天赋］</orange>
+    <green>+10%</green> Speed, <green>+15%</green> Jump
+    <green>+20%</green> Energy,
+    <green>+50%</green> Fire Resist, <green>+20%</green> Electric Resist,
     Immune: Heat
 
-    ^orange;［环境］^reset;
-    In hot biomes, ^green;+7%^reset; Speed and Jump, ^green;+10%^reset; Protection and ^green;+25%^reset; Energy Regen
+    <orange>［环境］</orange>
+    In hot biomes, <green>+7%</green> Speed and Jump, <green>+10%</green> Protection and <green>+25%</green> Energy Regen
 
-    ^orange;［武器］^reset;
-    Assault Rifles, Sniper Rifles, Grenade Launcher, Broadsword, Shortsword, Unique Weapons: ^green;+5%^reset; damage
-    Pistols, Shotgun, Broadshord, Shortsword: ^green;+30%^reset; Energy Regen
+    <orange>［武器］</orange>
+    Assault Rifles, Sniper Rifles, Grenade Launcher, Broadsword, Shortsword, Unique Weapons: <green>+5%</green> damage
+    Pistols, Shotgun, Broadshord, Shortsword: <green>+30%</green> Energy Regen
 
-    ^red;［弱点］^reset;
-    ^red;-25%^reset; HP
-    ^red;-30%^reset; Poison, Ice Resist
+    <red>［弱点］</red>
+    <red>-25%</red> HP
+    <red>-30%</red> Poison, Ice Resist
   rawValue: |-
     A particularly elusive species, the Lombaxes are reknowned for their knack for inventions and gadgetry. Not much is known of them, but what is known is that they come in all shapes, stripes and colors.
 

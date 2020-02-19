@@ -3,14 +3,14 @@
   value: |-
     Energy-wielding space cats. Missing for years. If they reappear again, please tell the FU crew since we'll need to redo them from scratch.
 
-    ^orange;［天赋］^reset;
-    ^red;-5% Energy, 25% Weakness: Shadow, 15% Weakness: Electric^reset;
-    ^green;+10% Speed, +10% Jump, +20% Ice Resist, +20% Poison Resist^reset;
-    ^green;During the night, shadowy power restores your health^reset;
+    <orange>［天赋］</orange>
+    <red>-5% Energy, 25% Weakness: Shadow, 15% Weakness: Electric</red>
+    <green>+10% Speed, +10% Jump, +20% Ice Resist, +20% Poison Resist</green>
+    <green>During the night, shadowy power restores your health</green>
 
-    ^orange;［武器］^reset;
-    Wand/Staff:^green;+25% Damage. Also gain Energy regeneration increase^reset;
-    Quarterstaff:^green;+15% Damage , +3 Protection^reset;
+    <orange>［武器］</orange>
+    Wand/Staff:<green>+25% Damage. Also gain Energy regeneration increase</green>
+    Quarterstaff:<green>+15% Damage , +3 Protection</green>
   rawValue: |-
     Energy-wielding space cats. Missing for years. If they reappear again, please tell the FU crew since we'll need to redo them from scratch.
 

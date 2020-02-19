@@ -2,5 +2,5 @@
   path: /description
   value: |-
     海洋里的水果。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Fruit of the ocean. ^green;Type: Fruit^reset;'

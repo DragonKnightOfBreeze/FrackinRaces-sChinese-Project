@@ -5,25 +5,25 @@
 
     食性：杂食性，包括生肉
 
-    ^orange;［天赋］^reset;
-    Very nimble. Gain ^green;20%^reset; Jump and ^green;8%^reset; Run Speed^reset;
-    ^green;+20%^reset; Cold Resist, ^green;-50%^reset; Fall Damage
+    <orange>［天赋］</orange>
+    Very nimble. Gain <green>20%</green> Jump and <green>8%</green> Run Speed^reset;
+    <green>+20%</green> Cold Resist, <green>-50%</green> Fall Damage
     Night Vision
-    Tech: ^green;Veluu's Claws ^reset;
+    Tech: <green>Veluu's Claws </green>
     Immune: Jungle Dirt and Mud
 
-    ^orange;［环境］^reset;
-    ^green;+10%^reset; Health, ^green;+15%^reset; Energy on ^green;Jungle, Primeval, Forest, Rainforest, Desert^reset; biomes
+    <orange>［环境］</orange>
+    <green>+10%</green> Health, <green>+15%</green> Energy on <green>Jungle, Primeval, Forest, Rainforest, Desert</green> biomes
 
-    ^orange;［武器］^reset;
-    Fists, Daggers, Shortswords: ^green;+1%^reset; Crit Chance
-    Thrown Weapons/Grenades: ^green;+25%^reset; Dmg
-    Magnorb: ^green;+2%^reset; Crit Chance
-    Arm Cannon: ^green;+15%^reset; Protection,^green;+15%^reset; Damage
-    Bow: -^green;0.1^reset;s Draw Time
+    <orange>［武器］</orange>
+    Fists, Daggers, Shortswords: <green>+1%</green> Crit Chance
+    Thrown Weapons/Grenades: <green>+25%</green> Dmg
+    Magnorb: <green>+2%</green> Crit Chance
+    Arm Cannon: <green>+15%</green> Protection,<green>+15%</green> Damage
+    Bow: -<green>0.1</green>s Draw Time
 
-    ^red;［弱点］^reset;
-    Weak: ^red;20%^reset; Cosmic and Electric
+    <red>［弱点］</red>
+    Weak: <red>20%</red> Cosmic and Electric
   rawValue: |-
     A fractured race of sapient cats. Half are peace loving free-thinkers, while the rest are war-hungry monsters.
 

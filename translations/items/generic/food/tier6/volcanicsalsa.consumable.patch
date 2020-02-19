@@ -2,6 +2,6 @@
   path: /description
   value: |-
     一罐用蔬菜和水果制成的火辣的辣调味汁，可以让你浑身发热！
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'A fiery salsa made from fruit and veg that can really bring the heat!
     ^green;Type: Herbivore^reset;'

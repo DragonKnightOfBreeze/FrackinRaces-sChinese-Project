@@ -2,5 +2,5 @@
   path: /description
   value: |-
     葡萄。天然的糖果。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Grapes, nature''s snackfood. ^green;Type: Fruit^reset;'

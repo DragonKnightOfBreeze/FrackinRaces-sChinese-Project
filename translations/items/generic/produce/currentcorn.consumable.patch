@@ -2,6 +2,6 @@
   path: /description
   value: |-
     液体玉米。充满了酸，对碳基生物很不友好。
-    ^yellow;类型：机械食物^reset;
+    <yellow>类型：机械食物</yellow>
   rawValue: 'Currentcorn, full of acid. Not good for fleshy creatures. ^yellow;Type:
     Robot^reset;'

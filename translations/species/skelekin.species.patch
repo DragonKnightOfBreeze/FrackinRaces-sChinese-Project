@@ -5,19 +5,19 @@
 
     食性：什么都吃，但是几乎不需要进食
 
-    ^orange;［天赋］^reset;
-    ^green;+20%^reset; Health
-    ^green;+20%^reset; Physical Resist, ^green;+50%^reset; Poison Resist ^green;+15%^reset; Shadow Resist
+    <orange>［天赋］</orange>
+    <green>+20%</green> Health
+    <green>+20%</green> Physical Resist, <green>+50%</green> Poison Resist <green>+15%</green> Shadow Resist
     Immune: Electrified, Cold, Radiation, Poison
 
-    ^orange;［环境］^reset;
-    ^green;+20%^reset; on Atropus biomes
-    ^green;+25%^reset; Health and Energy, ^green;+1.5%^reset; Health Regenerate in Blood, Milk, Alien Juice and Dark Water
-    ^red;-15%^reset; Health, Energy, And Protection, take ^red;-4.5%^reset; damage per second in Healing Water
+    <orange>［环境］</orange>
+    <green>+20%</green> on Atropus biomes
+    <green>+25%</green> Health and Energy, <green>+1.5%</green> Health Regenerate in Blood, Milk, Alien Juice and Dark Water
+    <red>-15%</red> Health, Energy, And Protection, take <red>-4.5%</red> damage per second in Healing Water
 
-    ^red;［弱点］^reset;
-    ^red;-20%^reset; Energy
-    ^red;-100%^reset; Fire resist
+    <red>［弱点］</red>
+    <red>-20%</red> Energy
+    <red>-100%</red> Fire resist
   rawValue: |-
     Bizarre pseudo-dead constructs
 

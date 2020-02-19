@@ -5,17 +5,17 @@
 
     食性：荤食性
 
-    ^orange;［天赋］^reset;
-    ^green;+10%^reset; Speed, ^green;+10%^reset; Jump, ^green;+30%^reset; Health
-    ^green;+2x%^reset; Shield Regen ^green;+35%^reset; Perfect Block Time.
+    <orange>［天赋］</orange>
+    <green>+10%</green> Speed, <green>+10%</green> Jump, <green>+30%</green> Health
+    <green>+2x%</green> Shield Regen <green>+35%</green> Perfect Block Time.
 
-    ^orange;［武器］^reset;
-    Dagger/Sword: ^green;+30%^reset; Damage. Combos increase defense.
+    <orange>［武器］</orange>
+    Dagger/Sword: <green>+30%</green> Damage. Combos increase defense.
     Shield: Perfect Blocks increase Protection and damage
 
-    ^red;［弱点］^reset;
-    ^red;-12%^reset; Energy
-    ^red;-50%^reset; Shadow Resist
+    <red>［弱点］</red>
+    <red>-12%</red> Energy
+    <red>-50%</red> Shadow Resist
   rawValue: |-
     Able fox-like warriors.
 

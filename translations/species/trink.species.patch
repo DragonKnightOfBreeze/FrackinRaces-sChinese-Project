@@ -5,22 +5,22 @@
 
     食性：机械食性
 
-    ^orange;［天赋］^reset;
-    ^green;-97%^reset; Hunger Rate
-    ^green;+30%^reset; Energy, ^green;+5%^reset; Speed
-    Resist: ^green;25%^reset; Physical, ^green;30%^reset; Ice, ^green;50%^reset; Poison, ^green;50%^reset; Radiation
+    <orange>［天赋］</orange>
+    <green>-97%</green> Hunger Rate
+    <green>+30%</green> Energy, <green>+5%</green> Speed
+    Resist: <green>25%</green> Physical, <green>30%</green> Ice, <green>50%</green> Poison, <green>50%</green> Radiation
     Immune: Cold, Snow, Ice, Slush, Poison, Breath
 
-    ^orange;［环境］^reset;
-    ^red;-50%^reset; Energy Regen On hot biomes
-    ^green;25%^reset; Energy Regen on cold biomes
+    <orange>［环境］</orange>
+    <red>-50%</red> Energy Regen On hot biomes
+    <green>25%</green> Energy Regen on cold biomes
 
-    ^orange;［武器］^reset;
+    <orange>［武器］</orange>
     Shield: Perfect Blocks increase Energy
 
-    ^red;［弱点］^reset;
-    ^red;-50%^reset; Energy when Electrified
-    Weak: ^red;-100%^reset;Electric
+    <red>［弱点］</red>
+    <red>-50%</red> Energy when Electrified
+    Weak: <red>-100%</red>Electric
   rawValue: |-
     Hyper-advanced machines.
 

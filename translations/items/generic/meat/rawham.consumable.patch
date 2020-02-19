@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一块生火腿，或许我得先把这玩意弄熟了再吃？
-    ^red;类型：生肉食^reset;
+    <red>类型：生肉食</red>
   rawValue: 'Raw ham. It''s probably best if I cook it first. ^red;Type: Raw Meat^reset;'

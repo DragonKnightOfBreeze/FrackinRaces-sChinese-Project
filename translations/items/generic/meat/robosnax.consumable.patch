@@ -6,5 +6,5 @@
   path: /description
   value: |-
     特别制定的机械食物。
-    ^yellow;类型：机械食物^reset;
+    <yellow>类型：机械食物</yellow>
   rawValue: 'Specially formulated Robo-Food. ^yellow;Type: Robot^reset;'

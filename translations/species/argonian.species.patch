@@ -6,24 +6,24 @@
 
     食性：杂食性，包括生肉
 
-    ^orange;［天赋］^reset;
-    ^green;+40%^reset; Max Food, ^green;+6% Speed^reset;, ^green;+11% Jump^reset;
-    ^green;+40%^reset; Poison, ^green;+10%^reset; Cosmic and ^green;+10%^reset; Radioactive Resist
-    ^green;+1100^reset; oxygen, Swim Boost.
+    <orange>［天赋］</orange>
+    <green>+40%</green> Max Food, <green>+6% Speed</green>, <green>+11% Jump</green>
+    <green>+40%</green> Poison, <green>+10%</green> Cosmic and <green>+10%</green> Radioactive Resist
+    <green>+1100</green> oxygen, Swim Boost.
     Immunity: Poison
 
-    ^orange;［环境］^reset;
-    Gain ^green;+25%^reset; Health, ^green;+15%^reset; Speed on Bog, Swamp, and Strange Sea biomes.
+    <orange>［环境］</orange>
+    Gain <green>+25%</green> Health, <green>+15%</green> Speed on Bog, Swamp, and Strange Sea biomes.
 
 
-    ^orange;［武器］^reset;
-    Spears: ^green;+10%^reset;  Damage, ^green;+10%^reset;  Protection
-    Short Spears: ^green;+10% Damage^reset;, ^green;+15%^reset; Crit Damage
-    Crossbows/Harpoons: ^green;+15% Damage^reset;, ^green;+5%^reset; Crit Damage
+    <orange>［武器］</orange>
+    Spears: <green>+10%</green>  Damage, <green>+10%</green>  Protection
+    Short Spears: <green>+10% Damage</green>, <green>+15%</green> Crit Damage
+    Crossbows/Harpoons: <green>+15% Damage</green>, <green>+5%</green> Crit Damage
 
-    ^red;虚弱^reset;：
-    ^red;-12%^reset; Health, -5%^reset;Energy
-    ^red;40%^reset; Ice, ^red;20%^reset; Electric
+    <red>虚弱</red>：
+    <red>-12%</red> Health, -5%^reset;Energy
+    <red>40%</red> Ice, <red>20%</red> Electric
   rawValue: |-
     Sturdy reptilian people. They are resilient and agile, with the ability to thrive both on land and underwater. Amphibious life has increased their natural energy stores, but they are less hardy than land-based reptiles.
 

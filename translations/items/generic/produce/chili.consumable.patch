@@ -2,6 +2,6 @@
   path: /description
   value: |-
     对人类来说很热，对其他种族来说，则非常热。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Super hot to humans, super, super hot to everyone else. ^green;Type:
     Plant^reset;'

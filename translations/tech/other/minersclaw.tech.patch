@@ -6,5 +6,5 @@
   path: /description
   value: |-
     使用经过特殊适应的爪子进行挖掘。
-    使用：^green;[F]^reset;
+    使用：<green>[F]</green>
   rawValue: Use ^green;[F]^reset; to dig with specially adapted claws.

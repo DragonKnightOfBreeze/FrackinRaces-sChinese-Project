@@ -5,25 +5,25 @@
 
     食性：几乎什么都吃
 
-    ^orange;［天赋］^reset;
-    能量上限+^green;10%^reset;，防御+^green;2^reset;
+    <orange>［天赋］</orange>
+    能量上限+<green>10%</green>，防御+<green>2</green>
     优势：生命值达到50%时，释放缓慢冰云。饱食度上限+30%
-    抗性：^green;20%^reset;火炎抗性，^green;20%^reset;暗影抗性，^green;20%^reset;寒气抗性
-    科技：^green;水晶吐息^reset;
+    抗性：<green>20%</green>火炎抗性，<green>20%</green>暗影抗性，<green>20%</green>寒气抗性
+    科技：<green>水晶吐息</green>
 
-    ^orange;［环境］^reset;
-    ^green;以太海/结晶/多彩/红色沙漠^reset;生态：增加生命上限&暴击伤害
-    ^green;炎热^reset;生态：防御+^green;15%^reset;，生命上限+^green;25%^reset;
-    ^red;寒冷^reset;生态：防御-^red;15%^reset;，生命上限-^red;25%^reset;
+    <orange>［环境］</orange>
+    <green>以太海/结晶/多彩/红色沙漠</green>生态：增加生命上限&暴击伤害
+    <green>炎热</green>生态：防御+<green>15%</green>，生命上限+<green>25%</green>
+    <red>寒冷</red>生态：防御-<red>15%</red>，生命上限-<red>25%</red>
 
-    ^orange;［武器］^reset;
-    长剑/斧/巨斧：生命上限+^green;20%^reset;，防御+^green;15%^reset;
-    鞭/环刃/回旋镖：伤害+^green;20%^reset;，能量上限+^green;15%^reset;
-    月晶武器：伤害+^green;12%^reset;，能量上限+^green;25%^reset;
+    <orange>［武器］</orange>
+    长剑/斧/巨斧：生命上限+<green>20%</green>，防御+<green>15%</green>
+    鞭/环刃/回旋镖：伤害+<green>20%</green>，能量上限+<green>15%</green>
+    月晶武器：伤害+<green>12%</green>，能量上限+<green>25%</green>
 
-    ^red;［弱点］^reset;
-    水晶吐息会造成^red;高食物消耗^reset;
-    抗性：^red;-20%^reset;电系抗性，^red;-20%^reset;毒素抗性
+    <red>［弱点］</red>
+    水晶吐息会造成<red>高食物消耗</red>
+    抗性：<red>-20%</red>电系抗性，<red>-20%</red>毒素抗性
   rawValue: |-
     Stoic, calm and mysterious, the Elduukhar prefer to take the role of artisans or philosophers. They seek discovery and enlightenment.
 

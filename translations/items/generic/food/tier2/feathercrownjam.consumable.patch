@@ -2,6 +2,6 @@
   path: /description
   value: |-
     一罐甜蜜又美味的果酱，在翼族人中十分珍贵。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'A sweet and flavoursome preserve, precious among Avians. ^green;Type:
     Herbivore^reset;'

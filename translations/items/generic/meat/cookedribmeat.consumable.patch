@@ -2,5 +2,5 @@
   path: /description
   value: |-
     把烤肉酱拿来！
-    ^orange;类型：熟肉食^reset;
+    <orange>类型：熟肉食</orange>
   rawValue: 'Pass the barbecue sauce! ^orange;Type: Cooked Meat^reset;'

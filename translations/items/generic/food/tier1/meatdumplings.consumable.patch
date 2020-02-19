@@ -2,6 +2,6 @@
   path: /description
   value: |-
     蒸肉饺。就是这么简单！
-    ^orange;类型：熟肉食 + 素食^reset;
+    <orange>类型：熟肉食 + 素食</orange>
   rawValue: 'Steamed meat dumplings. Beautifully simple! ^orange;Type: Cooked Meat
     + Vegetable^reset;'

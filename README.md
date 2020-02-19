@@ -32,10 +32,12 @@ Mod概述：见项目文件`translations/_metadata`。
     * `Changed` 原文已发生改变，但是尚未同步翻译。
   * `translationNote` 翻译笔记。用作备注。
 * 协助翻译指南：
-  * 请首先百度学习：Github，Git，Json，Yaml。
+  * 请首先百度学习：Github，Git，Json，Yaml，XML。
   * 推荐使用（提供IDE+文件比较+翻译功能）：IntelliJ IDEA, Capslock+。
   * 推荐安装的IDEA插件：Kotlin，Translation。
   * 本项目采用Yaml格式进行汉化，相对Json格式要更加简洁清晰。
+  * 原始的特殊颜色标记语法（如`^red;红色^reset;`）可以改用XML标记语法（如`<red>红色</red>`），更加便于翻译。
+  * 如果正确配置了IDEA，应当可以得到完善的``patch文件属性提示``和``xml标签自动补全``。
   * 通过启动`Script.kt`脚本，可以执行一些常用命令，请参阅命令行说明。
   * 通过修改或添加translations目录中的翻译文档中，与`rawValue`属性对应的`value`属性，即可完成对应文本的翻译。
   * 通过对照比较和修订origin和translations目录中的对应文件，可以大大加快和简化翻译流程。

@@ -6,5 +6,5 @@
   path: /description
   value: |-
     挥舞利爪，造成狩猎伤害。
-    使用：^green;[F]^reset;
+    使用：<green>[F]</green>
   rawValue: Use ^green;[F]^reset; to slash with razor-sharp claws. Hunting damage.

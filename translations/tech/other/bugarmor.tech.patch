@@ -6,5 +6,5 @@
   path: /description
   value: |-
     使用[Up]、[Down]或[Jump]切换战斗姿态。
-    激活：^green;[F]^reset;
+    激活：<green>[F]</green>
   rawValue: Push [Up],[Down] or [Jump] for combat stances. ^green;[F]^reset;

@@ -2,5 +2,5 @@
   path: /description
   value: |-
     像热浪一般膨胀爆开！
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Pop it like it''s hot! ^green;Type: Herbivore^reset;'

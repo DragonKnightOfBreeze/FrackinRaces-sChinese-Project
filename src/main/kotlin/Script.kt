@@ -80,10 +80,6 @@ private val selectRules = arrayOf(
 		"/defaultTooltip"
 	)
 )
-private val notConvertFileExtensions = arrayOf(
-	"_previewimage",
-	"LICENSE"
-)
 
 
 fun main() {
@@ -115,7 +111,7 @@ fun main() {
 			"e" -> extractFiles()
 			"g" -> generatePak()
 			"D" -> deleteEmptyDirectories()
-			"C"->convertOriginFormatToXmlFormat()
+			"C" -> convertOriginFormatToXmlFormat()
 			"exit" -> exitProcess(0)
 			else -> println("指令错误。")
 		}
@@ -145,7 +141,7 @@ private fun fetchOrigin() {
 	if(originPath.toPath().exists()) return
 
 	//需要等待拉取完毕
-	execBlocking{"""git clone $frProjectPath ./$originPath"""}
+	execBlocking { """git clone $frProjectPath ./$originPath""" }
 	println("已克隆FR项目仓库到 $originPath 目录。")
 }
 
@@ -280,35 +276,32 @@ private fun extractFiles() {
 	//复制全部文件到package目录下
 	translationsPath.toFile().copyRecursively(packagePath.toFile(), true)
 
-	//将yaml文件转化为json文件
-	//相信package目录下除了notToConvertFileNames之外，全部需要转换为json文件
+	//将patch文件由yaml文件转化为json文件
 	packagePath.toFile().walk()
-		.filter { file -> file.isFile && !file.name.endsWithIgnoreCase(notConvertFileExtensions) }
+		.filter { file -> file.isFile && file.name.endsWith(".patch") }
 		.forEach { file ->
-			//转化yaml文件为json文件
-			val data = YamlSerializer.instance.load<Any>(file)
-			val simplifiedData = when(data) {
-				//去除不必要的附加信息
-				is List<*> -> {
-					(data as List<Map<String, Any?>>).map {
-						linkedMapOf(
-							"op" to it["op"],
-							"path" to it["path"],
-							//如果找不到翻译后文本或者原文已更改，则采用rawValue
-							"value" to when(it["translationAnnotation"]) {
-								null -> it["rawValue"]?.handleSingleQuote()
-								"Changed" -> it["rawValue"]?.handleSingleQuote()
-								else -> it["value"]?.toOriginText()
-							}
-						)
+			val data = YamlSerializer.instance.load<List<Map<String, Any?>>>(file)
+			//去除不必要的附加信息
+			val simplifiedData = data.map {
+				linkedMapOf(
+					"op" to it["op"],
+					"path" to it["path"],
+					//如果找不到翻译后文本或者原文已更改，则采用rawValue
+					"value" to when(it["translationAnnotation"]) {
+						null -> it["rawValue"]?.handleSingleQuote()
+						"Changed" -> it["rawValue"]?.handleSingleQuote()
+						else -> it["value"]?.toOriginText()
 					}
-				}
-				//认为不可能发生
-				else -> throw IllegalStateException()
+				)
 			}
 			JsonSerializer.instance.dump(simplifiedData, file)
 			println("已转化文件：${file.path}")
 		}
+	//将_metadata文件由yaml文件转化为json文件
+	"$packagePath\\_metadata".toFile().also { file ->
+		val metadata = YamlSerializer.instance.load<Any>(file)
+		JsonSerializer.instance.dump(metadata, file)
+	}
 	println("已提取所有文件到 $packagePath 目录。")
 }
 
@@ -331,13 +324,13 @@ private fun deleteEmptyDirectories() {
 }
 
 /**将translations目录下的.patch文件的value值的颜色标记语法改为xml标签。*/
-private fun convertOriginFormatToXmlFormat(){
+private fun convertOriginFormatToXmlFormat() {
 	translationsPath.toFile().walk()
-		.filter { file->file.isFile &&file.name.endsWith(".patch")}
-		.forEach {  file->
+		.filter { file -> file.isFile && file.name.endsWith(".patch") }
+		.forEach { file ->
 			val data = YamlSerializer.instance.load<List<MutableMap<String, Any?>>>(file)
 			data.forEach { it["value"] = it["value"]?.toXmlText() }
-			YamlSerializer.instance.dump(data,file)
+			YamlSerializer.instance.dump(data, file)
 		}
 	println("已将翻译后文本更改为xml文本在 $translationsPath 目录。")
 }
@@ -403,11 +396,11 @@ private fun Any.handleSingleQuote(): String {
 	return this.toString().replace("''", "'").replace("''", "'")
 }
 
-private fun Any.toXmlText():String{
-	return this.toString().replace("\\^(.*?);(.*?)\\^reset;".toRegex(),"<$1>$2</$1>").replace("\\^(.*?);","<$1>")
+private fun Any.toXmlText(): String {
+	return this.toString().replace("\\^(.*?);(.*?)\\^reset;".toRegex(), "<$1>$2</$1>").replace("\\^(.*?);", "<$1>")
 }
 
 /**将颜色标签改为原始的颜色标记语法。*/
-private fun Any.toOriginText():String{
-	return this.toString().replace("</.*?>".toRegex(),"^reset;").replace("<(.*?)>".toRegex(),"^$1;")
+private fun Any.toOriginText(): String {
+	return this.toString().replace("</.*?>".toRegex(), "^reset;").replace("<(.*?)>".toRegex(), "^$1;")
 }

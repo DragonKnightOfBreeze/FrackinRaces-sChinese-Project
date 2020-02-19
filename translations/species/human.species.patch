@@ -5,20 +5,20 @@
 
     食性：杂食性
 
-    ^orange;［天赋］^reset;
-    跳跃时间+^green;0.08s^reset;
-    饱食度上限+^green;30%^reset;
+    <orange>［天赋］</orange>
+    跳跃时间+<green>0.08s</green>
+    饱食度上限+<green>30%</green>
 
-    ^orange;［环境］^reset;
+    <orange>［环境］</orange>
     无
 
-    ^orange;［武器］^reset;
-    突击步枪：伤害+^green;12%^reset;
-    溜溜球：伤害+^green;10%^reset;
-    短剑：伤害+^green;12%^reset;，击退抗性+^green;20%^reset;
-    盾牌：完美格挡时^green;增加大量防御^reset;
+    <orange>［武器］</orange>
+    突击步枪：伤害+<green>12%</green>
+    溜溜球：伤害+<green>10%</green>
+    短剑：伤害+<green>12%</green>，击退抗性+<green>20%</green>
+    盾牌：完美格挡时<green>增加大量防御</green>
 
-    ^red;［弱点］^reset;
+    <red>［弱点］</red>
     无
   rawValue: |-
     Humans are well rounded, and have excellent defensive ability. Ever met one of these things? They are a strange bunch. I advise avoiding them.

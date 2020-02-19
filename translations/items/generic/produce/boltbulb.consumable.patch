@@ -2,5 +2,5 @@
   path: /description
   value: |-
     钉丝球！令人惊讶的软。
-    ^yellow;类型：机械食物^reset;
+    <yellow>类型：机械食物</yellow>
   rawValue: 'Boltbulb! Surprisingly soft. ^yellow;Type: Robot^reset;'

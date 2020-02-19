@@ -2,5 +2,5 @@
   path: /description
   value: |-
     充分利用了圣女果的果酱。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Pretty much the only good use for pussplum jam. ^green;Type: Herbivore^reset;'

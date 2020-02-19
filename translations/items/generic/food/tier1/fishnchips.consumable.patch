@@ -2,6 +2,6 @@
   path: /description
   value: |-
     油炸所有东西！这是人类的一种古老的喜好。
-    ^orange;类型：海鲜 + 素食^reset;
+    <orange>类型：海鲜 + 素食</orange>
   rawValue: 'Fry all the things! This is an old favorite for humans. ^orange;Type:
     Seafood + Vegetable^reset;'

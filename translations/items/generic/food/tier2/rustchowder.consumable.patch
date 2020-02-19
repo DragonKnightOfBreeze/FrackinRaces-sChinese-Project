@@ -2,5 +2,5 @@
   path: /description
   value: |-
     混合了富含营养的锈和铁。
-    ^yellow;类型：机械食物^reset;
+    <yellow>类型：机械食物</yellow>
   rawValue: 'Jamed full of nutritious rust and iron. ^yellow;Type: Robot^reset;'

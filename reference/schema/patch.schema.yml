@@ -14,6 +14,7 @@ items:
     value:
       description: 翻译后文本。一般为中文，未翻译时为英文。
       type: string
+      x-intellij-language-injection: HTML
     rawValue:
       description: 原始文本。一般为英文。
       type: string

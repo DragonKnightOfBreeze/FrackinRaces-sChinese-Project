@@ -4,5 +4,5 @@
   rawValue: Meaty Kibble
 - op: replace
   path: /description
-  value: 血腥的生肉块，对肉食生物来说很棒。^red;类型：生肉食^reset;
+  value: 血腥的生肉块，对肉食生物来说很棒。<red>类型：生肉食</red>
   rawValue: 'Bloody, raw chunks of meat. Great for carnivores. ^red;Type: Raw Meat^reset;'

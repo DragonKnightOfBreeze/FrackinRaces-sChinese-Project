@@ -2,5 +2,5 @@
   path: /description
   value: |-
     令人毛骨悚然。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Spooky. ^green;Type: Meaty Plant?^reset;'

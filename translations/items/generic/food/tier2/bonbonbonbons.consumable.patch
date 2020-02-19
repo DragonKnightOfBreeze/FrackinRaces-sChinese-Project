@@ -2,6 +2,6 @@
   path: /description
   value: |-
     我明白了，锦上添花的唯一方法就是让它变得更多！
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Eureka! The only possible way to improve on perfection is to multiply
     it. ^green;Type: Herbivore^reset;'

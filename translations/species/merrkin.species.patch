@@ -5,23 +5,23 @@
 
     食性：杂食性
 
-    ^orange;［天赋］^reset;
-    ^green;+20%^reset; Energy
-    ^green;Immune to suffocation in water^reset;
-    ^green;Increased speed in water and darkwater^reset;
-    Resist: ^green;40%^reset; Ice
+    <orange>［天赋］</orange>
+    <green>+20%</green> Energy
+    <green>Immune to suffocation in water</green>
+    <green>Increased speed in water and darkwater</green>
+    Resist: <green>40%</green> Ice
 
-    ^orange;［环境］^reset;
-    On ^green;oceanic^reset; and ^green;tidewater^reset; biomes, gain ^green;+25% Protection^reset;
-    In water/darkwater you gain +^green;20^reset; Physical Resistance,and ^green;Poison Immunity^reset;
+    <orange>［环境］</orange>
+    On <green>oceanic</green> and <green>tidewater</green> biomes, gain <green>+25% Protection</green>
+    In water/darkwater you gain +<green>20</green> Physical Resistance,and <green>Poison Immunity</green>
     Rain grants very slight regeneration.
 
-    ^orange;［武器］^reset;
-    Spear/Trident: ^green;+20%^reset; Damage when above ^green;75%^reset; health
-    Spear/Trident/Shortspear: +^green;8%^reset; Speed, +^green;4^reset; Protection, +^green;1%^reset; Crit
+    <orange>［武器］</orange>
+    Spear/Trident: <green>+20%</green> Damage when above <green>75%</green> health
+    Spear/Trident/Shortspear: +<green>8%</green> Speed, +<green>4</green> Protection, +<green>1%</green> Crit
 
-    ^red;［弱点］^reset;
-    ^red;40%^reset; Electric
+    <red>［弱点］</red>
+    <red>40%</red> Electric
   rawValue: |-
     Aquatic creatures resembling the Mermaids of Earth legends. They are avid swimmers, and skilled with spears and tridents.
 

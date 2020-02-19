@@ -2,6 +2,6 @@
   path: /description
   value: |-
     如果你能够忍受金属的余味，那么它的味道还可以！
-    ^yellow;类型：机械食物^reset;
+    <yellow>类型：机械食物</yellow>
   rawValue: 'It''s good if you can get past the metallic aftertaste! ^yellow;Type:
     Robot^reset;'

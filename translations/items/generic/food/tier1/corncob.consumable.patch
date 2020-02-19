@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一根黄澄澄的玉米棒子。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'A buttery ear of corn on the cob. ^green;Type: Herbivore^reset;'

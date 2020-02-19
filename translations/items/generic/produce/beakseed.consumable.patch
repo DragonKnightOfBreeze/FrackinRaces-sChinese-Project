@@ -2,5 +2,5 @@
   path: /description
   value: |-
     鸟喙果。嗯，脆脆的。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Beakseed. Mmm crunchy. ^green;Type: Plant^reset;'
