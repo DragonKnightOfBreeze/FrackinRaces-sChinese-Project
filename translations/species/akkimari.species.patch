@@ -6,19 +6,19 @@
 
     食性：什么都吃
 
-    ^orange;天赋^reset;：
+    ^orange;［天赋］^reset;
     抗性：^green;10%^reset;物理抗性，^green;30%^reset;毒素抗性
     磨损：很少需要进食 ^green;缓慢回复生命^reset;
 
-    ^orange;环境^reset;：
+    ^orange;［环境］^reset;
     在^green;葱郁，森林，沙漠和沼泽^reset;生态中获得额外15%的生命值和防御
 
-    ^orange;武器^reset;：
+    ^orange;［武器］^reset;
     宽剑：+^green;10%^reset;伤害，+^green;10%^reset;防御
     弓/弩：+^green;2%^reset;暴击几率，+^green;15%^reset;攻击力
     矛/短矛：+^green;2%^reset;暴击几率，+^green;25%^reset;击退抗性
 
-    ^red;弱点^reset;：
+    ^red;［弱点］^reset;
     抗性：^red;-10%^reset;暗影抗性，^red;-20%^reset;放射抗性
   rawValue: |-
     The Akkimari are a broken race, their society still recovering from the loss of the AI that ruled them. Now, many Akkimari roam the galaxy as scavengers and bounty hunters, searching for their AI and riches both.

@@ -3,15 +3,15 @@
   value: |-
     A race of shapeshifting and insecure creatures borne from a planet called Gaia.
 
-    Diet: Omnivorous
+    食性：杂食性
 
-    ^orange;天赋^reset;：
+    ^orange;［天赋］^reset;
     ^green;+10%^reset; Health & Damage.
     ^green;+10%^reset; Poison, Cosmic, Electric, Shadow, Radioactive, Physcial Resist.
     ^green;+30%^reset; Ice.
     ^green;Immune^reset; to cold. ^red;Weak^reset; to hot.
 
-    ^orange;环境^reset;：
+    ^orange;［环境］^reset;
     ^green;+10%^reset; Speed and Jump on Lush, Forest, Jungle, Rainforest, Snow, Tundra, and Arctic Biomes.
     ^red;-10%^reset; Speed and Jump on Bog, Ocean, Magma, and Volcanic Biomes.
 

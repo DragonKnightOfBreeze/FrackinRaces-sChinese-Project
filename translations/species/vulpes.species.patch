@@ -1,21 +1,21 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Foxy explorers
+    狡猾的探险家。
 
-    Diet: Carnivore
+    食性：荤食性。
 
-    ^orange;天赋^reset;：
+    ^orange;［天赋］^reset;
     ^green;+12%^reset; Health, Energy
     ^green;+14%^reset; Speed, ^green;40%^reset; Knockback Resistance,
     ^green;+30%^reset; Ice Resist,
     Immune: Jungle
 
-    ^orange;武器^reset;：
+    ^orange;［武器］^reset;
     Dagger, Shortsword, Broadsword: ^green;+2^reset Protection
     Whip: ^green;+12%^reset; Damage
 
-    ^red;弱点^reset;：
+    ^red;［弱点］^reset;
     ^red;-50%^reset; Radioactive resist
   rawValue: |-
     Foxy explorers

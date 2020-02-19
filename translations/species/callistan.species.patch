@@ -5,19 +5,19 @@
 
     食性：荤食性
 
-    ^orange;天赋^reset;：
+    ^orange;［天赋］^reset;
     Staying fed increases movement (max  +^green;16.6%^reset;)
     ^green;+5%^reset; Damage, ^green;+12%^reset; Energy
     Resist: ^green;20%^reset; Shadow, ^green;20%^reset; Radiation
     Immune: Slush, Snow, Soil, Mud, Web and Sandstorm effects
 
-    ^orange;环境^reset;：
+    ^orange;［环境］^reset;
     Gain additional power and health in ^green;Lush, Forest and Tundra^reset; biomes
     ^green;40% Hunger Reduction^reset;
 
-    ^orange;武器^reset;：
+    ^orange;［武器］^reset;
     Energy Weapons: ^green;+3%^reset; Crit Chance, ^green;+25%^reset; Energy Regen
-    ^red;弱点^reset;：
+    ^red;［弱点］^reset;
     Weak: ^red;20%^reset; Cosmic, ^red;-20%^reset; Poison
     ^red;40%^reset; Smaller Stomach
   rawValue: |-

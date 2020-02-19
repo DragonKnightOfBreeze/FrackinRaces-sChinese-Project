@@ -1,9 +1,9 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Space Dragons!
+    太空巨龙！
 
-    Diet: Carnivore
+    食性：荤食性
 
     ^orange;天赋^reset：:
     +^green;30%^reset; Health, +^green;40%^reset; Hunger Reduction
@@ -11,15 +11,15 @@
     Immunity: Burning
     Tech: ^green;Fire Breath ^reset;
 
-    ^orange;环境^reset;：
+    ^orange;［环境］^reset;
     ^red;Cold^reset; biomes sap your health and protection.
     ^green;Volcanic, Magma, Mountainous and Desert^reset; biomes increase your protection and health.
 
-    ^orange;武器^reset;：
+    ^orange;［武器］^reset;
     Broadsword/Drill: +^green;20%^reset; damage
     Broadsword:  Combos increase Physical Resistance per swing
 
-    ^red;弱点^reset;：
+    ^red;［弱点］^reset;
     Weak: ^red;50%^reset; Ice, ^red;20%^reset; Energy
   rawValue: |-
     Space Dragons!

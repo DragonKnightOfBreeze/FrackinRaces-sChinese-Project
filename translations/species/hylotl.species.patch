@@ -5,17 +5,17 @@
 
     食性：杂食性
 
-    ^orange;天赋^reset;：
+    ^orange;［天赋］^reset;
     生命上限+^green;20%^reset;，物质枪自带液体收集功能
     水中呼吸时限+^green;1500^reset;
     抗性：^green;20%^reset;寒气抗性
 
-    ^orange;环境^reset;：
+    ^orange;［环境］^reset;
     ^green;海洋^reset;生态：获得额外的^green;防御、生命上限和能量上限^reset;
     水中：防御+^green;4^reset;，生命上限+^green;20^reset;，^green;游泳增强^reset;
     雨中：得到微量的回复加成。
 
-    ^orange;武器^reset;：
+    ^orange;［武器］^reset;
     盾牌：完美格挡时^green;回复生命^reset;
     剑：生命值在^green;75%^reset;以上时，暴击几率+^green;2%^reset;
     武士刀+匕首：移动速度+^green;8%^reset;，防御+^green;4^reset;，暴击几率+^green;1%^reset;
@@ -23,7 +23,7 @@
     短剑：伤害+^green;6%^reset;，移动速度+^green;4%^reset;
     长棍：移动速度+^green;12%^reset;，防御+^green;6^reset;
 
-    ^red;弱点^reset;：
+    ^red;［弱点］^reset;
     抗性：^red;-40%^reset;电系抗性，^red;-10%^reset;暗影抗性
   rawValue: |-
     The peaceful Hylotl place great value on ancestral tradition and take great comfort in the arts. While not lovers of violence, they are quite skilled in martial arts and are not to be trifled with.

@@ -2,9 +2,10 @@
   path: /charCreationTooltip/description
   value: |-
     An experiment by the Miniknog, these foxes have a great resistance to heat. However, unlike their feral bretheren, they cannot adapt to cold climates.
-    Diet: Omnivore
 
-    ^orange;天赋^reset;：
+    食性：杂食性
+
+    ^orange;［天赋］^reset;
     ^red;-5 Health^reset;, ^green;+15 Energy, +10 Attack^reset;
     ^red;Weak: 20% Ice^reset;
     ^green;Resist: 20% Fire^reset;
@@ -12,11 +13,11 @@
     ^green;Immune to biome heat, fire, and sandstorms^reset;
     ^green;+25% Health Regen / Energy in Lava^reset;
 
-    ^orange;环境^reset;：
+    ^orange;［环境］^reset;
     Hot Biomes: ^green;+20% Health and Energy^reset;
     Cold Biomes: ^red;-20% Health and Energy, -20% Attack, and -20% Fire Resist^reset;
 
-    ^orange;武器^reset;：
+    ^orange;［武器］^reset;
     Wand/Staff: ^green;+15% damage^reset;
     Fists: ^red;-5% damage^reset;^reset;
     Rapiers: ^green;+5% damage^reset;

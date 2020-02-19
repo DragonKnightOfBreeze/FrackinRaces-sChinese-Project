@@ -5,13 +5,13 @@
 
     食性：杂食性
 
-    ^orange;天赋^reset;：
+    ^orange;［天赋］^reset;
     ^green;黑暗^reset;中：增加^green;物理抗性^reset;和^green;伤害^reset;，启用枯竭攻击。
     科技：^green;康沙克^reset;
     抗性：暗影抗性+^green;40%^reset;，寒气抗性+^green;10%^reset;
     免疫：生物软泥&中毒
 
-    ^orange;武器^reset;：
+    ^orange;［武器］^reset;
     剑：暴击几率+^green;1%^reset;，伤害+^green;10%^reset;，满血时有^green;3%^reset;的几率释放暗影爆裂(^green;5伤害^reset;)。
     短剑/匕首：暴击几率+^green;10%^reset;
     长剑/武士刀：伤害+^green;6%^reset;
@@ -19,7 +19,7 @@
     盾牌：盾牌反伤+^green;2^reset;，击退抗性+^green;25%^reset;
     鞭：移动速度+^green;10%^reset;
 
-    ^red;弱点^reset;：
+    ^red;［弱点］^reset;
     抗性：^red;-20%^reset;射线抗性，^red;-20%^reset;放射抗性，^red;-20%^reset;电系抗性
     在^red;亮处^reset;减少^red;生命值，能力值，物理防御和伤害^reset;，取消攻击时的^red;枯竭效果^reset;。
   rawValue: |-

@@ -5,15 +5,15 @@
 
     食性：杂食性，包括生肉
 
-    ^orange;天赋^reset;：
+    ^orange;［天赋］^reset;
     生命上限+^green;25%^reset;，移动速度+^green;15%^reset;
     抗性：^green;40%^reset;毒素坑性，^green;20%^reset;暗影抗性
     免疫：狂乱&蜘蛛网
 
-    ^orange;环境^reset;：
+    ^orange;［环境］^reset;
     ^green;黑暗^reset;生态：增加生命上限&能量上限
 
-    ^orange;武器^reset;：
+    ^orange;［武器］^reset;
     矛：伤害+^green;10%^reset;
     双手刀刃武器：防御+^green;15%^reset;
 
