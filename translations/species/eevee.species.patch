@@ -7,8 +7,8 @@
 
     <orange>［天赋］</orange>
     能量值上限<green>+15</green>，机动性+10%
-    抗性：<green>5%</green>射线抗性，<green>20%</green>放射抗性
-    免疫：轻微辐射
+    抗性：射线抗性<green>+5%</green>，放射抗性<green>+20%</green>
+    免疫：轻度辐射
 
     <orange>［环境］</orange>
     葱郁/森林/丛林生态：机动性<green>+5%</green>

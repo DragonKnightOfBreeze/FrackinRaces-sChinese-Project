@@ -7,13 +7,13 @@
 
     <orange>［天赋］</orange>
     物质枪采集速率<green>+1</green>
-    能力上限<green>+20%</green>
+    能量值上限<green>+20%</green>
     移动速度<green>+4%</green>，跳跃力<green>+5%</green>
-    抗性：<green>40</green>电系抗性
-    免疫：<green>感电</green>
+    抗性：电系抗性<green>+40%</green>
+    免疫：感电
 
     <orange>［环境］</orange>
-    液体中：移动速度<red>-40%^reset
+    液体中：移动速度<red>-40%</red>
 
     <orange>［武器］</orange>
     回旋镖，环刃：伤害<green>+12.5%</green>

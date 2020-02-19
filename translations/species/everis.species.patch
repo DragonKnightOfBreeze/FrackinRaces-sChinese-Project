@@ -6,10 +6,10 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+15%</green> Energy
-    <green>+10%</green> Speed and Jump
-    Resist: <green>+30%</green> Ice, <green>+20%</green> Electric
-    Immune: Ice, Slush, and Snow tiles, L1 Cold.
+    能量值上限<green>+15%</green>
+    移动速度<green>+10%</green>，跳跃力<green>+10%</green>
+    抗性：寒气抗性<green>+30%</green>，电系抗性<green>+20%</green>
+    免疫：冰，雪泥，雪，寒冷
 
     <orange>［环境］</orange>
     In <green>Space and Cold</green> biomes, gain <green>5%</green> additional Speed and Jump, <green>+10</green> Protection and <green>+25%</green> Energy Regen

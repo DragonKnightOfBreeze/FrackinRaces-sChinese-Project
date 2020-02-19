@@ -1,15 +1,15 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    韦伯(源自《饥荒》)的一种奇特的、近乎"魔法"的变种。由异常物质和大量的糖组成，他们的生物学特性还有待质疑。
+    韦伯（源自《饥荒》）是一种奇特的、近乎“魔法”的变种。由异常物质和大量的糖组成，他们的生物学特性仍然有待质疑。
 
     食性：高糖食物，完全无法安全地消化肉类
 
     <orange>［天赋］</orange>
     能量值上限<green>+20%</green>，生命值上限<green>+10%</green>
-    抗性：<green>40%</green>射线抗性，<green>30%</green>暗影抗性
+    抗性：射线抗性<green>+40%</green>，暗影抗性<green>+30%</green>
     免疫：蜘蛛网
-    <orange>发出微光，进食含糖食物时获得10%的移动速度。</orange>
+    <orange>发出微光，进食含糖食物时获得10%的移动速度</orange>
 
     <orange>［环境］</orange>
     <cyan>寒冷</cyan>生态中：物理抗性：<green>+5%</green>

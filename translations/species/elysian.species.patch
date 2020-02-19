@@ -6,12 +6,11 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    <green>+5%</green> Health, <green>+25%</green> Energy<reset>,
-    <green>+10%</green> run speed, <green>+5%</green> jump height
-    <green>-25%</green> decreased fall damage<reset>
-    Resist: <green>10%</green> Physical, <green>25%</green> Electric, <green>5%</green> Cosmic
-    <green>-15%</green> Hunger Rate<reset>
-    Immune: Electrified
+    生命值上限<green>+5%</green>，能量值上限<green>+25%</green>
+    移动速度<green>+10%</green>，跳跃高度<green>+5%</green>，坠落伤害<green>-25%</green>
+    饥饿速度<green>-15%</green>
+    抗性：物理抗性<green>+10%</green>，电系抗性<green>+25%</green>，射线抗性<green>+5%</green>
+    免疫：感电
 
     <orange>［环境］</orange>
     Irradiated: <red>-25%</red> energy, <red>-15%</red> attack

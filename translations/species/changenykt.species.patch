@@ -6,10 +6,10 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+10%</green> Health & Damage.
-    <green>+10%</green> Poison, Cosmic, Electric, Shadow, Radioactive, Physcial Resist.
+    生命值上限<green>+10%</green>，伤害<green>+10%</green>
+    抗性：毒素抗性<green>+10%</green>，射线抗性<green>+10%</green>，电系抗性<green>+10%</green>，暗影抗性<green>+10%</green>，放射抗性<green>+10%</green>，物理抗性<green>+10%</green>，寒气抗性<green>+10%</green>
     <green>+30%</green> Ice.
-    <green>Immune</green> to cold. <red>Weak</red> to hot.
+    免疫：寒冷
 
     <orange>［环境］</orange>
     <green>+10%</green> Speed and Jump on Lush, Forest, Jungle, Rainforest, Snow, Tundra, and Arctic Biomes.

@@ -6,13 +6,13 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    物质枪挖掘格数<green>+1</green>能量值上限<green>+30%</green>
-    移动速度<green>+8%</green>，跳跃力<green>+15%</green>
+    物质枪挖掘格数<green>+1</green>
+    能量值上限<green>+30%</green>，移动速度<green>+8%</green>，跳跃力<green>+15%</green>
     抗性：寒气抗性<green>+20%</green>，毒素抗性<green>+10%</green>，疯狂抗性<_e43774>+20%</_e43774>
     免疫：丛林泥块，泥
 
     <orange>［环境］</orange>
-    <green>丛林/原始森林/森林/雨林/冰雪</green>生态：增加生命值上限&防御
+    <green>丛林，原始森林，森林，雨林，冰雪生态</green>：增加生命值上限和防御
 
     <orange>［武器］</orange>
     拳套：暴击几率<green>+1%</green>

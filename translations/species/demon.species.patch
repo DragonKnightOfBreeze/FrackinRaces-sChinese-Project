@@ -1,14 +1,14 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Demons... What more is there to say, they like fire, and have horns and tails
+    恶魔……更确切地说，一种喜欢火焰，长有角和尾巴的怪物。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+15%</green> Health, <green>+10%</green> Protection
-    Resist: <green>40%</green> Shadow, <green>40%</green> Fire
-    Immune: Heat/Burning
+    生命值上限<green>+15%</green>，防御力<green>+10%</green>
+    抗性：暗影抗性<green>+40%</green>，火炎抗性<green>+40%</green>
+    免疫：炎热，燃烧
 
     <orange>［环境］</orange>
     <green>Hot</green> biomes grant <green>+10%</green> Damage, <green>+15%</green> Speed

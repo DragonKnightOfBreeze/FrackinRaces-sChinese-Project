@@ -6,10 +6,10 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+15%</green> Health,
-    <green>+40%</green> Ice Resist
-    <green>+25%</green> Knockback Resistance, <green>+5%</green> Speed
-    Immune: Liquid Nitrogen, Cold, Ice
+    生命值上限<green>+15%</green>
+    速度<green>+5%</green>，击退抵抗力<green>+25%</green>
+    抗性：寒气抗性<green>+40%</green>
+    免疫：寒冷，冰，液氮
 
     <orange>［环境］</orange>
     On cold biomes, gain <green>+15%</green> increased Health and Energy

@@ -6,9 +6,9 @@
     食性：素食性
 
     <orange>［天赋］</orange>
-    <green>+18%<reset Speed, ^green>+20%<reset Jump, ^green>-35%^reset Fall Damage.
-    <green>+30%<reset Ice Resist, ^green>+20%^reset Cosmic Resist.
-    Immune: Slime Stick, Jungle Tiles, Mud
+    移动速度<green>+18%</green>，跳跃力<green>+20%</green>，坠落伤害<green>-35%</green>
+    抗性：寒气抗性<green>+30%</green>，射线抗性<green>+20%</green>
+    免疫：黏液，丛林物块，泥
 
     <orange>［环境］</orange>
     On Garden, Forest, Tundra and Snow biomes, gain <green>+10%^reset Health and Energy
