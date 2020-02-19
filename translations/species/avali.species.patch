@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    可爱的有翼太空猛禽。对极地气候和低重力环境拥有高度的适应性，能够利用风来控制它们的坠落。
+    可爱的有翼太空猛禽。对极地气候和低重力环境拥有高度的适应性，能够利用风来控制他们的坠落。
     此外，装备有重型武器的它们极其致命。
 
     食性：杂食性
@@ -10,7 +10,7 @@
     跳跃力+^green;9%^reset;，移动速度+^green;9%^reset;
     缓慢坠落（翅膀）+^green;35%^reset;
     抗性：^green;40%^reset;寒气抗性，坠落伤害-^green;65%^reset;
-    科技：^green;羽族滑翔 - 在[C]键菜单中制作^reset;
+    科技：^green;羽族滑翔
     免疫：雪&冰
 
     ^orange;［环境］^reset;
