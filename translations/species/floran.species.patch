@@ -15,9 +15,10 @@
     <green>森林类</green>生态：增加<green>生命值上限&能量值上限</green>
 
     <orange>［武器］</orange>
-    弓：暴击伤害<green>+20%</green>，移动速度<green>+5%</green>，蓄力时间<green>-5%</green>。
-    矛/匕首：伤害<green>+8%</green>，暴击几率<green>+3%</green>，<green>3%</green>几率造成毒素攻击。如果饱食度已满，则会加快攻击速度。
-    叶族武器/投掷物: 暴击几率<green>+2%</green>
+    弓：暴击伤害<green>+20%</green>，伤害<green+12%</green>，移动速度<green>+5%</green>，蓄力时间<green>-5%</green>
+    矛/匕首：伤害<green>+8%</green>，暴击几率<green>+3%</green>，<green>3%</green>的几率造成毒素伤害。
+    如果饱食度已满，则会加快攻击速度。
+    叶族武器，投掷武器: 暴击几率<green>+2%</green>
 
     <red>［弱点］</red>
     基础攻击会<red>消耗饱食度</red>

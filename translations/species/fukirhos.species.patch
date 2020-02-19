@@ -12,8 +12,8 @@
     Immune: Electrified
 
     <orange>［武器］</orange>
-    Striker: <green>+1%</green> Crit, <green>+5</green> Crit Dmg
-    Scythe: <green>+15%</green> Protection
+    打击者：暴击几率<green>+1%</green>，暴击伤害<green>+5</green>
+    镰刀：防御力<green>+15%</green>
 
     <red>［弱点］</red>
     生命值上限<red>-10%</red>

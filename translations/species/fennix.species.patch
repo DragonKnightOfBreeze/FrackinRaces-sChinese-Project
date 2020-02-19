@@ -18,9 +18,9 @@
     Cold Biomes: <red>-20% Health and Energy, -20% Attack, and -20% Fire Resist</red>
 
     <orange>［武器］</orange>
-    Wand/Staff: <green>+15% damage</green>
-    Fists: <red>-5% damage</red><reset>
-    Rapiers: <green>+5% damage</green>
+    法杖，魔杖：伤害<green>+15%</green>
+    拳套：伤害<red>-5%</red>
+    刺剑：伤害<green>+5%</green>
   rawValue: |-
     An experiment by the Miniknog, these foxes have a great resistance to heat. However, unlike their feral bretheren, they cannot adapt to cold climates.
     Diet: Omnivore

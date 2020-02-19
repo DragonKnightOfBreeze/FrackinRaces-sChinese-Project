@@ -20,10 +20,10 @@
     <red>-30%</red> Health and Energy, Reduced Breath in Poison, Swamp Water, or Contaminated Water
 
     <orange>［武器］</orange>
-    Pistol/Machine Pistol: <green>+20%</green> damage, <green>15%</green> Energy increase
-    Sniper Rifle: <green>+2%</green> crit, <green>+5</green> crit damage
-    Grenade Launcher: <green>+2%</green> crit, <green>+5</green> crit damage
-    Energy Weapon: <green>+5%</green> damage, <green>+5%</green> Energy increase
+    手枪，自动手枪：伤害<green>+20%</green>，能量回复速度<green>15%</green>
+    狙击步枪：暴击几率<green>+2%</green>，暴击伤害<green>+5</green>
+    榴弹发射器：暴击几率<green>+2%</green>，暴击伤害<green>+5</green>
+    能量武器：伤害<green>+5%</green>，能量回复速度<green>5%</green>
 
     <red>［弱点］</red>
     饥饿速度<red>+6%</red>

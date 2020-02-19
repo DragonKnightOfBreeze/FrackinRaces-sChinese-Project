@@ -230,20 +230,20 @@
 * 短矛，短枪&emsp;Short Spear
 * 斧&emsp;Axe
 * 锤矛，锤矛&emsp;Mace
-* 武士刀&emsp;Katana
+* 刀&emsp;Katana
 * 战剑&emsp;War Sword
 * 战刃&emsp;Warblade
 
 **双手武器**
 
-* 宽剑&emsp;Cleaver
+* 阔剑&emsp;Cleaver
 * 矛，长矛，枪&emsp;Spear
 * 长矛，长枪&emsp;Lance, fu_lance
-* 巨斧，大斧&emsp;Great Axe
+* 巨斧，巨斧&emsp;Great Axe
 * 锤，槌&emsp;Hammer
 * 长棍&emsp;Quarterstaff
 * 镰刀&emsp;Scythe
-* 武士刀&emsp;Katana
+* 刀&emsp;Katana
  
 **射击武器（不包括枪械）**
 

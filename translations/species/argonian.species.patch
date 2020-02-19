@@ -16,9 +16,9 @@
     Gain <green>+25%</green> Health, <green>+15%</green> Speed on Bog, Swamp, and Strange Sea biomes.
 
     <orange>［武器］</orange>
-    Spears: <green>+10%</green>  Damage, <green>+10%</green>  Protection
-    Short Spears: <green>+10% Damage</green>, <green>+15%</green> Crit Damage
-    Crossbows/Harpoons: <green>+15% Damage</green>, <green>+5%</green> Crit Damage
+    矛：伤害<green>+10%</green>，防御力<green>+10%</green>
+    短矛：伤害<green>+10%</green>，暴击伤害<green>+15%</green>
+    弩，鱼叉：伤害<green>+15%</green>，暴击伤害<green>+5%</green>
 
     <red>［弱点］</red>：
     生命值上限<red>-12%</red>，能量值上限<red>-5%</red>
@@ -47,3 +47,4 @@
     ^red;-12%^reset; Health, -5%^reset;Energy
     ^red;40%^reset; Ice, ^red;20%^reset; Electric
   translationAnnotation: Changed
+  translationNote: 不确定Harpoons的含义。

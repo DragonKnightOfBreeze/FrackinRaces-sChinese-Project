@@ -15,9 +15,9 @@
 
     <orange>［武器］</orange>
     手枪：伤害<green>+10%</green>
-    自动手枪：防御<green>+15%</green>
+    自动手枪：防御力<green>+15%</green>
     突击步枪：暴击几率<green>+0.25%</green>，伤害<green>+12%</green>
-    榴弹发射器：伤害<green>+15%</green>，防御<green>+18%</green>
+    榴弹发射器：伤害<green>+15%</green>，防御力<green>+18%</green>
 
     <red>［弱点］</red>
     抗性：火炎抗性<red>-10%</red>，放射抗性<red>-10%</red>

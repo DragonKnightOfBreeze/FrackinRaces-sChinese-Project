@@ -15,10 +15,10 @@
 
     <orange>［武器］</orange>
     巨斧：伤害<green>+20%</green>
-    斧/矛：击退抵抗力<green>+25%</green>，生命值上限<green>+5%</green>
-    矛：3%几率施加冰系伤害
-    环刃/回旋镖：暴击几率<green>+1.5%</green>，暴击伤害<green>+5</green>
-    弓：伤害<green>+15%</green>，防御<green>+18%</green>
+    斧，矛：击退抵抗力<green>+25%</green>，生命值上限<green>+5%</green>
+    矛：3%的几率造成冰系伤害
+    环刃，回旋镖：暴击几率<green>+1.5%</green>，暴击伤害<green>+5</green>
+    弓：伤害<green>+15%</green>，防御力<green>+18%</green>
 
     <red>［弱点］</red>
     抗性：毒素抗性<red>-20%</red>，火炎抗性<red>-20%</red>，物理抗性<red>-20%</red>

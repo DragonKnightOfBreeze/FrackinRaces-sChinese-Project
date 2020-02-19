@@ -18,8 +18,8 @@
     Lush, Forest, and Jungle: <green>+20</green> Health/Energy/Attack<reset>
 
     <orange>［武器］</orange>
-    Bows: <green>+10%</green> damage, <green>+15%</green> speed;
-    Melee: <green>+10%</green> damage, <green>+20%</green> speed;
+    弓：伤害<green>+10%</green>，移动速度<green>+15%</green>
+    近战武器：伤害<green>+10%</green>移动速度<green>+20%</green>
 
     <red>［弱点］</red>
     防御力<red>-10</red>

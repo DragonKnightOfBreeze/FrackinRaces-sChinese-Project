@@ -16,9 +16,9 @@
     At night, if well fed, gain <green>+15%</green> Physical Resist and <green>+2</green> protection
 
     <orange>［武器］</orange>
-    Boomerang/Chakram: <green>+10%</green> Damage, <green>+2%</green> Crit<reset>
-    Spear: <green>+10%</green> Damage, <green>+2%</green> Crit<reset> <green>+20%</reset> Protection
-    <green>Add your current speed/4 as bonus melee damage.</green>
+    <green>增加当前速度的1/4为近战伤害</green>
+    回旋镖，环刃：伤害<green>+10%</green>，暴击几率<green>+2%</green>
+    枪：伤害<green>+10%</green>，暴击几率<green>+2%</green>，防御力<green>+20%</reset>
 
     <red>［弱点］</red>
     生命值上限<red>-10%</red>，饱食度上限<red>-25%</red>

@@ -15,11 +15,11 @@
     On Jungle, Rainforest, Alien, Proto, And Primeval biomes gain <green>5%</green> Protection and <+green>10%</+green> Energy
 
     <orange>［武器］</orange>
-    Fist: <green>+12%</green> Damage
-    Dagger: <green>+1%</green> Crit chance
-    x2 Fist: <green>+3%</green> Damage, <green>+1%</green> Crit Damage, <green>5%</green> Jump and <green>8%</green> Speed
-    x2 Dagger: <green>+3%</green> Damage, <green>+1%</green> Crit Damage
-    Pistol/Machine Pistol: <green>+20%</green> Crit Damage, <green>+1%</green> Crit Chance
+    拳套：伤害<green>+12%</green>
+    匕首：暴击几率<green>+1%</green>
+    双持拳套：伤害<green>+3%</green>，暴击伤害<green>+1%</green>，跳跃力<green>+5%</green>，移动速度<green>+8%</green>
+    双持匕首：伤害<green>+3%</green>，暴击伤害<green>+1%</green>
+    手枪，自动手枪：暴击伤害<green>+20%</green>，暴击几率<green>+1%</green>
 
     <red>［弱点］</red>
     抗性：毒素抗性<red>-40%</red>

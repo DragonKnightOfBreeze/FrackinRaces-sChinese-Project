@@ -12,9 +12,9 @@
     Immune: Bio-ooze, Insanity
 
     <orange>［武器］</orange>
-    Axes and Hammers: <green>+20%</green> Damage
-    Rocket and Grenade Launchers: <green>+15%</green> Damage
-    Dual/Combo Rocket and Grenade Launchers: <green>+15%</green> Damage
+    斧，锤：伤害<green>+20%</green>
+    火箭发射器，榴弹发射器：伤害<green>+15%</green>
+    连发火箭发射器，连发榴弹发射器：伤害<green>+15%</green>
 
     <red>［弱点］</red>
     能量值上限<red>-20%</red>

@@ -13,10 +13,10 @@
     <green>丛林/沙漠/硫酸</green>生态：增加能量值上限和防御
 
     <orange>［武器］</orange>
-    短矛/短剑（+盾牌）：伤害<green>+20%</green>，防御<green>+20%</green>
-    弓/弩：防御<green>+10%</green>，伤害<green>+10%</green>
+    短矛，短剑（+盾牌）：伤害<green>+20%</green>，防御力<green>+20%</green>
+    弓，弩：伤害<green>+10%</green>，防御<green>+10%</green>
     盾牌：盾牌反伤<green>+2%</green>，盾牌击退距离<green>+2</green>
-    完美格挡时回复<green>生命和<green>20%</green>的盾牌耐久</green>
+    盾牌完美格挡时：回复<green>生命值和<green>20%</green>的盾牌耐久</green>
 
     <red>［弱点］</red>
     交易苦手：魅力<red>-25%</red>

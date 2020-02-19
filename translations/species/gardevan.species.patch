@@ -10,12 +10,12 @@
     When damaged, spread flowers where you walk
     Immune: Shock, Poison, Bio-ooze
 
-    <orange>环境^reset：
+    <orange>［环境］</orange>
     <green>Increased stats during daylight hours</green>
     <green>Regenerate in sunlight (see Floran ability)</green>
 
     <orange>［武器］</orange>
-    Whips: <green>+20%</green> Damage, <green>+15%</green> Speed and Jump
+    鞭：伤害<green>+20%</green>，移动速度<green>+15%</green>，跳跃力<green>+15%</green>
 
     <red>［弱点］</red>
     能量值上限<red>-20%</red>
