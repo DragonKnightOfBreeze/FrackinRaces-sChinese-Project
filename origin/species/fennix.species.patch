@@ -1,5 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    An experiment by the Miniknog, these foxes have a great resistance to heat. However, unlike their feral bretheren, they cannot adapt to cold climates.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <red>-5 Health</red>, <green>+15 Energy, +10 Attack</green>
+    <red>Weak: 20% Ice</red>
+    <green>Resist: 20% Fire</green>
+    <green>+15% speed, +5% jump height</green>
+    <green>Immune to biome heat, fire, and sandstorms</green>
+    <green>+25% Health Regen / Energy in Lava</green>
+
+    <orange>［环境］</orange>
+    Hot Biomes: <green>+20% Health and Energy</green>
+    Cold Biomes: <red>-20% Health and Energy, -20% Attack, and -20% Fire Resist</red>
+
+    <orange>［武器］</orange>
+    Wand/Staff: <green>+15% damage</green>
+    Fists: <red>-5% damage</red><reset>
+    Rapiers: <green>+5% damage</green>
   rawValue: |-
     An experiment by the Miniknog, these foxes have a great resistance to heat. However, unlike their feral bretheren, they cannot adapt to cold climates.
     Diet: Omnivore

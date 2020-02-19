@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一种甜蜜的冷饮。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'A cold sweet drink. ^green;Type: Herbivore^reset;'

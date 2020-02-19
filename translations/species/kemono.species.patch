@@ -14,8 +14,8 @@
     Shield: Perfect Blocks increase Protection and damage
 
     <red>［弱点］</red>
-    <red>-12%</red> Energy
-    <red>-50%</red> Shadow Resist
+    能量值上限<red>-12%</red>
+    抗性：暗影抗性<red>-50%</red>
   rawValue: |-
     Able fox-like warriors.
 

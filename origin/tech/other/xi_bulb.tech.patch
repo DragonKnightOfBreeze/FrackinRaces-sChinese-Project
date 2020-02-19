@@ -5,6 +5,6 @@
 - op: replace
   path: /description
   value: |-
-    按住[Down]以产生一个辐射球茎。
-    激活：^green;[F]^reset;
+    按住<green>[Down]</green>键以产生一个辐射球茎。
+    激活：<green>[F]</green>
   rawValue: Hold [Down] to produce a Rad Bulb. ^green;[F]^reset;

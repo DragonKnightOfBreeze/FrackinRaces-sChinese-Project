@@ -2,5 +2,5 @@
   path: /description
   value: |-
     处理过的酥脆的腌制外星肉。
-    ^orange;类型：熟肉食^reset;
+    <orange>类型：熟肉食</orange>
   rawValue: 'Salty, crispy alien bacon. ^orange;Type: Cooked Meat^reset;'

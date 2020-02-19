@@ -20,7 +20,8 @@
     Spear: <green>+25</green> Max Health, <green>+15%</green> Protection
 
     <red>［弱点］</red>
-    <red>50%</red> Shadow, Knockback Resist, <red>-20%</red> Energy
+    能量值上限<red>-20%</red>，击退抵抗力<red>-50%</red>
+    抗性：暗影抗性<red>-50%</red>
   rawValue: |-
     Nomadic tribal hunters. Low-tech, but capable of understanding technology with minimal training.
 

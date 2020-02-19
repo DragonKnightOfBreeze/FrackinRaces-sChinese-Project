@@ -2,5 +2,5 @@
   path: /description
   value: |-
     和鱼形水果一起烤的鱼。很是有味道！
-    ^orange;类型：鱼，植物^reset;
+    <orange>类型：鱼，植物</orange>
   rawValue: 'Fish baked with fish-like fruit. A fishy dish! ^orange;Type: Fish, Plant^reset;'

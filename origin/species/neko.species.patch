@@ -1,5 +1,22 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Personable cat-people. Light on their feet and quick to regain their stamina, they excel in close quarters despite their frailty, and are hardened against the forces of nature.
+
+    食性：杂食性，包括生肉。
+
+    <orange>［天赋］</orange>
+    Glowing Body
+    <green>+10%</green> Jump, <green>-20%</green> Fall Damage, <green>+5%</green> Speed
+    <green>-20%</green> Energy Regen Block Time
+    <green>+20%</green> Fire, Electric, Ice and Poison resist
+
+    <orange>［武器］</orange>
+    Fist: <green>+2%</green> Crit, <green>+5%</green> Damage
+    Shortsword/Dagger: <green>+10%</green> Damage, <green>+5%</green> Protection
+
+    <red>［弱点］</red>
+    <red>-20%</red> Physical, Shadow, Cosmic and Radiation Resist
   rawValue: |-
     Personable cat-people. Light on their feet and quick to regain their stamina, they excel in close quarters despite their frailty, and are hardened against the forces of nature.
 

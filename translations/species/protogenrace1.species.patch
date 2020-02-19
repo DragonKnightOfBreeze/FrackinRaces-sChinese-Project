@@ -6,13 +6,10 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    +<green>15%</green> Max Energy
-    <green>-20%</green> Fall Damage
+    能量值上限<green>+15%</green>，坠落伤害<green>-20%</green>
 
     <red>［弱点］</red>
-    <red>-25%</red> Darkness Resistance
-    <red>-25%</red> Electrical Resistance
-    <red>-10%</red> Fire Resistance
+    抗性：暗影抗性<red>-25%</red>，电系抗性<red>-25%</red>，火炎抗性<red>-10%</red>
   rawValue: |-
     In a top secret biotech facility, a race of superior beings have created a range of cyborg creatures, each with the intended purposes of exploring the unknown reaches of the universe.
 

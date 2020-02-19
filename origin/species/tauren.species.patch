@@ -1,5 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    The Tauren are a towering, strong and noble race of bovine humanoids from a distant world, with soft, short fur, hooves, tails and imposing horns. They value their shamanistic and druidic culture highly, and they are talented hunters, but aren't quite as proficient with modern weaponry. Nomadic by nature, they can adapt to their surroundings.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>+30 Health, <green>+5 Protection, <green>+10%</green> Damage,
+    <green>+10%</green> Electric Resist, <green>+20%</green> Poison Resist, <green>+30%</green> Ice Resist
+
+    <orange>［环境］</orange>
+    <green>+15%</green> Health, Speed, and Jump in Jungle, Forest, Snow, Savannah and Lush biomes
+
+    <orange>［武器］</orange>
+    Guns, Grenade Launcher, Rocket Launcher: <red>-10%</red> Damage
+    Shortspear / Spear / Axe: <green>+8%</green> dmg, <green>+5%</green> Crit.
+    Hammer / Greataxe / Broadsword: <green>5%</green> Damage, <green>+3%</green> Crit, <green>+15%</green> Crit Damage
+    Bows / Wands / Staves: <green>10%</green> Damage and Energy
+
+    <red>［弱点］</red>
+    <red>2x</red> Hunger Rate
+    <red>-50%</red> Fire, <red>-20%</red> Shadow, Radiation Resists
   rawValue: |-
     The Tauren are a towering, strong and noble race of bovine humanoids from a distant world, with soft, short fur, hooves, tails and imposing horns. They value their shamanistic and druidic culture highly, and they are talented hunters, but aren't quite as proficient with modern weaponry. Nomadic by nature, they can adapt to their surroundings.
 

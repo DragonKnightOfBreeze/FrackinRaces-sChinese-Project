@@ -6,22 +6,22 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+15%</green> Health, +<green>10%</green> Protection
+    <green>+15%</green> Health, <green>+10%</green> Protection
     Resist: <green>40%</green> Shadow, <green>40%</green> Fire
     Immune: Heat/Burning
 
     <orange>［环境］</orange>
-    <green>Hot</green> biomes grant +<green>10%</green> Damage, +<green>15%</green> Speed
+    <green>Hot</green> biomes grant <green>+10%</green> Damage, <green>+15%</green> Speed
     <red>Cold</red> biomes cause <red>-15%</red> Health, <red>-10%</red> Energy
 
     <orange>［武器］</orange>
     Shortswords or Daggers: <green>+10%</green> Crit Damage
     Longsword, Broadsword, or Katana: <green>+10%</green> Damage
-    Spear: <green>+1.5%</green> Crit Chance, +<green>15%</green> Crit Damage
+    Spear: <green>+1.5%</green> Crit Chance, <green>+15%</green> Crit Damage
     2x Small Blades: <green>+12%</green> Protection, <green>+5%</green> Movement Speed
 
     <red>［弱点］</red>
-    <red>40%</red> Ice, Cosmic
+    抗性：寒气抗性<red>-40%</red>，射线抗性<red>-40%</red>
   rawValue: |-
     Demons... What more is there to say, they like fire, and have horns and tails
 

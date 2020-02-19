@@ -6,5 +6,5 @@
   path: /description
   value: |-
     美味的水产。
-    ^green;类型：熟海鲜^reset;'
+    <orange>类型：熟海鲜</orange>
   rawValue: 'Delicious aquatic horror. ^green;Type: Cooked Seafood^reset;'

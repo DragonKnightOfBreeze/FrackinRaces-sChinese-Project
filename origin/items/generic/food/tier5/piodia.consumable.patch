@@ -2,6 +2,6 @@
   path: /description
   value: |-
     披萨的一个变种，有更多的铜的味道。
-    ^yellow;类型：机械食物^reset;
+    <yellow>类型：机械食物</yellow>
   rawValue: 'A variation on pizzap, it''s got more of a coppery tang to it. ^yellow;Type:
     Robot^reset;'

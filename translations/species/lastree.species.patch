@@ -13,9 +13,9 @@
     Shield + Pistol: <green>+15% Protection</green>
     Pistol/Machine Pistol: <green>+10% Damage, +50% Knockback Resist, +0.25% Crit Chance</green>
 
-    <red>弱点reset;：
-    <red>-10%</red> Energy and Smaller Stomach
-    <red>-50%</red> Fire Resist
+    <red>［弱点］</red>
+    能量值上限<red>-10%</red>，饱食度上限<red>-10%</red>
+    抗性：火炎抗性<red>-50%</red>
   rawValue: |-
     A mysterious race bearing a resemblance to ancient Earth demons. Not much is known of these creatures.
 

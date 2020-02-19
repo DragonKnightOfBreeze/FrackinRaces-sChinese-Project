@@ -6,21 +6,21 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    移动速度+<green>5%</green>
-    抗性：<green>20%</green>射线&暗影抗性
-    优秀商人：魅力+<green>15</green>
+    移动速度<green>+5%</green>
+    优秀商人：魅力<green>+15</green>
+    抗性：射线抗性<green>+20%</green>，暗影抗性<green>+20%</green>
 
     <orange>［环境］</orange>
     <green>葱郁/森林/原始森林生态</green>：增加防御上限&防御
 
     <orange>［武器］</orange>
-    手枪：伤害+<green>10%</green>
-    自动手枪：防御+<green>15%</green>
-    突击步枪：暴击几率+<green>0.25%</green>，伤害+<green>12%</green>
-    榴弹发射器：伤害+<green>15%</green>，防御+<green>18%</green>
+    手枪：伤害<green>+10%</green>
+    自动手枪：防御<green>+15%</green>
+    突击步枪：暴击几率<green>+0.25%</green>，伤害<green>+12%</green>
+    榴弹发射器：伤害<green>+15%</green>，防御<green>+18%</green>
 
     <red>［弱点］</red>
-    抗性：火炎&放射抗性<red>-10%</red>
+    抗性：火炎抗性<red>-10%</red>，放射抗性<red>-10%</red>
   rawValue: |-
     The descendants of Humans who fled Earth in the face of a natural disaster. Diplomatic, peaceful and technologically advanced, the Aegi have established themselves as the founders of an interstellar, inter-species alliance called the Elithian Alliance.
 

@@ -1,5 +1,33 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Colorful, chatty squid people. Light on their feet, sensitive to climate and liquids, and quite talented with their energy-based firearms.
+
+    食性：杂食性，包括生肉
+
+    <orange>［天赋］</orange>
+    <green>220s</green> Breath
+    <green>+10%</green> Physical resist, <green>+30%</green> Radioactive resist
+    <green>20%</green> Jump Height increase <green>+5%</green> Movement Speed
+    <green>-35%</green> Fall Damage.
+    Immune: Slime, Wet
+
+    <orange>［环境］</orange>
+    On Ocean biomes, gain <green>+15%</green> Health and Energy, <green>5%</green> Speed, and Inf Oxygen.
+    On Warm biomes, <green>+5%</green> Health and Energy, <green>+30%</green> regen rate.
+    On Cold biomes, <red>-10%</red> Health and Energy, <red>-20%</red> regen rate.
+    <green>+10%</green> Health and Energy, Inf Breath In Oil, Slime, Dark Water, or Healing Water
+    <red>-30%</red> Health and Energy, Reduced Breath in Poison, Swamp Water, or Contaminated Water
+
+    <orange>［武器］</orange>
+    Pistol/Machine Pistol: <green>+20%</green> damage, <green>15%</green> Energy increase
+    Sniper Rifle: <green>+2%</green> crit, <green>+5</green> crit damage
+    Grenade Launcher: <green>+2%</green> crit, <green>+5</green> crit damage
+    Energy Weapon: <green>+5%</green> damage, <green>+5%</green> Energy increase
+
+    <red>［弱点］</red>
+    <red>20%</red> Ice & Electric Resist
+    <red>+6%</red> Faster Hunger
   rawValue: |-
     Colorful, chatty squid people. Light on their feet, sensitive to climate and liquids, and quite talented with their energy-based firearms.
 

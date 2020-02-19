@@ -19,7 +19,7 @@
     Assault Rifle: <green>+1%</green> Crit
 
     <red>［弱点］</red>
-    <red>-10%</red> Fire, Radioactive, Shadow , <red>-30%</red> Electric Resist
+    抗性：火炎抗性<red>-10%</red>，放射抗性<red>-10%</red>，暗影抗性<red>-10%</red>，电系抗性<red>-30%</red>
   rawValue: |-
     Once invaded by an alien force which forced them to focus on their military and their defenses, they're extraordinary well trained fighters. Their aquatic origins make them especially dangerous in water and make them a force to be reckoned with.
 

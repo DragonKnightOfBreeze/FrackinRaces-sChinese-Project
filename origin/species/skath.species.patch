@@ -1,5 +1,25 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Once invaded by an alien force which forced them to focus on their military and their defenses, they're extraordinary well trained fighters. Their aquatic origins make them especially dangerous in water and make them a force to be reckoned with.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>+20%</green> Energy, <green>+2500 Breath
+    <green>+30%</green> Ice Resist, <green>+20%</green> Poison Resist, <green>+10%</green> Physical Resist
+
+    <orange>［环境］</orange>
+    <green>+25%</green> Health and <green>+6</green> Protection on Ocean biomes
+    Hot biomes impose a <red>-30%</red> energy penalty
+    When underwater you move faster and gain <green>+0.5%</green> Health Regen, <green>+15%</green> Health & Protection.
+
+    <orange>［武器］</orange>
+    Energy (ranged): <green>+2%</green> Crit, <green>+15%</green> Dmg
+    Assault Rifle: <green>+1%</green> Crit
+
+    <red>［弱点］</red>
+    <red>-10%</red> Fire, Radioactive, Shadow , <red>-30%</red> Electric Resist
   rawValue: |-
     Once invaded by an alien force which forced them to focus on their military and their defenses, they're extraordinary well trained fighters. Their aquatic origins make them especially dangerous in water and make them a force to be reckoned with.
 

@@ -93,7 +93,7 @@
 
 ### 标准属性（三度仪中注明的高级属性）
 
-* 生命上限&emsp;Max Health&emsp;Health&emsp;［默认：100］
+* 生命值上限&emsp;Max Health&emsp;Health&emsp;［默认：100］
 * 生命回复速度&emsp;Health Regen %&emsp;Regen %&emsp;［默认：0］
 * 防御力&emsp;Protection&emsp;Defense, DEF&emsp;［默认：0］
 &emsp;
@@ -111,7 +111,7 @@
 &emsp;
 * 击退抵抗&emsp;Knockback Resistance %
 * ？？？临界值&emsp;？？？ Threshold
-* 掉落伤害&emsp;Fall Damage %
+* 坠落伤害&emsp;Fall Damage %
 &emsp;
 * 盾牌反伤几率&emsp;Shield Bash Chance, Shield Bash?
 * 盾牌击退&emsp;Shield Bash Push, Shield Push?
@@ -119,7 +119,7 @@
 
 ### 所有属性
 
-* 生命上限&emsp;Max Health&emsp;Health&emsp;［默认：100］
+* 生命值上限&emsp;Max Health&emsp;Health&emsp;［默认：100］
 * 生命回复速度&emsp;Health Regen %&emsp;Regen %&emsp;［默认：0］
 &emsp;
 * 能量值上限&emsp;Max Energy&emsp;Energy&emsp;［默认：100］
@@ -139,11 +139,11 @@
 * 呼吸回复速度&emsp;Breath Regen
 * 饥饿速度&emsp;Food Consumption per second&emsp;Hunger
 &emsp;
-* 击退抗性&emsp;Knockback Resistance %, Knockback Resist
+* 击退抵抗力&emsp;Knockback Resistance %, Knockback Resist
 * ？？？临界值&emsp;？？？ Threshold
 &emsp;
 * 掉落速度&emsp;Fall Speed
-* 掉落伤害&emsp;Fall Damage %
+* 坠落伤害&emsp;Fall Damage %
 &emsp;
 * 跳跃力&emsp;Jump
 * ？？？&emsp;Air Force
@@ -166,7 +166,7 @@
 
 ### 一般
 
-* 生命上限&emsp;Health,Max Health
+* 生命值上限&emsp;Health,Max Health
 * 能量值上限,&emsp;Energy,Max,Energy
 * 生命回复速度&emsp;Health Regen
 * 能量回复速度&emsp;Energy Regen
@@ -177,7 +177,7 @@
 * 跳跃力&emsp;Jump
 * 移动速度&emsp;Speed
 * 游泳速度&emsp;Swim
-* 掉落伤害&emsp;Fall Damage
+* 坠落伤害&emsp;Fall Damage
 
 ### 攻击相关
 

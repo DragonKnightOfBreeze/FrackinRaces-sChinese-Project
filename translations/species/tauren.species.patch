@@ -19,8 +19,8 @@
     Bows / Wands / Staves: <green>10%</green> Damage and Energy
 
     <red>［弱点］</red>
-    <red>2x</red> Hunger Rate
-    <red>-50%</red> Fire, <red>-20%</red> Shadow, Radiation Resists
+    饥饿速度<red>+100%</red>
+    抗性：火炎抗性<red>-50%</red>，暗影抗性<red>-20%</red>，放射抗性<red>-20%</red>
   rawValue: |-
     The Tauren are a towering, strong and noble race of bovine humanoids from a distant world, with soft, short fur, hooves, tails and imposing horns. They value their shamanistic and druidic culture highly, and they are talented hunters, but aren't quite as proficient with modern weaponry. Nomadic by nature, they can adapt to their surroundings.
 

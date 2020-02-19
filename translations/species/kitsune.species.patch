@@ -6,8 +6,8 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    +<green>20%</green> Reduced hunger rate, +<green>20%</green> Health
-    +<green>10%</green> speed and jump,
+    <green>+20%</green> Reduced hunger rate, <green>+20%</green> Health
+    <green>+10%</green> speed and jump,
     Resist: <green>+20%</green> Ice, <green>+25%</green> Shadow, <green>+10%</green> Cosmic
 
     <orange>［环境］</orange>
@@ -15,14 +15,14 @@
 
     <orange>［武器］</orange>
     Dagger/Shortsword: <green>+3%</green> Crit Chance
-    Quarterstaff: <green>+15%</green> Dmg, +<green>20%</green> Protection
+    Quarterstaff: <green>+15%</green> Dmg, <green>+20%</green> Protection
     Hammer/Mace: <green>+15%</green> Stun Chance
     Melee Combos increase protection per-strike
     <orange>Perfect Blocks</orange> increase protection(<green>+2</green>) and damage(<green>+2%</green>)
 
     <red>［弱点］</red>
-    <red>-25%</red> Fire Resist
-    <red>-12%</red> Energy
+    能量值上限<red>-12%</red>
+    抗性：火炎抗性<red>-25%</red>
   rawValue: |-
     Swift and dangerous fox people. Able warriors.
 

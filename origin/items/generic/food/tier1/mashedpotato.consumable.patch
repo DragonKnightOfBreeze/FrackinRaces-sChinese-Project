@@ -2,6 +2,6 @@
   path: /description
   value: |-
     科学证明粉碎马铃薯可以让它们美味5倍。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Smashing potatoes is scientifically proven to make them 500% tastier.
     ^green;Type: Herbivore^reset;'

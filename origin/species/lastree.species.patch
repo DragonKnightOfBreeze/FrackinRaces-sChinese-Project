@@ -1,5 +1,21 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    A mysterious race bearing a resemblance to ancient Earth demons. Not much is known of these creatures.
+
+    食性：杂食性，包括生肉
+
+    <orange>［天赋］</orange>
+    <green>+When 50% fed, gain Regeneration</green>
+    <green>+30% Cosmic Resist, +50% Shadow Resist</green>
+
+    <orange>［武器］</orange>
+    Shield + Pistol: <green>+15% Protection</green>
+    Pistol/Machine Pistol: <green>+10% Damage, +50% Knockback Resist, +0.25% Crit Chance</green>
+
+    <red>弱点reset;：
+    <red>-10%</red> Energy and Smaller Stomach
+    <red>-50%</red> Fire Resist
   rawValue: |-
     A mysterious race bearing a resemblance to ancient Earth demons. Not much is known of these creatures.
 

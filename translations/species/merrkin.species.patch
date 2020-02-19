@@ -13,15 +13,15 @@
 
     <orange>［环境］</orange>
     On <green>oceanic</green> and <green>tidewater</green> biomes, gain <green>+25% Protection</green>
-    In water/darkwater you gain +<green>20</green> Physical Resistance,and <green>Poison Immunity</green>
+    In water/darkwater you gain <green>+20</green> Physical Resistance,and <green>Poison Immunity</green>
     Rain grants very slight regeneration.
 
     <orange>［武器］</orange>
     Spear/Trident: <green>+20%</green> Damage when above <green>75%</green> health
-    Spear/Trident/Shortspear: +<green>8%</green> Speed, +<green>4</green> Protection, +<green>1%</green> Crit
+    Spear/Trident/Shortspear: <green>+8%</green> Speed, <green>+4</green> Protection, <green>+1%</green> Crit
 
     <red>［弱点］</red>
-    <red>40%</red> Electric
+    抗性：电系抗性<red>-40%</red>
   rawValue: |-
     Aquatic creatures resembling the Mermaids of Earth legends. They are avid swimmers, and skilled with spears and tridents.
 

@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Bizarre pseudo-dead constructs
+    奇怪的伪生命构造体。
 
     食性：什么都吃，但是几乎不需要进食
 
@@ -16,8 +16,8 @@
     <red>-15%</red> Health, Energy, And Protection, take <red>-4.5%</red> damage per second in Healing Water
 
     <red>［弱点］</red>
-    <red>-20%</red> Energy
-    <red>-100%</red> Fire resist
+    能量值上限<red>-20%</red>
+    抗性：火炎抗性<red>-100%</red>
   rawValue: |-
     Bizarre pseudo-dead constructs
 

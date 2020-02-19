@@ -15,13 +15,13 @@
     On <green>cold</green> biomes, gain <green>10% Protection</green>
 
     <orange>［武器］</orange>
-    Psionic Ejector:  +<green>20%</green> damage
-    Quarterstaff: +<green>10%</green> Dmg, +<green>15%</green> Protection
-    Magnorbs: <green>+15%</green> Dmg, +<green>10%</green> Protection
+    Psionic Ejector:  <green>+20%</green> damage
+    Quarterstaff: <green>+10%</green> Dmg, <green>+15%</green> Protection
+    Magnorbs: <green>+15%</green> Dmg, <green>+10%</green> Protection
 
     <red>［弱点］</red>
-    <red>23%</red> Cosmic and Shadow
-    <red>-10%</red> Charisma
+    魅力<red>-10%</red>
+    抗性：射线抗性<red>-23%</red>，暗影抗性<red>-23%</red>
   rawValue: |-
     An unusual psionic species of extremophiles. Can generate a powerful psionic vibration through sheer willpower.
 

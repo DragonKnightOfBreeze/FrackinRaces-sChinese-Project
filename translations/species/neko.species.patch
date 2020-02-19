@@ -16,7 +16,7 @@
     Shortsword/Dagger: <green>+10%</green> Damage, <green>+5%</green> Protection
 
     <red>［弱点］</red>
-    <red>-20%</red> Physical, Shadow, Cosmic and Radiation Resist
+    抗性：物理抗性<red>-20%</red>，暗影抗性<red>-20%</red>，射线抗性<red>-20%</red>，放射抗性<red>-20%</red>
   rawValue: |-
     Personable cat-people. Light on their feet and quick to regain their stamina, they excel in close quarters despite their frailty, and are hardened against the forces of nature.
 

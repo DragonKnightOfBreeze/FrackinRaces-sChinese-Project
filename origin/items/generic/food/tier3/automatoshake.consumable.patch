@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一杯硬番茄奶昔！嗯。
-    ^yellow;类型：机械食物^reset;
+    <yellow>类型：机械食物</yellow>
   rawValue: 'An automato milkshake! Mmm. ^yellow;Type: Robot^reset;'

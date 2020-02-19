@@ -1,5 +1,18 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    In a top secret biotech facility, a race of superior beings have created a range of cyborg creatures, each with the intended purposes of exploring the unknown reaches of the universe.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    +<green>15%</green> Max Energy
+    <green>-20%</green> Fall Damage
+
+    <red>［弱点］</red>
+    <red>-25%</red> Darkness Resistance
+    <red>-25%</red> Electrical Resistance
+    <red>-10%</red> Fire Resistance
   rawValue: |-
     In a top secret biotech facility, a race of superior beings have created a range of cyborg creatures, each with the intended purposes of exploring the unknown reaches of the universe.
 

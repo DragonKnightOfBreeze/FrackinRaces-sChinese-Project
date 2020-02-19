@@ -2,6 +2,6 @@
   path: /description
   value: |-
     一瓶用眼球菜和圣女果制成的香料热饮酒。好喝！
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'A mulled drink made of oculemon and pussplum. Delicious! ^green;Type:
     Herbivore^reset;'

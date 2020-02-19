@@ -2,5 +2,5 @@
   path: /description
   value: |-
     或谓马铃薯。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Po-ta-to. ^green;Type: Plant^reset;'

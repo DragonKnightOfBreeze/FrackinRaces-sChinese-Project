@@ -1,5 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Aquatic creatures resembling the Mermaids of Earth legends. They are avid swimmers, and skilled with spears and tridents.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>+20%</green> Energy
+    <green>Immune to suffocation in water</green>
+    <green>Increased speed in water and darkwater</green>
+    Resist: <green>40%</green> Ice
+
+    <orange>［环境］</orange>
+    On <green>oceanic</green> and <green>tidewater</green> biomes, gain <green>+25% Protection</green>
+    In water/darkwater you gain +<green>20</green> Physical Resistance,and <green>Poison Immunity</green>
+    Rain grants very slight regeneration.
+
+    <orange>［武器］</orange>
+    Spear/Trident: <green>+20%</green> Damage when above <green>75%</green> health
+    Spear/Trident/Shortspear: +<green>8%</green> Speed, +<green>4</green> Protection, +<green>1%</green> Crit
+
+    <red>［弱点］</red>
+    <red>40%</red> Electric
   rawValue: |-
     Aquatic creatures resembling the Mermaids of Earth legends. They are avid swimmers, and skilled with spears and tridents.
 

@@ -1,5 +1,33 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Adorable hybrid glowing space raptors with wings. Though they have a disputed, potentially nonexistant origin, they share traits with both Novakids and Avalis, and they are deadly with heavy weapons.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    Glow in the Dark
+    <green>+12%</green> Speed <green>+15%</green> Jump, <green>+5%</green> Energy,
+    Resist: <green>+25%</green> Ice and fire,  <green>+40%</green> Radioactive
+    <green>-70%</green> Fall Dmg, <green>-5%</green> knockback,
+    Tech: <green>Avali Glide</green>
+    Immune: Snow, Ice, Radiation Burn, Basic Cold.
+
+    <orange>［环境］</orange>
+    High winds grant additional agility
+    On <green>Radioactive</green> biomes gain <green>15%</green> Energy and Health
+    <green>Regenerate</green> from sunlight when fed. <green>+20%</green> Energy Regen.
+    Night regen <red>consumes food</red> and <red>-25%</red> Energy
+
+    <orange>［武器］</orange>
+    <green>+10%</green> airborne damage
+    Energy: <green>+12%</green> Dmg
+    Grenade Launcher: <green>+20%</green> Crit Dmg
+    Sniper: +<green>2%</green> Crit Chance and +<green>10%</green> Crit Damage
+
+    <red>［弱点］</red>
+    <red>-50%</red> Shadow, <red>-10%</red> Physical, <red>-15%</red> Electrical resists.
+    <red>-5%</red> Health
   rawValue: |-
     Adorable hybrid glowing space raptors with wings. Though they have a disputed, potentially nonexistant origin, they share traits with both Novakids and Avalis, and they are deadly with heavy weapons.
 

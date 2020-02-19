@@ -1,5 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    太空巨龙！
+
+    食性：荤食性
+
+    <orange>天赋^reset：:
+    +<green>30%</green> Health, +<green>40%</green> Hunger Reduction
+    Resist: <green>50%</green> Fire, <green>15%</green> Physical
+    Immunity: Burning
+    Tech: <green>Fire Breath </green>
+
+    <orange>［环境］</orange>
+    <red>Cold</red> biomes sap your health and protection.
+    <green>Volcanic, Magma, Mountainous and Desert</green> biomes increase your protection and health.
+
+    <orange>［武器］</orange>
+    Broadsword/Drill: +<green>20%</green> damage
+    Broadsword:  Combos increase Physical Resistance per swing
+
+    <red>［弱点］</red>
+    Weak: <red>50%</red> Ice, <red>20%</red> Energy
   rawValue: |-
     Space Dragons!
 

@@ -16,7 +16,7 @@
     Whip: <green>+12%</green> Damage
 
     <red>［弱点］</red>
-    <red>-50%</red> Radioactive resist
+    抗性：放射抗性<red>-50%</red>
   rawValue: |-
     Foxy explorers
 

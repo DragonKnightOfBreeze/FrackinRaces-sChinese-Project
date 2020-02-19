@@ -2,5 +2,5 @@
   path: /description
   value: |-
     非机械生物真的吃不了。
-    ^yellow;类型：机械食物^reset;
+    <yellow>类型：机械食物</yellow>
   rawValue: 'Likely incredibly inedible for non-mechanicals. ^yellow;Type: Robot Food^reset;'

@@ -22,7 +22,7 @@
     Bow: <green>-0.1</green>s Draw Time
 
     <red>［弱点］</red>
-    Weak: <red>20%</red> Cosmic and Electric
+    抗性：射线抗性<red>-20%</red>，放射抗性<red>-20%</red>
   rawValue: |-
     An uplifted species by the Vel'uuish. This telepathic and telekinetic species follows their uplifters in their culture and use of technology. They love making terrible cat-based puns.
 

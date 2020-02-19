@@ -2,5 +2,5 @@
   path: /description
   value: |-
     嗯，新鲜出炉的。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Mmm, fresh out of the oven. ^green;Type: Herbivore^reset;'

@@ -6,7 +6,7 @@
     食性：机械食性
 
     <orange>［天赋］</orange>
-    生命上限+<green>15%</green>，能量上限+<green>5%</green>，防御+<green>5%</green>
+    生命值上限<green>+15%</green>，能量值上限<green>+5%</green>，防御<green>+5%</green>
     抗性：<green>20%</green>物理&毒素&放射抗性
     免疫：中毒&蜂蜇
 
@@ -14,16 +14,16 @@
     <green>油/原体液/厄尔吉斯液态燃料</green>：<green>回复生命</green>
 
     <orange>［武器］</orange>
-    锤矛/巨斧/斧：暴击几率+<green>2%</green>，暴击伤害<green>+5</green>
-    以上武器达成连击时：防御+<green>2</green>
-    弓/弩：暴击几率+<green>2%</green>
-    盾牌：盾牌反伤+<green>2%</green>，防御+<green>3</green>，生命上限+<green>8%</green>，生命回复速度+<green>1%</green>
+    锤矛/巨斧/斧：暴击几率<green>+2%</green>，暴击伤害<green>+5</green>
+    以上武器达成连击时：防御<green>+2</green>
+    弓/弩：暴击几率<green>+2%</green>
+    盾牌：盾牌反伤<green>+2%</green>，防御<green>+3</green>，生命值上限<green>+8%</green>，生命回复速度<green>+1%</green>
     盾牌：完美格挡时<green>增加大量伤害</green>
     盾牌反伤时<green>回复生命</green>
 
     <red>［弱点］</red>
-    感电状态：攻击力&能量上限<red>-50%</red>
-    抗性：<red>-30%</red>电系&射线抗性
+    感电状态时：攻击力<red>-50%</red>，能量值上限<red>-50%</red>
+    抗性：电系抗性<red>-30%</red>，射线抗性<red>-30%</red>
   rawValue: |-
     Their creation is lost to history. This suits them just fine, as they prefer a primitive state of being. Their medieval culture favors training with shields, maces and crossbows.
 

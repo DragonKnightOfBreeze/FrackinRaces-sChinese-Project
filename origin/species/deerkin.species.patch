@@ -1,5 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Bipedal deer-like people from the Valos Nebula. They are noted for their adorable appearance, which makes them well liked by many. Agrarian, they prefer forests and fields.
+
+    食性：素食性
+
+    <orange>［天赋］</orange>
+    <green>+8%</green> speed
+    Resist: <green>20%</green> Cosmic, Shadow
+    Great Traders: <green>+35%</green> Charisma
+
+    <orange>［环境］</orange>
+    Gain additional vitality and protection in <green>Lush, Forest, Primeval</green> biomes
+
+    <orange>［武器］</orange>
+    Scythe: <green>+10%</green> Damage
+    Dagger: <green>+15%</green> Protection
+    Sniper Rifle: <green>+12%</green> Damage
+    Grenade Launcher: <green>+15%</green> Dmg, <green>+18%</green> Protection
+
+    <red>［弱点］</red>
+    <red>20%</red> Fire, Radiation
   rawValue: |-
     Bipedal deer-like people from the Valos Nebula. They are noted for their adorable appearance, which makes them well liked by many. Agrarian, they prefer forests and fields.
 

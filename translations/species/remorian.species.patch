@@ -7,8 +7,6 @@
 
     <orange>［天赋］</orange>
     <green>+10%</green> Energy, <green>+5%</green> Damage, <green>+10%</green> Speed, <green>+15%</green> Energy Regen, <green>+20%</green> Shadow Resist, <green>+10%</green> Ice Resist, Wet Immunity, <green>1500</green> Breath, <green>Swim Boost 2</green>
-    <red>Weaknesses</red>:
-    <red>-5%</red> Health, <red>-10%</red> Protection, <red>+5%</red> Hunger Rate, <red>-20%</red> Radioactivity, <red>-30%</red> Electricity
 
     <orange>［环境］</orange>
     Oceanic / Wet Biomes: <green>+10% Max Energy</green> <green>+20% Speed</green>
@@ -20,6 +18,10 @@
     Wands / Staves: <green>8%</green> Damage and Energy
     Broadswords / Shortswords / Daggers: <green>+15%</green> Damage, <green>+5%</green> Critical Chance
     Playstyle: <yellow>Fighting</yellow>
+
+    <red>［抗性］</red>
+    生命值上限<red>-5%</red>，防御力<red>-10%</red>，饥饿速度<red>+5%</red>
+    抗性：放射抗性<red>-20%</red>，电系抗性<red>-30%</red>
   rawValue: |-
     The Remorian are a species of aquatic dragonoid people with an aptitude for magical energy. They tend to be somewhat more feeble physically than other races, but make up for it in their magical potential, which they draw from the ocean and other humid environments.
 

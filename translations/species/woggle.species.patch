@@ -19,8 +19,8 @@
     Staves: <green>+10%</green> Damage and Protection
 
     <red>［弱点］</red>
-    <red>-10%</red> Electric, <red>-50%</red> Shadow, <red>-20%</red> Physical Resistance.
-    <red>-20%</red> Health
+    生命值上限<red>-20%</red>
+    抗性：电系抗性<red>-10%</red>，暗影抗性<red>-50%</red>，物理抗性<red>-20%</red>
   rawValue: |-
     A Small, social, and overly cute reality-bending dinosaur-like things. They imagine, and reality follows suit.
 

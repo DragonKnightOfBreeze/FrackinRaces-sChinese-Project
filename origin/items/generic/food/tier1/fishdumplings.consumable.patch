@@ -2,6 +2,6 @@
   path: /description
   value: |-
     简单的蒸熟的鱼饺子，有点清淡。
-    ^orange;类型：熟海鲜^reset;
+    <orange>类型：熟海鲜</orange>
   rawValue: 'Simple fish dumplings, steamed and lightly seasoned. ^orange;Type: Cooked
     Seafood^reset;'

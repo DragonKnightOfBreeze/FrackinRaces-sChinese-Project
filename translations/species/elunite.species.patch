@@ -20,8 +20,8 @@
     剑/匕首：防御<green>+2</green>
 
     <red>［弱点］</red>
-    生命上限<red>-15%</red>
-    抗性：<red>-50%</red>暗影抗性
+    生命值上限<red>-15%</red>
+    抗性：暗影抗性<red>-50%</red>
   rawValue: |-
     Super-awesome digital beings with some amazingly cool niche gear.
 

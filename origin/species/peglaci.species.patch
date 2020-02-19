@@ -1,5 +1,25 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    生存于严寒地带，坚韧不拔的杂食生物，热爱科学。
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>+15%</green> Health,
+    <green>+40%</green> Ice Resist
+    <green>+25%</green> Knockback Resistance, <green>+5%</green> Speed
+    Immune: Liquid Nitrogen, Cold, Ice
+
+    <orange>［环境］</orange>
+    On cold biomes, gain <green>+15%</green> increased Health and Energy
+
+    <orange>［武器］</orange>
+    <green>+10%</green> Damage with all Firearms, and <green>+1%</green> Crit Damage
+
+    <red>［弱点］</red>
+    <red>-12%</red> Energy
+    <red>-30%</red> Fire , <red>-10%</red> Radiation
   rawValue: |-
     Resilient, cold-dwelling omnivorous creatures with a love for science.
 

@@ -2,5 +2,5 @@
   path: /description
   value: |-
     太怪异了。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Just spooky enough. ^green;Type: Herbivore^reset;'

@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一份用珊瑚果制作的微辣咖喱。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'A mildly spicy curry made with the coralcreep fruit. ^green;Type: Herbivore^reset;'

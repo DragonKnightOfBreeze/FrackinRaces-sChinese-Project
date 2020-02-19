@@ -1,5 +1,25 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Psionic creatures.
+
+    食性：素食性
+
+    <orange>［天赋］</orange>
+    <green>+15%</green> Energy, <green>+10%</green> Physical Resist, <green>+8%</green> Speed
+    When damaged, spread flowers where you walk
+    Immune: Shock, Poison, Bio-ooze
+
+    <orange>环境^reset：
+    <green>Increased stats during daylight hours</green>
+    <green>Regenerate in sunlight (see Floran ability)</green>
+
+    <orange>［武器］</orange>
+    Whips: <green>+20%</green> Damage, <green>+15%</green> Speed and Jump
+
+    <red>［弱点］</red>
+    <red>-20%</red> Energy
+    <red>-40%</red> Fire Resist
   rawValue: |-
     Psionic creatures.
 

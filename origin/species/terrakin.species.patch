@@ -1,5 +1,25 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Terrakin are a curious lot. Tied to nature, they are generally not found outside of forested regions. Outside of wooden regions they are typically quite unhappy, morose and unapproachable.
+
+    食性：素食性
+
+    <orange>［天赋］</orange>
+    Resist: <green>10%</green> Shadow, <green>30%</green> Poison
+    Attrition: +100% Max Food
+    <green>+7%</green> Jump and Speed
+    <green>Slowly regenerate HP</green>
+
+    <orange>［环境］</orange>
+    Gain additional 25% vitality and protection in <green>Forested and Jungle type</green> biomes
+
+    <orange>［武器］</orange>
+    Bow/Crossbow: <green>+2%</green> Crit Chance, <green>+15%</green> Power
+    Spear/Shortspear: <green>+2%</green> Crit Chance, <green>+25%</green> Knockback Resistance
+
+    <red>［弱点］</red>
+    <red>10%</red> Cosmic, <red>20%</red> Radiation
   rawValue: |-
     Terrakin are a curious lot. Tied to nature, they are generally not found outside of forested regions. Outside of wooden regions they are typically quite unhappy, morose and unapproachable.
 

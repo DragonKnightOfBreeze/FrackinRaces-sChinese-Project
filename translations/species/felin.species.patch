@@ -22,7 +22,7 @@
     Pistol/Machine Pistol: <green>+20%</green> Crit Damage, <green>+1%</green> Crit Chance
 
     <red>［弱点］</red>
-    Weak: <red>-40%</red> Poison
+    抗性：毒素抗性<red>-40%</red>
   rawValue: |-
     Meow. Space-cats with a funky culture and quirky language. Agility is their forte, and their claws and predatory instincts give them an edge in combat.
 

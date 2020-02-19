@@ -18,8 +18,8 @@
     Whips: <green>+20%</green> Damage, <green>+15%</green> Speed and Jump
 
     <red>［弱点］</red>
-    <red>-20%</red> Energy
-    <red>-40%</red> Fire Resist
+    能量值上限<red>-20%</red>
+    抗性：火炎抗性<red>-40%</red>
   rawValue: |-
     Psionic creatures.
 

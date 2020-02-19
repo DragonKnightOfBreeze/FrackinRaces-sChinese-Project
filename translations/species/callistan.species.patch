@@ -6,7 +6,7 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    Staying fed increases movement (max  +<green>16.6%</green>)
+    Staying fed increases movement (max  <green>+16.6%</green>)
     <green>+5%</green> Damage, <green>+12%</green> Energy
     Resist: <green>20%</green> Shadow, <green>20%</green> Radiation
     Immune: Slush, Snow, Soil, Mud, Web and Sandstorm effects
@@ -17,9 +17,10 @@
 
     <orange>［武器］</orange>
     Energy Weapons: <green>+3%</green> Crit Chance, <green>+25%</green> Energy Regen
+
     <red>［弱点］</red>
-    Weak: <red>20%</red> Cosmic, <red>-20%</red> Poison
-    <red>40%</red> Smaller Stomach
+    饱食度上限<red>-40%</red>
+    抗性：射线抗性<red>-20%</red>，毒素抗性<red>-20%</red>
   rawValue: |-
     Space wolves with a love for energy weapons and tech. They're swift and extremely mobile, navigating almost any terrain, but a tad on the fragile side.
 

@@ -329,7 +329,7 @@ private fun convertOriginFormatToXmlFormat() {
 		.filter { file -> file.isFile && file.name.endsWith(".patch") }
 		.forEach { file ->
 			val data = YamlSerializer.instance.load<List<MutableMap<String, Any?>>>(file)
-			data.forEach { it["value"] = it["value"]?.toXmlText() }
+			data.forEach { it["value"] = it["value"]?.toXmlText(); }
 			YamlSerializer.instance.dump(data, file)
 		}
 	println("已将翻译后文本更改为xml文本在 $translationsPath 目录。")

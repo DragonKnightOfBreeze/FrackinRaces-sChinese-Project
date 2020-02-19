@@ -6,8 +6,8 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    +<green>10%</green> Health, deal <green>20%</green> more damage
-    +<green>15%</green> Move Speed, +<green>10%</green> Jump Height
+    <green>+10%</green> Health, deal <green>20%</green> more damage
+    <green>+15%</green> Move Speed, <green>+10%</green> Jump Height
     Resist: <green>10%</green> Physical, <green>40%</green> Radiation, <green>20%</green> Shadow
     Immune: Insanity
 
@@ -16,13 +16,13 @@
     Improved ground traction
 
     <orange>［武器］</orange>
-    Fist: +<green>20%</green> Damage, +<green>50%</green> Knockback Resist
-    Dual Fist: +<green>2.5%</green> Crit Chance, +<green>5</green> Protection
-    Shotgun: +<green>15%</green> Damage, +<green>25%</green> Energy
+    Fist: <green>+20%</green> Damage, <green>+50%</green> Knockback Resist
+    Dual Fist: <green>+2.5%</green> Crit Chance, <green>+5</green> Protection
+    Shotgun: <green>+15%</green> Damage, <green>+25%</green> Energy
 
     <red>［弱点］</red>
-    <red>-20%</red> Energy, <red>-25%</red> Charisma
-    Weak: <red>-50%</red> Poison, <red>-20%</red> Ice
+    能量值上限<red>-20%</red>，美丽<red>-25%</red>
+    抗性：毒素抗性<red>-50%</red>，寒气抗性<red>-20%</red>
   rawValue: |-
     The Mantids are a largely nomadic species with no homeworld of their own. What few traditions their kind have are devoted to the art of war, and most Mantid take great pride in personally eviscerating their enemies.
 

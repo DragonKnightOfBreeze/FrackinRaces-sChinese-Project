@@ -1,5 +1,23 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    A race of shapeshifting and insecure creatures borne from a planet called Gaia.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>+10%</green> Health & Damage.
+    <green>+10%</green> Poison, Cosmic, Electric, Shadow, Radioactive, Physcial Resist.
+    <green>+30%</green> Ice.
+    <green>Immune</green> to cold. <red>Weak</red> to hot.
+
+    <orange>［环境］</orange>
+    <green>+10%</green> Speed and Jump on Lush, Forest, Jungle, Rainforest, Snow, Tundra, and Arctic Biomes.
+    <red>-10%</red> Speed and Jump on Bog, Ocean, Magma, and Volcanic Biomes.
+
+    <orange>弱点</orange>：
+    <red>-10%</red> Energy
+    <red>-40%</red> Fire Resist
   rawValue: |-
     A race of shapeshifting and insecure creatures borne from a planet called Gaia.
 

@@ -2,6 +2,6 @@
   path: /description
   value: |-
     一瓶粗糙的、多籽的果酱，尝起来会有一种干燥的口感。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'A coarse, seedy jam that leaves behind a dry taste in your mouth. ^green;Type:
     Herbivore^reset;'

@@ -1,5 +1,28 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    奇妙的鱼人种族。
+
+    食性：杂食性，包括生肉。
+
+    <orange>［天赋］</orange>
+    Swim Boost
+    <green>+15%</green> Health and Energy
+    <green>+5%</green> Damage
+    <green>+40%</green> Fire Resist, <green>+20%</green> Ice resist
+    Immune: Mud, Wet, Breathing
+
+    <orange>［环境］</orange>
+    <green>+20%</green> Physical Resistance and <green>+10%</green> Energy on Ocean biomes
+    Regeneration, <green>-20%</green> Hunger Rate In Water/Waste Water/Swamp Water
+
+    <orange>［武器］</orange>
+    Fist: <green>+3%</green> Crit, <green>+5%</green> Speed
+    Spear: <green>+2%</green> Crit, <green>+10%</green> Damage
+    Shortspear: <green>+2%</green> Crit, <green>+5%</green> Physical Resistance
+
+    <red>［弱点］</red>
+    <red>-40%</red> Electric, <red>-15%</red> Shadow and Cosmic Resistance
   rawValue: |-
     Wonderful fish-men.
 

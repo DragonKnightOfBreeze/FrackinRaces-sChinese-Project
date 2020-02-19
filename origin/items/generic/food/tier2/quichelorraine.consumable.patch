@@ -2,5 +2,5 @@
   path: /description
   value: |-
     经典的熏肉派。非常适合于野餐！
-    ^orange;类型：熟肉食^reset;
+    <orange>类型：熟肉食</orange>
   rawValue: 'A classic bacon quiche. Perfect for picnics! ^orange;Type: Cooked Meat^reset;'

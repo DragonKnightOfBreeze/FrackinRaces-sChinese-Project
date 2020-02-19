@@ -17,9 +17,9 @@
     <orange>［武器］</orange>
     <green>+10%</green> Damage with all Firearms, and <green>+1%</green> Crit Damage
 
-    <red>弱点;：
-    <red>-12%</red> Energy
-    <red>-30%</red> Fire , <red>-10%</red> Radiation
+    <red>［弱点］</red>
+    能量值上限<red>-12%</red>
+    抗性：火炎抗性<red>-30%</red>，放射抗性<red>-10%</red>
   rawValue: |-
     Resilient, cold-dwelling omnivorous creatures with a love for science.
 

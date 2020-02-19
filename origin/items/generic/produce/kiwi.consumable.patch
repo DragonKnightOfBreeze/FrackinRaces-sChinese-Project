@@ -2,5 +2,5 @@
   path: /description
   value: |-
     柔软的质地和甜蜜的味道，好吃。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Soft texture and sweet flavour, yum. ^green;Type: Fruit^reset;'

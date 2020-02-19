@@ -8,20 +8,20 @@
     <orange>［天赋］</orange>
     <green>黑暗</green>中：增加<green>物理抗性</green>和<green>伤害</green>，启用枯竭攻击。
     科技：<green>康沙克</green>
-    抗性：暗影抗性+<green>40%</green>，寒气抗性+<green>10%</green>
+    抗性：暗影抗性<green>+40%</green>，寒气抗性<green>+10%</green>
     免疫：生物软泥&中毒
 
     <orange>［武器］</orange>
-    剑：暴击几率+<green>1%</green>，伤害+<green>10%</green>，满血时有<green>3%</green>的几率释放暗影爆裂(<green>5伤害</green>)。
-    短剑/匕首：暴击几率+<green>10%</green>
-    长剑/武士刀：伤害+<green>6%</green>
-    武士刀/刺剑+匕首：暴击几率+<green>1.5%</green> 双持短刃：防御+<green>12%</green>，移动速度+<green>5%</green>
-    盾牌：盾牌反伤+<green>2</green>，击退抗性+<green>25%</green>
-    鞭：移动速度+<green>10%</green>
+    剑：暴击几率<green>+1%</green>，伤害<green>+10%</green>，满血时有<green>3%</green>的几率释放暗影爆裂(<green>5伤害</green>)。
+    短剑/匕首：暴击几率<green>+10%</green>
+    长剑/武士刀：伤害<green>+6%</green>
+    武士刀/刺剑+匕首：暴击几率<green>+1.5%</green> 双持短刃：防御<green>+12%</green>，移动速度<green>+5%</green>
+    盾牌：盾牌反伤<green>+2</green>，击退抵抗力<green>+25%</green>
+    鞭：移动速度<green>+10%</green>
 
     <red>［弱点］</red>
-    抗性：<red>-20%</red>射线抗性，<red>-20%</red>放射抗性，<red>-20%</red>电系抗性
-    在<red>亮处</red>减少<red>生命值，能力值，物理防御和伤害</red>，取消攻击时的<red>枯竭效果</red>。
+    在亮处时：<red>降低</red>生命值上限，能量值上限，伤害和物理抗性，取消攻击时的<red>枯竭效果</red>
+    抗性：射线抗性<red>-20%</red>，<red>-20%</red>放射抗性，<red>-20%</red>电系抗性
   rawValue: |-
     Evolved in the depths of a Penumbral world, the Nightar dislike light intensely. They are able warriors and capable spies.
 

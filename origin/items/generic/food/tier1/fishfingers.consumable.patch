@@ -2,6 +2,6 @@
   path: /description
   value: |-
     美味的棒型炸鱼。卡仕达酱在哪呢？
-    ^orange;类型：熟海鲜^reset;
+    <orange>类型：熟海鲜</orange>
   rawValue: 'Tasty fried fish in stick form. Where''s the custard? ^orange;Type: Cooked
     Seafood^reset;'

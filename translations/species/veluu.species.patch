@@ -23,7 +23,7 @@
     Bow: <green>-0.1</green>s Draw Time
 
     <red>［弱点］</red>
-    Weak: <red>20%</red> Cosmic and Electric
+    抗性：射线抗性<red>-20%</red>，电系抗性<red>-20%</red>
   rawValue: |-
     A fractured race of sapient cats. Half are peace loving free-thinkers, while the rest are war-hungry monsters.
 

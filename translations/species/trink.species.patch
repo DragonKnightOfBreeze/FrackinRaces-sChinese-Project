@@ -19,8 +19,8 @@
     Shield: Perfect Blocks increase Energy
 
     <red>［弱点］</red>
-    <red>-50%</red> Energy when Electrified
-    Weak: <red>-100%</red>Electric
+    感电状态时：能量值上限<red>-50%</red>
+    抗性：电系抗性<red>-100%</red>
   rawValue: |-
     Hyper-advanced machines.
 

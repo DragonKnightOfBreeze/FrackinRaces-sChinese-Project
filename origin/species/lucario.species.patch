@@ -1,5 +1,29 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Despite their fluffy appearance, this species is incredibly adaptive. They are no strangers to fighting and have their own unique power named Aura. In past they were guardians of their home world, and merged perfectly with the Protectorate.
+
+    食性：杂食性（浆果）
+
+    <orange>［天赋］</orange>
+    <green>+10%</green> Energy, <green>+5%</green> Damage, <green>+8%</green> Speed and Energy regen
+    <green>+20%</green> Ice Resist, <green>+25%</green> Shadow Resist, Poison Immunity
+    Aura Berserk (the more damage you take, the more dangerous you become, up to <green>+15%</green> damage and <red>-10%</red> protection)
+    <red>Weaknesses</red>:
+    <red>-5%</red> Health and Protection
+    <red>+6%</red> Hunger Rate
+    <red>-30%</red> Radioactivity, Electricity and Fire
+
+    <orange>［环境］</orange>
+    Hot Biomes: <red>-20% Protection</red>
+    Jungle Biomes: <green>+5%</green> Max Energy, <green>+10%</green> Knockback
+
+    <orange>［武器］</orange>
+    Pistol / Machinepistol: <green>+15%</green> Damage and Energy
+    Shortspear / Spear: <green>+8%</green> dmg, +5%<reset> Crit. Strike faster when full
+    Wands / Staves: <green>5%</green> Damage and Energy
+    Fists: <green>+10%</green> Damage
+    Playstyle: <yellow>Fighting</yellow>
   rawValue: |-
     Despite their fluffy appearance, this species is incredibly adaptive. They are no strangers to fighting and have their own unique power named Aura. In past they were guardians of their home world, and merged perfectly with the Protectorate.
 

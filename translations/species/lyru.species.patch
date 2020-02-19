@@ -6,23 +6,23 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    +<green>15%</green> Jump, +<green>5%</green> Speed
+    <green>+15%</green> Jump, <green>+5%</green> Speed
     Resist: <green>20%</green> Fire, <green>10%</green> Poison, <green>10%</green> Shadow, <green>-50%</green> Fall Dmg
     <green>Medium visibility in darkness</green>
     Immune: Erchius
 
     <orange>［武器］</orange>
-    Shortsword: +<green>12%</green> Damage and +<green>20%</green> Knockback Resistance
-    Dagger and Spear: +<green>12%</green> Damage and +<green>5%</green> Crit
-    Machinepistol: +<green>10%</green> Damage and +<green>1%</green> Crit Dmg
-    Sniper Rifle: +<green>3%</green> Crit and +<green>10%</green> Crit Dmg
-    Shotgun: +<green>12%</green> Damage and +<green>10%</green> Crit Dmg
-    Boomerang and Chakram: +<green>12%</green> Damage and +<green>2%</green> Protection
+    Shortsword: <green>+12%</green> Damage and <green>+20%</green> Knockback Resistance
+    Dagger and Spear: <green>+12%</green> Damage and <green>+5%</green> Crit
+    Machinepistol: <green>+10%</green> Damage and <green>+1%</green> Crit Dmg
+    Sniper Rifle: <green>+3%</green> Crit and <green>+10%</green> Crit Dmg
+    Shotgun: <green>+12%</green> Damage and <green>+10%</green> Crit Dmg
+    Boomerang and Chakram: <green>+12%</green> Damage and <green>+2%</green> Protection
     Shield: Perfect Blocks <green>increase defense</green>(stacks)
 
     <red>［弱点］</red>
-    Weak: <red>-30%</red>Electric
-    <red>Sunlight and irradiated planets</red> reduce <red>Energy, Health</red> and decreases <red>Radiation Resistance</red>.
+    日间或在辐射环境时：<red>降低</red>生命值上限，能量值上限和辐射抗性
+    抗性：电系抗性<red>-30%</red>
   rawValue: |-
     A mysterious race of cave dwellers known for their underground cities and love for treasure. Adapted to the deep underground, they can jump high and take less fall damage. Due to their impressive eyesight, they have higher precision with weapons.
 

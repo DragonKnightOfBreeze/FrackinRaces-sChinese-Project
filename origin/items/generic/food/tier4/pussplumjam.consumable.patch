@@ -2,5 +2,5 @@
   path: /description
   value: |-
     圣女果制成的果酱。出乎意料的厚实。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Jam made from pussplum. It''s surprisingly chunky. ^green;Type: Herbivore^reset;'

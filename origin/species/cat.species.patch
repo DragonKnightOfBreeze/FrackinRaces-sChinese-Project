@@ -1,5 +1,28 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    An uplifted species by the Vel'uuish. This telepathic and telekinetic species follows their uplifters in their culture and use of technology. They love making terrible cat-based puns.
+
+    食性：荤食性
+
+    <orange>［天赋］</orange>
+    Very nimble. Gain <green>20%</green> Jump and <green>8%</green> Run Speed<reset>
+    Resist: <green>15%</green> Cold
+    Race Tech: <green>Claws</green>
+    Immune: Jungle Dirt and Mud
+
+    <orange>［环境］</orange>
+    Gain additional vitality and protection in <green>Jungle, Primeval, Forest, Rainforest, Desert</green> biomes
+
+    <orange>［武器］</orange>
+    Fists, Daggers, Shortswords: <green>+1%</green> Crit Chance
+    Thrown Weapons: <green>+25%</green> Dmg
+    Magnorb: <green>+2%</green> Crit Chance
+    Arm Cannon: <green>+15%</green> Protection,<green>+15%</green> Damage
+    Bow: <green>-0.1</green>s Draw Time
+
+    <red>［弱点］</red>
+    Weak: <red>20%</red> Cosmic and Electric
   rawValue: |-
     An uplifted species by the Vel'uuish. This telepathic and telekinetic species follows their uplifters in their culture and use of technology. They love making terrible cat-based puns.
 

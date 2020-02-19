@@ -26,8 +26,8 @@
     Energy Weapon: <green>+5%</green> damage, <green>+5%</green> Energy increase
 
     <red>［弱点］</red>
-    <red>20%</red> Ice & Electric Resist
-    <red>+6%</red> Faster Hunger
+    饥饿速度<red>+6%</red>
+    抗性：寒气抗性<red>-20%</red>，电系抗性<red>-20%</red>
   rawValue: |-
     Colorful, chatty squid people. Light on their feet, sensitive to climate and liquids, and quite talented with their energy-based firearms.
 

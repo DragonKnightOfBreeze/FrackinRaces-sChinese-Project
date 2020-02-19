@@ -2,5 +2,5 @@
   path: /description
   value: |-
     可口的甜菠萝汁。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Sweet, tasty pineapple juice. ^green;Type: Herbivore^reset;'

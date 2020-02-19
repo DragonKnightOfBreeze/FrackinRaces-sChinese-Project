@@ -1,5 +1,29 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Fenerox are new to the established galactic order. Their tech is generally rather low, and only a few have moved beyond their hunter-gatherer lifestyle. Their skill in hunting is remarkable.
+
+    食性：荤食性
+
+    <orange>［天赋］</orange>
+    <green>+6%</green> Speed, <green>+6%</green> Jump
+    <green>Regenerate at night and gain energy regen</green>
+    Resist: <green>40%</green> Poison & Electric, <green>25%</green> Cosmic
+    Tech: <green>Hunter's Claw</green>
+
+    <orange>［环境］</orange>
+    In dry grasslands you gain <green>+15%</green> Damage
+    At night, if well fed, gain <green>+15%</green> Physical Resist and <green>+2</green> protection
+
+    <orange>［武器］</orange>
+    Boomerang/Chakram: <green>+10%</green> Damage, <green>+2%</green> Crit<reset>
+    Spear: <green>+10%</green> Damage, <green>+2%</green> Crit<reset> <green>+20%</reset> Protection
+    <green>Add your current speed/4 as bonus melee damage.</green>
+
+    <red>［弱点］</red>
+    <red>-10%</red> Health,
+    <red>-20%</red> Fire and Shadow Resist
+    <red>-25%</red> Max Food
   rawValue: |-
     Fenerox are new to the established galactic order. Their tech is generally rather low, and only a few have moved beyond their hunter-gatherer lifestyle. Their skill in hunting is remarkable.
 

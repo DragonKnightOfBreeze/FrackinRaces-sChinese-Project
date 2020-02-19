@@ -1,5 +1,24 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Slow and lazy pacifists
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>30%</green> Slower Hunger
+    <green>+10%</green> Health
+    <green>25%</green> Fire Resist
+    Immune: Bio-ooze, Insanity
+
+    <orange>［武器］</orange>
+    Axes and Hammers: <green>+20%</green> Damage
+    Rocket and Grenade Launchers: <green>+15%</green> Damage
+    Dual/Combo Rocket and Grenade Launchers: <green>+15%</green> Damage
+
+    <red>［弱点］</red>
+    <red>-20%</red> Energy
+    <red>-35%</red> Ice Resist
   rawValue: |-
     Slow and lazy pacifists
 

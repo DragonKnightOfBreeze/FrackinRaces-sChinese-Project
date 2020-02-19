@@ -18,10 +18,9 @@
     Energy Weapons: <green>+10%</green> damage, <green>+10%</green> crit damage
 
     <red>［弱点］</red>
-    Terrible swimmers
-    <red>-20%</red> Max Food
-    <red>-20%</red> Health
-    <red>-40%</red> Shadow Resist, <red>-20%</red> Fire & Physical Resist
+    糟糕的游泳者
+    生命值上限<red>-20%</red>，饱食度上限<red>-20%</red>
+    抗性：暗影抗性<red>-40%</red>，火炎抗性<red>-20%</red>，物理抗性<red>-20%</red>
   rawValue: |-
     Fluffy, adorable, cosmic-attuned lagomorphic critters from a distant world of fantasy that have a pom-pom, bat-like wings, and a thing for saying "Kupo!". They typically are very skilled machinists, but they sometimes choose to become a knight or a mage instead.
 

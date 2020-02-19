@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一块烤外星火腿。
-    ^orange;类型：熟肉食^reset;
+    <orange>类型：熟肉食</orange>
   rawValue: 'A haunch of roasted alien ham. ^orange;Type: Cooked Meat^reset;'

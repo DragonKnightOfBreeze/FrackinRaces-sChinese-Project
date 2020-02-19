@@ -1,5 +1,25 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    The Remorian are a species of aquatic dragonoid people with an aptitude for magical energy. They tend to be somewhat more feeble physically than other races, but make up for it in their magical potential, which they draw from the ocean and other humid environments.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>+10%</green> Energy, <green>+5%</green> Damage, <green>+10%</green> Speed, <green>+15%</green> Energy Regen, <green>+20%</green> Shadow Resist, <green>+10%</green> Ice Resist, Wet Immunity, <green>1500</green> Breath, <green>Swim Boost 2</green>
+    <red>Weaknesses</red>:
+    <red>-5%</red> Health, <red>-10%</red> Protection, <red>+5%</red> Hunger Rate, <red>-20%</red> Radioactivity, <red>-30%</red> Electricity
+
+    <orange>［环境］</orange>
+    Oceanic / Wet Biomes: <green>+10% Max Energy</green> <green>+20% Speed</green>
+    Jungle / Humid Biomes: <green>+5% Max Energy</green>
+    Hot / Dry Biomes: <red>-15% Max Energy</red> <red>-15% Max Health</red> <red>-30% Energy Regen</red>
+
+    <orange>［武器］</orange>
+    Shortspear / Spear: <green>+10%</green> Damage, <green>+15%</green> Protection
+    Wands / Staves: <green>8%</green> Damage and Energy
+    Broadswords / Shortswords / Daggers: <green>+15%</green> Damage, <green>+5%</green> Critical Chance
+    Playstyle: <yellow>Fighting</yellow>
   rawValue: |-
     The Remorian are a species of aquatic dragonoid people with an aptitude for magical energy. They tend to be somewhat more feeble physically than other races, but make up for it in their magical potential, which they draw from the ocean and other humid environments.
 

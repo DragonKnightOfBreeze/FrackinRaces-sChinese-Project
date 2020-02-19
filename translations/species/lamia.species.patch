@@ -14,8 +14,8 @@
     Chakram: <green>+10%</green> Damage, <green>+10%</green> Health and <green>+12%</green> Knockback Resist
 
     <red>［弱点］</red>
-    <red>-20%</red> Health
-    <red>-40%</red> Ice,<red>-20%</red> Cosmic Resist
+    生命值上限<red>-20%</red>
+    抗性：寒气抗性<red>-40%</red>，射线抗性<red>-20%</red>
   rawValue: |-
     Swift and dangerous snake-people. Their efficient metabolisms allow them to function on almost no food, and their powerful tails give them a mighty spring in their step.
 

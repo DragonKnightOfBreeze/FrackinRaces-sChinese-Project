@@ -1,5 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Everis are a race of dog-like humanoids with impressive advancements in technology and an optimistic, borderline childish outlook on life.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>+15%</green> Energy
+    <green>+10%</green> Speed and Jump
+    Resist: <green>+30%</green> Ice, <green>+20%</green> Electric
+    Immune: Ice, Slush, and Snow tiles, L1 Cold.
+
+    <orange>［环境］</orange>
+    In <green>Space and Cold</green> biomes, gain <green>5%</green> additional Speed and Jump, +<green>10</green> Protection and +<green>25%</green> Energy Regen
+
+    <orange>［武器］</orange>
+    Assault/Sniper Rifle: <green>+10%</green> Dmg
+    Pistol: <green>+25%</green> Energy Regen
+    Shield: <green>+15</green> Protection and minor <green>Health Regen</green>
+
+    <red>［弱点］</red>
+    <red>-15%</red> Health
+    Weak: <red>-40%</red> Fire, <red>-10%</red> Poison
   rawValue: |-
     Everis are a race of dog-like humanoids with impressive advancements in technology and an optimistic, borderline childish outlook on life.
 

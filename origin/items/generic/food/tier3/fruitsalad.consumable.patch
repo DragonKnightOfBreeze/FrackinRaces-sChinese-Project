@@ -2,5 +2,5 @@
   path: /description
   value: |-
     各种水果随意地混合在一起。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Various fruits all conveniently mixed together. ^green;Type: Herbivore^reset;'

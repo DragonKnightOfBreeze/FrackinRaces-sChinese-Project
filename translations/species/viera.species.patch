@@ -20,8 +20,8 @@
     Rapier, Shortsword and Dagger: <green>+15%</green> Physical Resist, <green>+12%</green> Damage, has a <green>5%</green> chance to shoot mystic blasts during combos.
 
     <red>［弱点］</red>
-    <red>-30%</red> Shadow resist,
-    <red>-20%</red> Max Food, Health
+    生命值上限<red>-20%</red>，饱食度上限<red>-20%</red>
+    抗性：暗影抗性<red>-30%</red>
   rawValue: |-
     Cosmic-attuned bunny-folk from a distant world of fantasy. Skilled fencers, archers, and spellcasters.
 

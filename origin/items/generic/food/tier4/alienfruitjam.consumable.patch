@@ -2,5 +2,5 @@
   path: /description
   value: |-
     外星水果果酱，黏糊糊。
-    ^green;类型：素食^reset;
+    <green>类型：素食</green>
   rawValue: 'Alien fruit jam. Sticky. ^green;Type: Herbivore^reset;'

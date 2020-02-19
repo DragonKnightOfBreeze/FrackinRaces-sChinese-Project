@@ -1,5 +1,21 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Swift and dangerous snake-people. Their efficient metabolisms allow them to function on almost no food, and their powerful tails give them a mighty spring in their step.
+
+    <orange>［天赋］</orange>
+    <green>+20%</green> Energy and Jump, <green>-50%</green> Hunger Rate
+    Resists: <green>+10%</green> Physical, <green>+20%</green> Fire, <green>+30%</green> Poison and Shadow resists
+    Immune: Jungle, Black Tar
+
+    <orange>［武器］</orange>
+    When high in energy, gain increased Crit Chance with Bows
+    Bow:<green>+25%</green> Damage and <green>+20%</green> Speed
+    Chakram: <green>+10%</green> Damage, <green>+10%</green> Health and <green>+12%</green> Knockback Resist
+
+    <red>［弱点］</red>
+    <red>-20%</red> Health
+    <red>-40%</red> Ice,<red>-20%</red> Cosmic Resist
   rawValue: |-
     Swift and dangerous snake-people. Their efficient metabolisms allow them to function on almost no food, and their powerful tails give them a mighty spring in their step.
 
@@ -19,3 +35,4 @@
     ^red;-20%^reset; Health
     ^red;-40%^reset; Ice,^red;-20%^reset; Cosmic Resist
   translationAnnotation: NotTranslated
+  translationNote: 原作者遗漏了食性描述。

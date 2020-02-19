@@ -5,6 +5,6 @@
 - op: replace
   path: /description
   value: |-
-    按住[Down]以沟通你的刀刃（8s）。
-    激活：^green;[F]^reset;
+    按住<green>[下]</green>键以沟通你的刀刃（8s）。
+    激活：<green>[F]</green>
   rawValue: Hold [Down] to commune with your blade(8s). Activate with ^green;[F]^reset;

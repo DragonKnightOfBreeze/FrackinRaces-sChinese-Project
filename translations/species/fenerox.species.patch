@@ -21,9 +21,8 @@
     <green>Add your current speed/4 as bonus melee damage.</green>
 
     <red>［弱点］</red>
-    <red>-10%</red> Health,
-    <red>-20%</red> Fire and Shadow Resist
-    <red>-25%</red> Max Food
+    生命值上限<red>-10%</red>，饱食度上限<red>-25%</red>
+    抗性：火炎抗性<red>-20%</red>，暗影抗性<red>-20%</red>
   rawValue: |-
     Fenerox are new to the established galactic order. Their tech is generally rather low, and only a few have moved beyond their hunter-gatherer lifestyle. Their skill in hunting is remarkable.
 

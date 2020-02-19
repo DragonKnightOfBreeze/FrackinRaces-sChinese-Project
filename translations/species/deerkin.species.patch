@@ -20,7 +20,7 @@
     Grenade Launcher: <green>+15%</green> Dmg, <green>+18%</green> Protection
 
     <red>［弱点］</red>
-    <red>20%</red> Fire, Radiation
+    抗性：火炎抗性<red>-20%</red>，放射抗性<red>-20%</red>
   rawValue: |-
     Bipedal deer-like people from the Valos Nebula. They are noted for their adorable appearance, which makes them well liked by many. Agrarian, they prefer forests and fields.
 

@@ -1,5 +1,29 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Each member of this species is a small piece of universe-devouring Ruin.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    +<green>50</green>% Max Food
+    +<green>25%</green>% Energy
+    Resist: <green>20%</green> Shadow, <green>20%</green> Cosmic
+    Immune: Darkness, Breath
+
+    <orange>［环境］</orange>
+    Heal in <green>Poison</green>, but take damage from <green>Healing Water</green>
+    Gain additional protection in <green>Alien, Atropus, Tentacle, Bloodstone, Heck</green> biomes
+
+    <orange>［武器］</orange>
+    Bioweapons: <green>+15%</green> Damage
+    Mining Lasers: <green>+50%</green> Dmg
+    Axe: <green>+2%</green> Crit Chance
+
+    <red>［弱点］</red>
+    <red>-10%</red> Protection
+    <red>-25%</red> Health
+    Weak: <red>20%</red> Radiation, <red>20%</red> Ice
   rawValue: |-
     Each member of this species is a small piece of universe-devouring Ruin.
 

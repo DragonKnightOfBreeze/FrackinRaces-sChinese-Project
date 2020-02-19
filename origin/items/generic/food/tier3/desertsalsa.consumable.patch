@@ -2,6 +2,6 @@
   path: /description
   value: |-
     沙漠水果制成的爽口的辣调味汁。
-    ^yellow;类型：机械食物，植物^reset;
+    <yellow>类型：机械食物，植物</yellow>
   rawValue: 'A refreshing salsa made from desert fruits. The taste is amazing. ^yellow;Type:
     Robot, Plant^reset;'

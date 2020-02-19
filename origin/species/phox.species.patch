@@ -1,5 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    一种机灵的殖民狐狸种族。
+
+    食性：杂食性，包括生肉
+
+    <orange>［天赋］</orange>
+    <green>+15%</green> speed and jump
+    <green>10%</green> fall damage reduction
+    <green>Resist: 20%</green> Cold, Fire and Electric
+    Immune: L1 Cold, L1 Heat, Slush, Snow, Jungle tiles, Sandstorms.
+
+    <orange>［环境］</orange>
+    <green>15%</green> Protection on forest, jungle and plains type biomes.
+    <red>-15%</red> Health and Damage on Alien/Fungus/Proto/Penumbra/Toxic/Radioactive worlds
+
+    <orange>［武器］</orange>
+    Shortsword,Shortspear,Spear,Rapier: <green>+10%</green> Damage
+    Sniper Rifle: <green>+2%</green> Crit Chance
+
+    <red>［弱点］</red>
+    <red>-40%</red> Poison, <red>-20%</red> Shadow , Radiation and Cosmic
+    <red>-50%</red> Knockback Resist
   rawValue: |-
     A race of clever colonial foxes.
 

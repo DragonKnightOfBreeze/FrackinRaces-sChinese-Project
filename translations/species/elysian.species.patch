@@ -22,8 +22,8 @@
     Melee: <green>+10%</green> damage, <green>+20%</green> speed;
 
     <red>［弱点］</red>
-    <red>-10</red> Defense
-    <red>-15%</red> Ice and Radiation
+    防御力<red>-10</red>
+    抗性：寒气抗性<red>-15%</red>，放射抗性<red>-15%</red>
   rawValue: |-
     Masses of energy created by a near extinct group of races known as the Aurorans, these feline/vulpine hybrids are ^orange;usually^reset; a rather laid back people.
 

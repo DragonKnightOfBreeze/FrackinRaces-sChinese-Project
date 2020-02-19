@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一个多汁的汉堡包。
-    ^orange;类型：熟肉食 + 素食^reset;
+    <orange>类型：熟肉食 + 素食</orange>
   rawValue: 'A juicy hamburger. ^orange;Type: Cooked Meat + Vegetables^reset;'

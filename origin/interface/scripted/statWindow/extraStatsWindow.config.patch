@@ -4,11 +4,11 @@
   rawValue: Advanced stats
 - op: replace
   path: /tooltipBoxes/0/tooltip
-  value: 生命上限
+  value: 生命值上限
   rawValue: Maximum Health
 - op: replace
   path: /tooltipBoxes/1/tooltip
-  value: 能量上限
+  value: 能量值上限
   rawValue: Maximum Energy
 - op: replace
   path: /tooltipBoxes/2/tooltip

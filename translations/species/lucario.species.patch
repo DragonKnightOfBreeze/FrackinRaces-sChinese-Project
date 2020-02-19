@@ -9,10 +9,6 @@
     <green>+10%</green> Energy, <green>+5%</green> Damage, <green>+8%</green> Speed and Energy regen
     <green>+20%</green> Ice Resist, <green>+25%</green> Shadow Resist, Poison Immunity
     Aura Berserk (the more damage you take, the more dangerous you become, up to <green>+15%</green> damage and <red>-10%</red> protection)
-    <red>Weaknesses</red>:
-    <red>-5%</red> Health and Protection
-    <red>+6%</red> Hunger Rate
-    <red>-30%</red> Radioactivity, Electricity and Fire
 
     <orange>［环境］</orange>
     Hot Biomes: <red>-20% Protection</red>
@@ -24,6 +20,11 @@
     Wands / Staves: <green>5%</green> Damage and Energy
     Fists: <green>+10%</green> Damage
     Playstyle: <yellow>Fighting</yellow>
+
+    <red>［弱点］</red>
+    生命值上限<red>-5%</red>，防御力<red>-5%</red>
+    饥饿速度<red>+6%</red>
+    抗性：放射抗性<red>-30%</red>，电系抗性<red>-30%</red>，火炎抗性<red>-30%</red>
   rawValue: |-
     Despite their fluffy appearance, this species is incredibly adaptive. They are no strangers to fighting and have their own unique power named Aura. In past they were guardians of their home world, and merged perfectly with the Protectorate.
 

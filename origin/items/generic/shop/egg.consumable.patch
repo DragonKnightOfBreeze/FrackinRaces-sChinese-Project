@@ -2,5 +2,5 @@
   path: /description
   value: |-
     这是一个鸡蛋！
-    ^orange;类型：熟肉食^reset;
+    <orange>类型：熟肉食</orange>
   rawValue: 'It''s an egg! ^orange;Type: Omnivore^reset;'

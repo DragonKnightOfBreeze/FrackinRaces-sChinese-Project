@@ -1,5 +1,23 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Bizarre pseudo-dead constructs
+
+    食性：什么都吃，但是几乎不需要进食
+
+    <orange>［天赋］</orange>
+    <green>+20%</green> Health
+    <green>+20%</green> Physical Resist, <green>+50%</green> Poison Resist <green>+15%</green> Shadow Resist
+    Immune: Electrified, Cold, Radiation, Poison
+
+    <orange>［环境］</orange>
+    <green>+20%</green> on Atropus biomes
+    <green>+25%</green> Health and Energy, <green>+1.5%</green> Health Regenerate in Blood, Milk, Alien Juice and Dark Water
+    <red>-15%</red> Health, Energy, And Protection, take <red>-4.5%</red> damage per second in Healing Water
+
+    <red>［弱点］</red>
+    <red>-20%</red> Energy
+    <red>-100%</red> Fire resist
   rawValue: |-
     Bizarre pseudo-dead constructs
 

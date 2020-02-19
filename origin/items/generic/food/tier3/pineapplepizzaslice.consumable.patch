@@ -2,5 +2,5 @@
   path: /description
   value: |-
     好多配料！
-    ^green;类型：水果^reset;
+    <green>类型：水果</green>
   rawValue: 'More toppings! ^green;Type: Meat, Fruit^reset;'

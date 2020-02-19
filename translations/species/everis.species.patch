@@ -12,7 +12,7 @@
     Immune: Ice, Slush, and Snow tiles, L1 Cold.
 
     <orange>［环境］</orange>
-    In <green>Space and Cold</green> biomes, gain <green>5%</green> additional Speed and Jump, +<green>10</green> Protection and +<green>25%</green> Energy Regen
+    In <green>Space and Cold</green> biomes, gain <green>5%</green> additional Speed and Jump, <green>+10</green> Protection and <green>+25%</green> Energy Regen
 
     <orange>［武器］</orange>
     Assault/Sniper Rifle: <green>+10%</green> Dmg
@@ -20,8 +20,8 @@
     Shield: <green>+15</green> Protection and minor <green>Health Regen</green>
 
     <red>［弱点］</red>
-    <red>-15%</red> Health
-    Weak: <red>-40%</red> Fire, <red>-10%</red> Poison
+    生命值上限<red>-15%</red>
+    抗性：火炎抗性<red>-40%</red>，毒素抗性<red>-10%</red>
   rawValue: |-
     Everis are a race of dog-like humanoids with impressive advancements in technology and an optimistic, borderline childish outlook on life.
 

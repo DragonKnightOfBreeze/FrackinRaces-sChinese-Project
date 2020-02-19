@@ -2,5 +2,5 @@
   path: /description
   value: |-
     眼球菜塞入半个射蛋之中，是一种在叶族人的聚会中受欢迎的点心。
-    ^red;类型：生肉食^reset;
+    <red>类型：生肉食</red>
   rawValue: 'Oculemon stuffed inside half an eggshoot. ^red;Type: Raw Meat^reset;'

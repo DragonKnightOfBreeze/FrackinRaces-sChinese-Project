@@ -17,8 +17,8 @@
     Staff:<green>+15%</green> Damage and Protection.
 
     <red>［弱点］</red>
-    <red>-20%</red> Health
-    <red>-50%</red> Electric Resist, <red>-20%</red> Physical Resist
+    生命值上限<red>-20%</red>
+    抗性：电系抗性<red>-50%</red>，物理抗性<red>-20%</red>
   rawValue: |-
     Strange near-magical constructs given sentience.
 

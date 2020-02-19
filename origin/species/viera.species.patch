@@ -1,5 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Cosmic-attuned bunny-folk from a distant world of fantasy. Skilled fencers, archers, and spellcasters.
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>+20%</green> Energy, <green>+12%</green> Speed
+    <green>+30%</green> Cosmic Resist
+    Immune: Slime
+
+    <orange>［环境］</orange>
+    <green>+10%</green> Health, <green>+15%</green> Energy, <green>+19%</green> Speed In Rainforest, Forest and Primeval biomes
+
+    <orange>［武器］</orange>
+    Wands and Staves: <green>+15%</green> Damage and Energy
+    Bows: <green>+15%</green> Damage and Energy
+    Rapier(one): <green>+10%</green> Damage, <green>+1 Protection (Rapier <green>+ Dagger) <green>+2%</green> Crit and <green>+10%</green> Physical Resistance
+    Rapier, Shortsword and Dagger: <green>+15%</green> Physical Resist, <green>+12%</green> Damage, has a <green>5%</green> chance to shoot mystic blasts during combos.
+
+    <red>［弱点］</red>
+    <red>-30%</red> Shadow resist,
+    <red>-20%</red> Max Food, Health
   rawValue: |-
     Cosmic-attuned bunny-folk from a distant world of fantasy. Skilled fencers, archers, and spellcasters.
 

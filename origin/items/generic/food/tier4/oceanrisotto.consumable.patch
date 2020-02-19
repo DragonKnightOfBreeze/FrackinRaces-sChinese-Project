@@ -2,5 +2,5 @@
   path: /description
   value: |-
     一份咸香的米饭。
-    ^orange;类型：鱼，植物^reset;
+    <orange>类型：鱼，植物</orange>
   rawValue: 'A salty and aromatic rice dish. ^orange;Type: Fish, Plant^reset;'

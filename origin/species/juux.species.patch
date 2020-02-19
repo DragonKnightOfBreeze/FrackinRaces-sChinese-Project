@@ -1,5 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    An unusual psionic species of extremophiles. Can generate a powerful psionic vibration through sheer willpower.
+
+    食性：什么都吃，包括处理后的同位素
+
+    <orange>［天赋］</orange>
+    Resist: <green>30%</green> Electric, <green>15%</green> Ice , <green>20%</green> Mental Protection
+    Immune: Slipping, Electrified
+    Tech: <green>Psionic Wave</green>
+
+    <orange>［环境］</orange>
+    On <green>electrically charged or crystal</green> biomes, gain <green>10% speed</green>
+    On <green>cold</green> biomes, gain <green>10% Protection</green>
+
+    <orange>［武器］</orange>
+    Psionic Ejector:  +<green>20%</green> damage
+    Quarterstaff: +<green>10%</green> Dmg, +<green>15%</green> Protection
+    Magnorbs: <green>+15%</green> Dmg, +<green>10%</green> Protection
+
+    <red>［弱点］</red>
+    <red>23%</red> Cosmic and Shadow
+    <red>-10%</red> Charisma
   rawValue: |-
     An unusual psionic species of extremophiles. Can generate a powerful psionic vibration through sheer willpower.
 

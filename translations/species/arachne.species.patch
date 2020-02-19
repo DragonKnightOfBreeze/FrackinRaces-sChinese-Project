@@ -6,16 +6,16 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    生命上限+<green>25%</green>，移动速度+<green>15%</green>
-    抗性：<green>40%</green>毒素坑性，<green>20%</green>暗影抗性
-    免疫：狂乱&蜘蛛网
+    生命值上限<green>+25%</green>，移动速度<green>+15%</green>
+    抗性：毒素坑性<green>+40%</green>，暗影抗性<green>+20%</green>
+    免疫：狂乱，蜘蛛网
 
     <orange>［环境］</orange>
-    <green>黑暗</green>生态：增加生命上限&能量上限
+    <green>黑暗</green>生态：增加生命值上限&能量值上限
 
     <orange>［武器］</orange>
-    矛：伤害+<green>10%</green>
-    双手刀刃武器：防御+<green>15%</green>
+    矛：伤害<green>+10%</green>
+    双手刀刃武器：防御<green>+15%</green>
 
     <red>［弱点］</red>：
     抗性：火炎抗性<red>-20%</red>，射线抗性<red>-20%</red>

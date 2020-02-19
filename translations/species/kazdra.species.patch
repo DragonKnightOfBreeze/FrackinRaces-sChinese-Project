@@ -6,7 +6,7 @@
     食性：荤食性
 
     <orange>天赋^reset：:
-    +<green>30%</green> Health, +<green>40%</green> Hunger Reduction
+    <green>+30%</green> Health, <green>+40%</green> Hunger Reduction
     Resist: <green>50%</green> Fire, <green>15%</green> Physical
     Immunity: Burning
     Tech: <green>Fire Breath </green>
@@ -16,11 +16,12 @@
     <green>Volcanic, Magma, Mountainous and Desert</green> biomes increase your protection and health.
 
     <orange>［武器］</orange>
-    Broadsword/Drill: +<green>20%</green> damage
+    Broadsword/Drill: <green>+20%</green> damage
     Broadsword:  Combos increase Physical Resistance per swing
 
     <red>［弱点］</red>
-    Weak: <red>50%</red> Ice, <red>20%</red> Energy
+    能量值上限<red>-20%</red>
+    抗性：寒气抗性<red>-50%</red>
   rawValue: |-
     Space Dragons!
 

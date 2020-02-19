@@ -8,13 +8,12 @@
 
     <orange>［天赋］</orange>
     <green>+40%</green> Max Food, <green>+6% Speed</green>, <green>+11% Jump</green>
-    <green>+40%</green> Poison, <green>+10%</green> Cosmic and <green>+10%</green> Radioactive Resist
     <green>+1100</green> oxygen, Swim Boost.
-    Immunity: Poison
+    抗性：毒素抗性<green>+40%</green>，射线抗性<green>+10%</green>，放射抗性<green>+10%</green>
+    免疫：中毒
 
     <orange>［环境］</orange>
     Gain <green>+25%</green> Health, <green>+15%</green> Speed on Bog, Swamp, and Strange Sea biomes.
-
 
     <orange>［武器］</orange>
     Spears: <green>+10%</green>  Damage, <green>+10%</green>  Protection
@@ -22,7 +21,7 @@
     Crossbows/Harpoons: <green>+15% Damage</green>, <green>+5%</green> Crit Damage
 
     <red>［弱点］</red>：
-    生命上限<red>-12%</red>，能量上限<red>-5%</red>
+    生命值上限<red>-12%</red>，能量值上限<red>-5%</red>
     抗性：寒气抗性<red>-40%</red>，电系抗性<red>-20%</red>
   rawValue: |-
     Sturdy reptilian people. They are resilient and agile, with the ability to thrive both on land and underwater. Amphibious life has increased their natural energy stores, but they are less hardy than land-based reptiles.

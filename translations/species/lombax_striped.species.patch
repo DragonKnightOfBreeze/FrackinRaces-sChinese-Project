@@ -19,8 +19,8 @@
     Pistols, Shotgun, Broadshord, Shortsword: <green>+30%</green> Energy Regen
 
     <red>［弱点］</red>
-    <red>-25%</red> HP
-    <red>-30%</red> Poison, Ice Resist
+    生命值上限<red>-25%</red>
+    抗性：毒素抗性<red>-30%</red>，寒气抗性<red>-30%</red>
   rawValue: |-
     A particularly elusive species, the Lombaxes are reknowned for their knack for inventions and gadgetry. Not much is known of them, but what is known is that they come in all shapes, stripes and colors.
 

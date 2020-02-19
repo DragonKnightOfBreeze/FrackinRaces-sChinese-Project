@@ -1,5 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    A winged, moth-like race from far across the stars. Diurnal. Lovers of 'arcane' technology.
+
+    食性：素食性
+
+    <orange>［天赋］</orange>
+    +<green>10%</green> Energy
+    +<green>15%</green> Jump Boost
+    Resist: <green>15%</green> Shadow and Cosmic
+    Tech: <green>Saturnian Flight</green>
+
+    <orange>［环境］</orange>
+    On <green>Lush, Forest, Primeval and Rainforest</green> biomes you gain +<green>25%<resset> energy.
+
+    <orange>［武器］</orange>
+    Wand/Staff: +<green>20%</green> protection
+    Staff: <green>+15%</green> Damage, <green>+20%</green> Energy
+    Wand: <green>+10%</green> Damage, <green>+5%</green> Energy
+
+    <red>［弱点］</red>
+    <red>-25%</red> Health,
+    Weak: <red>35%</red> Fire, <red>20%</red> Poison, <red>15%</red> Physical
   rawValue: |-
     A winged, moth-like race from far across the stars. Diurnal. Lovers of 'arcane' technology.
 

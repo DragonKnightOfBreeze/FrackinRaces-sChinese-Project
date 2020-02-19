@@ -23,11 +23,11 @@
     <green>+10%</green> airborne damage
     Energy: <green>+12%</green> Dmg
     Grenade Launcher: <green>+20%</green> Crit Dmg
-    Sniper: +<green>2%</green> Crit Chance and +<green>10%</green> Crit Damage
+    Sniper: <green>+2%</green> Crit Chance and <green>+10%</green> Crit Damage
 
     <red>［弱点］</red>
-    <red>-50%</red> Shadow, <red>-10%</red> Physical, <red>-15%</red> Electrical resists.
-    <red>-5%</red> Health
+    生命值上限<red>-5%</red>
+    抗性：暗影抗性<red>-50%</red>，物理抗性<red>-10%</red>，电系抗性<red>-15%</red>
   rawValue: |-
     Adorable hybrid glowing space raptors with wings. Though they have a disputed, potentially nonexistant origin, they share traits with both Novakids and Avalis, and they are deadly with heavy weapons.
 

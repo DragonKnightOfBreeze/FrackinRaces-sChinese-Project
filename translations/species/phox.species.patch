@@ -20,8 +20,8 @@
     Sniper Rifle: <green>+2%</green> Crit Chance
 
     <red>［弱点］</red>
-    <red>-40%</red> Poison, <red>-20%</red> Shadow , Radiation and Cosmic
-    <red>-50%</red> Knockback Resist
+    击退抵抗力<red>-50%</red>
+    抗性：毒素抗性<red>-40%</red>，暗影抗性<red>-20%</red>，放射抗性<red>-20%</red>，射线抗性<red>-20%</red>
   rawValue: |-
     A race of clever colonial foxes.
 

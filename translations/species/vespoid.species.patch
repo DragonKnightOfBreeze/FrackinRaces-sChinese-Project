@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Insectoid bee-people.
+    类昆虫的蜜蜂种族。
 
     食性：素食性，更喜欢含糖食物
 
@@ -17,7 +17,7 @@
     Sniper Rifles / Machine Pistols: <green>+15%</green> Damage
 
     <red>［弱点］</red>
-    <red>-50%</red> Fire resist, <red>-30%</red> Ice resist
+    抗性：火炎抗性<red>-50%</red>，寒气抗性<red>-30%</red>
   rawValue: |-
     Insectoid bee-people.
 

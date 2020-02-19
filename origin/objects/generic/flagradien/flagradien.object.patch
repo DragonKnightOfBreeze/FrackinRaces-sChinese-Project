@@ -4,6 +4,6 @@
   rawValue: X'ian Flag
 - op: replace
   path: /description
-  value: 一面用于识别锡安殖民地的旗帜。使用^green;[E]^white;标记一个传送位置。
+  value: 一面用于识别锡安殖民地的旗帜。使用<green>[E]</green>键<white>标记一个传送位置。</white>
   rawValue: A flag used to identify X'ian settlements. Use ^green;[E]^white; to bookmark
     a teleportation location.
