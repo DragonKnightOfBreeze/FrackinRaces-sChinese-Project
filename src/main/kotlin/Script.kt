@@ -19,10 +19,8 @@ private const val packagePath = "package"
 private const val projectPath = "D:\\My Documents\\My Projects\\Managed\\FrackinRaces-sChinese-Project"
 private const val starBoundPath = "D:\\Programs\\Steam\\steamapps\\common\\Starbound"
 private const val frProjectPath = "https://github.com/sayterdarkwynd/FrackinRaces.git"
-
 private const val pakPath = "release\\FrChinese.pak"
 private const val assetPackerPath = "win32\\asset_packer.exe"
-
 
 private val notDeleteFileExtensions = arrayOf(
 	"activeitem", "activeitem.patch",
@@ -40,7 +38,6 @@ private val notDeleteFileExtensions = arrayOf(
 	"statWindow.config", "statWindow.config.patch",
 	"extraStatsWindow.config", "extraStatsWindow.config.patch"
 )
-
 private val selectRules = arrayOf(
 	"*.{activeitem, consumable, item, beamaxe, object}" to arrayOf(
 		"/shortdescription",
@@ -83,7 +80,6 @@ private val selectRules = arrayOf(
 		"/defaultTooltip"
 	)
 )
-
 private val notConvertFileExtensions = arrayOf(
 	"_previewimage",
 	"LICENSE"
@@ -105,7 +101,9 @@ fun main() {
 			m: 根据过滤规则，将translations目录下的文件合并到origin目录下
 			e: 将translations目录下的翻译文件提取到package目录下
 			g: 打包package目录下的所有文件为release/FrChinese.pak
-			d {path}: 删除指定目录内的空目录
+			D: 删除指定目录内的空目录
+			C: 将翻译后文本改为XML文本。
+
 			exit: 退出
 			************
 		""".trimIndent())
@@ -116,8 +114,8 @@ fun main() {
 			"m" -> mergeFiles()
 			"e" -> extractFiles()
 			"g" -> generatePak()
-			"d $originPath" -> deleteEmptyDirectories(originPath)
-			"d $translationsPath" -> deleteEmptyDirectories(translationsPath)
+			"D" -> deleteEmptyDirectories()
+			"C"->convertOriginFormatToXmlFormat()
 			"exit" -> exitProcess(0)
 			else -> println("指令错误。")
 		}
@@ -155,7 +153,7 @@ private fun fetchOrigin() {
 private fun deleteFiles() {
 	//删除非必要的文件
 	originPath.toFile().walk()
-		.filterNot { file -> !file.isFile || file.name endsWithIgnoreCase notDeleteFileExtensions }
+		.filter { file -> file.isFile && !file.name.endsWithIgnoreCase(notDeleteFileExtensions) }
 		.forEach { file ->
 			file.delete()
 			println("已删除文件：${file.path}")
@@ -196,7 +194,7 @@ private fun selectFiles() {
 					(if(isNested) (data as List<List<*>>).flatten() else data).deepQueryAndFilterByPath(path)
 				}
 				//认为不可能发生
-				else -> throw IllegalArgumentException()
+				else -> throw IllegalStateException()
 			}.filterNot { (it["rawValue"] as String?).isNullOrBlank() } //有必要考虑空字符串，因为有些种族mod作者脑子有坑
 			//如果没有选择到任何数据，则删除该文件
 			if(selectedData.isEmpty()) {
@@ -221,7 +219,7 @@ private fun selectFiles() {
 		.filter { file -> file.isFile }
 		.forEach { file ->
 			//如果不是patch文件，则重命名为patch文件
-			if(!file.name.endsWith("patch")) {
+			if(!file.name.endsWith(".patch")) {
 				println("已重命名文件：${file.path}")
 				file.renameTo(("${file.path}.patch").toFile())
 			}
@@ -254,7 +252,7 @@ private fun mergeFiles() {
 						"op" to "replace",
 						"path" to a["path"],
 						"value" to b["value"],
-						"rawValue" to a["rawValue"].handleSingleQuote(),
+						"rawValue" to a["rawValue"]?.handleSingleQuote(),
 						"translationAnnotation" to when {
 							//如果b中没有value属性，则表明未翻译
 							b["value"] == null -> "NotTranslated"
@@ -285,28 +283,28 @@ private fun extractFiles() {
 	//将yaml文件转化为json文件
 	//相信package目录下除了notToConvertFileNames之外，全部需要转换为json文件
 	packagePath.toFile().walk()
-		.filterNot { file -> !file.isFile || file.name endsWithIgnoreCase notConvertFileExtensions }
+		.filter { file -> file.isFile && !file.name.endsWithIgnoreCase(notConvertFileExtensions) }
 		.forEach { file ->
 			//转化yaml文件为json文件
 			val data = YamlSerializer.instance.load<Any>(file)
-			//去除不必要的附加信息
 			val simplifiedData = when(data) {
+				//去除不必要的附加信息
 				is List<*> -> {
-					(data as List<Map<String, *>>).map {
+					(data as List<Map<String, Any?>>).map {
 						linkedMapOf(
 							"op" to it["op"],
 							"path" to it["path"],
-							//如果原文已更改或者找不到翻译后文本，则采用rawValue
+							//如果找不到翻译后文本或者原文已更改，则采用rawValue
 							"value" to when(it["translationAnnotation"]) {
-								"Changed" -> it["rawValue"].handleSingleQuote()
-								else -> it["value"] ?: it["rawValue"].handleSingleQuote()
+								null -> it["rawValue"]?.handleSingleQuote()
+								"Changed" -> it["rawValue"]?.handleSingleQuote()
+								else -> it["value"]?.toOriginText()
 							}
 						)
 					}
 				}
-				else -> {
-					data as List<Map<String, Any?>>
-				}
+				//认为不可能发生
+				else -> throw IllegalStateException()
 			}
 			JsonSerializer.instance.dump(simplifiedData, file)
 			println("已转化文件：${file.path}")
@@ -321,16 +319,28 @@ private fun generatePak() {
 	println("已生成pak包。")
 }
 
-/**删除指定目录内的空目录。*/
-private fun deleteEmptyDirectories(path: String) {
-	path.toFile().walkBottomUp()
+
+/**删除translations目录内的空目录。*/
+private fun deleteEmptyDirectories() {
+	translationsPath.toFile().walkBottomUp()
 		.filter { dir -> dir.isDirectory }
 		.forEach { dir ->
 			dir.delete()
 		}
-	println("已删除所有空文件夹在 $path 目录。")
+	println("已删除所有空文件夹在 $translationsPath 目录。")
 }
 
+/**将translations目录下的.patch文件的value值的颜色标记语法改为xml标签。*/
+private fun convertOriginFormatToXmlFormat(){
+	translationsPath.toFile().walk()
+		.filter { file->file.isFile &&file.name.endsWith(".patch")}
+		.forEach {  file->
+			val data = YamlSerializer.instance.load<List<MutableMap<String, Any?>>>(file)
+			data.forEach { it["value"] = it["value"]?.toXmlText() }
+			YamlSerializer.instance.dump(data,file)
+		}
+	println("已将翻译后文本更改为xml文本在 $translationsPath 目录。")
+}
 
 /**对于非patch文件，根据路径查询翻译文本组。*/
 private fun Map<*, *>.deepQueryByPath(path: String): List<Map<String, Any?>> {
@@ -338,7 +348,7 @@ private fun Map<*, *>.deepQueryByPath(path: String): List<Map<String, Any?>> {
 		linkedMapOf(
 			"op" to "replace",
 			"path" to k,
-			"rawValue" to v.handleSingleQuote(),
+			"rawValue" to v?.handleSingleQuote(),
 			"translationAnnotation" to "NotTranslated"
 		)
 	}
@@ -357,7 +367,7 @@ private fun List<*>.deepQueryAndFilterByPath(path: String): List<Map<String, Any
 				listOf(linkedMapOf(
 					"op" to "replace",
 					"path" to it["path"],
-					"rawValue" to it["value"].handleSingleQuote(),
+					"rawValue" to it["value"]?.handleSingleQuote(),
 					"translationAnnotation" to "NotTranslated"
 				))
 			}
@@ -367,7 +377,7 @@ private fun List<*>.deepQueryAndFilterByPath(path: String): List<Map<String, Any
 					linkedMapOf(
 						"op" to "replace",
 						"path" to "$pathValue/$k",
-						"rawValue" to v.handleSingleQuote(),
+						"rawValue" to v?.handleSingleQuote(),
 						"translationAnnotation" to "NotTranslated"
 					)
 				}
@@ -378,7 +388,7 @@ private fun List<*>.deepQueryAndFilterByPath(path: String): List<Map<String, Any
 					linkedMapOf(
 						"op" to "replace",
 						"path" to "$pathValue/$k",
-						"rawValue" to v.handleSingleQuote(),
+						"rawValue" to v?.handleSingleQuote(),
 						"translationAnnotation" to "NotTranslated"
 					)
 				}
@@ -389,7 +399,15 @@ private fun List<*>.deepQueryAndFilterByPath(path: String): List<Map<String, Any
 }
 
 /**处理单引号。*/
-private fun Any?.handleSingleQuote(): String? {
-	if(this == null) return null
+private fun Any.handleSingleQuote(): String {
 	return this.toString().replace("''", "'").replace("''", "'")
+}
+
+private fun Any.toXmlText():String{
+	return this.toString().replace("\\^(.*?);(.*?)\\^reset;".toRegex(),"<$1>$2</$1>").replace("\\^(.*?);","<$1>")
+}
+
+/**将颜色标签改为原始的颜色标记语法。*/
+private fun Any.toOriginText():String{
+	return this.toString().replace("</.*?>".toRegex(),"^reset;").replace("<(.*?)>".toRegex(),"^$1;")
 }
