@@ -22,7 +22,7 @@
     盾牌反伤时<green>回复生命</green>
 
     <red>［弱点］</red>
-    感电状态：攻击力&能量上限-<red>50%</red>
+    感电状态：攻击力&能量上限<red>-50%</red>
     抗性：<red>-30%</red>电系&射线抗性
   rawValue: |-
     Their creation is lost to history. This suits them just fine, as they prefer a primitive state of being. Their medieval culture favors training with shields, maces and crossbows.

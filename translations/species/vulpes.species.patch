@@ -12,7 +12,7 @@
     Immune: Jungle
 
     <orange>［武器］</orange>
-    Dagger, Shortsword, Broadsword: ^green;+2^reset Protection
+    Dagger, Shortsword, Broadsword: <green>+2^reset Protection
     Whip: <green>+12%</green> Damage
 
     <red>［弱点］</red>

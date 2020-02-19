@@ -21,8 +21,8 @@
     Shotgun: +<green>15%</green> Damage, +<green>25%</green> Energy
 
     <red>［弱点］</red>
-    -<red>20%</red> Energy, -<red>25%</red> Charisma
-    Weak: <red>-50%</red> Poison, -<red>20%</red> Ice
+    <red>-20%</red> Energy, <red>-25%</red> Charisma
+    Weak: <red>-50%</red> Poison, <red>-20%</red> Ice
   rawValue: |-
     The Mantids are a largely nomadic species with no homeworld of their own. What few traditions their kind have are devoted to the art of war, and most Mantid take great pride in personally eviscerating their enemies.
 

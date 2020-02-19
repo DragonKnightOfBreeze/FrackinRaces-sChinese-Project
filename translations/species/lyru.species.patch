@@ -7,7 +7,7 @@
 
     <orange>［天赋］</orange>
     +<green>15%</green> Jump, +<green>5%</green> Speed
-    Resist: <green>20%</green> Fire, <green>10%</green> Poison, <green>10%</green> Shadow, -<green>50%</green> Fall Dmg
+    Resist: <green>20%</green> Fire, <green>10%</green> Poison, <green>10%</green> Shadow, <green>-50%</green> Fall Dmg
     <green>Medium visibility in darkness</green>
     Immune: Erchius
 
@@ -21,7 +21,7 @@
     Shield: Perfect Blocks <green>increase defense</green>(stacks)
 
     <red>［弱点］</red>
-    Weak: -<red>30%</red>Electric
+    Weak: <red>-30%</red>Electric
     <red>Sunlight and irradiated planets</red> reduce <red>Energy, Health</red> and decreases <red>Radiation Resistance</red>.
   rawValue: |-
     A mysterious race of cave dwellers known for their underground cities and love for treasure. Adapted to the deep underground, they can jump high and take less fall damage. Due to their impressive eyesight, they have higher precision with weapons.

@@ -12,7 +12,7 @@
     Tech: <green>Saturnian Flight</green>
 
     <orange>［环境］</orange>
-    On <green>Lush, Forest, Primeval and Rainforest</green> biomes you gain +^green;25%^resset; health.
+    On <green>Lush, Forest, Primeval and Rainforest</green> biomes you gain +<green>25%<resset> health.
 
     <orange>［武器］</orange>
     Wand/Staff: +<green>20%</green> protection
@@ -20,7 +20,7 @@
     Scythe:<green>+12% damage</green>
 
     <red>［弱点］</red>
-    -<red>25%</red> Energy,
+    <red>-25%</red> Energy,
     Weak: <red>35%</red> Fire, <red>20%</red> Poison, <red>15%</red> Physical
   rawValue: |-
     A winged, moth-like race from far across the stars. Nocturnal. Well suited to combat.

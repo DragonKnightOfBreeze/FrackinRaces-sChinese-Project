@@ -13,7 +13,7 @@
     Shield + Pistol: <green>+15% Protection</green>
     Pistol/Machine Pistol: <green>+10% Damage, +50% Knockback Resist, +0.25% Crit Chance</green>
 
-    ^red;弱点reset;：
+    <red>弱点reset;：
     <red>-10%</red> Energy and Smaller Stomach
     <red>-50%</red> Fire Resist
   rawValue: |-

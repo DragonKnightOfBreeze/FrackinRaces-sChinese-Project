@@ -6,5 +6,5 @@
   path: /description
   value: |-
     喷射火焰！
-    使用：<green>[F]</green>。
+    使用：<green>[F]</green>
   rawValue: Breathe Fire! Use ^green;[F]^reset;.

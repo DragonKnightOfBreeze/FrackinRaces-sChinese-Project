@@ -6,7 +6,7 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    生命上限+<green>20%</green>，坠落伤害-<green>40%</green>
+    生命上限+<green>20%</green>，坠落伤害<green>-40%</green>
     抗性：<green>15%</green>物理抗性，<green>20%</green>放射抗性，<green>30%</green>暗影抗性
     免疫：狂乱
     科技：<green>战士本能</green>
@@ -22,7 +22,7 @@
     盾牌：完美格挡时增加<green>盾牌反伤</green>几率
 
     <red>［弱点］</red>
-    能量上限-<red>20%</red>，魅力-<red>25%</red>
+    能量上限<red>-20%</red>，魅力<red>-25%</red>
     抗性：<red>-40%</red>毒素抗性，<red>-30%</red>寒气抗性
   rawValue: |-
     The carnivorous Thelusians are well known for their tough chitin shell and exceptionally dangerous combat abilities. Able to adapt to suit any combat situation.

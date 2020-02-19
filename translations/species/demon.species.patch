@@ -12,7 +12,7 @@
 
     <orange>［环境］</orange>
     <green>Hot</green> biomes grant +<green>10%</green> Damage, +<green>15%</green> Speed
-    <red>Cold</red> biomes cause -<red>15%</red> Health, -<red>10%</red> Energy
+    <red>Cold</red> biomes cause <red>-15%</red> Health, <red>-10%</red> Energy
 
     <orange>［武器］</orange>
     Shortswords or Daggers: <green>+10%</green> Crit Damage

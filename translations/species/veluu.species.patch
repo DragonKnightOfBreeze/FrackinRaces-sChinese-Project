@@ -6,7 +6,7 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    Very nimble. Gain <green>20%</green> Jump and <green>8%</green> Run Speed^reset;
+    Very nimble. Gain <green>20%</green> Jump and <green>8%</green> Run Speed<reset>
     <green>+20%</green> Cold Resist, <green>-50%</green> Fall Damage
     Night Vision
     Tech: <green>Veluu's Claws </green>
@@ -20,7 +20,7 @@
     Thrown Weapons/Grenades: <green>+25%</green> Dmg
     Magnorb: <green>+2%</green> Crit Chance
     Arm Cannon: <green>+15%</green> Protection,<green>+15%</green> Damage
-    Bow: -<green>0.1</green>s Draw Time
+    Bow: <green>-0.1</green>s Draw Time
 
     <red>［弱点］</red>
     Weak: <red>20%</red> Cosmic and Electric

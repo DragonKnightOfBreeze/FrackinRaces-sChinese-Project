@@ -5,7 +5,7 @@
 
     食性：荤食性
 
-    ^orange;天赋^reset：:
+    <orange>天赋^reset：:
     +<green>30%</green> Health, +<green>40%</green> Hunger Reduction
     Resist: <green>50%</green> Fire, <green>15%</green> Physical
     Immunity: Burning

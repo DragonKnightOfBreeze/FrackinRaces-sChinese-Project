@@ -5,6 +5,6 @@
 - op: replace
   path: /description
   value: |-
-    飞蛾飞行。畅游黑暗。
-    激活：<green>[F]</green>。
+    飞蛾飞行，畅游黑暗。
+    激活：<green>[F]</green>
   rawValue: Moth flight. Best in light.^green;[F]^reset;.

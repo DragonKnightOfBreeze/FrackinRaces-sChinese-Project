@@ -13,7 +13,7 @@
 
     <orange>［环境］</orange>
     炎热生态：生命上限<green>+15%</green>，速度<green>+15%</green>
-    寒冷生态：生命上限<red>-25%^reset，速度^red;-10%</red>
+    寒冷生态：生命上限<red>-25%<reset，速度^red>-10%</red>
 
     <orange>［武器］</orange>
     锤/锤矛：暴击几率<green>+2%</green>

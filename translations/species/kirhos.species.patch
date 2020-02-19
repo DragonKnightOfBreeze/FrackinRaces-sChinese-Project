@@ -16,8 +16,8 @@
     Scythe: +<green>15%</green> Protection
 
     <red>［弱点］</red>
-    -<red>10%</red> Health
-    Weak: -<red>20%</red> Fire, -<red>25%</red>Poison, -<red>20%</red> Cosmic
+    <red>-10%</red> Health
+    Weak: <red>-20%</red> Fire, <red>-25%</red>Poison, <red>-20%</red> Cosmic
   rawValue: |-
     Adorable, Omnivorous and nearly electric-proof space rodents. They prowl the stars seeking excitement, and are abnormally brave for rodents. Trustworthy and wise, they've earned a reputation as traders.
 

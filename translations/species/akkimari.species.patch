@@ -11,7 +11,7 @@
     磨损：很少需要进食 <green>缓慢回复生命</green>
 
     <orange>［环境］</orange>
-    在<green>葱郁，森林，沙漠和沼泽</green>生态中获得额外15%的生命值和防御
+    <green>葱郁，森林，沙漠和沼泽</green>生态：获得额外15%的生命值和防御
 
     <orange>［武器］</orange>
     宽剑：+<green>10%</green>伤害，+<green>10%</green>防御
@@ -19,7 +19,7 @@
     矛/短矛：+<green>2%</green>暴击几率，+<green>25%</green>击退抗性
 
     <red>［弱点］</red>
-    抗性：<red>-10%</red>暗影抗性，<red>-20%</red>放射抗性
+    抗性：暗影抗性<red>-10%</red>，放射抗性<red>-20%</red>
   rawValue: |-
     The Akkimari are a broken race, their society still recovering from the loss of the AI that ruled them. Now, many Akkimari roam the galaxy as scavengers and bounty hunters, searching for their AI and riches both.
 

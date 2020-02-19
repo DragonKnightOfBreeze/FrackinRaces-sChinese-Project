@@ -101,7 +101,7 @@
 * 能量回复速度&emsp;Energy Regen %
 * 能量回复时间&emsp;Energy Regen Time
 &emsp;
-* 攻击力倍率&emsp;Power Multiplier %&emsp;Attack, Power, Rage?&emsp;［默认：100%］
+* 攻击倍率&emsp;Power Multiplier %&emsp;Attack, Power, Rage?&emsp;［默认：100%］
 * 暴击伤害加成&emsp;Grit Damage Bonus +%&emsp;Crit Damage, Crit Dmg
 * 暴击几率&emsp;Grit Chance +%&emsp;Crit %, Crit Chance %, Critical Chance %
 &emsp;
@@ -126,7 +126,7 @@
 * 能量回复速度&emsp;Energy Regen %
 * 能量回复时间&emsp;Energy Regen Time
 &emsp;
-* 攻击力，攻击力倍率&emsp;Power Multiplier %&emsp;Attack, Power, Rage?&emsp;［默认：100%］
+* 攻击力，攻击倍率&emsp;Power Multiplier %&emsp;Attack, Power, Rage?&emsp;［默认：100%］
 * 防御力&emsp;Protection&emsp;Defense, DEF&emsp;［默认：0］
 &emsp;
 * 暴击伤害，暴击伤害加成&emsp;Grit Damage Bonus +%&emsp;Crit Damage, Crit Dmg

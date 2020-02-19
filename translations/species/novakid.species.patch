@@ -13,7 +13,7 @@
     <orange>［环境］</orange>
     <green>辐射</green>生态：生命上限&能量上限+<green>15%</green>
     满饱食度时，日间会<green>回复生命</green>。能量回复速度<green>+20%</green>
-    夜间回复会<red>消耗饱食度</red>，-<red>25%</red>能量
+    夜间回复会<red>消耗饱食度</red>，<red>-25%</red>能量
 
     <orange>［武器］</orange>
     手枪（单持）：伤害+<green>9%</green>
@@ -23,7 +23,7 @@
     鞭：伤害+<green>15%</green>，移动速度+<green>10%</green>
 
     <red>［弱点］</red>
-    生命上限-<red>10%</red>
+    生命上限<red>-10%</red>
     抗性：<red>-15%</red>物理抗性，<red>-20%</red>电系抗性，<red>-40%</red>暗影抗性
   rawValue: |-
     The Novakids are a mysterious race of 'interstellar gas-bag people'. They have few charted settlements and no documented history.

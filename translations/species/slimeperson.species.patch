@@ -21,8 +21,8 @@
     Bio/Slime: <green>+15% damage, +2 Crit Damage</green>
 
     <red>［弱点］</red>
-    ^red;-50% Ice Resistance, -25% Radiation Resistance
-    ^red;Extreme metabolism - always hungry
+    <red>-50% Ice Resistance, -25% Radiation Resistance
+    <red>Extreme metabolism - always hungry
   rawValue: |-
     Symbiotes birthed from the fallen. Sentient. An unusual and resilient people who struggle to come to grips with where they came from.
 

@@ -19,7 +19,7 @@
 
     <orange>［武器］</orange>
     Wand/Staff: <green>+15% damage</green>
-    Fists: <red>-5% damage</red>^reset;
+    Fists: <red>-5% damage</red><reset>
     Rapiers: <green>+5% damage</green>
   rawValue: |-
     An experiment by the Miniknog, these foxes have a great resistance to heat. However, unlike their feral bretheren, they cannot adapt to cold climates.

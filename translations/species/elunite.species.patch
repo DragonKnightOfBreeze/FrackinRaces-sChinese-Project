@@ -13,7 +13,7 @@
     免疫：<green>感电</green>
 
     <orange>［环境］</orange>
-    液体中：移动速度^red;-40%^reset
+    液体中：移动速度<red>-40%^reset
 
     <orange>［武器］</orange>
     回旋镖/环刃：伤害<green>+12.5%</green>

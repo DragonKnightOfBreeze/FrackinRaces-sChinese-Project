@@ -12,7 +12,7 @@
 
     <orange>［环境］</orange>
     <green>沙漠</green>生态：防御+<green>5%</green>，生命上限&生命回复速度+<green>15%</green>
-    <green>寒冷</green>生态：能量回复速度-<red>50%</red>
+    <green>寒冷</green>生态：能量回复速度<red>-50%</red>
 
     <orange>［武器］</orange>
     双持时增加伤害（<green>生命值/50</green>）
@@ -20,7 +20,7 @@
     能量武器：伤害+<green>15%</green>
 
     <red>［弱点］</red>
-    抗性：-<red>40%</red>寒气抗性
+    抗性：<red>-40%</red>寒气抗性
   rawValue: |-
     Noble desert nomads.
 

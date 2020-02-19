@@ -4,5 +4,7 @@
   rawValue: Psychic Blast
 - op: replace
   path: /description
-  value: 按住[F]使用毒性冲击，使用[W/S/A/D]进行瞄准。
+  value: |-
+    瞄准：<green>[上/下/左/右]</green>
+    使用：按住<green>[F]</green>
   rawValue: Hold [F] to use psionic blasts. Aim with WASD.

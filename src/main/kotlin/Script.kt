@@ -397,10 +397,12 @@ private fun Any.handleSingleQuote(): String {
 }
 
 private fun Any.toXmlText(): String {
-	return this.toString().replace("\\^(.*?);(.*?)\\^reset;".toRegex(), "<$1>$2</$1>").replace("\\^(.*?);", "<$1>")
+	return this.toString().replace("^#","^_")
+		.replace("\\^(.*?);(.*?)\\^reset;".toRegex(), "<$1>$2</$1>").replace("\\^(.*?);".toRegex(), "<$1>")
 }
 
 /**将颜色标签改为原始的颜色标记语法。*/
 private fun Any.toOriginText(): String {
-	return this.toString().replace("</.*?>".toRegex(), "^reset;").replace("<(.*?)>".toRegex(), "^$1;")
+	return this.toString().replace("<_","<#")
+		.replace("</.*?>".toRegex(), "^reset;").replace("<(.*?)>".toRegex(), "^$1;")
 }

@@ -1,10 +1,10 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Grey, horned insectoids. The brutality of their homeworld has made them incredibly hardy, but they're somewhat unhinged, and very susceptible to psionics- even their own.^reset;
+    Grey, horned insectoids. The brutality of their homeworld has made them incredibly hardy, but they're somewhat unhinged, and very susceptible to psionics- even their own.<reset>
 
     <orange>［天赋］</orange>
-    10% health, 10% Physical and Poison Resistance^reset;
+    10% health, 10% Physical and Poison Resistance<reset>
     <green>In Alien biomes gain +5% health and protection</green>
     <orange>In darkness gain health and speed. Lose health and speed in bright light.</orange>
 

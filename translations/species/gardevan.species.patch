@@ -10,7 +10,7 @@
     When damaged, spread flowers where you walk
     Immune: Shock, Poison, Bio-ooze
 
-    ^orange;环境^reset：
+    <orange>环境^reset：
     <green>Increased stats during daylight hours</green>
     <green>Regenerate in sunlight (see Floran ability)</green>
 

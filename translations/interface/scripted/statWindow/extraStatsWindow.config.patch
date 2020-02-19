@@ -12,7 +12,7 @@
   rawValue: Maximum Energy
 - op: replace
   path: /tooltipBoxes/2/tooltip
-  value: 攻击力倍率
+  value: 攻击倍率
   rawValue: Power Multiplier
 - op: replace
   path: /tooltipBoxes/3/tooltip

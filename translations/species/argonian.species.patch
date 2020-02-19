@@ -21,9 +21,9 @@
     Short Spears: <green>+10% Damage</green>, <green>+15%</green> Crit Damage
     Crossbows/Harpoons: <green>+15% Damage</green>, <green>+5%</green> Crit Damage
 
-    <red>虚弱</red>：
-    <red>-12%</red> Health, -5%^reset;Energy
-    <red>40%</red> Ice, <red>20%</red> Electric
+    <red>［弱点］</red>：
+    生命上限<red>-12%</red>，能量上限<red>-5%</red>
+    抗性：寒气抗性<red>-40%</red>，电系抗性<red>-20%</red>
   rawValue: |-
     Sturdy reptilian people. They are resilient and agile, with the ability to thrive both on land and underwater. Amphibious life has increased their natural energy stores, but they are less hardy than land-based reptiles.
 
