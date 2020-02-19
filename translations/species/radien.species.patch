@@ -25,7 +25,7 @@
     ^red;快速饥饿^reset;
     生命上限-^red;5%^reset;
     抗性: ^red;-25%^reset;火炎抗性，^red;-10%^reset;暗影抗性。饥饿时更加糟糕。
-    ^red;不能^reset;使用回复物品，必须使用种族专用回复物品。
+    ^red;不能^reset;使用普通回复物品，必须使用种族专用回复物品。
   rawValue: |-
     A race of shy radioactive beings with a disputed origin. This species is intended for Survival or Hardcore modes and ^red;*requires*^reset; FrackinRaces, and will recieve 50% reduced benefits without Hunger. Challenge is high.
 

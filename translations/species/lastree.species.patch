@@ -1,5 +1,21 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    A mysterious race bearing a resemblance to ancient Earth demons. Not much is known of these creatures.
+
+    Diet: Omnivore, can eat raw meat.
+
+    ^orange;天赋^reset;：
+    ^green;+When 50% fed, gain Regeneration^reset;
+    ^green;+30% Cosmic Resist, +50% Shadow Resist^reset;
+
+    ^orange;武器^reset;：
+    Shield + Pistol: ^green;+15% Protection^reset;
+    Pistol/Machine Pistol: ^green;+10% Damage, +50% Knockback Resist, +0.25% Crit Chance^reset;
+
+    ^red;弱点reset;：
+    ^red;-10%^reset; Energy and Smaller Stomach
+    ^red;-50%^reset; Fire Resist
   rawValue: |-
     A mysterious race bearing a resemblance to ancient Earth demons. Not much is known of these creatures.
 

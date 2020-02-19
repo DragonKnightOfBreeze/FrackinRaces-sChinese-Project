@@ -1,5 +1,28 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    Symbiotes birthed from the fallen. Sentient. An unusual and resilient people who struggle to come to grips with where they came from.
+
+    Diet: Omnivorous
+
+    ^orange;天赋^reset;：
+    ^green;+20% Electric Resist, +40% Fire Resist^reset;
+    ^green;+20% Poison Resist, -15% Fall Damage^reset;
+    ^green;Can Regenerate^reset;
+    Tech:^green;Sticky ball, Wall Grab^reset;
+    ^green;Immune: Slime Bounce, Slime Stick, Poison, Webs^reset;
+
+    ^orange;环境^reset;：
+    ^green;+25% Health and +15% speed on Gelatinous, Bog and Swamp biomes^reset;
+    ^red;-25% HP on cold biomes^reset;
+
+    ^orange;武器^reset;：
+    Whips: ^green;+20% damage, +12% protection^reset;
+    Bio/Slime: ^green;+15% damage, +2 Crit Damage^reset;
+
+    ^red;弱点^reset;：
+    ^red;-50% Ice Resistance, -25% Radiation Resistance
+    ^red;Extreme metabolism - always hungry
   rawValue: |-
     Symbiotes birthed from the fallen. Sentient. An unusual and resilient people who struggle to come to grips with where they came from.
 

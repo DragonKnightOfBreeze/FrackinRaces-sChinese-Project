@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    宇宙中的一个谜。这些虚幻的影裔喜欢只与彼此对话，原因很简单，因为其他种族甚至听不到他们的语言。
+    宇宙中的一个谜。这些虚幻的影裔宁愿只与彼此对话，原因很简单——其他种族甚至无法听到他们的语言。
 
     食性：什么都吃
 
@@ -17,7 +17,8 @@
 
     ^orange;武器^reset;：
     法杖/魔杖：+^green;25%^reset;生命
-    磁力珠：+^green;25%^reset;防御 匕首/刺剑：+^green;6%^reset;伤害
+    磁力珠：+^green;25%^reset;防御
+    匕首/刺剑：+^green;6%^reset;伤害
 
     ^red;弱点^reset;：
     ^red;+6%^reset;饥饿速度

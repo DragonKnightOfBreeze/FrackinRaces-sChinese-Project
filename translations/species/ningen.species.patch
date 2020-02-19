@@ -1,5 +1,17 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    人类的分支。
+
+    食性：杂食性
+
+    ^orange;天赋^reset;：
+    免疫：生物软泥
+
+    ^orange;武器^reset;：
+    短枪：^green;伤害+12%，击退抗性+20%^reset;
+    自动手枪：^green;伤害+23%^reset;
+    完美格挡时^green;增加伤害^reset;
   rawValue: |-
     Offshoot of humanity.
 

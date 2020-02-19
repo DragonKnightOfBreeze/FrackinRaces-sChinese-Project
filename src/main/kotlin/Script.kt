@@ -52,7 +52,7 @@ private val selectRules = arrayOf(
 		"/completionText",
 		"scriptConfig/descriptions/{descriptionName}"
 	),
-	"*.radiomessages" to arrayOf(
+	"exploration.radiomessages" to arrayOf(
 		"/{messageName}/text"
 	),
 	"*.species" to arrayOf(
@@ -182,7 +182,6 @@ private fun selectFiles() {
 			//考虑到starbound json可能包含注释和多行字符串，需要特殊配置jackson
 			//另外对于species文件，需要做进一步的处理
 			val data = JsonSerializer.instance.load<Any>(file)
-
 			//匹配路径时去除.patch后缀
 			val rule = selectRules.first { file.name.removeSuffix(".patch") matches it.first.toRegexBy(MatchType.EditorConfigPath) }.second
 			val selectedData = when(data) {
@@ -194,7 +193,7 @@ private fun selectFiles() {
 				is List<*> -> rule.flatMap { path ->
 					//列表里面可能还嵌套一层列表，然后才是映射，这也可以？
 					val isNested = data.firstOrNull() is List<*>
-					(if(isNested) (data as List<List<*>>).flatten() else data).queryAndFilterByPath(path)
+					(if(isNested) (data as List<List<*>>).flatten() else data).deepQueryAndFilterByPath(path)
 				}
 				//认为不可能发生
 				else -> throw IllegalArgumentException()
@@ -244,7 +243,6 @@ private fun mergeFiles() {
 		.forEach { file ->
 			//合并两个文件中的数据
 			val translationFile = file.path.replace("$originPath\\", "$translationsPath\\").toFile()
-
 			//如果translations目录下的对应文件不存在，则直接返回
 			if(!translationFile.exists()) return@forEach
 
@@ -298,10 +296,8 @@ private fun extractFiles() {
 						linkedMapOf(
 							"op" to it["op"],
 							"path" to it["path"],
-							//如果标注为为翻译，或者原文已改变，则采用rawValue而非value
-							//需要处理其中的单引号
+							//如果原文已更改或者找不到翻译后文本，则采用rawValue
 							"value" to when(it["translationAnnotation"]) {
-								"NotTranslated" -> it["rawValue"].handleSingleQuote()
 								"Changed" -> it["rawValue"].handleSingleQuote()
 								else -> it["value"] ?: it["rawValue"].handleSingleQuote()
 							}
@@ -336,7 +332,7 @@ private fun deleteEmptyDirectories(path: String) {
 }
 
 
-/**根据路径查询翻译文本组。*/
+/**对于非patch文件，根据路径查询翻译文本组。*/
 private fun Map<*, *>.deepQueryByPath(path: String): List<Map<String, Any?>> {
 	return this.deepQuery<Any?>(path).map { (k, v) ->
 		linkedMapOf(
@@ -348,12 +344,13 @@ private fun Map<*, *>.deepQueryByPath(path: String): List<Map<String, Any?>> {
 	}
 }
 
-/**根据路径查询并过滤翻译文本组。*/
+/**对于patch文件根据路径查询并过滤翻译文本组。*/
 @Suppress("UNCHECKED_CAST")
-private fun List<*>.queryAndFilterByPath(path: String): List<Map<String, Any?>> {
+private fun List<*>.deepQueryAndFilterByPath(path: String): List<Map<String, Any?>> {
 	return (this as List<Map<String, Any?>>).flatMap {
 		val pathValue = it["path"].toString()
 		val value = it["value"]
+		//由于代码逻辑的问题，暂时无法处理路径部分匹配的情况（考虑完整文件名规则匹配）
 		when {
 			//如果路径匹配或者相等，说明value属性的值就是我们要找的值
 			pathValue == path || pathValue matches path.toRegexBy(MatchType.PathReference) -> {
@@ -364,10 +361,8 @@ private fun List<*>.queryAndFilterByPath(path: String): List<Map<String, Any?>> 
 					"translationAnnotation" to "NotTranslated"
 				))
 			}
-			//TODO 如果path不包含pathValue，说明不匹配（但是可能部分匹配）
-			pathValue !in path -> listOf()
-			//如果路径不匹配，但value属性是列表，说明我们需要进一步到value属性中寻找我们要找的值
-			value is List<*> -> {
+			//如果路径部分相等，但value属性是列表，说明我们需要进一步到value属性中寻找我们要找的值
+			pathValue in path && value is List<*> -> {
 				value.deepQuery<Any?>(path.removePrefix(pathValue)).map { (k, v) ->
 					linkedMapOf(
 						"op" to "replace",
@@ -378,7 +373,7 @@ private fun List<*>.queryAndFilterByPath(path: String): List<Map<String, Any?>> 
 				}
 			}
 			//同上
-			value is Map<*, *> -> {
+			pathValue in path && value is Map<*, *> -> {
 				value.deepQuery<Any?>(path.removePrefix(pathValue)).map { (k, v) ->
 					linkedMapOf(
 						"op" to "replace",
