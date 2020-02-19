@@ -3,7 +3,7 @@
   value: |-
     一种不同寻常的食肉类人形生物，拥有爬行动物的特征。
 
-    食性：肉食性
+    食性：荤食性
 
     ^orange;天赋^reset;：
     非凡的空中灵活性，坠落速度^green;-39%^reset;
@@ -12,7 +12,7 @@
     免疫：燃烧&炎热
 
     ^orange;武器^reset;：
-    锤/钉头锤：暴击几率^green;+2%^reset;
+    锤/锤矛：暴击几率^green;+2%^reset;
     魔杖/法杖：伤害^green;+12%^reset;
     匕首：暴击伤害^green;+20%^reset;
 

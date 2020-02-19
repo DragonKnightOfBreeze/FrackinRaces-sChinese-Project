@@ -229,7 +229,7 @@
 * 刺剑，细剑&emsp;Rapier
 * 短矛，短枪&emsp;Short Spear
 * 斧&emsp;Axe
-* 钉头锤，锤矛&emsp;Mace
+* 锤矛，锤矛&emsp;Mace
 * 武士刀&emsp;Katana
 * 战剑&emsp;War Sword
 * 战刃&emsp;Warblade
