@@ -89,8 +89,6 @@ fun main() {
 	while(true) {
 		println("""
 			************
-			注意：通过IDE比较origin和translations目录下的文件完成翻译。
-
 			f: 从Github克隆FR项目到origin目录
 			d: 删除origin目录下不必要的文件
 			s: 选择origin目录下必要的文件，并将非patch文件转化为patch文件
