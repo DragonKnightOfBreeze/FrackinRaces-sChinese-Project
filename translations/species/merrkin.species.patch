@@ -7,14 +7,14 @@
 
     <orange>［天赋］</orange>
     增益：能量值上限<green>+20%</green>
-    抗性：寒气抗性<green>+40%</green>
+    抗性：寒冷抗性<green>+40%</green>
     免疫：窒息（水中）
     水和腐化之水中：<green>增加速度</green>
 
     <orange>［环境］</orange>
-    On <green>oceanic</green> and <green>tidewater</green> biomes, gain <green>+25% Protection</green>
-    In water/darkwater you gain <green>+20</green> Physical Resistance,and <green>Poison Immunity</green>
-    Rain grants very slight regeneration.
+    海洋，潮汐生态：防御力<green>+25%</green>
+    水，腐化之水中：物理抗性<geen>+20%</green>，免疫中毒
+    雨中：<green>得到微量的回复加成</green>
 
     <orange>［武器］</orange>
     矛，三叉戟：生命值大于<green>75%</green>时，伤害<green>+20%</green>

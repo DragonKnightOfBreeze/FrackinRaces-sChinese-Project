@@ -6,18 +6,18 @@
     食性：素食性，更喜欢含糖食物
 
     <orange>［天赋］</orange>
-    <green>+15%</green> Health, <green>-20%</green> Fall Damage, <green>+10%</green> Speed
-    <green>+50%</green> Poison Resist
-    Immune: Bee Stings, Honey
+    增益：生命值上限：<green>+15%</green>，移动速度<green>+10%</green>，坠落伤害<green>-20%</green>
+    抗性：毒素抗性<green>+50%</green>
+    免疫：蜂蛰，蜂蜜
 
     <orange>［环境］</orange>
-    Increased air agility, poor movement in liquid
+    增加空中机动性，减少液体中机动性
 
     <orange>［武器］</orange>
     狙击步枪，自动手枪：伤害<green>+15%</green>
 
     <red>［弱点］</red>
-    抗性：火焰抗性<red>-50%</red>，寒气抗性<red>-30%</red>
+    抗性：火焰抗性<red>-50%</red>，寒冷抗性<red>-30%</red>
   rawValue: |-
     Insectoid bee-people.
 

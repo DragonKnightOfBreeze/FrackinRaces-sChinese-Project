@@ -7,12 +7,12 @@
 
     <orange>［天赋］</orange>
     增益：生命值上限<green>+10%</green>，伤害<green>+10%</green>
-    抗性：毒素抗性<green>+10%</green>，射线抗性<green>+10%</green>，电系抗性<green>+10%</green>，暗影抗性<green>+10%</green>，辐射抗性<green>+10%</green>，物理抗性<green>+10%</green>，寒气抗性<green>+10%</green>
+    抗性：毒素抗性<green>+10%</green>，射线抗性<green>+10%</green>，电系抗性<green>+10%</green>，暗影抗性<green>+10%</green>，辐射抗性<green>+10%</green>，物理抗性<green>+10%</green>，寒冷抗性<green>+10%</green>
     <green>+30%</green>
     免疫：寒冷
 
     <orange>［环境］</orange>
-    葱绿，森林，丛林，雨林，湿地，冻土，极地生态：移动速度<green>+10%</green>，跳跃高度<green>+10%</green>
+    葱郁，森林，丛林，雨林，湿地，冻土，极地生态：移动速度<green>+10%</green>，跳跃高度<green>+10%</green>
     沼泽，海洋，岩浆，火山生态：移动速度<red>-10%</red>，跳跃高度<red>-10%</red>
 
     <orange>［弱点］</orange>

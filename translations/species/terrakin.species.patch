@@ -6,13 +6,13 @@
     食性：素食性
 
     <orange>［天赋］</orange>
-    Resist: <green>10%</green> Shadow, <green>30%</green> Poison
-    Attrition: +100% Max Food
-    <green>+7%</green> Jump and Speed
-    <green>Slowly regenerate HP</green>
+    增益：移动速度<green>+7%</green>，跳跃高度<green>+7%</green>
+    抗性：暗影抗性<green>+10%</green>，毒素抗性<green>+30%</green>
+    磨损（饱食度上限<green>+100%</green>）
+    缓慢回复生命
 
     <orange>［环境］</orange>
-    Gain additional 25% vitality and protection in <green>Forested and Jungle type</green> biomes
+    森林类，丛林类生态：生命值上限<green>+25%</green>，防御<green>+25%</green>
 
     <orange>［武器］</orange>
     弓，弩：暴击几率<green>+2%</green>，伤害<green>+15%</green>

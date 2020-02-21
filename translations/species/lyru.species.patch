@@ -20,8 +20,10 @@
     回旋镖，环刃：伤害<green>+12%</green>，防御<green>+2%</green>
     盾牌：完美格挡时<green>增加防御（可叠加）</green>
 
+    <orange>［环境］</orange>
+    日间，辐射生态：<red>减少生命值上限，能量值上限和辐射抗性</red>
+
     <red>［弱点］</red>
-    日间或在辐射环境时：<red>降低</red>生命值上限，能量值上限和辐射抗性
     抗性：电系抗性<red>-30%</red>
   rawValue: |-
     A mysterious race of cave dwellers known for their underground cities and love for treasure. Adapted to the deep underground, they can jump high and take less fall damage. Due to their impressive eyesight, they have higher precision with weapons.

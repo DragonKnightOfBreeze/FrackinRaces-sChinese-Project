@@ -6,12 +6,14 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+10%</green> Energy, <green>+5%</green> Damage, <green>+10%</green> Speed, <green>+15%</green> Energy Regen, <green>+20%</green> Shadow Resist, <green>+10%</green> Ice Resist, Wet Immunity, <green>1500</green> Breath, <green>Swim Boost 2</green>
+    增益：能量值上限<green>+10%</green>，能量回复速度<green>+15%</green>，伤害<green>+5%</green>，移动速度<green>+10%</green>，呼吸时限<green>+1500</green>
+    抗性：暗影抗性<green>+20%</green>，寒冷抗性<green>+10%</green>
+    免疫：潮湿
 
     <orange>［环境］</orange>
-    Oceanic / Wet Biomes: <green>+10% Max Energy</green> <green>+20% Speed</green>
-    Jungle / Humid Biomes: <green>+5% Max Energy</green>
-    Hot / Dry Biomes: <red>-15% Max Energy</red> <red>-15% Max Health</red> <red>-30% Energy Regen</red>
+    海洋，潮湿生态：能量值上限<green>+10%</green>，移动速度<green>+20%</green>
+    丛林，湿润生态：能量值上限<green>+5%</green>
+    炎热，干燥生态：生命值上限<red>-15%</red>，能量值上限<red>-15%</red>，能量回复速度<red>-30%</red>
 
     <orange>［武器］</orange>
     短矛，矛：伤害<green>+10%</green>，防御<green>+15%</green>
@@ -19,7 +21,7 @@
     阔剑，短剑，匕首：伤害<green>+15%</green>暴击几率<green>+5%</green>
 
     <red>［抗性］</red>
-    生命值上限<red>-5%</red>，防御<red>-10%</red>，饥饿速度<red>+5%</red>
+    减益：生命值上限<red>-5%</red>，防御<red>-10%</red>，饥饿速度<red>+5%</red>
     抗性：辐射抗性<red>-20%</red>，电系抗性<red>-30%</red>
   rawValue: |-
     The Remorian are a species of aquatic dragonoid people with an aptitude for magical energy. They tend to be somewhat more feeble physically than other races, but make up for it in their magical potential, which they draw from the ocean and other humid environments.

@@ -11,8 +11,8 @@
     免疫：狂乱
 
     <orange>［环境］</orange>
-    On <green>hot or jungle</green> biomes gain <green>10%</green> Health and movement speed
-    Improved ground traction
+    炎热，丛林生态：生命值上限<green>+10%</green>，移动速度<green>+10%</green>
+    提高地面引力
 
     <orange>［武器］</orange>
     拳套：伤害<green>+20%</green>，击退抵抗<green>+50%</green>
@@ -20,8 +20,8 @@
     霰弹枪：伤害<green>+15%</green>，能量值上限<green>+25%</green>
 
     <red>［弱点］</red>
-    能量值上限<red>-20%</red>，美丽<red>-25%</red>
-    抗性：毒素抗性<red>-50%</red>，寒气抗性<red>-20%</red>
+    减益：能量值上限<red>-20%</red>，魅力<red>-25%</red>
+    抗性：毒素抗性<red>-50%</red>，寒冷抗性<red>-20%</red>
   rawValue: |-
     The Mantids are a largely nomadic species with no homeworld of their own. What few traditions their kind have are devoted to the art of war, and most Mantid take great pride in personally eviscerating their enemies.
 

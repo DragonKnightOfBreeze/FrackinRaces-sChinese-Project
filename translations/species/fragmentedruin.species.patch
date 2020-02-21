@@ -21,7 +21,7 @@
 
     <red>［弱点］</red>
     减益：生命值上限<red>-25%</red>防御<red>-10%</red>
-    抗性：辐射抗性<red>-20%</red>，寒气抗性<red>-20%</red>
+    抗性：辐射抗性<red>-20%</red>，寒冷抗性<red>-20%</red>
   rawValue: |-
     Each member of this species is a small piece of universe-devouring Ruin.
 

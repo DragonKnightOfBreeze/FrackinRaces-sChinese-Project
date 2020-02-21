@@ -148,7 +148,7 @@
 * 跳跃力&emsp;Jump
 * ？？？&emsp;Air Force
 * 移动速度&emsp;Speed
-* 游泳速度&emsp;Swim
+* 游泳加速&emsp;Swim
 &emsp;
 * 盾牌反伤&emsp;Shield Bash Chance, Shield Bash?
 * 盾牌击退，盾牌反伤击退&emsp;Shield Bash Push, Shield Push?, Knockback?
@@ -176,7 +176,7 @@
 * 饥饿速度&emsp;Hunger
 * 跳跃力&emsp;Jump
 * 移动速度&emsp;Speed
-* 游泳速度&emsp;Swim
+* 游泳加速&emsp;Swim
 * 坠落伤害&emsp;Fall Damage
 
 ### 攻击相关
@@ -727,18 +727,18 @@
 	［来源］腐化之水
 * 紧急自杀装置！有担保的死亡！来自凯文科技的最新产品！&emsp;Killpod! Death, Guaranteed! New from Kevin-Tek!
 	`stats/effects/fu_tileeffects/poison_effects/killpod/killpod`
-* 汞毒 - 被毒素抗性和放射抗性抵抗。&emsp;Mercury Poison.  Resisted by Poison + Radioactive resistance.
+* 汞毒 - 被毒素抗性和辐射抗性抵抗。&emsp;Mercury Poison.  Resisted by Poison + Radioactive resistance.
 	`stats/effects/fu_tileeffects/poison_effects/mercurypoison/mercurypoison`
 	［来源］水银
-* 灼热疼痛 - 被火炎抗性抵抗。&emsp;Scorching pain. Resisted by Fire resistance.
+* 灼热疼痛 - 被火焰抗性抵抗。&emsp;Scorching pain. Resisted by Fire resistance.
 	`stats/effects/fu_tileeffects/poison_effects/moltenmetal/moltenmetal &2 &3`
-* 致命寒意 - 被寒气抗性抵抗。&emsp;Deadly Chill. Resisted by Ice resistance.
+* 致命寒意 - 被寒冷抗性抵抗。&emsp;Deadly Chill. Resisted by Ice resistance.
 	`stats/effects/fu_tileeffects/poison_effects/nitrogenfreeze/icethrowereffect & nitrogenfreeze & & 3`
 	［来源］液氮，
 * 呃，脓液 - 每下造成6点伤害。被物理抗性抵抗。&emsp;Eeew. Causes 6 damage per tick. Resisted by Physical resistance.
 	`stats/effects/fu_tileeffects/poison_effects/pus/puseffect`
 	［来源］脓液
-* 辐射灼伤 - 被放射抗性抵抗。&emsp;Radiation Burn. Resisted by Radiation resistance.
+* 辐射灼伤 - 被辐射抗性抵抗。&emsp;Radiation Burn. Resisted by Radiation resistance.
 	`stats/effects/fu_tileeffects/poison_effects/radiationburn/radiationburn`
 	［来源］辐射土块，放射性废料，
 * 修格斯腐蚀&emsp;Shoggoth Corrosion

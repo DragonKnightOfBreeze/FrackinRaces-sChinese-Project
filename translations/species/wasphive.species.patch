@@ -6,18 +6,17 @@
     食性：肉类、糖和水果。
 
     <orange>［天赋］</orange>
-    生命值上限<green>+15%</green>，速度<green>+8%</green>
-    坠落速度<green>-39</green>，增加跳跃速度
+    抗性：生命值上限<green>+15%</green>，速度<green>+8%</green>，坠落速度<green>-39</green>，增加跳跃速度
     免疫：狂乱
-    科技：<green>滑翔，多段跳，蹬墙跳</green>
+    科技：滑翔，多段跳，蹬墙跳
 
     <orange>［武器］</orange>
     匕首: 伤害<green>+25%</green>
 
     <red>［弱点］</red>
+    减益：能量值上限<red>-16.5%</red>
+    抗性：火焰抗性<red>-50%</red>，寒冷抗性<red>-50%</red>
     <red>糟糕的游泳者</red>
-    能量值上限<red>-16.5%</red>
-    抗性：火焰抗性<red>-50%</red>，寒气抗性<red>-50%</red>
   rawValue: |-
     These humanoid, sapient wasps are each their own hive, and are handy in the air.
 

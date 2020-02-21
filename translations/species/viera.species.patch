@@ -6,12 +6,12 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+20%</green> Energy, <green>+12%</green> Speed
-    <green>+30%</green> Cosmic Resist
-    Immune: Slime
+    增益：能量值上限<green>+20%</green>，移动速度<green>+12%</green>
+    抗性：射线抗性<green>+30%</green>
+    免疫：黏液
 
     <orange>［环境］</orange>
-    <green>+10%</green> Health, <green>+15%</green> Energy, <green>+19%</green> Speed In Rainforest, Forest and Primeval biomes
+    雨林，森林，原始森林生态：生命值上限<green>+10%</green>，能量值上限<green>+10%</green>，移动速度<green>+19%</green>
 
     <orange>［武器］</orange>
     魔杖，法杖：伤害<green>+15%</green>，能量值上限<green>+15%</green>
@@ -20,7 +20,7 @@
     刺剑，短剑，匕首：伤害<green>+12%</green>，物理抗性<green>+15%</green>，每次连击时有<green>5%</green>的几率释放神秘爆炸
 
     <red>［弱点］</red>
-    生命值上限<red>-20%</red>，饱食度上限<red>-20%</red>
+    减益：生命值上限<red>-20%</red>，饱食度上限<red>-20%</red>
     抗性：暗影抗性<red>-30%</red>
   rawValue: |-
     Cosmic-attuned bunny-folk from a distant world of fantasy. Skilled fencers, archers, and spellcasters.

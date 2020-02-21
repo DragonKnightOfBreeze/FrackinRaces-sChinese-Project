@@ -6,14 +6,14 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    Very nimble. Gain <green>20%</green> Jump and <green>8%</green> Run Speed<reset>
-    <green>+20%</green> Cold Resist, <green>-50%</green> Fall Damage
-    Night Vision
-    Tech: <green>Veluu's Claws </green>
-    Immune: Jungle Dirt and Mud
+    增益：移动速度<green>+8%</green>，跳跃高度<green>+20%</green>，坠落伤害<green>-50%</green>
+    抗性：寒冷抗性<green>+20%</green>
+    科技：维鲁之爪
+    免疫：丛林泥土，泥
+    夜视
 
     <orange>［环境］</orange>
-    <green>+10%</green> Health, <green>+15%</green> Energy on <green>Jungle, Primeval, Forest, Rainforest, Desert</green> biomes
+    丛林，原始森林，森林，雨林，沙漠生态：生命值上限<green>+10%</green>，能量值上限<green>+15%</green>
 
     <orange>［武器］</orange>
     拳套，匕首，短剑：暴击几率<green>+1%</green>

@@ -6,11 +6,11 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+30 Health, <green>+5 Protection, <green>+10%</green> Damage,
-    <green>+10%</green> Electric Resist, <green>+20%</green> Poison Resist, <green>+30%</green> Ice Resist
+    增益：生命值上限<green>+30</green>，伤害<green>+10%</green>，防御<green>+5</green>
+    抗性：电系抗性<green>+10%</green>，毒素抗性<green>+20%</green>，寒冷抗性<green>+30%</green>
 
     <orange>［环境］</orange>
-    <green>+15%</green> Health, Speed, and Jump in Jungle, Forest, Snow, Savannah and Lush biomes
+    丛林，森林，雪地，冻土，葱郁生态：生命值上限<green>+15%</green>，移动速度<green>+15%</green>，跳跃高度<green>+15%</green>
 
     <orange>［武器］</orange>
     枪，榴弹发射器，火箭发射器：伤害<red>-10%</red>
@@ -19,7 +19,7 @@
     弓，魔杖，法杖：伤害<green>+10%</green>，能量值上限<green>+10%</green>
 
     <red>［弱点］</red>
-    饥饿速度<red>+100%</red>
+    减益：饥饿速度<red>+100%</red>
     抗性：火焰抗性<red>-50%</red>，暗影抗性<red>-20%</red>，辐射抗性<red>-20%</red>
   rawValue: |-
     The Tauren are a towering, strong and noble race of bovine humanoids from a distant world, with soft, short fur, hooves, tails and imposing horns. They value their shamanistic and druidic culture highly, and they are talented hunters, but aren't quite as proficient with modern weaponry. Nomadic by nature, they can adapt to their surroundings.

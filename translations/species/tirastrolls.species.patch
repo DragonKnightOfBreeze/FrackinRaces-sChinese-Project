@@ -4,9 +4,12 @@
     Grey, horned insectoids. The brutality of their homeworld has made them incredibly hardy, but they're somewhat unhinged, and very susceptible to psionics- even their own.<reset>
 
     <orange>［天赋］</orange>
-    10% health, 10% Physical and Poison Resistance<reset>
-    <green>In Alien biomes gain +5% health and protection</green>
-    <orange>In darkness gain health and speed. Lose health and speed in bright light.</orange>
+    增益：生命值上限<green>+10%</green>
+    抗性：物理抗性<green>+10%</green>，毒素抗性<green>+10%</green>
+
+    <orange>［环境］</orange>
+    外星生态：生命值上限<green>+5%</green>，防御<green>+5%</green>
+    在黑暗中增加伤害和防御，在光亮中减少伤害和防御
 
     <orange>［武器］</orange>
     双持拳套：防御<green>+8</green>，<green>微量的生命回复</green>

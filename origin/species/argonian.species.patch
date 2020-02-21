@@ -23,7 +23,7 @@
 
     <red>［弱点］</red>：
     生命值上限<red>-12%</red>，能量值上限<red>-5%</red>
-    抗性：寒气抗性<red>-40%</red>，电系抗性<red>-20%</red>
+    抗性：寒冷抗性<red>-40%</red>，电系抗性<red>-20%</red>
   rawValue: |-
     Sturdy reptilian people. They are resilient and agile, with the ability to thrive both on land and underwater. Amphibious life has increased their natural energy stores, but they are less hardy than land-based reptiles.
 

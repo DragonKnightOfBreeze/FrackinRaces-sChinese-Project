@@ -6,14 +6,15 @@
     食性：任何食物
 
     <orange>［天赋］</orange>
-    <green>+15%</green>生命，<green>+5%</green>能量，<green>+5%</green>防御
-    抗性：<green>40%</green>暗影抗性，<green>40%</green>寒气抗性
-    免疫：黑暗&暗影
-    科技：<green>暗影爆裂</green>
+    增益：生命值上限<green>+15%</green>，能量值上限<green>+5%</green>，防御<green>+5%</green>
+    抗性：暗影抗性<green>40%</green>，寒冷抗性<green>+40%</green>
+    免疫：黑暗，暗影
+    科技：暗影爆裂
 
     <orange>［环境］</orange>
-    在<green>黑暗</green>生态中<green>+2</green>暴击几率，<green>+15%</green>能量
-    在黑暗中会发光 黑暗会增加攻击力和防御，光亮则会减少。
+    黑暗生态：能量值上限<green>+15%</green>，暴击几率<green>+2%</green>
+    在黑暗中发光
+    在黑暗中增加伤害和防御，在光亮中减少伤害和防御
 
     <orange>［武器］</orange>
     法杖/魔杖：<green>+25%</green>生命
@@ -21,7 +22,7 @@
     匕首/刺剑：<green>+6%</green>伤害
 
     <red>［弱点］</red>
-    饥饿速度<red>+6%</red>
+    减益：饥饿速度<red>+6%</red>
     抗性：火焰抗性<red>-30%</red>，射线抗性<red>-30%</red>，毒素抗性<red>-30%</red>
   rawValue: |-
     A mystery to the cosmos, the illusive Shadow people prefer to speak only to each other. This is simple, as other species cannot even hear their language.

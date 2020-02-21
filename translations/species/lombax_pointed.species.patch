@@ -11,15 +11,15 @@
     免疫：炎热
 
     <orange>［环境］</orange>
-    In hot biomes, <green>+7%</green> Speed and Jump, <green>+10%</green> Protection and <green>+25%</green> Energy Regen
+    炎热生态：能量回复速度<green>+25%</green>，防御<green>+10%</green>，移动速度<green>+7%</green>，跳跃高度<green>+7%</green>
 
     <orange>［武器］</orange>
     突击步枪，狙击步枪，榴弹发射器，阔剑，短剑，独特武器：伤害<green>+5%</green>
     手枪，霰弹枪，阔剑，短剑：能量回复速度<green>+30%</green>
 
     <red>［弱点］</red>
-    生命值上限<red>-25%</red>
-    抗性：毒素抗性<red>-30%</red>，寒气抗性<red>-30%</red>
+    减益：生命值上限<red>-25%</red>
+    抗性：毒素抗性<red>-30%</red>，寒冷抗性<red>-30%</red>
   rawValue: |-
     A particularly elusive species, the Lombaxes are reknowned for their knack for inventions and gadgetry. Not much is known of them, but what is known is that they come in all shapes, stripes and colors.
 
