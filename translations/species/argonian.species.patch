@@ -7,16 +7,16 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    饱食度上限<green>+40%</green>，移动速度<green>+6%</green>，跳跃力<green>+11%</green>
-    呼吸时限<green>+1100</green>，游泳加速
-    抗性：毒素抗性<green>+40%</green>，射线抗性<green>+10%</green>，放射抗性<green>+10%</green>
+    增益：饱食度上限<green>+40%</green>，移动速度<green>+6%</green>，跳跃高度<green>+11%</green>，呼吸时限<green>+1100</green>
+    抗性：毒素抗性<green>+40%</green>，射线抗性<green>+10%</green>，辐射抗性<green>+10%</green>
     免疫：中毒
+    游泳加速
 
     <orange>［环境］</orange>
     Gain <green>+25%</green> Health, <green>+15%</green> Speed on Bog, Swamp, and Strange Sea biomes.
 
     <orange>［武器］</orange>
-    矛：伤害<green>+10%</green>，防御力<green>+10%</green>
+    矛：伤害<green>+10%</green>，防御<green>+10%</green>
     短矛：伤害<green>+10%</green>，暴击伤害<green>+15%</green>
     弩，鱼叉：伤害<green>+15%</green>，暴击伤害<green>+5%</green>
 

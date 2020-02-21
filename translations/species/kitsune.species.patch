@@ -6,23 +6,22 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+20%</green> Reduced hunger rate, <green>+20%</green> Health
-    <green>+10%</green> speed and jump,
-    Resist: <green>+20%</green> Ice, <green>+25%</green> Shadow, <green>+10%</green> Cosmic
+    增益：生命值上限<green>+20%</green>，移动速度<green>+10%</green>，跳跃高度<green>+10%</green>，饥饿回复速度<green>+20%</green>
+    抗性：寒气抗性<green>+20%</green>，暗影抗性<green>+25%</green>，射线抗性<green>+10%</green>
 
     <orange>［环境］</orange>
     Gain <green>+10%</green> Health and Protection in <green>Lush,Primeval, Forest, Jungle, Rainforest, Tundra, and Snow</green> biomes
 
     <orange>［武器］</orange>
     匕首，短剑：暴击几率<green>+3%</green>
-    长棍：伤害<green>+15%</green>，防御力<green>+20%</green>
+    长棍：伤害<green>+15%</green>，防御<green>+20%</green>
     锤，锤矛：击晕几率<green>+15%</green>
-    每次近战武器连击时增加防御力
-    完美格挡时：防御力<green>+2</green>，伤害<green>+2%</green>
+    每次近战武器连击时增加防御
+    完美格挡时：防御<green>+2</green>，伤害<green>+2%</green>
 
     <red>［弱点］</red>
     能量值上限<red>-12%</red>
-    抗性：火炎抗性<red>-25%</red>
+    抗性：火焰抗性<red>-25%</red>
   rawValue: |-
     Swift and dangerous fox people. Able warriors.
 

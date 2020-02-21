@@ -6,21 +6,21 @@
     食性：素食性
 
     <orange>［天赋］</orange>
-    优秀商人：魅力<green>+35%</green>
-    移动速度<green>+8%</green>
+    增益：移动速度<green>+8%</green>
     抗性：射线抗性<green>+20%</green>，暗影抗性<green>+20%</green>
+    交易老手（魅力<green>+35%</green>）
 
     <orange>［环境］</orange>
     Gain additional vitality and protection in <green>Lush, Forest, Primeval</green> biomes
 
     <orange>［武器］</orange>
     镰刀：伤害<green>+10%</green>
-    匕首：防御力<green>+15%</green>
+    匕首：防御<green>+15%</green>
     狙击步枪：伤害<green>+12%</green>
-    榴弹发射器：伤害<green>+15%</green>，防御力<green>+18%</green>
+    榴弹发射器：伤害<green>+15%</green>，防御<green>+18%</green>
 
     <red>［弱点］</red>
-    抗性：火炎抗性<red>-20%</red>，放射抗性<red>-20%</red>
+    抗性：火焰抗性<red>-20%</red>，辐射抗性<red>-20%</red>
   rawValue: |-
     Bipedal deer-like people from the Valos Nebula. They are noted for their adorable appearance, which makes them well liked by many. Agrarian, they prefer forests and fields.
 

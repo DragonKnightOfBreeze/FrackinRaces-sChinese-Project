@@ -4,14 +4,14 @@
     Swift and dangerous snake-people. Their efficient metabolisms allow them to function on almost no food, and their powerful tails give them a mighty spring in their step.
 
     <orange>［天赋］</orange>
-    <green>+20%</green> Energy and Jump, <green>-50%</green> Hunger Rate
-    Resists: <green>+10%</green> Physical, <green>+20%</green> Fire, <green>+30%</green> Poison and Shadow resists
-    Immune: Jungle, Black Tar
+    增益：能量值上限<green>+20%</green>，跳跃高度<green>+20%</green>，饥饿速度<green>-50%</green>
+    抗性：物理抗性<green>+10%</green>，火焰抗性<green>+20%</green>，毒素抗性<green>+30%</green>，暗影抗性<green>+30%</green>
+    免疫：丛林效果，焦油
 
     <orange>［武器］</orange>
     弓：能力值较高时，增加暴击几率
     弓：伤害<green>+25%</green>，移动速度<green>+20%</green>
-    环刃：伤害<green>+10%</green>，生命值上限<green>+10%</green>，击退抵抗力<green>+12%</green>
+    环刃：伤害<green>+10%</green>，生命值上限<green>+10%</green>，击退抵抗<green>+12%</green>
 
     <red>［弱点］</red>
     生命值上限<red>-20%</red>

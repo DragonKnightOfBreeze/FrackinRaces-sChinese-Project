@@ -6,9 +6,9 @@
     食性：杂食性（浆果）
 
     <orange>［天赋］</orange>
-    <green>+10%</green> Energy, <green>+5%</green> Damage, <green>+8%</green> Speed and Energy regen
-    <green>+20%</green> Ice Resist, <green>+25%</green> Shadow Resist, Poison Immunity
-    Aura Berserk (the more damage you take, the more dangerous you become, up to <green>+15%</green> damage and <red>-10%</red> protection)
+    增益：能量值上限<green>+10%</green>，能量回复速度<green>+8%</green>，伤害<green>+5%</green>，移动速度<green>+8%</green>
+    抗性：寒气抗性<green>+20%</green>，暗影抗性<green>+25%</green>，毒素抗性<green>+25%</green>
+    狂怒光环（每当你造成伤害时，你会变得更加危险，伤害<green>+15%</green>，防御<red>-10%</red>）
 
     <orange>［环境］</orange>
     Hot Biomes: <red>-20% Protection</red>
@@ -21,9 +21,9 @@
     拳套：伤害<green>+10%</green>
 
     <red>［弱点］</red>
-    生命值上限<red>-5%</red>，防御力<red>-5%</red>
+    生命值上限<red>-5%</red>，防御<red>-5%</red>
     饥饿速度<red>+6%</red>
-    抗性：放射抗性<red>-30%</red>，电系抗性<red>-30%</red>，火炎抗性<red>-30%</red>
+    抗性：辐射抗性<red>-30%</red>，电系抗性<red>-30%</red>，火焰抗性<red>-30%</red>
   rawValue: |-
     Despite their fluffy appearance, this species is incredibly adaptive. They are no strangers to fighting and have their own unique power named Aura. In past they were guardians of their home world, and merged perfectly with the Protectorate.
 

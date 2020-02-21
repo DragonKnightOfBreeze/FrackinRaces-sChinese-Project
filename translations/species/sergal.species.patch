@@ -17,10 +17,10 @@
     弓：伤害<green>+15%</green>
     锤矛：击晕几率<green>+25%</green>
     匕首：伤害<green>+15%</green>，暴击几率<green>+1%</green>
-    矛：生命值上限<green>+25</green>，防御力<green>+15%</green>
+    矛：生命值上限<green>+25</green>，防御<green>+15%</green>
 
     <red>［弱点］</red>
-    能量值上限<red>-20%</red>，击退抵抗力<red>-50%</red>
+    能量值上限<red>-20%</red>，击退抵抗<red>-50%</red>
     抗性：暗影抗性<red>-50%</red>
   rawValue: |-
     Nomadic tribal hunters. Low-tech, but capable of understanding technology with minimal training.

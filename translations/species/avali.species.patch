@@ -7,11 +7,11 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    跳跃力<green>+9%</green>，移动速度<green>+9%</green>，坠落伤害<green>-65%</green>
-    缓慢坠落（翅膀）<green>+35%</green>
+    增益：跳跃高度<green>+9%</green>，移动速度<green>+9%</green>，坠落伤害<green>-65%</green>
     抗性：寒气抗性<green>+40%</green>
     免疫：雪，冰
-    科技：<green>羽族滑翔</green>
+    科技：羽族滑翔
+    缓慢坠落（坠落速度<green>-35%</green>）
 
     <orange>［环境］</orange>
     <green>炎热</green>生态：失去空中伤害加成&移动速度加成，生命值上限<red>-25%</red>
@@ -25,7 +25,7 @@
     矛：暴击几率<green>+2%</green>
 
     <red>［弱点］</red>
-    抗性：火炎抗性<red>-40%</red>
+    抗性：火焰抗性<red>-40%</red>
   rawValue: |-
     Adorable fuzzy space raptors with wings. Highly adapted to arctic climates and low gravity, they can use the wind to control their falls, and they are deadly with heavy weapons.
 

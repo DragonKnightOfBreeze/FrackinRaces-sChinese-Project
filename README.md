@@ -31,17 +31,24 @@ Mod概述：见项目文件`translations/_metadata`。
     * `Fixed` 为了确保特殊名词之间的统一性，修改后的已确定原本含义的翻译。  
     * `Changed` 原文已发生改变，但是尚未同步翻译。
   * `translationNote` 翻译笔记。用作备注。
-* 协助翻译指南：
-  * 请首先百度学习：Github，Git，Json，Yaml，XML。
-  * 推荐使用（提供IDE+文件比较+翻译功能）：IntelliJ IDEA, Capslock+。
-  * 推荐安装的IDEA插件：Kotlin，Translation。
-  * 本项目采用Yaml格式进行汉化，相对Json格式要更加简洁清晰。
-  * 原始的特殊颜色标记语法（如`^red;红色^reset;`）可以改用XML标记语法（如`<red>红色</red>的<_fff>文本</_fff>`），更加便于翻译。
-  * 如果正确配置了IDEA，应当可以得到完善的``patch文件属性提示``和``xml标签自动补全``。
-  * 通过启动`Script.kt`脚本，可以执行一些常用命令，请参阅命令行说明。
-  * 通过修改或添加translations目录中的翻译文档中，与`rawValue`属性对应的`value`属性，即可完成对应文本的翻译。
-  * 通过对照比较和修订origin和translations目录中的对应文件，可以大大加快和简化翻译流程。
-  * 请仅修改translations目录中的翻译文档的中的`value`、`translationAnnotation`和`translationNote`属性，不要修改其他内容。
+
+# 协助翻译指南
+
+* 请首先百度学习：Github，Git，Json，Yaml，XML。
+* 推荐使用（提供IDE+文件比较+翻译功能）：IntelliJ IDEA, Capslock+。
+* 推荐安装的IDEA插件：Kotlin，Translation。
+* 本项目采用Yaml格式进行汉化，相对Json格式要更加简洁清晰。
+* 通过启动`Script.kt`脚本，可以执行一些常用命令。
+  * 具体的命令和说明，请参阅输出的命令行说明。
+* 通过使用IDEA的目录比较功能，对照比较和修订`origin`和``translations``目录中的对应文件，可以大大加快和简化翻译流程。
+  * 目录比较功能的打开方式：选中`origin`目录右击打开菜单，选择`Compare With...`，接着选择`translations`目录。
+  * 注意排除需要保留的文件（`_previewimage`，`LICENSE`和`_metadata`），操作方法：点击对应的叉号，直到没有任何图标为止。
+* 通过修改或添加`translations`目录中的翻译文档中，与`rawValue`属性对应的`value`属性，即可完成对应文本的翻译。
+  * 注意`value`是处理后的待翻译/已翻译文本，并非游戏中直接显示的待翻译/已翻译文本。
+  * 原始的特殊颜色标记语法可以改用XML标签标记语法，便于翻译。
+  * 例如，`^red;红色^reset;的^#fff;文本^reset;`可以被`<red>红色</red>的<_fff>文本</_fff>`替代。
   * 请参照其他同类文本完成翻译，部分文本的翻译格式可能与原文的原始格式有所不同（词语顺序、缩进、换行等）。 
   * 请保持翻译文档中的字符串属性的显示格式（单行，单引号包围，折行，多行等）。
   * 请根据情况选择对应的`translationAnnotation`，并编写必要的`translationNote`。
+  * 除了`value`，`translationAnnotation`和`translationNote`属性之外，不要修改其他内容。
+  

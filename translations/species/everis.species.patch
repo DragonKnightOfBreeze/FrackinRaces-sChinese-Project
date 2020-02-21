@@ -6,8 +6,7 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    能量值上限<green>+15%</green>
-    移动速度<green>+10%</green>，跳跃力<green>+10%</green>
+    增益：能量值上限<green>+15%</green>，移动速度<green>+10%</green>，跳跃高度<green>+10%</green>
     抗性：寒气抗性<green>+30%</green>，电系抗性<green>+20%</green>
     免疫：冰，雪泥，雪，寒冷
 
@@ -17,11 +16,11 @@
     <orange>［武器］</orange>
     突击步枪，狙击步枪：伤害<green>+10%</green>
     手枪：能量回复速度<green>+25%</green>
-    盾牌：防御力<green>+15</green>，<green>微量的生命回复</green>
+    盾牌：防御<green>+15</green>，<green>微量的生命回复</green>
 
     <red>［弱点］</red>
     生命值上限<red>-15%</red>
-    抗性：火炎抗性<red>-40%</red>，毒素抗性<red>-10%</red>
+    抗性：火焰抗性<red>-40%</red>，毒素抗性<red>-10%</red>
   rawValue: |-
     Everis are a race of dog-like humanoids with impressive advancements in technology and an optimistic, borderline childish outlook on life.
 

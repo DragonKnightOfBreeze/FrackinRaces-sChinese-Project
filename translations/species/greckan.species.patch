@@ -6,16 +6,16 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+40%</green> Energy
-    Resist: <green>+15%</green> Physical, <green>+12%</green> Shadow, <green>+20%</green> Poison
-    Immune: Erchius Ghost, Poison
+    增益：能量值上限<green>+40$</green>
+    抗性：物理抗性<green>+15%</green>，暗影抗性<green>+12%</green>，毒素抗性<green>+20%</green>
+    免疫：厄尔修斯幽灵，中毒
 
     <orange>［环境］</orange>
     On Moon-type biomes gain <green>+15%</green> Health, Speed, Jump, and <green>+10%</green> Protection, invisible to Erchius Ghosts
     When underground, gain <green>+15%</green> Health and <green>10%</green> Jump
 
     <orange>［武器］</orange>
-    Wands and Staves: <green>gain +30% Damage and +10% Physical Resistance</green>
+    魔杖，法杖：伤害<green>+30%</green>，物理抗性<green>+10%</green>
 
     <red>［弱点］</red>
     生命值上限<red>-30%</red>

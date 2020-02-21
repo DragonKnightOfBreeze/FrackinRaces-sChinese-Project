@@ -6,19 +6,19 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    生命值上限<green>+25%</green>，移动速度<green>+15%</green>
+    增益：生命值上限<green>+25%</green>，移动速度<green>+15%</green>
     抗性：毒素抗性<green>+40%</green>，暗影抗性<green>+20%</green>
-    免疫：狂乱，蜘蛛网
+    免疫：狂乱，网
 
     <orange>［环境］</orange>
     <green>黑暗</green>生态：增加生命值上限&能量值上限
 
     <orange>［武器］</orange>
     矛：伤害<green>+10%</green>
-    双持刀刃武器，双持短矛：防御力<green>+15%</green>
+    双持刀刃武器，双持短矛：防御<green>+15%</green>
 
     <red>［弱点］</red>：
-    抗性：火炎抗性<red>-20%</red>，射线抗性<red>-20%</red>
+    抗性：火焰抗性<red>-20%</red>，射线抗性<red>-20%</red>
   rawValue: |-
     A race of arachnid-like aliens from a darkness covered planet, Arachne were discovered by the Protectorate and quickly integrated into spacefaring society. While creepy, they're generally friendly and are an extremely curious people.
 

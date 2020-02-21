@@ -6,12 +6,11 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    <green>+10%</green> Speed, <green>+10%</green> Jump, <green>+30%</green> Health
-    <green>+2x%</green> Shield Regen <green>+35%</green> Perfect Block Time.
+    增益：生命值上限<green>+30%</green>，移动速度<green>+10%</green>，跳跃高度<green>+10%</green>，盾牌耐久回复速度<green>+100%</green>，完美格挡时间<green>+35%</green>
 
     <orange>［武器］</orange>
-    匕首，剑：伤害<green>+30%</green>，连击时增加防御力
-    完美格挡时：增加伤害和防御力
+    匕首，剑：伤害<green>+30%</green>，连击时增加防御
+    完美格挡时：增加伤害和防御
 
     <red>［弱点］</red>
     能量值上限<red>-12%</red>

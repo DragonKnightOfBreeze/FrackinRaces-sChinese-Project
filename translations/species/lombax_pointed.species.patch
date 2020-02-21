@@ -6,10 +6,9 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+10%</green> Speed, <green>+15%</green> Jump
-    <green>+20%</green> Energy,
-    <green>+50%</green> Fire Resist, <green>+20%</green> Electric Resist,
-    Immune: Heat
+    增益：能量值上限<green>+20%</green>，移动速度<green>+10%</green>，跳跃高度<green>+15%</green>
+    抗性：火焰抗性<green>+50%</green>，电系抗性<green>+20%</green>
+    免疫：炎热
 
     <orange>［环境］</orange>
     In hot biomes, <green>+7%</green> Speed and Jump, <green>+10%</green> Protection and <green>+25%</green> Energy Regen

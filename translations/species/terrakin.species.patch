@@ -16,10 +16,10 @@
 
     <orange>［武器］</orange>
     弓，弩：暴击几率<green>+2%</green>，伤害<green>+15%</green>
-    矛，短矛：暴击几率<green>+2%</green>，击退抵抗力<green>+25%</green>
+    矛，短矛：暴击几率<green>+2%</green>，击退抵抗<green>+25%</green>
 
     <red>［弱点］</red>
-    抗性：射线抗性<red>-10%</red>，放射抗性<red>-20%</red>
+    抗性：射线抗性<red>-10%</red>，辐射抗性<red>-20%</red>
   rawValue: |-
     Terrakin are a curious lot. Tied to nature, they are generally not found outside of forested regions. Outside of wooden regions they are typically quite unhappy, morose and unapproachable.
 

@@ -3,7 +3,7 @@
   value: |-
     奇怪的伪生命构造体。
 
-    食性：什么都吃，但是几乎不需要进食
+    食性：任何食物，但是几乎不需要进食
 
     <orange>［天赋］</orange>
     <green>+20%</green> Health
@@ -17,7 +17,7 @@
 
     <red>［弱点］</red>
     能量值上限<red>-20%</red>
-    抗性：火炎抗性<red>-100%</red>
+    抗性：火焰抗性<red>-100%</red>
   rawValue: |-
     Bizarre pseudo-dead constructs
 

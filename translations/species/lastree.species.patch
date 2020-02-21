@@ -6,16 +6,16 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    <green>+When 50% fed, gain Regeneration</green>
-    <green>+30% Cosmic Resist, +50% Shadow Resist</green>
+    抗性：射线抗性<green>+30%</green>，暗影抗性<green>+50%</green>
+    饱食度在50%以上时：<green>缓慢恢复生命</green>
 
     <orange>［武器］</orange>
-    手枪+盾牌：防御力<green>+15%</green>
-    手枪，自动手枪：伤害<green>+10%</green>，暴击几率<green>+0.25%</green>，击退抵抗力<green>+50%</green>
+    手枪+盾牌：防御<green>+15%</green>
+    手枪，自动手枪：伤害<green>+10%</green>，暴击几率<green>+0.25%</green>，击退抵抗<green>+50%</green>
 
     <red>［弱点］</red>
     能量值上限<red>-10%</red>，饱食度上限<red>-10%</red>
-    抗性：火炎抗性<red>-50%</red>
+    抗性：火焰抗性<red>-50%</red>
   rawValue: |-
     A mysterious race bearing a resemblance to ancient Earth demons. Not much is known of these creatures.
 

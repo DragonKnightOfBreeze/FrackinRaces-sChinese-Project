@@ -6,18 +6,18 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    移动速度<green>+10%</green>，跳跃力<green>+10%</green>，坠落伤害<green>-20%</green>
-    交易老手：魅力<green>+21%</green>，初始金钱<green>+500</green>
+    增益：移动速度<green>+10%</green>，跳跃高度<green>+10%</green>，坠落伤害<green>-20%</green>
     抗性：电系抗性<green>+50%</green>
     免疫：感电
+    交易老手（魅力<green>+21%</green>，初始金钱<green>+500</green>）
 
     <orange>［武器］</orange>
     打击者：暴击几率<green>+1%</green>，暴击伤害<green>+5</green>
-    镰刀：防御力<green>+15%</green>
+    镰刀：防御<green>+15%</green>
 
     <red>［弱点］</red>
     生命值上限<red>-10%</red>
-    抗性：放射抗性<red>-20%</red>，毒素抗性<red>-25%</red>，射线抗性<red>-20%</red>
+    抗性：辐射抗性<red>-20%</red>，毒素抗性<red>-25%</red>，射线抗性<red>-20%</red>
   rawValue: |-
     Adorable, Omnivorous and nearly electric-proof space rodents. They prowl the stars seeking excitement, and are abnormally brave for rodents. Trustworthy and wise, they've earned a reputation as traders.
 

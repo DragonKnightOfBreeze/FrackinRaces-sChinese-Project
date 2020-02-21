@@ -15,13 +15,13 @@
     On <green>Lush, Forest, Primeval and Rainforest</green> biomes you gain <green>+25%<resset> energy.
 
     <orange>［武器］</orange>
-    魔杖，法杖：防御力<green>+20%</green>
+    魔杖，法杖：防御<green>+20%</green>
     魔杖：伤害<green>+10%</green>，能量值上限<green>+5%</green>
     法杖：伤害<green>+15%</green>，能量值上限<green>+20%</green>
 
     <red>［弱点］</red>
     生命值上限<red>-25%</red>
-    抗性：火炎抗性<red>-35%</red>，毒素抗性<red>-20%</red>，物理抗性<red>-15%</red>
+    抗性：火焰抗性<red>-35%</red>，毒素抗性<red>-20%</red>，物理抗性<red>-15%</red>
   rawValue: |-
     A winged, moth-like race from far across the stars. Diurnal. Lovers of 'arcane' technology.
 

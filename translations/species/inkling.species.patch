@@ -6,11 +6,9 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    <green>220s</green> Breath
-    <green>+10%</green> Physical resist, <green>+30%</green> Radioactive resist
-    <green>20%</green> Jump Height increase <green>+5%</green> Movement Speed
-    <green>-35%</green> Fall Damage.
-    Immune: Slime, Wet
+    增益：移动速度<green>+5%</green>，跳跃高度<green>+20%</green>，坠落伤害<green>-35%</green>，呼吸时限<green>+220s</green>
+    抗性：物理抗性<green>+10%</green>，辐射抗性<green>+30%</green>
+    免疫：黏液，潮湿
 
     <orange>［环境］</orange>
     On Ocean biomes, gain <green>+15%</green> Health and Energy, <green>5%</green> Speed, and Inf Oxygen.

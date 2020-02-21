@@ -6,10 +6,10 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    非常灵活：跳跃力<green>+20%</green>，移动速度<green>+8%</green>
+    增益：跳跃高度<green>+20%</green>，移动速度<green>+8%</green>
     抗性：寒气抗性<green>+15%</green>
     免疫：丛林泥土，泥
-    科技：<green>猫爪</green>
+    科技：猫爪
 
     <orange>［环境］</orange>
     Gain additional vitality and protection in <green>Jungle, Primeval, Forest, Rainforest, Desert</green> biomes
@@ -18,11 +18,11 @@
     拳套，匕首，短剑：暴击几率<green>+1%</green>
     投掷武器：伤害<green>+25%</green>
     磁力珠：暴击几率<green>+2%</green>
-    手炮：防御力<green>+15%</green>，伤害<green>+15%</green>
+    手炮：防御<green>+15%</green>，伤害<green>+15%</green>
     弓：蓄力时间<green>-0.1s</green>
 
     <red>［弱点］</red>
-    抗性：射线抗性<red>-20%</red>，放射抗性<red>-20%</red>
+    抗性：射线抗性<red>-20%</red>，辐射抗性<red>-20%</red>
   rawValue: |-
     An uplifted species by the Vel'uuish. This telepathic and telekinetic species follows their uplifters in their culture and use of technology. They love making terrible cat-based puns.
 

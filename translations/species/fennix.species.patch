@@ -6,11 +6,10 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    能量值上限<green>+15</green>，攻击力<green>+10</green>
-    移动速度<green>+15%</green>，跳跃高度<green>+5%</green>
-    岩浆中：生命回复速度<green>+25%</green>，能量回复速度<green>+25%</green>
-    抗性：火炎抗性<green>+20%</green>
+    增益：能量值上限<green>+15</green>，攻击力<green>+10</green>，移动速度<green>+15%</green>，跳跃高度<green>+5%</green>
+    抗性：火焰抗性<green>+20%</green>
     免疫：环境炎热，火焰，沙暴
+    岩浆中：生命回复速度<green>+25%</green>，能量回复速度<green>+25%</green>
 
     <orange>［环境］</orange>
     Hot Biomes: <green>+20% Health and Energy</green>

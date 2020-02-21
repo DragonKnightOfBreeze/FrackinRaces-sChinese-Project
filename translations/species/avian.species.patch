@@ -6,10 +6,9 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    能量值上限<green>+10%</green>，伤害<green>+5%</green>
-    跳跃速度<green>+30%</green>，跳跃高度<green>+5%</green>，坠落伤害<green>-65%</green>
+    增益：能量值上限<green>+10%</green>，伤害<green>+5%</green>，跳跃速度<green>+30%</green>，跳跃高度<green>+5%</green>，坠落伤害<green>-65%</green>
     抗性：暗影抗性<green>+15%</green>，电系抗性<green>+25%</green>，射线抗性<green>+25%</green>
-    科技：<green>翼族缓慢降落</green>
+    科技：翼族滑翔
 
     <orange>［环境］</orange>
     空中伤害<green>+12%</green>
@@ -17,7 +16,7 @@
 
     <orange>［武器］</orange>
     法杖，魔杖：<green>增加</green>能量值上限，伤害<green>+20%</green>，武器对应的元素抗性<green>+15%</green>
-    魔杖+匕首：可以释放射线爆破（<green>能量/16</green>的伤害）
+    魔杖+匕首：可以释放射线冲击（<green>能量/16</green>的伤害）
     短矛：伤害<green>+6%</green>，暴击几率<green>+1%</green>
     自动手枪：暴击几率<green>+1%</green>
 

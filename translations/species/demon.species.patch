@@ -6,8 +6,8 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    生命值上限<green>+15%</green>，防御力<green>+10%</green>
-    抗性：暗影抗性<green>+40%</green>，火炎抗性<green>+40%</green>
+    增益：生命值上限<green>+15%</green>，防御<green>+10%</green>
+    抗性：暗影抗性<green>+40%</green>，火焰抗性<green>+40%</green>
     免疫：炎热，燃烧
 
     <orange>［环境］</orange>
@@ -18,7 +18,7 @@
     匕首，短剑：暴击伤害<green>+10%</green>
     长剑，阔剑，刀：伤害<green>+10%</green>
     矛：暴击几率<green>+1.5%</green>，暴击伤害<green>+15%</green>
-    双持刀刃武器：防御力<green>+12%</green>，移动速度<green>+5%</green>
+    双持刀刃武器：防御<green>+12%</green>，移动速度<green>+5%</green>
 
     <red>［弱点］</red>
     抗性：寒气抗性<red>-40%</red>，射线抗性<red>-40%</red>

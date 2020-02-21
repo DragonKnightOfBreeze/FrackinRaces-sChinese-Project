@@ -6,9 +6,7 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    生命值上限<green>+5%</green>，能量值上限<green>+25%</green>
-    移动速度<green>+10%</green>，跳跃高度<green>+5%</green>，坠落伤害<green>-25%</green>
-    饥饿速度<green>-15%</green>
+    增益：生命值上限<green>+5%</green>，能量值上限<green>+25%</green>，移动速度<green>+10%</green>，跳跃高度<green>+5%</green>，坠落伤害<green>-25%</green>，饥饿速度<green>-15%</green>
     抗性：物理抗性<green>+10%</green>，电系抗性<green>+25%</green>，射线抗性<green>+5%</green>
     免疫：感电
 
@@ -21,8 +19,8 @@
     近战武器：伤害<green>+10%</green>移动速度<green>+20%</green>
 
     <red>［弱点］</red>
-    防御力<red>-10</red>
-    抗性：寒气抗性<red>-15%</red>，放射抗性<red>-15%</red>
+    防御<red>-10</red>
+    抗性：寒气抗性<red>-15%</red>，辐射抗性<red>-15%</red>
   rawValue: |-
     Masses of energy created by a near extinct group of races known as the Aurorans, these feline/vulpine hybrids are ^orange;usually^reset; a rather laid back people.
 

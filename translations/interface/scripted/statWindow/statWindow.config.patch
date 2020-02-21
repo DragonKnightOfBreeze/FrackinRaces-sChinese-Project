@@ -130,7 +130,6 @@
   path: /statuses/extremepressureProtection/name
   value: <gray>极端压强
   rawValue: ^gray;Pressure
-  translationAnnotation: Fixed
 - op: replace
   path: /statuses/pressureProtection/name
   value: <gray>压强

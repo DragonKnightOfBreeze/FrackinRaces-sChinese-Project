@@ -6,8 +6,8 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    防御<green>+5</green>，饱食度上限<green>+50%</green>
-    抗性：<green>20%</green>电系&放射抗性
+    增益：防御<green>+5</green>，饱食度上限<green>+50%</green>
+    抗性：电系抗性<green>+20%</green>，辐射抗性<green>+20%</green>
 
     <orange>［环境］</orange>
     <green>丛林/沙漠/硫酸</green>生态：增加能量值上限和防御
@@ -20,7 +20,7 @@
 
     <red>［弱点］</red>
     交易苦手：魅力<red>-25%</red>
-    抗性：火炎抗性<red>-30%</red>，寒气抗性<red>-20%</red>
+    抗性：火焰抗性<red>-30%</red>，寒气抗性<red>-20%</red>
   rawValue: |-
     Beetle-like omnivorous bipeds with tough chitin plates and a love for the exuberant.
 

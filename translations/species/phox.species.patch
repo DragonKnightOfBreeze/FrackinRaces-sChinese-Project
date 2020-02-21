@@ -20,8 +20,8 @@
     狙击步枪：暴击几率<green>+2%</green>
 
     <red>［弱点］</red>
-    击退抵抗力<red>-50%</red>
-    抗性：毒素抗性<red>-40%</red>，暗影抗性<red>-20%</red>，放射抗性<red>-20%</red>，射线抗性<red>-20%</red>
+    击退抵抗<red>-50%</red>
+    抗性：毒素抗性<red>-40%</red>，暗影抗性<red>-20%</red>，辐射抗性<red>-20%</red>，射线抗性<red>-20%</red>
   rawValue: |-
     A race of clever colonial foxes.
 

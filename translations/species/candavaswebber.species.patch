@@ -6,9 +6,9 @@
     食性：高糖食物，完全无法安全地消化肉类
 
     <orange>［天赋］</orange>
-    能量值上限<green>+20%</green>，生命值上限<green>+10%</green>
+    增益：能量值上限<green>+20%</green>，生命值上限<green>+10%</green>
     抗性：射线抗性<green>+40%</green>，暗影抗性<green>+30%</green>
-    免疫：蜘蛛网
+    免疫：网
     <orange>发出微光，进食含糖食物时获得10%的移动速度</orange>
 
     <orange>［环境］</orange>
@@ -21,7 +21,7 @@
 
     <red>［弱点］</red>
     移动速度<red>-10%</red>
-    抗性：火炎抗性<red>-40%</red>，毒素抗性<red>-30%</red>，放射抗性<red>-20%</red>
+    抗性：火焰抗性<red>-40%</red>，毒素抗性<red>-30%</red>，辐射抗性<red>-20%</red>
   rawValue: |-
     An odd and near-"magical" variation of the webber clones. Composed of nothing but abnormal substances and plenty of sugar, their biology is left to be questioned.
 
