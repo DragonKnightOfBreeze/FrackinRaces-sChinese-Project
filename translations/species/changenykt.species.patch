@@ -12,11 +12,11 @@
     免疫：寒冷
 
     <orange>［环境］</orange>
-    <green>+10%</green> Speed and Jump on Lush, Forest, Jungle, Rainforest, Snow, Tundra, and Arctic Biomes.
-    <red>-10%</red> Speed and Jump on Bog, Ocean, Magma, and Volcanic Biomes.
+    葱绿，森林，丛林，雨林，湿地，冻土，极地生态：移动速度<green>+10%</green>，跳跃高度<green>+10%</green>
+    沼泽，海洋，岩浆，火山生态：移动速度<red>-10%</red>，跳跃高度<red>-10%</red>
 
     <orange>［弱点］</orange>
-    能量值上限<red>-10%</red>
+    减益：能量值上限<red>-10%</red>
     抗性：火焰抗性：<red>-40%</red>
   rawValue: |-
     A race of shapeshifting and insecure creatures borne from a planet called Gaia.

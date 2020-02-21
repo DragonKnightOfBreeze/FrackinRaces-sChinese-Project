@@ -16,7 +16,7 @@
     连发火箭发射器，连发榴弹发射器：伤害<green>+15%</green>
 
     <red>［弱点］</red>
-    能量值上限<red>-20%</red>
+    减益：能量值上限<red>-20%</red>
     抗性：寒气抗性<red>-35%</red>
   rawValue: |-
     Slow and lazy pacifists

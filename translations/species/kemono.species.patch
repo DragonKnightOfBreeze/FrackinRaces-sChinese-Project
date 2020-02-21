@@ -13,7 +13,7 @@
     完美格挡时：增加伤害和防御
 
     <red>［弱点］</red>
-    能量值上限<red>-12%</red>
+    减益：能量值上限<red>-12%</red>
     抗性：暗影抗性<red>-50%</red>
   rawValue: |-
     Able fox-like warriors.

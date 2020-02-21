@@ -10,7 +10,7 @@
     抗性：寒气抗性<green>+20%</green>，暗影抗性<green>+25%</green>，射线抗性<green>+10%</green>
 
     <orange>［环境］</orange>
-    Gain <green>+10%</green> Health and Protection in <green>Lush,Primeval, Forest, Jungle, Rainforest, Tundra, and Snow</green> biomes
+    葱绿，原始森林，丛林，雨林，冻土，雪地生态：生命值上限<green>+10%</green>，防御<green>+10%</green>
 
     <orange>［武器］</orange>
     匕首，短剑：暴击几率<green>+3%</green>
@@ -20,7 +20,7 @@
     完美格挡时：防御<green>+2</green>，伤害<green>+2%</green>
 
     <red>［弱点］</red>
-    能量值上限<red>-12%</red>
+    减益：能量值上限<red>-12%</red>
     抗性：火焰抗性<red>-25%</red>
   rawValue: |-
     Swift and dangerous fox people. Able warriors.

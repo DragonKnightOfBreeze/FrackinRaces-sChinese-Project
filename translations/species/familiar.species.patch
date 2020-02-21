@@ -16,7 +16,7 @@
     法杖：伤害<green>+15%</green>，防御<green>+15%</green>
 
     <red>［弱点］</red>
-    生命值上限<red>-20%</red>
+    减益：生命值上限<red>-20%</red>
     抗性：电系抗性<red>-50%</red>，物理抗性<red>-20%</red>
   rawValue: |-
     Strange near-magical constructs given sentience.

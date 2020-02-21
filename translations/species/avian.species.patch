@@ -11,17 +11,17 @@
     科技：翼族滑翔
 
     <orange>［环境］</orange>
-    空中伤害<green>+12%</green>
-    在低到中等强度的风中获得空中机动
+    低到中等强度的风可以提供空中机动性
 
     <orange>［武器］</orange>
+    空中伤害<green>+12%</green>
     法杖，魔杖：<green>增加</green>能量值上限，伤害<green>+20%</green>，武器对应的元素抗性<green>+15%</green>
     魔杖+匕首：可以释放射线冲击（<green>能量/16</green>的伤害）
     短矛：伤害<green>+6%</green>，暴击几率<green>+1%</green>
     自动手枪：暴击几率<green>+1%</green>
 
     <red>［弱点］</red>
-    生命值上限<red>-15%</red>
+    减益：生命值上限<red>-15%</red>
     抗性：寒气抗性<red>-30%</red>，毒素抗性<red>-25%</red>，物理抗性<red>-5%</red>
   rawValue: |-
     A people of powerful faith and strongly attuned to the universe, Avians are naturals with staves and wands and are exceptionally agile.

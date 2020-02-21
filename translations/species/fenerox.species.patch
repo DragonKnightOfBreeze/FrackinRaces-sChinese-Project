@@ -9,11 +9,11 @@
     增益：移动速度<green>+6%</green>，跳跃高度<green>+6%</green>
     抗性：毒素抗性<green>+40%</green>，电系抗性<green>+40%</green>，射线抗性<green>+25%</green>
     科技：猎人之爪
-    夜间时：<green>回复生命值和能量值</green>
+    夜间时：<green>回复生命和能量值</green>
 
     <orange>［环境］</orange>
-    In dry grasslands you gain <green>+15%</green> Damage
-    At night, if well fed, gain <green>+15%</green> Physical Resist and <green>+2</green> protection
+    干草原生态：伤害<green>+15%</green>
+    夜间时：如果饱食度较高，防御力<green>+2</green>，物理抗性<green>+15%</green>
 
     <orange>［武器］</orange>
     <green>增加当前速度的1/4为近战伤害</green>
@@ -21,7 +21,7 @@
     矛：伤害<green>+10%</green>，暴击几率<green>+2%</green>，防御<green>+20%</reset>
 
     <red>［弱点］</red>
-    生命值上限<red>-10%</red>，饱食度上限<red>-25%</red>
+    减益：生命值上限<red>-10%</red>，饱食度上限<red>-25%</red>
     抗性：火焰抗性<red>-20%</red>，暗影抗性<red>-20%</red>
   rawValue: |-
     Fenerox are new to the established galactic order. Their tech is generally rather low, and only a few have moved beyond their hunter-gatherer lifestyle. Their skill in hunting is remarkable.

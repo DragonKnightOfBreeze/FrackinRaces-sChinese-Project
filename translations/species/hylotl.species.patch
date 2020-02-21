@@ -9,11 +9,12 @@
     增益：生命值上限<green>+20%</green>，水中呼吸时限<green>+1500</green>
     抗性：寒气抗性<green>+20%</green>
     物质枪自带液体收集功能
+    游泳加速
 
     <orange>［环境］</orange>
-    <green>海洋</green>生态：获得额外的<green>防御、生命值上限和能量值上限</green>
-    水中：防御<green>+4</green>，生命值上限<green>+20</green>，<green>游泳增强</green>
-    雨中：得到微量的回复加成。
+    海洋生态： <green>增加生命值上限，能量值上限和防御</green>
+    水中：生命值上限<green>+20</green>，防御<green>+4</green>，
+    雨中：<green>得到微量的回复加成</green>
 
     <orange>［武器］</orange>
     剑：生命值在<green>75%</green>以上时，暴击几率<green>+2%</green>

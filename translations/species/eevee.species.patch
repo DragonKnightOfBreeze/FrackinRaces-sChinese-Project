@@ -11,7 +11,7 @@
     免疫：轻度辐射
 
     <orange>［环境］</orange>
-    葱郁/森林/丛林生态：机动性<green>+5%</green>
+    葱郁，森林，丛林生态：机动性<green>+5%</green>
     炎热生态：火焰抗性<green>+10%</green>，寒气抗性<red>-10%</red>
     寒冷生态：寒气抗性<green>+10%</green>，火焰抗性<red>-10%</red>
 
@@ -20,7 +20,7 @@
     手枪，自动手枪，霰弹枪，弓，回旋镖，悠悠球：伤害<red>-15%</red>
 
     <red>［弱点］</red>
-    防御<red>-5</red>
+    减益：防御<red>-5</red>
     抗性：物理抗性<red>-50%</red>，毒素抗性<red>-10%</red>，暗影抗性<red>-5%</red>
   rawValue: |-
     Through natural evolution, these former quadrupeds gained more human characteristics, at the cost of their transformative abilities. Though they have accomodated for this with special armor.

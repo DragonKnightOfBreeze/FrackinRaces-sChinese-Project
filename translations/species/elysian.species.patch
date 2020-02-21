@@ -11,15 +11,15 @@
     免疫：感电
 
     <orange>［环境］</orange>
-    Irradiated: <red>-25%</red> energy, <red>-15%</red> attack
-    Lush, Forest, and Jungle: <green>+20</green> Health/Energy/Attack<reset>
+    葱绿，森林，丛林生态：生命值上限<green>+20</green>，能量值上限<green>+20</green>，伤害<green>+20</green>
+    辐射状态时：能量值上限<green>-25%</green>，伤害<green>-15%</green>
 
     <orange>［武器］</orange>
     弓：伤害<green>+10%</green>，移动速度<green>+15%</green>
     近战武器：伤害<green>+10%</green>移动速度<green>+20%</green>
 
     <red>［弱点］</red>
-    防御<red>-10</red>
+    减益：防御<red>-10</red>
     抗性：寒气抗性<red>-15%</red>，辐射抗性<red>-15%</red>
   rawValue: |-
     Masses of energy created by a near extinct group of races known as the Aurorans, these feline/vulpine hybrids are ^orange;usually^reset; a rather laid back people.
@@ -46,3 +46,4 @@
     ^red;-10^reset; Defense
     ^red;-15%^reset; Ice and Radiation
   translationAnnotation: NotTranslated
+  translationNote: 确定不是“伤害”而非“攻击力”？

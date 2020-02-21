@@ -12,8 +12,8 @@
     岩浆中：生命回复速度<green>+25%</green>，能量回复速度<green>+25%</green>
 
     <orange>［环境］</orange>
-    Hot Biomes: <green>+20% Health and Energy</green>
-    Cold Biomes: <red>-20% Health and Energy, -20% Attack, and -20% Fire Resist</red>
+    炎热生态：生命值上限<green>+20%</green>，能量值上限<green>+20%</green>
+    寒冷生态：生命值上限<red>-20%</red>，能量值上限<red>-20%</red>，伤害<red>-20%</red>，火焰抗性<red>-20%</red>
 
     <orange>［武器］</orange>
     法杖，魔杖：伤害<green>+15%</green>
@@ -21,7 +21,7 @@
     刺剑：伤害<green>+5%</green>
 
     <red>［弱点］</red>
-    生命值上限<red>-5</red>
+    减益：生命值上限<red>-5</red>
     抗性：寒气抗性<red>-20%</red>
   rawValue: |-
     An experiment by the Miniknog, these foxes have a great resistance to heat. However, unlike their feral bretheren, they cannot adapt to cold climates.

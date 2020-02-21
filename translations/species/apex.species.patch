@@ -9,19 +9,19 @@
     增益：能量值上限<green>+30%</green>，移动速度<green>+8%</green>，跳跃高度<green>+15%</green>
     抗性：寒气抗性<green>+20%</green>，毒素抗性<green>+10%</green>，疯狂抗性<_e43774>+20%</_e43774>
     免疫：丛林泥块，泥
-    物质枪挖掘格数<green>+1</green>
+    物质枪挖掘格数+1
 
     <orange>［环境］</orange>
-    <green>丛林，原始森林，森林，雨林，冰雪生态</green>：增加生命值上限和防御
+    丛林，原始森林，森林，雨林，雪地生态：<green>增加生命值上限和防御力</green>
 
     <orange>［武器］</orange>
     拳套：暴击几率<green>+1%</green>
     锤：伤害<green>+10%</green>
     激光挖掘器：伤害<green>+50%</green>
-    磁力珠，投掷武器：伤害<green>+12%</green>，增加防御
+    磁力珠，投掷武器：伤害<green>+12%</green>，<green>增加防御</green>
 
     <red>［弱点］</red>
-    饱食度上限<red>-20%</red>
+    减益：饱食度上限<red>-20%</red>
     抗性：暗影抗性<red>-20%</red>，射线抗性<red>-20%</red>，辐射抗性<red>-20%</red>
   rawValue: |-
     A race of highly intelligent primates. These masters of science are skilled miners and agile combatants, but become near-unstoppable brutes when wounded.

@@ -11,8 +11,8 @@
     科技：灵能波
 
     <orange>［环境］</orange>
-    On <green>electrically charged or crystal</green> biomes, gain <green>10% speed</green>
-    On <green>cold</green> biomes, gain <green>10% Protection</green>
+    带电，水晶生态：移动速度<green>+10%</green>
+    寒冷生态：防御<green>+10%</green>
 
     <orange>［武器］</orange>
     灵能喷射器：伤害<green>+20%</green>
@@ -20,7 +20,7 @@
     磁力珠：伤害<green>+15%</green>，防御<green>+10%</green>
 
     <red>［弱点］</red>
-    魅力<red>-10%</red>
+    减益：魅力<red>-10%</red>
     抗性：射线抗性<red>-23%</red>，暗影抗性<red>-23%</red>
   rawValue: |-
     An unusual psionic species of extremophiles. Can generate a powerful psionic vibration through sheer willpower.

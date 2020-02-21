@@ -11,11 +11,11 @@
     免疫：黏液，潮湿
 
     <orange>［环境］</orange>
-    On Ocean biomes, gain <green>+15%</green> Health and Energy, <green>5%</green> Speed, and Inf Oxygen.
-    On Warm biomes, <green>+5%</green> Health and Energy, <green>+30%</green> regen rate.
-    On Cold biomes, <red>-10%</red> Health and Energy, <red>-20%</red> regen rate.
-    <green>+10%</green> Health and Energy, Inf Breath In Oil, Slime, Dark Water, or Healing Water
-    <red>-30%</red> Health and Energy, Reduced Breath in Poison, Swamp Water, or Contaminated Water
+    海洋生态：生命值上限<green>+15%</green>，能量值上限<green>+15%</green>，移动速度<green>+5%</green>，免疫窒息
+    温暖生态：生命值上限<green>+5%</green>，能量值上限<green>+5%</green>，生命回复速度<green>+30%</green>
+    寒冷生态：生命值上限<red>-10%</red>，能量值上限<red>-10%</red>，生命回复速度<red>-20%</red>
+    油，黏液，腐化之水，生命之水中：生命值上限<green>+10%</green>，能量值上限<green>+10%</green>，免疫窒息
+    毒水，沼泽水，污染水：生命值上限<red>-30%</red>，能量值上限<red>-30%</red>，减少呼吸时限
 
     <orange>［武器］</orange>
     手枪，自动手枪：伤害<green>+20%</green>，能量回复速度<green>15%</green>
@@ -24,7 +24,7 @@
     能量武器：伤害<green>+5%</green>，能量回复速度<green>5%</green>
 
     <red>［弱点］</red>
-    饥饿速度<red>+6%</red>
+    减益：饥饿速度<red>+6%</red>
     抗性：寒气抗性<red>-20%</red>，电系抗性<red>-20%</red>
   rawValue: |-
     Colorful, chatty squid people. Light on their feet, sensitive to climate and liquids, and quite talented with their energy-based firearms.

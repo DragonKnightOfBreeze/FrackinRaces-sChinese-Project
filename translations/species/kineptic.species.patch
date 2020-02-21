@@ -13,7 +13,7 @@
     长棍：伤害<green>+15%</green>，防御<green>+3</green>
 
     <red>［弱点］</red>
-    能量值上限<red>-5%</red>
+    减益：能量值上限<red>-5%</red>
     抗性：暗影抗性<red>-25%</red>，电系抗性<red>-15%</red>
   rawValue: |-
     Energy-wielding space cats. Missing for years. If they reappear again, please tell the FU crew since we'll need to redo them from scratch.

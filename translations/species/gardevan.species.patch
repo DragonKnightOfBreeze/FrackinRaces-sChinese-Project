@@ -12,14 +12,14 @@
     受伤时：播种花地
 
     <orange>［环境］</orange>
-    <green>Increased stats during daylight hours</green>
-    <green>Regenerate in sunlight (see Floran ability)</green>
+    日间时：<green>提升状态</green>
+    日间时：<green>回复生命</green>。如果生命值和饱食度已满，额外<green>增加能量回复速度</green>
 
     <orange>［武器］</orange>
     鞭：伤害<green>+20%</green>，移动速度<green>+15%</green>，跳跃高度<green>+15%</green>
 
     <red>［弱点］</red>
-    能量值上限<red>-20%</red>
+    减益：能量值上限<red>-20%</red>
     抗性：火焰抗性<red>-40%</red>
   rawValue: |-
     Psionic creatures.

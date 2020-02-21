@@ -6,14 +6,13 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    增益：能量值上限<green>+12%</green>，伤害<green>+5%</green>
+    增益：能量值上限<green>+12%</green>，伤害<green>+5%</green>，饥饿速度<green>-40%</green>
     抗性：暗影抗性<green>+20%</green>，辐射抗性<green>+20%</green>
     免疫：雪泥，雪，泥土，泥，网，沙暴
     保持高饱食度能够增加移动速度（最大<green>+16.6%</green>）
 
     <orange>［环境］</orange>
-    Gain additional power and health in <green>Lush, Forest and Tundra</green> biomes
-    <green>40% Hunger Reduction</green>
+    葱绿，森林，冻土生态：<green>增加生命值上限和伤害</green>
 
     <orange>［武器］</orange>
     枪械：暴击几率<green>+3%</green>，能量回复速度<green>+25%</green>
