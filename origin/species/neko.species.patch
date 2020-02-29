@@ -34,5 +34,4 @@
 
     ^red;Weaknesses^reset;:
     ^red;-20%^reset; Physical, Shadow, Cosmic and Radiation Resist
-  translationAnnotation: NotTranslated
   translationNote: “Energy Regen Block Time”是否就是“能量回复速度”？

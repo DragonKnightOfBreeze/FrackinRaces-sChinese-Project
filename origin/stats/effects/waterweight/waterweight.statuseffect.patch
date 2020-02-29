@@ -1,4 +1,4 @@
 - op: replace
   path: /label
+  value: 水压
   rawValue: Water Weight
-  translationAnnotation: NotTranslated

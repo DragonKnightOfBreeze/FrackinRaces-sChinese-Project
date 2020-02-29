@@ -1,5 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
+  value: |-
+    隐居的卡纳诺斯直到最近才加入太空旅行。他们的天性和兴趣通常不为他人所接受。
+
+    食性：杂食性
+
+    <orange>［天赋］</orange>
+    <green>腐败天性（免疫毒素，微量的生命回复）</green>
+    <green>缓慢新陈代谢（需要进食更少的食物）</green>
+    <green>厚皮毛（增加电系抗性和寒冷抗性，减少火焰抗性）</green>
+
+    <orange>［环境］</orange>
+    骨地，血肉生态：能量回复速度<green>+30%</green>
+
+    <orange>［武器］</orange>
+    魔杖，法杖：能量值上限<green>+10%</green>，防御<green>+15%</green>
+    活着的武器：伤害<green>+20%</green>
+
+    <red>弱点</red>
+    减益：生命值上限<red>-10%</red>
+    抗性：火焰抗性<red>-10%</red>
+    <red>讨厌液体</red>
   rawValue: |-
     The reclusive Carakinox have only very recently gotten into space travel, their nature and interests usually frowned upon by others.
 
@@ -21,4 +42,3 @@
     ^red;-10%^reset; Health
     ^red;-75%^reset; Fire Resist
     ^red;Doesn't like Liquids^reset;
-  translationAnnotation: NotTranslated
