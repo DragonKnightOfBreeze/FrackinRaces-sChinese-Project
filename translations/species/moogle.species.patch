@@ -1,7 +1,9 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Fluffy, adorable, cosmic-attuned lagomorphic critters from a distant world of fantasy that have a pom-pom, bat-like wings, and a thing for saying "Kupo!". They typically are very skilled machinists, but they sometimes choose to become a knight or a mage instead.
+    来自遥远的幻想世界的蓬松的，可爱的，协调的小动物。他们长有小绒球和蝙蝠状的翅膀，口头禅是“库啵！”。
+    他们通常是非常熟练的机械师，但有时，他们会选择成为骑士和法师。
+    （注：莫古力，虚构种族，来自《最终幻想》）
 
     食性：杂食性
 

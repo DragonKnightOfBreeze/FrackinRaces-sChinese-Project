@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Bipedal deer-like people from the Valos Nebula. They are noted for their adorable appearance, which makes them well liked by many. Agrarian, they prefer forests and fields.
+    来自瓦洛斯星云的两足动物般的鹿。他们以可爱的外观而闻名，这使他们深受许多人的喜爱。
+    在住所方面，他们更偏爱森林和田野。
 
     食性：素食性
 

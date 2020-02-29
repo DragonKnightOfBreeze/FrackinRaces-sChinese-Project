@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Nomadic tribal hunters. Low-tech, but capable of understanding technology with minimal training.
+    游牧的部落猎人。他们的科技水平很低，但是经过极少的学习和训练，就能手握科学之门的钥匙。
 
     食性：杂食性
 

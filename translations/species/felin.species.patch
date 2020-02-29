@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Meow. Space-cats with a funky culture and quirky language. Agility is their forte, and their claws and predatory instincts give them an edge in combat.
+    喵！这是一群具有流行文化和古怪语言的太空猫咪。
+    他们非常敏捷，而利爪和掠夺本能则使他们在战斗中更占优势。
 
     食性：荤食性
 

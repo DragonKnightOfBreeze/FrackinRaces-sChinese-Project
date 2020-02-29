@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A particularly elusive species, the Lombaxes are reknowned for their knack for inventions and gadgetry. Not much is known of them, but what is known is that they come in all shapes, stripes and colors.
+    诺巴克斯是一个特别难以捉摸的种族，以其在发明和小玩意上的独特技巧而闻名。
+    人们对他们仍然知之甚少，但已知他们会以各种各样的形状，条纹和颜色出现。
 
     食性：杂食性
 

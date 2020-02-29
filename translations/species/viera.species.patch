@@ -1,7 +1,9 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Cosmic-attuned bunny-folk from a distant world of fantasy. Skilled fencers, archers, and spellcasters.
+    来自遥远的幻想世界的兔耳种族。
+    她们是熟练的击剑手，弓箭手和施法者。
+    （注：维艾拉，虚构种族，来自《最终幻想》）
 
     食性：杂食性
 

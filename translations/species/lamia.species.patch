@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Swift and dangerous snake-people. Their efficient metabolisms allow them to function on almost no food, and their powerful tails give them a mighty spring in their step.
+    迅捷而危险的蛇人种族。高效的新陈代谢使他们几乎不需要吃任何食物，强大的尾巴则为他们提供了强大的活力。
 
     <orange>［天赋］</orange>
     增益：能量值上限<green>+20%</green>，跳跃高度<green>+20%</green>，饥饿速度<green>-50%</green>

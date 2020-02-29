@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    The Mantids are a largely nomadic species with no homeworld of their own. What few traditions their kind have are devoted to the art of war, and most Mantid take great pride in personally eviscerating their enemies.
+    曼缇徳是一个以游牧为主的种族，没有自己的家园。
+    一般来说，在他们的族群中，很少有人热衷于战争的艺术。但大多数曼缇徳都以亲自消灭敌人为荣。
 
     食性：荤食性
 

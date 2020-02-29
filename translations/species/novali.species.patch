@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Adorable hybrid glowing space raptors with wings. Though they have a disputed, potentially nonexistant origin, they share traits with both Novakids and Avalis, and they are deadly with heavy weapons.
+    可爱的有翼太空猛禽。他们与星之子和羽族都有许多共同的特征，尽管他们的起源仍然存在争议，甚至并不存在。
+    此外，装备有重型武器的他们极其致命。
 
     食性：杂食性
 

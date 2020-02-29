@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Personable cat-people. Light on their feet and quick to regain their stamina, they excel in close quarters despite their frailty, and are hardened against the forces of nature.
+    风度翩翩的猫人种族。他们脚步轻盈，能够快速恢复体力。
+    尽管体质偏弱，他们仍然能够在近距离表现得相当出色，并且因为抵抗自然力量而变得坚强。
 
     食性：杂食性，包括生肉。
 

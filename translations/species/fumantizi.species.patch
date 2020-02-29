@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    外形像甲虫一样的杂食性两足种族。拥有坚硬的几丁质外壳，总是元气满满。
+    外形像甲虫一样的杂食性两足种族。他们拥有坚硬的几丁质外壳，总是元气满满。
 
     食性：杂食性
 

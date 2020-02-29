@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    In a top secret biotech facility, a race of superior beings have created a range of cyborg creatures, each with the intended purposes of exploring the unknown reaches of the universe.
+    在一个高度机密的生物技术设施中，一个超凡种族创造了一系列的机器生物，每个机械生物都被设置了探索宇宙未知角落的预定目的。
 
     食性：杂食性
 

@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A winged, moth-like race from far across the stars. Nocturnal. Well suited to combat.
+    形似飞蛾的夜行种族，来自星星的彼端。他们非常善于战斗。
 
     食性：素食性
 

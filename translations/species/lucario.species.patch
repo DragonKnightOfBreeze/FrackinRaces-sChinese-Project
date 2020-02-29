@@ -1,7 +1,9 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Despite their fluffy appearance, this species is incredibly adaptive. They are no strangers to fighting and have their own unique power named Aura. In past they were guardians of their home world, and merged perfectly with the Protectorate.
+    尽管拥有蓬松的外观，这个种族却具有极强的适应性。
+    他们对战斗并不陌生，拥有属于自己的独特力量，称为“气力”。
+    过去，他们是自己家园的守护者，并且完美地融入了保护国。
 
     食性：杂食性（浆果）
 

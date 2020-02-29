@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Symbiotes birthed from the fallen. Sentient. An unusual and resilient people who struggle to come to grips with where they came from.
+    从坠落中诞生的共生生物，渐渐有了自我意识。
+    他们不同寻常，他们富有弹性，他们努力掌握自身的起源。
 
     食性：杂食性
 

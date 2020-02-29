@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Everis are a race of dog-like humanoids with impressive advancements in technology and an optimistic, borderline childish outlook on life.
+    埃弗里斯是一群犬形类人生物。他们在技术上取得了令人瞩目的进步，但对生命的看法却显得乐观而又幼稚。
 
     食性：杂食性
 

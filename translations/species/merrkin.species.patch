@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Aquatic creatures resembling the Mermaids of Earth legends. They are avid swimmers, and skilled with spears and tridents.
+    令人想起地球的美人鱼传说的水生生物。他们是热心的游泳者，能够熟练使用长矛和三叉戟。
 
     食性：杂食性
 

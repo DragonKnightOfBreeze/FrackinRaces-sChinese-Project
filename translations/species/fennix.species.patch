@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    An experiment by the Miniknog, these foxes have a great resistance to heat. However, unlike their feral bretheren, they cannot adapt to cold climates.
+    科技发展部的实验生物。这些狐狸具有很好的耐热性，但与他们的野生兄弟们不同，他们无法适应寒冷的气候。
 
     食性：杂食性
 

@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Energy-wielding space cats. Missing for years. If they reappear again, please tell the FU crew since we'll need to redo them from scratch.
+    驾驭能量的的太空猫咪，失踪多年。
+    如果他们重新露面，请告诉富兰克林宇宙号的全体船员，因为我们需要从头开始重做他们。
 
     <orange>［天赋］</orange>
     增益：移动速度<green>+10%</green>，跳跃高度<green>+10%</green>

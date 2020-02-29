@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Grey, horned insectoids. The brutality of their homeworld has made them incredibly hardy, but they're somewhat unhinged, and very susceptible to psionics- even their own.<reset>
+    灰色的角类昆虫种族。
+    母星残酷无情的自然环境使他们变得异常坚韧，但也导致他们有些精神失常，以至于很容易受到灵能使用者（甚至是他们自己）的影响。
 
     <orange>［天赋］</orange>
     增益：生命值上限<green>+10%</green>

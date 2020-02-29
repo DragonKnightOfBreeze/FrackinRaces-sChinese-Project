@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Each member of this species is a small piece of universe-devouring Ruin.
+    这个种族的每个成员都是吞噬整个宇宙的祸的一小部分。
 
     食性：杂食性
 

@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    An uplifted species by the Vel'uuish. This telepathic and telekinetic species follows their uplifters in their culture and use of technology. They love making terrible cat-based puns.
+    一个被Vel'uuish开化的种族。他们天生拥有灵力和念力，追随其开化者的文化和科学技术。
+    此外，他们也喜欢创造可怕的猫咪双关语。
 
     食性：荤食性
 

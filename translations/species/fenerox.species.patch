@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Fenerox are new to the established galactic order. Their tech is generally rather low, and only a few have moved beyond their hunter-gatherer lifestyle. Their skill in hunting is remarkable.
+    菲诺狐对于已建立的银河秩序来说可能是新面孔，他们的技术水平普遍较低，只有少数人超脱了他们围绕着狩猎和采集的原始生活方式。
+    ——是的，他们的狩猎技能非常出色。
 
     食性：荤食性
 

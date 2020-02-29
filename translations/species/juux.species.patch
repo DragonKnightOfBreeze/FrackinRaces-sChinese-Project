@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    An unusual psionic species of extremophiles. Can generate a powerful psionic vibration through sheer willpower.
+    由无数极端微生物聚合而成的灵能种族，能够通过纯粹的意志力产生强大的灵能震动。
 
     食性：任何食物，包括处理后的同位素
 

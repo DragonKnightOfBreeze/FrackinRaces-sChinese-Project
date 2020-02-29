@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Once invaded by an alien force which forced them to focus on their military and their defenses, they're extraordinary well trained fighters. Their aquatic origins make them especially dangerous in water and make them a force to be reckoned with.
+    一场来自外星势力的入侵，迫使他们专注于自己的军事和防御。从此，他们便成为了训练有素的非凡战士。
+    水生起源使他们在水中特别危险，并成为不容忽视的力量。
 
     食性：杂食性
 

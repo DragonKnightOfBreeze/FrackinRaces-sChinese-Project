@@ -1,7 +1,9 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A mysterious race of cave dwellers known for their underground cities and love for treasure. Adapted to the deep underground, they can jump high and take less fall damage. Due to their impressive eyesight, they have higher precision with weapons.
+    一个作为洞穴居民的神秘种族，因其地下城市和对财宝的热爱而闻名。
+    他们适应了地下深处的生活环境，可以跳得更高，并且承受更少的坠落伤害。
+    他们拥有令人印象深刻的视力，因此所使用武器的精度更高。
 
     食性：杂食性，包括生肉
 

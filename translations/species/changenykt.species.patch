@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A race of shapeshifting and insecure creatures borne from a planet called Gaia.
+    一个不安全的变形种族，来自盖亚行星。
 
     食性：杂食性
 

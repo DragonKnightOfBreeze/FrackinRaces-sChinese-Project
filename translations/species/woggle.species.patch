@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A Small, social, and overly cute reality-bending dinosaur-like things. They imagine, and reality follows suit.
+    过于可爱的恐龙模样的小家伙们，群居习性，拥有扭曲现实的能力。他们幻想，幻想成真。
 
     食性：素食性
 

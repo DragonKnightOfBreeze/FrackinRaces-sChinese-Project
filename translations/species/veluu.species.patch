@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A fractured race of sapient cats. Half are peace loving free-thinkers, while the rest are war-hungry monsters.
+    被赋有智慧的猫咪的支离破碎的种族。一半是爱好和平的自由思想者，一半是渴望战争的怪物。
 
     食性：杂食性，包括生肉
 

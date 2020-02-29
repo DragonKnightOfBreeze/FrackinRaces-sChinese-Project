@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Terrakin are a curious lot. Tied to nature, they are generally not found outside of forested regions. Outside of wooden regions they are typically quite unhappy, morose and unapproachable.
+    泰拉肯是一个与自然紧密关联的，富有好奇心的种族。他们通常不会在森林区域以外被发现。
+    一旦走出森林，他们通常会变得非常不愉快，沮丧，并且难以接近。
 
     食性：素食性
 

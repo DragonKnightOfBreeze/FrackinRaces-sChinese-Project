@@ -1,7 +1,9 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    The Tauren are a towering, strong and noble race of bovine humanoids from a distant world, with soft, short fur, hooves, tails and imposing horns. They value their shamanistic and druidic culture highly, and they are talented hunters, but aren't quite as proficient with modern weaponry. Nomadic by nature, they can adapt to their surroundings.
+    牛头人是来自遥远世界的高耸，坚韧而高贵的类牛人形生物，拥有柔软的短毛，蹄，尾巴和雄伟的角。
+    他们非常重视萨满教和德鲁伊文化，也是才华横溢的猎人，但对现代武器却不怎么熟练。
+    他们是天生的游牧种族，可以快速适应周围的环境。
 
     食性：杂食性
 

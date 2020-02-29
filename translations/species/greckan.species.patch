@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Born from raw Erchius, the greckan seek to understand their origins, and have a strong kinship with other Erchius lifeforms. High energy, resistant to damage but have weak immune systems. Exceptional when underground.
+    凯瑞甘诞生自原始的厄尔修斯幽灵，一直视图了解自身的起源。他们与其他的厄尔修斯生命形式都有很强的血缘关系。
+    他们拥有较高的能量和良好的伤害抵抗能力，但是免疫系统却比较脆弱。他们也尤为适合生存在地下。
 
     食性：杂食性
 

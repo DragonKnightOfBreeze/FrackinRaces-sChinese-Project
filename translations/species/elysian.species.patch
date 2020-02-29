@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Masses of energy created by a near extinct group of races known as the Aurorans, these feline/vulpine hybrids are <orange>usually</orange> a rather laid back people.
+    由被称为阿诺兰的近乎灭绝的种族所创造的能量体，拥有猫和狐狸的外观特征的他们<orange>通常</orange>都非常懒散。
 
     食性：荤食性
 

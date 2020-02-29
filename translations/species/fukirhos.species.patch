@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Adorable, Omnivorous and nearly electric-proof space rodents. They prowl the stars seeking excitement, and are abnormally brave for rodents. Trustworthy and wise, they've earned a reputation as traders.
+    可爱的，杂食性的，拥有防电能力的太空啮齿生物。
+    他们寻觅星星，发现惊奇，同时非常勇敢。而这为他们赢得了作为贸易商人的声誉。
 
     食性：杂食性
 

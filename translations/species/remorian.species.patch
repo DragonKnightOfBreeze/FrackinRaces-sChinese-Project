@@ -1,7 +1,8 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    The Remorian are a species of aquatic dragonoid people with an aptitude for magical energy. They tend to be somewhat more feeble physically than other races, but make up for it in their magical potential, which they draw from the ocean and other humid environments.
+    雷莫瑞安是一种水生的龙类生物，具有魔力天赋。
+    与其他种族相比，他们的身体往往更加虚弱。他们通过自身的魔力来弥补这一点，而这来自海洋以及其他潮湿环境。
 
     食性：杂食性
 

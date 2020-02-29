@@ -1,7 +1,7 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A history as a prey-animal has led these now highly evolved rodents to become protectors of the weak and downtrodden.
+    作为猎物的历史，已使这些高度进化的啮齿生物成为弱者和被压制者的保护者。
 
     食性：杂食性
 
