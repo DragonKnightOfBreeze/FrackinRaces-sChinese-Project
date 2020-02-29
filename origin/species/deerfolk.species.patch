@@ -6,22 +6,22 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    移动速度+<green>15%</green>
-    抗性：<green>20%</green>寒气&电系抗性
-    优秀商人：魅力+<green>15</green>
+    增益：移动速度<green>+15%</green>
+    抗性：寒冷抗性<green>+20%</green>，电系抗性<green>+20%</green>
+    交易老手（魅力<green>+15</green>）
 
     <orange>［环境］</orange>
-    <green>葱郁/森林/原始森林/草原/冻土/冰雪生态</green>：增加物理抗性&防御
+    葱郁，森林，原始森林，雨林，热带草原，冻土，雪地生态：防御<green>+15%</green>，物理抗性<green>+10%</green>
 
     <orange>［武器］</orange>
-    巨斧：伤害+<green>20%</green>
-    斧/矛：击退抵抗力+<green>25%</green>，生命值上限+<green>5%</green>
-    矛：3%几率施加冰系伤害
-    环刃/回旋镖：暴击几率+<green>1.5%</green>，暴击伤害+<green>5</green>
-    弓：伤害+<green>15%</green>，防御+<green>18%</green>
+    巨斧：伤害<green>+20%</green>
+    斧，矛：击退抵抗<green>+25%</green>，生命值上限<green>+5%</green>
+    矛：3%的几率造成冰系伤害
+    环刃，回旋镖：暴击几率<green>+1.5%</green>，暴击伤害<green>+5</green>
+    弓：伤害<green>+15%</green>，防御<green>+18%</green>
 
     <red>［弱点］</red>
-    抗性：<red>-20%</red>毒素&火炎&物理抗性
+    抗性：毒素抗性<red>-20%</red>，火焰抗性<red>-20%</red>，物理抗性<red>-20%</red>
   rawValue: |-
     Deer-like, these herbivorous pacifists are among the fastest of the known races. They are full of vitality, if a little fragile.
 

@@ -1,25 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Psionic creatures.
+    一种具有超能力的生物。
 
     食性：素食性
 
     <orange>［天赋］</orange>
-    <green>+15%</green> Energy, <green>+10%</green> Physical Resist, <green>+8%</green> Speed
-    When damaged, spread flowers where you walk
-    Immune: Shock, Poison, Bio-ooze
+    增益：能量值上限<green>+15%</green>，移动速度<green>+10%</green>
+    抗性：物理抗性<green>+10%</green>
+    免疫：感电，中毒，生物软泥
+    受伤时：播种花地
 
-    <orange>环境^reset：
-    <green>Increased stats during daylight hours</green>
-    <green>Regenerate in sunlight (see Floran ability)</green>
+    <orange>［环境］</orange>
+    日间时：<green>提升状态</green>
+    日间时：<green>回复生命</green>。如果生命值和饱食度已满，额外<green>增加能量回复速度</green>
 
     <orange>［武器］</orange>
-    Whips: <green>+20%</green> Damage, <green>+15%</green> Speed and Jump
+    鞭：伤害<green>+20%</green>，移动速度<green>+15%</green>，跳跃高度<green>+15%</green>
 
     <red>［弱点］</red>
-    <red>-20%</red> Energy
-    <red>-40%</red> Fire Resist
+    减益：能量值上限<red>-20%</red>
+    抗性：火焰抗性<red>-40%</red>
   rawValue: |-
     Psionic creatures.
 

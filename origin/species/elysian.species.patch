@@ -1,29 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Masses of energy created by a near extinct group of races known as the Aurorans, these feline/vulpine hybrids are <orange>usually</orange> a rather laid back people.
+    由被称为阿诺兰的近乎灭绝的种族所创造的能量体，拥有猫和狐狸的外观特征的他们<orange>通常</orange>都非常懒散。
 
     食性：荤食性
 
     <orange>［天赋］</orange>
-    <green>+5%</green> Health, <green>+25%</green> Energy<reset>,
-    <green>+10%</green> run speed, <green>+5%</green> jump height
-    <green>-25%</green> decreased fall damage<reset>
-    Resist: <green>10%</green> Physical, <green>25%</green> Electric, <green>5%</green> Cosmic
-    <green>-15%</green> Hunger Rate<reset>
-    Immune: Electrified
+    增益：生命值上限<green>+5%</green>，能量值上限<green>+25%</green>，移动速度<green>+10%</green>，跳跃高度<green>+5%</green>，坠落伤害<green>-25%</green>，饥饿速度<green>-15%</green>
+    抗性：物理抗性<green>+10%</green>，电系抗性<green>+25%</green>，射线抗性<green>+5%</green>
+    免疫：感电
 
     <orange>［环境］</orange>
-    Irradiated: <red>-25%</red> energy, <red>-15%</red> attack
-    Lush, Forest, and Jungle: <green>+20</green> Health/Energy/Attack<reset>
+    葱郁，森林，丛林生态：生命值上限<green>+20</green>，能量值上限<green>+20</green>，伤害<green>+20</green>
+    辐射状态时：能量值上限<green>-25%</green>，伤害<green>-15%</green>
 
     <orange>［武器］</orange>
-    Bows: <green>+10%</green> damage, <green>+15%</green> speed;
-    Melee: <green>+10%</green> damage, <green>+20%</green> speed;
+    弓：伤害<green>+10%</green>，移动速度<green>+15%</green>
+    近战武器：伤害<green>+10%</green>移动速度<green>+20%</green>
 
     <red>［弱点］</red>
-    <red>-10</red> Defense
-    <red>-15%</red> Ice and Radiation
+    减益：防御<red>-10</red>
+    抗性：寒冷抗性<red>-15%</red>，辐射抗性<red>-15%</red>
   rawValue: |-
     Masses of energy created by a near extinct group of races known as the Aurorans, these feline/vulpine hybrids are ^orange;usually^reset; a rather laid back people.
 
@@ -49,3 +46,4 @@
     ^red;-10^reset; Defense
     ^red;-15%^reset; Ice and Radiation
   translationAnnotation: NotTranslated
+  translationNote: 确定不是“伤害”而非“攻击力”？

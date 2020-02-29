@@ -1,25 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Once invaded by an alien force which forced them to focus on their military and their defenses, they're extraordinary well trained fighters. Their aquatic origins make them especially dangerous in water and make them a force to be reckoned with.
+    一场来自外星势力的入侵，迫使他们专注于自己的军事和防御。从此，他们便成为了训练有素的非凡战士。
+    水生起源使他们在水中特别危险，并成为不容忽视的力量。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+20%</green> Energy, <green>+2500 Breath
-    <green>+30%</green> Ice Resist, <green>+20%</green> Poison Resist, <green>+10%</green> Physical Resist
+    增益：能量值上限<green>+20%</green>，呼吸时限<green>+2500</green>
+    抗性：寒冷抗性<green>+30%</green>，毒素抗性<green>+20%</green>，物理抗性<green>+10%</green>
+    游泳加速
 
     <orange>［环境］</orange>
-    <green>+25%</green> Health and <green>+6</green> Protection on Ocean biomes
-    Hot biomes impose a <red>-30%</red> energy penalty
-    When underwater you move faster and gain <green>+0.5%</green> Health Regen, <green>+15%</green> Health & Protection.
+    海洋生态：生命值上限<green>+25%</green>，防御<green>+6</green>
+    炎热生态：能量值上限<green>-30%</green>
+    水下：生命值上限<green>+15%</green>，防御<green>+15%</green>，呼吸回复速度<green>+0.5%</green>
 
     <orange>［武器］</orange>
-    Energy (ranged): <green>+2%</green> Crit, <green>+15%</green> Dmg
-    Assault Rifle: <green>+1%</green> Crit
+    远程能量武器：暴击几率<green>+2%</green>，伤害<green>+15%</green>
+    突击步枪：暴击几率<green>+1%</green>
 
     <red>［弱点］</red>
-    <red>-10%</red> Fire, Radioactive, Shadow , <red>-30%</red> Electric Resist
+    抗性：火焰抗性<red>-10%</red>，辐射抗性<red>-10%</red>，暗影抗性<red>-10%</red>，电系抗性<red>-30%</red>
   rawValue: |-
     Once invaded by an alien force which forced them to focus on their military and their defenses, they're extraordinary well trained fighters. Their aquatic origins make them especially dangerous in water and make them a force to be reckoned with.
 

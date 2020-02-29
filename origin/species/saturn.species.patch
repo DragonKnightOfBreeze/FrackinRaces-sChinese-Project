@@ -1,27 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A winged, moth-like race from far across the stars. Diurnal. Lovers of 'arcane' technology.
+    形似飞蛾的日行种族，来自星星的彼端。他们是神秘技术的爱好者。
 
     食性：素食性
 
     <orange>［天赋］</orange>
-    +<green>10%</green> Energy
-    +<green>15%</green> Jump Boost
-    Resist: <green>15%</green> Shadow and Cosmic
-    Tech: <green>Saturnian Flight</green>
+    增益：能量值上限<green>+10%</green>，游泳速度<green>+15%</green>
+    抗性：暗影抗性<green>+15%</green>，射线抗性<green>+15%</green>
+    科技：萨杜恩滑翔
 
     <orange>［环境］</orange>
-    On <green>Lush, Forest, Primeval and Rainforest</green> biomes you gain +<green>25%<resset> energy.
+    葱郁，森林，原始森林，雨林生态：能量值上限<green>+25%</green>
 
     <orange>［武器］</orange>
-    Wand/Staff: +<green>20%</green> protection
-    Staff: <green>+15%</green> Damage, <green>+20%</green> Energy
-    Wand: <green>+10%</green> Damage, <green>+5%</green> Energy
+    魔杖，法杖：防御<green>+20%</green>
+    魔杖：伤害<green>+10%</green>，能量值上限<green>+5%</green>
+    法杖：伤害<green>+15%</green>，能量值上限<green>+20%</green>
 
     <red>［弱点］</red>
-    <red>-25%</red> Health,
-    Weak: <red>35%</red> Fire, <red>20%</red> Poison, <red>15%</red> Physical
+    减益：生命值上限<red>-25%</red>
+    抗性：火焰抗性<red>-35%</red>，毒素抗性<red>-20%</red>，物理抗性<red>-15%</red>
   rawValue: |-
     A winged, moth-like race from far across the stars. Diurnal. Lovers of 'arcane' technology.
 

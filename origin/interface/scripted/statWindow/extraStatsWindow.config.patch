@@ -52,7 +52,7 @@
   rawValue: Shield Bash Push
 - op: replace
   path: /tooltipBoxes/12/tooltip
-  value: 防御力
+  value: 防御
   rawValue: Protection
 - op: replace
   path: /tooltipBoxes/13/tooltip

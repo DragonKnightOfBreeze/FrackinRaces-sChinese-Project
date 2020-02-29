@@ -34,27 +34,22 @@
   path: /statuses/snowslowImmunity/name
   value: <_4BF3FD>雪地减速（物块效果）
   rawValue: ^#4BF3FD;Snow [Tile]
-  translationAnnotation: Fixed
 - op: replace
   path: /statuses/slushslowImmunity/name
   value: <_4BF3FD>雪泥减速（物块效果）
   rawValue: ^#4BF3FD;Slush [Tile]
-  translationAnnotation: Fixed
 - op: replace
   path: /statuses/iceslipImmunity/name
   value: <_4BF3FD>冰面滑行（物块效果）
   rawValue: ^#4BF3FD;Ice [Tile]
-  translationAnnotation: Fixed
 - op: replace
   path: /statuses/fumudslowImmunity/name
   value: <brown>泥地减速（物块效果）
   rawValue: ^brown;Mud [Tile]
-  translationAnnotation: Fixed
 - op: replace
   path: /statuses/fujungleslowImmunity/name
   value: <green>丛林减速（物块效果）
   rawValue: ^green;Jungle [Tile]
-  translationAnnotation: Fixed
 - op: replace
   path: /statuses/slimefrictionImmunity/name
   value: <_61D13F>黏液弹力
@@ -63,7 +58,6 @@
   path: /statuses/slimestickImmunity/name
   value: <_61D13F>黏泥（物块效果）
   rawValue: ^#61D13F;Slime [Tile]
-  translationAnnotation: Fixed
 - op: replace
   path: /statuses/slimeImmunity/name
   value: <_61D13F>黏液
@@ -136,7 +130,6 @@
   path: /statuses/extremepressureProtection/name
   value: <gray>极端压强
   rawValue: ^gray;Pressure
-  translationAnnotation: Fixed
 - op: replace
   path: /statuses/pressureProtection/name
   value: <gray>压强

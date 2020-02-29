@@ -1,28 +1,28 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    The Mantids are a largely nomadic species with no homeworld of their own. What few traditions their kind have are devoted to the art of war, and most Mantid take great pride in personally eviscerating their enemies.
+    曼缇徳是一个以游牧为主的种族，没有自己的家园。
+    一般来说，在他们的族群中，很少有人热衷于战争的艺术。但大多数曼缇徳都以亲自消灭敌人为荣。
 
     食性：荤食性
 
     <orange>［天赋］</orange>
-    +<green>10%</green> Health, deal <green>20%</green> more damage
-    +<green>15%</green> Move Speed, +<green>10%</green> Jump Height
-    Resist: <green>10%</green> Physical, <green>40%</green> Radiation, <green>20%</green> Shadow
-    Immune: Insanity
+    增益：生命值上限<green>+10%</green>，伤害<green>+20%</green>，移动速度<green>+15%</green>，跳跃高度<green>+10%</green>
+    抗性：物理抗性<green>+10%</green>，辐射抗性<green>+40%</green>，暗影抗性<green>+20%</green>
+    免疫：狂乱
 
     <orange>［环境］</orange>
-    On <green>hot or jungle</green> biomes gain <green>10%</green> Health and movement speed
-    Improved ground traction
+    炎热，丛林生态：生命值上限<green>+10%</green>，移动速度<green>+10%</green>
+    提高地面引力
 
     <orange>［武器］</orange>
-    Fist: +<green>20%</green> Damage, +<green>50%</green> Knockback Resist
-    Dual Fist: +<green>2.5%</green> Crit Chance, +<green>5</green> Protection
-    Shotgun: +<green>15%</green> Damage, +<green>25%</green> Energy
+    拳套：伤害<green>+20%</green>，击退抵抗<green>+50%</green>
+    双持拳套：暴击几率<green>+2.5%</green>，防御<green>+5</green>
+    霰弹枪：伤害<green>+15%</green>，能量值上限<green>+25%</green>
 
     <red>［弱点］</red>
-    <red>-20%</red> Energy, <red>-25%</red> Charisma
-    Weak: <red>-50%</red> Poison, <red>-20%</red> Ice
+    减益：能量值上限<red>-20%</red>，魅力<red>-25%</red>
+    抗性：毒素抗性<red>-50%</red>，寒冷抗性<red>-20%</red>
   rawValue: |-
     The Mantids are a largely nomadic species with no homeworld of their own. What few traditions their kind have are devoted to the art of war, and most Mantid take great pride in personally eviscerating their enemies.
 

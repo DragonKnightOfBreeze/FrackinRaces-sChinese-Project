@@ -45,5 +45,4 @@
     ^red;Weaknesses^reset;:
     ^red;-10^reset; Defense
     ^red;-15%^reset; Ice and Radiation
-  translationAnnotation: NotTranslated
   translationNote: 确定不是“伤害”而非“攻击力”？

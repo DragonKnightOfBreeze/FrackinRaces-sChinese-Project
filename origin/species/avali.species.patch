@@ -2,27 +2,27 @@
   path: /charCreationTooltip/description
   value: |-
     可爱的有翼太空猛禽。对极地气候和低重力环境拥有高度的适应性，能够利用风来控制他们的坠落。
-    此外，装备有重型武器的它们极其致命。
+    此外，装备有重型武器的他们极其致命。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    跳跃力+<green>9%</green>，移动速度+<green>9%</green>
-    缓慢坠落（翅膀）+<green>35%</green>
-    抗性：<green>40%</green>寒冷抗性，坠落伤害<green>-65%</green>
-    科技：<green>羽族滑翔
-    免疫：雪&冰
+    增益：跳跃高度<green>+9%</green>，移动速度<green>+9%</green>，坠落伤害<green>-65%</green>
+    抗性：寒冷抗性<green>+40%</green>
+    免疫：雪，冰
+    科技：羽族滑翔
+    缓慢坠落（坠落速度<green>-35%</green>）
 
     <orange>［环境］</orange>
-    <green>炎热</green>生态：失去空中伤害加成&移动速度加成，生命值上限<red>-25%</red>
-    <green>寒冷</green>生态：移动速度+<green>5%</green>，生命值上限+<green>15%</green>
-    大风可以提供额外的灵活性
+    炎热生态：生命值上限<red>-25%</red>，<red>失去空中伤害加成和移动速度加成</red>
+    寒冷生态：移动速度<green>+5%</green>，生命值上限<green>+15%</green>
+    高强度的风可以提供额外的灵活性
 
     <orange>［武器］</orange>
-    空中伤害+<green>10%</green>
-    能量武器：伤害+<green>12%</green>
-    榴弹发射器：暴击伤害+<green>20%</green>
-    矛：暴击几率+<green>2%</green>
+    空中伤害<green>+10%</green>
+    能量武器：伤害<green>+12%</green>
+    榴弹发射器：暴击伤害<green>+20%</green>
+    矛：暴击几率<green>+2%</green>
 
     <red>［弱点］</red>
     抗性：火焰抗性<red>-40%</red>

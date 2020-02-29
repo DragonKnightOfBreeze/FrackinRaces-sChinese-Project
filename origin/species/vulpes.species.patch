@@ -6,17 +6,16 @@
     食性：荤食性。
 
     <orange>［天赋］</orange>
-    <green>+12%</green> Health, Energy
-    <green>+14%</green> Speed, <green>40%</green> Knockback Resistance,
-    <green>+30%</green> Ice Resist,
-    Immune: Jungle
+    增益：生命值上限<green>+12%</green>，能量值上限<green>+12%</green>，移动速度<green>+14%</green>，击退抵抗<green>+40%</green>
+    抗性：寒冷抗性<green>+30%</green>
+    免疫：丛林物块
 
     <orange>［武器］</orange>
-    Dagger, Shortsword, Broadsword: <green>+2^reset Protection
-    Whip: <green>+12%</green> Damage
+    匕首，短剑，阔剑：防御<green>+2</green>
+    鞭：伤害<green>+12%</green>
 
     <red>［弱点］</red>
-    <red>-50%</red> Radioactive resist
+    抗性：辐射抗性<red>-50%</red>
   rawValue: |-
     Foxy explorers
 

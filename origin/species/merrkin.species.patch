@@ -1,27 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Aquatic creatures resembling the Mermaids of Earth legends. They are avid swimmers, and skilled with spears and tridents.
+    令人想起地球的美人鱼传说的水生生物。他们是热心的游泳者，能够熟练使用长矛和三叉戟。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+20%</green> Energy
-    <green>Immune to suffocation in water</green>
-    <green>Increased speed in water and darkwater</green>
-    Resist: <green>40%</green> Ice
+    增益：能量值上限<green>+20%</green>
+    抗性：寒冷抗性<green>+40%</green>
+    免疫：窒息（水中）
+    水和腐化之水中：<green>增加速度</green>
 
     <orange>［环境］</orange>
-    On <green>oceanic</green> and <green>tidewater</green> biomes, gain <green>+25% Protection</green>
-    In water/darkwater you gain +<green>20</green> Physical Resistance,and <green>Poison Immunity</green>
-    Rain grants very slight regeneration.
+    海洋，潮汐生态：防御力<green>+25%</green>
+    水，腐化之水中：物理抗性<geen>+20%</green>，免疫中毒
+    雨中：<green>得到微量的回复加成</green>
 
     <orange>［武器］</orange>
-    Spear/Trident: <green>+20%</green> Damage when above <green>75%</green> health
-    Spear/Trident/Shortspear: +<green>8%</green> Speed, +<green>4</green> Protection, +<green>1%</green> Crit
+    矛，三叉戟：生命值大于<green>75%</green>时，伤害<green>+20%</green>
+    矛，短矛，三叉戟：防御<green>+4</green>，暴击几率<green>+1%</green>，移动速度<green>+8%</green>
 
     <red>［弱点］</red>
-    <red>40%</red> Electric
+    抗性：电系抗性<red>-40%</red>
   rawValue: |-
     Aquatic creatures resembling the Mermaids of Earth legends. They are avid swimmers, and skilled with spears and tridents.
 
@@ -46,3 +46,4 @@
     ^red;Weaknesses^reset;:
     ^red;40%^reset; Electric
   translationAnnotation: NotTranslated
+  translationNote: 三叉戟又是什么？

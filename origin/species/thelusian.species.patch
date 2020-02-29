@@ -1,29 +1,29 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    食肉的瑟卢锡安以其坚韧的几丁质外壳和异常危险的战斗能力而闻名。能够适应任何战斗环境。
+    食肉的瑟卢锡安以其坚韧的几丁质外壳和异常危险的战斗能力而闻名。他们能够适应任何战斗环境。
 
     食性：荤食性
 
     <orange>［天赋］</orange>
-    生命值上限+<green>20%</green>，坠落伤害<green>-40%</green>
-    抗性：<green>15%</green>物理抗性，<green>20%</green>辐射抗性，<green>30%</green>暗影抗性
+    增益：生命值上限<green>+20%</green>，坠落伤害<green>-40%</green>
+    抗性：物理抗性<green>+15%</green>，辐射抗性<green>+20%</green>，暗影抗性<green>+30%</green>
     免疫：狂乱
-    科技：<green>战士本能</green>
+    科技：战士本能
 
     <orange>［环境］</orange>
-    <green>炎热</green>生态：生命值上限+<green>10%</green>
+    炎热生态：生命值上限<green>+10%</green>
     提高地面引力
 
     <orange>［武器］</orange>
-    镰刀：伤害+<green>15%</green>，击退抵抗力+<green>50%</green>
-    弩/打击者：暴击几率+<green>1.5%</green>
-    短矛/短剑+盾牌：暴击几率+<green>0.5%</green>，击退抵抗力+<green>50%</green>
-    完美格挡时：增加<green>盾牌反伤</green>几率
+    镰刀：伤害<green>+15%</green>，击退抵抗<green>+50%</green>
+    弩，打击者：暴击几率<green>+1.5%</green>
+    短矛，短剑+盾牌：暴击几率<green>+0.5%</green>，击退抵抗<green>+50%</green>
+    盾牌：完美格挡时增加<green>盾牌反伤几率</green>
 
     <red>［弱点］</red>
-    能量值上限<red>-20%</red>，魅力<red>-25%</red>
-    抗性：<red>-40%</red>毒素抗性，<red>-30%</red>寒冷抗性
+    减益：能量值上限<red>-20%</red>，魅力<red>-25%</red>
+    抗性：毒素抗性<red>-40%</red>，寒冷抗性<red>-30%</red>
   rawValue: |-
     The carnivorous Thelusians are well known for their tough chitin shell and exceptionally dangerous combat abilities. Able to adapt to suit any combat situation.
 

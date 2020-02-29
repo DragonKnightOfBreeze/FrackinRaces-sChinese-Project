@@ -1,27 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Demons... What more is there to say, they like fire, and have horns and tails
+    恶魔……更确切地说，一种喜欢火焰，长有角和尾巴的怪物。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+15%</green> Health, +<green>10%</green> Protection
-    Resist: <green>40%</green> Shadow, <green>40%</green> Fire
-    Immune: Heat/Burning
+    增益：生命值上限<green>+15%</green>，防御<green>+10%</green>
+    抗性：暗影抗性<green>+40%</green>，火焰抗性<green>+40%</green>
+    免疫：炎热，燃烧
 
     <orange>［环境］</orange>
-    <green>Hot</green> biomes grant +<green>10%</green> Damage, +<green>15%</green> Speed
-    <red>Cold</red> biomes cause <red>-15%</red> Health, <red>-10%</red> Energy
+    炎热生态：伤害<green>+10%</green>，移动速度<green>+15%</green>
+    寒冷生态：生命值上限<red>-15%</red>，能量值上限<red>-10%</red>
 
     <orange>［武器］</orange>
-    Shortswords or Daggers: <green>+10%</green> Crit Damage
-    Longsword, Broadsword, or Katana: <green>+10%</green> Damage
-    Spear: <green>+1.5%</green> Crit Chance, +<green>15%</green> Crit Damage
-    2x Small Blades: <green>+12%</green> Protection, <green>+5%</green> Movement Speed
+    匕首，短剑：暴击伤害<green>+10%</green>
+    长剑，阔剑，刀：伤害<green>+10%</green>
+    矛：暴击几率<green>+1.5%</green>，暴击伤害<green>+15%</green>
+    双持刀刃武器：防御<green>+12%</green>，移动速度<green>+5%</green>
 
     <red>［弱点］</red>
-    <red>40%</red> Ice, Cosmic
+    抗性：寒冷抗性<red>-40%</red>，射线抗性<red>-40%</red>
   rawValue: |-
     Demons... What more is there to say, they like fire, and have horns and tails
 

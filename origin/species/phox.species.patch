@@ -6,22 +6,21 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    <green>+15%</green> speed and jump
-    <green>10%</green> fall damage reduction
-    <green>Resist: 20%</green> Cold, Fire and Electric
-    Immune: L1 Cold, L1 Heat, Slush, Snow, Jungle tiles, Sandstorms.
+    增益：移动速度<green>+15%</green>，跳跃高度<green>+15%</green>，坠落伤害<green>-10%</green>
+    抗性：寒冷抗性<green>+20%</green>，火焰抗性<green>+20%</green>，电系抗性<green>+20%</green>
+    免疫：轻度寒冷，轻度炎热，雪，雪泥，丛林物块，沙暴
 
     <orange>［环境］</orange>
-    <green>15%</green> Protection on forest, jungle and plains type biomes.
-    <red>-15%</red> Health and Damage on Alien/Fungus/Proto/Penumbra/Toxic/Radioactive worlds
+    森林，丛林，平原生态：防御力<green>+15%</green>
+    外星，真菌，原毒，半影，有毒，辐射生态：生命值上限<red>-15%</red>，伤害<red>-15%</red>
 
     <orange>［武器］</orange>
-    Shortsword,Shortspear,Spear,Rapier: <green>+10%</green> Damage
-    Sniper Rifle: <green>+2%</green> Crit Chance
+    短剑，短矛，矛，刺剑：伤害<green>+10%</green>
+    狙击步枪：暴击几率<green>+2%</green>
 
     <red>［弱点］</red>
-    <red>-40%</red> Poison, <red>-20%</red> Shadow , Radiation and Cosmic
-    <red>-50%</red> Knockback Resist
+    减益：击退抵抗<red>-50%</red>
+    抗性：毒素抗性<red>-40%</red>，暗影抗性<red>-20%</red>，辐射抗性<red>-20%</red>，射线抗性<red>-20%</red>
   rawValue: |-
     A race of clever colonial foxes.
 

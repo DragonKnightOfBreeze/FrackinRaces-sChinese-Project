@@ -1,28 +1,32 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A mysterious race of cave dwellers known for their underground cities and love for treasure. Adapted to the deep underground, they can jump high and take less fall damage. Due to their impressive eyesight, they have higher precision with weapons.
+    一个作为洞穴居民的神秘种族，因其地下城市和对财宝的热爱而闻名。
+    他们适应了地下深处的生活环境，可以跳得更高，并且承受更少的坠落伤害。
+    他们拥有令人印象深刻的视力，因此所使用武器的精度更高。
 
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    +<green>15%</green> Jump, +<green>5%</green> Speed
-    Resist: <green>20%</green> Fire, <green>10%</green> Poison, <green>10%</green> Shadow, <green>-50%</green> Fall Dmg
-    <green>Medium visibility in darkness</green>
-    Immune: Erchius
+    增益：移动速度<green>+5%</green>，跳跃高度<green>+15%</green>，坠落伤害<green>-50%</green>
+    抗性：火焰抗性<green>+20%</green>，毒素抗性<green>+10%</green>，暗影抗性<green>+10%</green>
+    免疫：厄尔修斯幽灵
+    黑暗中：<green>中等的可见度</green>
 
     <orange>［武器］</orange>
-    Shortsword: +<green>12%</green> Damage and +<green>20%</green> Knockback Resistance
-    Dagger and Spear: +<green>12%</green> Damage and +<green>5%</green> Crit
-    Machinepistol: +<green>10%</green> Damage and +<green>1%</green> Crit Dmg
-    Sniper Rifle: +<green>3%</green> Crit and +<green>10%</green> Crit Dmg
-    Shotgun: +<green>12%</green> Damage and +<green>10%</green> Crit Dmg
-    Boomerang and Chakram: +<green>12%</green> Damage and +<green>2%</green> Protection
-    Shield: Perfect Blocks <green>increase defense</green>(stacks)
+    短剑：伤害<green>+12%</green>，击退抵抗<green>+20%</green>
+    匕首，矛：伤害<green>+12%</green>，暴击几率<green>+5%</green>
+    自动手枪：伤害<green>+10%</green>，暴击几率<green>+1%</green>
+    狙击步枪：暴击几率<green>+3%</green>，暴击伤害<green>+10%</green>
+    霰弹枪：伤害<green>+12%</green>，暴击伤害<green>+10%</green>
+    回旋镖，环刃：伤害<green>+12%</green>，防御<green>+2%</green>
+    盾牌：完美格挡时<green>增加防御（可叠加）</green>
+
+    <orange>［环境］</orange>
+    日间，辐射生态：<red>减少生命值上限，能量值上限和辐射抗性</red>
 
     <red>［弱点］</red>
-    Weak: <red>-30%</red>Electric
-    <red>Sunlight and irradiated planets</red> reduce <red>Energy, Health</red> and decreases <red>Radiation Resistance</red>.
+    抗性：电系抗性<red>-30%</red>
   rawValue: |-
     A mysterious race of cave dwellers known for their underground cities and love for treasure. Adapted to the deep underground, they can jump high and take less fall damage. Due to their impressive eyesight, they have higher precision with weapons.
 

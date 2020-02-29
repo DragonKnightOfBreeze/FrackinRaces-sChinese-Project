@@ -7,22 +7,21 @@
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    <green>+40%</green> Max Food, <green>+6% Speed</green>, <green>+11% Jump</green>
-    <green>+40%</green> Poison, <green>+10%</green> Cosmic and <green>+10%</green> Radioactive Resist
-    <green>+1100</green> oxygen, Swim Boost.
-    Immunity: Poison
+    增益：饱食度上限<green>+40%</green>，移动速度<green>+6%</green>，跳跃高度<green>+11%</green>，呼吸时限<green>+1100</green>
+    抗性：毒素抗性<green>+40%</green>，射线抗性<green>+10%</green>，辐射抗性<green>+10%</green>
+    免疫：中毒
+    游泳加速
 
     <orange>［环境］</orange>
-    Gain <green>+25%</green> Health, <green>+15%</green> Speed on Bog, Swamp, and Strange Sea biomes.
-
+    沼泽，湿地，奇异海生态：生命值上限<green>+25%</green>，移动速度<green>+15%</green>
 
     <orange>［武器］</orange>
-    Spears: <green>+10%</green>  Damage, <green>+10%</green>  Protection
-    Short Spears: <green>+10% Damage</green>, <green>+15%</green> Crit Damage
-    Crossbows/Harpoons: <green>+15% Damage</green>, <green>+5%</green> Crit Damage
+    矛：伤害<green>+10%</green>，防御<green>+10%</green>
+    短矛：伤害<green>+10%</green>，暴击伤害<green>+15%</green>
+    弩，鱼叉：伤害<green>+15%</green>，暴击伤害<green>+5%</green>
 
     <red>［弱点］</red>：
-    生命值上限<red>-12%</red>，能量值上限<red>-5%</red>
+    减益：生命值上限<red>-12%</red>，能量值上限<red>-5%</red>
     抗性：寒冷抗性<red>-40%</red>，电系抗性<red>-20%</red>
   rawValue: |-
     Sturdy reptilian people. They are resilient and agile, with the ability to thrive both on land and underwater. Amphibious life has increased their natural energy stores, but they are less hardy than land-based reptiles.
@@ -48,3 +47,4 @@
     ^red;-12%^reset; Health, -5%^reset;Energy
     ^red;40%^reset; Ice, ^red;20%^reset; Electric
   translationAnnotation: Changed
+  translationNote: 不确定Harpoons的含义。

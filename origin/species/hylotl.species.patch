@@ -6,25 +6,26 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    生命值上限+<green>20%</green>，物质枪自带液体收集功能
-    水中呼吸时限+<green>1500</green>
-    抗性：<green>20%</green>寒冷抗性
+    增益：生命值上限<green>+20%</green>，水中呼吸时限<green>+1500</green>
+    抗性：寒冷抗性<green>+20%</green>
+    物质枪自带液体收集功能
+    游泳加速
 
     <orange>［环境］</orange>
-    <green>海洋</green>生态：获得额外的<green>防御、生命值上限和能量值上限</green>
-    水中：防御+<green>4</green>，生命值上限+<green>20</green>，<green>游泳加速</green>
-    雨中：得到微量的回复加成
+    海洋生态： <green>增加生命值上限，能量值上限和防御</green>
+    水中：生命值上限<green>+20</green>，防御<green>+4</green>，
+    雨中：<green>得到微量的回复加成</green>
 
     <orange>［武器］</orange>
-    剑：生命值在<green>75%</green>以上时，暴击几率+<green>2%</green>
-    刀+匕首：移动速度+<green>8%</green>，防御+<green>4</green>，暴击几率+<green>1%</green>
-    刀（单持）：伤害+<green>6%</green>，移动速度+<green>4%</green>
-    短剑：伤害+<green>6%</green>，移动速度+<green>4%</green>
-    长棍：移动速度+<green>12%</green>，防御+<green>6</green>
+    剑：生命值在<green>75%</green>以上时，暴击几率<green>+2%</green>
+    刀+匕首：移动速度<green>+8%</green>，防御<green>+4</green>，暴击几率<green>+1%</green>
+    刀（单持）：伤害<green>+6%</green>，移动速度<green>+4%</green>
+    短剑：伤害<green>+6%</green>，移动速度<green>+4%</green>
+    长棍：移动速度<green>+12%</green>，防御<green>+6</green>
     完美格挡时：<green>回复生命</green>
 
     <red>［弱点］</red>
-    抗性：<red>-40%</red>电系抗性，<red>-10%</red>暗影抗性
+    抗性：电系抗性<red>-40%</red>，暗影抗性<red>-10%</red>
   rawValue: |-
     The peaceful Hylotl place great value on ancestral tradition and take great comfort in the arts. While not lovers of violence, they are quite skilled in martial arts and are not to be trifled with.
 

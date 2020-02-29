@@ -1,26 +1,26 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A particularly elusive species, the Lombaxes are reknowned for their knack for inventions and gadgetry. Not much is known of them, but what is known is that they come in all shapes, stripes and colors.
+    诺巴克斯是一个特别难以捉摸的种族，以其在发明和小玩意上的独特技巧而闻名。
+    人们对他们仍然知之甚少，但已知他们会以各种各样的形状，条纹和颜色出现。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+10%</green> Speed, <green>+15%</green> Jump
-    <green>+20%</green> Energy,
-    <green>+50%</green> Fire Resist, <green>+20%</green> Electric Resist,
-    Immune: Heat
+    增益：能量值上限<green>+20%</green>，移动速度<green>+10%</green>，跳跃高度<green>+15%</green>
+    抗性：火焰抗性<green>+50%</green>，电系抗性<green>+20%</green>
+    免疫：炎热
 
     <orange>［环境］</orange>
-    In hot biomes, <green>+7%</green> Speed and Jump, <green>+10%</green> Protection and <green>+25%</green> Energy Regen
+    炎热生态：能量回复速度<green>+25%</green>，防御<green>+10%</green>，移动速度<green>+7%</green>，跳跃高度<green>+7%</green>
 
     <orange>［武器］</orange>
-    Assault Rifles, Sniper Rifles, Grenade Launcher, Broadsword, Shortsword, Unique Weapons: <green>+5%</green> damage
-    Pistols, Shotgun, Broadshord, Shortsword: <green>+30%</green> Energy Regen
+    突击步枪，狙击步枪，榴弹发射器，阔剑，短剑，独特武器：伤害<green>+5%</green>
+    手枪，霰弹枪，阔剑，短剑：能量回复速度<green>+30%</green>
 
     <red>［弱点］</red>
-    <red>-25%</red> HP
-    <red>-30%</red> Poison, Ice Resist
+    减益：生命值上限<red>-25%</red>
+    抗性：毒素抗性<red>-30%</red>，寒冷抗性<red>-30%</red>
   rawValue: |-
     A particularly elusive species, the Lombaxes are reknowned for their knack for inventions and gadgetry. Not much is known of them, but what is known is that they come in all shapes, stripes and colors.
 

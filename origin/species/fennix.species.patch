@@ -1,26 +1,28 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    An experiment by the Miniknog, these foxes have a great resistance to heat. However, unlike their feral bretheren, they cannot adapt to cold climates.
+    科技发展部的实验生物。这些狐狸具有很好的耐热性，但与他们的野生兄弟们不同，他们无法适应寒冷的气候。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <red>-5 Health</red>, <green>+15 Energy, +10 Attack</green>
-    <red>Weak: 20% Ice</red>
-    <green>Resist: 20% Fire</green>
-    <green>+15% speed, +5% jump height</green>
-    <green>Immune to biome heat, fire, and sandstorms</green>
-    <green>+25% Health Regen / Energy in Lava</green>
+    增益：能量值上限<green>+15</green>，攻击力<green>+10</green>，移动速度<green>+15%</green>，跳跃高度<green>+5%</green>
+    抗性：火焰抗性<green>+20%</green>
+    免疫：环境炎热，火焰，沙暴
+    岩浆中：生命回复速度<green>+25%</green>，能量回复速度<green>+25%</green>
 
     <orange>［环境］</orange>
-    Hot Biomes: <green>+20% Health and Energy</green>
-    Cold Biomes: <red>-20% Health and Energy, -20% Attack, and -20% Fire Resist</red>
+    炎热生态：生命值上限<green>+20%</green>，能量值上限<green>+20%</green>
+    寒冷生态：生命值上限<red>-20%</red>，能量值上限<red>-20%</red>，伤害<red>-20%</red>，火焰抗性<red>-20%</red>
 
     <orange>［武器］</orange>
-    Wand/Staff: <green>+15% damage</green>
-    Fists: <red>-5% damage</red><reset>
-    Rapiers: <green>+5% damage</green>
+    法杖，魔杖：伤害<green>+15%</green>
+    拳套：伤害<red>-5%</red>
+    刺剑：伤害<green>+5%</green>
+
+    <red>［弱点］</red>
+    减益：生命值上限<red>-5</red>
+    抗性：寒冷抗性<red>-20%</red>
   rawValue: |-
     An experiment by the Miniknog, these foxes have a great resistance to heat. However, unlike their feral bretheren, they cannot adapt to cold climates.
     Diet: Omnivore

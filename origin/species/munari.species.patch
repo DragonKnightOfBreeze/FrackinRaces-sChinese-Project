@@ -6,23 +6,22 @@
     食性：杂食性，包括生肉。
 
     <orange>［天赋］</orange>
-    Swim Boost
-    <green>+15%</green> Health and Energy
-    <green>+5%</green> Damage
-    <green>+40%</green> Fire Resist, <green>+20%</green> Ice resist
-    Immune: Mud, Wet, Breathing
+    增益：生命值上限<green>+15%</green>，能量值上限<green>+15%</green>，伤害<green>+5%</green>
+    抗性：火焰抗性<green>+40%</green>，寒冷抗性<green>+20%</green>
+    免疫：泥，潮湿，窒息
+    游泳加速
 
     <orange>［环境］</orange>
-    <green>+20%</green> Physical Resistance and <green>+10%</green> Energy on Ocean biomes
-    Regeneration, <green>-20%</green> Hunger Rate In Water/Waste Water/Swamp Water
+    海洋生态：能量值上限<green>+10%</green>，物理抗性<green>+10%</green>
+    水，污染水，沼泽水中：<green>回复生命</green>，饥饿速度<green>-20%
 
     <orange>［武器］</orange>
-    Fist: <green>+3%</green> Crit, <green>+5%</green> Speed
-    Spear: <green>+2%</green> Crit, <green>+10%</green> Damage
-    Shortspear: <green>+2%</green> Crit, <green>+5%</green> Physical Resistance
+    拳套：暴击几率<green>+3%</green>，移动速度green>+5%</green>
+    矛：暴击几率<green>+2%</green>，伤害<green>+10%</green>
+    短矛：暴击几率<green>+2%</green>，物理抗性<green>+5%</green>
 
     <red>［弱点］</red>
-    <red>-40%</red> Electric, <red>-15%</red> Shadow and Cosmic Resistance
+    抗性：电系抗性<red>-40%</red>，暗影抗性<red>-15%</red>，射线抗性<red>-15%</red>
   rawValue: |-
     Wonderful fish-men.
 

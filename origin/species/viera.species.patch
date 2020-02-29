@@ -1,27 +1,29 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Cosmic-attuned bunny-folk from a distant world of fantasy. Skilled fencers, archers, and spellcasters.
+    来自遥远的幻想世界的兔耳种族。
+    她们是熟练的击剑手，弓箭手和施法者。
+    （注：维艾拉，虚构种族，来自《最终幻想》）
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+20%</green> Energy, <green>+12%</green> Speed
-    <green>+30%</green> Cosmic Resist
-    Immune: Slime
+    增益：能量值上限<green>+20%</green>，移动速度<green>+12%</green>
+    抗性：射线抗性<green>+30%</green>
+    免疫：黏液
 
     <orange>［环境］</orange>
-    <green>+10%</green> Health, <green>+15%</green> Energy, <green>+19%</green> Speed In Rainforest, Forest and Primeval biomes
+    雨林，森林，原始森林生态：生命值上限<green>+10%</green>，能量值上限<green>+10%</green>，移动速度<green>+19%</green>
 
     <orange>［武器］</orange>
-    Wands and Staves: <green>+15%</green> Damage and Energy
-    Bows: <green>+15%</green> Damage and Energy
-    Rapier(one): <green>+10%</green> Damage, <green>+1 Protection (Rapier <green>+ Dagger) <green>+2%</green> Crit and <green>+10%</green> Physical Resistance
-    Rapier, Shortsword and Dagger: <green>+15%</green> Physical Resist, <green>+12%</green> Damage, has a <green>5%</green> chance to shoot mystic blasts during combos.
+    魔杖，法杖：伤害<green>+15%</green>，能量值上限<green>+15%</green>
+    弓：伤害<green>+15%</green>，能量值上限<green>+15%</green>
+    刺剑（单持）：伤害<green>+10%</green>，防御<green>+1</green>，暴击几率<green>+2%</green>，物理抗性<green>+10%</green>
+    刺剑，短剑，匕首：伤害<green>+12%</green>，物理抗性<green>+15%</green>，每次连击时有<green>5%</green>的几率释放神秘爆炸
 
     <red>［弱点］</red>
-    <red>-30%</red> Shadow resist,
-    <red>-20%</red> Max Food, Health
+    减益：生命值上限<red>-20%</red>，饱食度上限<red>-20%</red>
+    抗性：暗影抗性<red>-30%</red>
   rawValue: |-
     Cosmic-attuned bunny-folk from a distant world of fantasy. Skilled fencers, archers, and spellcasters.
 

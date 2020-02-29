@@ -1,0 +1,40 @@
+- op: replace
+  path: /charCreationTooltip/description
+  value: |-
+    这些巨型水獭现在已经转变为鲛人的盟友。他们被证明是水中的强劲对手，尽管在陆地上也绝非小事。
+
+    食性：半荤食性。在大多数情况下，越新鲜的食物越好。除了水果之外，其他的素食会伤害你。
+
+    <orange>［天赋］</orange>
+    增益：生命值上限<green>+20%</green>，伤害<green>+10%</green>，，呼吸时限<green>+1500</green>，呼吸回复速度<green>+100%</green>，饱食度上限<green>+50%</green>
+    免疫：潮湿
+    游泳加速2
+    较大的外形（5个物块的高度）（如果卡住，可以按[F]键强制脱出）
+
+    <orange>［环境］</orange>
+    水中，河流，海洋生态：能量值上限和伤害<cyan>+10%</cyan>/<blue>+15%</blue>/<indigo>+20%</indigo>，<cyan>降低速度惩罚</cyan>/<indigo>得到5%的游泳加速</indigo>
+    干旱，活火山生态：能量值上限和伤害<orange>-10%</orange>/<orange>-20%</orange>，移动速度<red>-5%</red>
+
+    <orange>［武器］</orange>
+    拳套：伤害<green>+10%</green>，暴击几率<green>+3%</green>
+    短矛：伤害<green>+10%</green>，防御<green>+10%</green>
+    长棍，矛：伤害<green>+20%</green>，防御<green>+20%</green>
+
+    <red>弱点</red>
+    减益：能量值上限<red>-20%</red>，坠落伤害<red>+15%</red>，饥饿速度<red>+100%</red>
+  rawValue: |-
+    Enemies-turned-allies of the Hylotl, these massive otters can prove a formidable opponent in the water, though they aren't to be trifled with on land, either.
+    ^orange;Diet^reset;:
+    Semi-Carnivore, and the fresher the food, the better... for the most part. Fruits don't harm you, but other plant foods will.
+    ^orange;Perks^reset;:
+    (Built-In) ^orange;Large Profile^reset; (5 blocks tall). If you get stuck, you can hold the tech key to forcefully untransform.
+    ^green;+20%^reset; health, ^green;+10%^reset; Power, ^green;1500^reset; Breath, ^green;+100%^reset; breath regen, ^green;+50% Max Food^reset;, ^orange;Swim boost 2^reset;, ^orange;Immune to Wet^reset;.
+    ^orange;Environment^reset;:
+    Gain ^cyan;+10%^reset;, ^blue;+15%^reset; or ^indigo;+20%^reset; additional strength and energy and ^cyan;drop the ^blue;speed penalty^reset; or ^indigo;gain an additional +5% speed^reset; in ^cyan;watery^reset;, ^blue;riverine^reset;, or ^indigo;oceanic^reset; biomes.
+    Lose ^orange;10%^reset; or ^red;20%^reset; of your strength and energy, and gain an additional ^red;5%^reset; slowdown in ^orange;arid^reset; or ^red;active volcanic^reset; biomes.
+    ^orange;Weapons^reset;:
+    Fists: +10% increased damage, +3% crit rate.
+    Shortspears: ^green;+10%^reset; Increased damage and protection.
+    Quarterstaves and Spears: ^green;+20%^reset; Increased damage and protection.
+    ^red;Weaknesses^reset;:
+    ^red;+100%^reset; hunger point usage rate, ^red;+15%^reset; fall damage, ^red;-20%^reset; max energy.

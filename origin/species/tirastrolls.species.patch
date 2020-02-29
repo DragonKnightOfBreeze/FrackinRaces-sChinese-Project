@@ -1,19 +1,23 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Grey, horned insectoids. The brutality of their homeworld has made them incredibly hardy, but they're somewhat unhinged, and very susceptible to psionics- even their own.<reset>
+    灰色的角类昆虫种族。
+    母星残酷无情的自然环境使他们变得异常坚韧，但也导致他们有些精神失常，以至于很容易受到灵能使用者（甚至是他们自己）的影响。
 
     <orange>［天赋］</orange>
-    10% health, 10% Physical and Poison Resistance<reset>
-    <green>In Alien biomes gain +5% health and protection</green>
-    <orange>In darkness gain health and speed. Lose health and speed in bright light.</orange>
+    增益：生命值上限<green>+10%</green>
+    抗性：物理抗性<green>+10%</green>，毒素抗性<green>+10%</green>
+
+    <orange>［环境］</orange>
+    外星生态：生命值上限<green>+5%</green>，防御<green>+5%</green>
+    在黑暗中增加伤害和防御，在光亮中减少伤害和防御
 
     <orange>［武器］</orange>
-    Dual Fists: <green>8 protection, minor regen</green>
-    Dual Rapier: <green>+12.5% damage</green>
+    双持拳套：防御<green>+8</green>，<green>微量的生命回复</green>
+    双持刺剑：伤害<green>+12.5%</green>
 
     <red>［弱点］</red>
-    <red>-40% cosmic, -15% fire</red>
+    抗性：射线抗性<red>-40%</red>，火焰抗性<red>-15%</red>
   rawValue: |-
     Grey, horned insectoids. The brutality of their homeworld has made them incredibly hardy, but they're somewhat unhinged, and very susceptible to psionics- even their own.^reset;
 

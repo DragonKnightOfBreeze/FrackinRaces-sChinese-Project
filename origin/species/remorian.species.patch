@@ -1,43 +1,47 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    The Remorian are a species of aquatic dragonoid people with an aptitude for magical energy. They tend to be somewhat more feeble physically than other races, but make up for it in their magical potential, which they draw from the ocean and other humid environments.
+    雷莫瑞安是一种水生的龙类生物，从海洋和其他潮湿环境汲取能量。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+10%</green> Energy, <green>+5%</green> Damage, <green>+10%</green> Speed, <green>+15%</green> Energy Regen, <green>+20%</green> Shadow Resist, <green>+10%</green> Ice Resist, Wet Immunity, <green>1500</green> Breath, <green>Swim Boost 2</green>
-    <red>Weaknesses</red>:
-    <red>-5%</red> Health, <red>-10%</red> Protection, <red>+5%</red> Hunger Rate, <red>-20%</red> Radioactivity, <red>-30%</red> Electricity
+    增益：能量值上限<green>+10%</green>，能量回复速度<green>+15%</green>，伤害<green>+5%</green>，移动速度<green>+5%</green>，呼吸时限<green>+1500</green>
+    抗性：暗影抗性<green>+20%</green>，寒冷抗性<green>+10%</green>
+    免疫：潮湿
 
     <orange>［环境］</orange>
-    Oceanic / Wet Biomes: <green>+10% Max Energy</green> <green>+20% Speed</green>
-    Jungle / Humid Biomes: <green>+5% Max Energy</green>
-    Hot / Dry Biomes: <red>-15% Max Energy</red> <red>-15% Max Health</red> <red>-30% Energy Regen</red>
+    海洋，潮湿生态：生命值上限<green>+5%</green>，能量值上限<green>+10%</green>，能量回复速度<green>+15%</green>，移动速度<green>+20%</green>
+    丛林，湿润生态：能量值上限<green>+5%</green>
+    炎热，干燥生态：生命值上限<red>-15%</red>，能量值上限<red>-15%</red>，能量回复速度<red>-30%</red>
 
     <orange>［武器］</orange>
-    Shortspear / Spear: <green>+10%</green> Damage, <green>+15%</green> Protection
-    Wands / Staves: <green>8%</green> Damage and Energy
-    Broadswords / Shortswords / Daggers: <green>+15%</green> Damage, <green>+5%</green> Critical Chance
-    Playstyle: <yellow>Fighting</yellow>
+    短矛，矛，长棍：伤害<green>+10%</green>，防御<green>+10%</green>
+    魔杖，法杖：伤害<green>8%</green>，能量值上限<green>+8%</green>
+    阔剑，短剑，匕首：伤害<green>+15%</green>暴击几率<green>+5%</green>
+    双持匕首：暴击几率<green>+8%</green>，暴击伤害<green>+25%</green>，移动速度<green>+8%</green>
+    短剑+盾牌：防御<green>+6</green>，移动速度<red>-10%</red>
+
+    <red>［抗性］</red>
+    减益：生命值上限<red>-5%</red>，防御<red>-10%</red>，饥饿速度<red>+5%</red>
+    抗性：辐射抗性<red>-20%</red>，电系抗性<red>-30%</red>
   rawValue: |-
-    The Remorian are a species of aquatic dragonoid people with an aptitude for magical energy. They tend to be somewhat more feeble physically than other races, but make up for it in their magical potential, which they draw from the ocean and other humid environments.
+    The Remorian are a species of aquatic dragonoid people that draw energy from the ocean and other humid environments.
 
     Diet: Omnivore
 
     ^orange;Perks^reset;:
-    ^green;+10%^reset; Energy, ^green;+5%^reset; Damage, ^green;+10%^reset; Speed, ^green;+15%^reset; Energy Regen, ^green;+20%^reset; Shadow Resist, ^green;+10%^reset; Ice Resist, Wet Immunity, ^green;1500^reset; Breath, ^green;Swim Boost 2^reset;
+    ^green;+10%^reset; Energy, ^green;+5%^reset; Damage, ^green;+5%^reset; Speed, ^green;+15%^reset; Energy Regen, ^green;+20%^reset; Shadow Resist, ^green;+10%^reset; Ice Resist, ^green;1500^reset; Breath, ^green;Swim Boost 2^reset;, ^green;+35% Max Energy^reset; and ^green;Minor Regeneration^reset; while submerged in ^orange;Water^reset;, ^orange;Healing Water^reset;, ^orange;Waste Water^reset;, or ^orange;Swamp Water^reset;
     ^red;Weaknesses^reset;:
     ^red;-5%^reset; Health, ^red;-10%^reset; Protection, ^red;+5%^reset; Hunger Rate, ^red;-20%^reset; Radioactivity, ^red;-30%^reset; Electricity
-
     ^orange;Environment^reset;:
-    Oceanic / Wet Biomes: ^green;+10% Max Energy^reset; ^green;+20% Speed^reset;
+    Oceanic / Wet Biomes: ^green;+10% Max Energy^reset; ^green;+5% Max Health^reset; ^green;+15% Energy Regen^reset; ^green;+20% Speed^reset;
     Jungle / Humid Biomes: ^green;+5% Max Energy^reset;
     Hot / Dry Biomes: ^red;-15% Max Energy^reset; ^red;-15% Max Health^reset; ^red;-30% Energy Regen^reset;
-
     ^orange;Weapons^reset;:
-    Shortspear / Spear: ^green;+10%^reset; Damage, ^green;+15%^reset; Protection
-    Wands / Staves: ^green;8%^reset; Damage and Energy
+    Shortspear / Spear / Quarterstaff: ^green;+10%^reset; Damage, ^green;+10%^reset; Protection
+    Wands / Staves: ^green;8%^reset; Damage and Max Energy
     Broadswords / Shortswords / Daggers: ^green;+15%^reset; Damage, ^green;+5%^reset; Critical Chance
+    Dual Wield Daggers: ^green;+8%^reset; Critical Chance, ^green;+25%^reset; Critical Damage, ^green;+8%^reset; Speed
+    Shortsword + Shield: ^green;+6^reset; Protection, ^red;-10%^reset; Speed
     Playstyle: ^yellow;Fighting^reset;
-  translationAnnotation: NotTranslated

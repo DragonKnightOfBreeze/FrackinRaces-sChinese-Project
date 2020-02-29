@@ -6,23 +6,24 @@
     食性：荤食性
 
     <orange>［天赋］</orange>
-    伤害&生命值上限+<green>5%</green>，能量值上限+<green>20%</green>
-    抗性：<green>25%</green>电系&寒冷抗性，<green>20%</green>辐射抗性
-    日间会<green>回复生命</green>。如果生命值&饱食度已满，则会增加<green>能量回复速度</green>
-    免疫：<green>感电</green>
+    增益：生命值上限<green>+5%</green>，能量值上限<green>+20%</green>，伤害<green>+5%</green>
+    抗性：电系抗性<green>+25%</green>，寒冷抗性<green>+25%</green>，辐射抗性<green>+20%</green>
+    免疫：感电
 
     <orange>［环境］</orange>
-    <green>森林类</green>生态：增加<green>生命值上限&能量值上限</green>
+    森林类生态：<green>增加生命值上限和能量值上限</green>
+    日间时：<green>回复生命</green>。如果生命值和饱食度已满，额外<green>增加能量回复速度</green>
+    夜间时：生命值上限<red>-10%</red>，能量值上限<red>-30%</red>
 
     <orange>［武器］</orange>
-    弓：暴击伤害+<green>20%</green>，移动速度+<green>5%</green>，蓄力时间<green>-5%</green>。
-    矛/匕首：伤害+<green>8%</green>，暴击几率+<green>3%</green>，<green>3%</green>几率造成毒素攻击。如果饱食度已满，则会加快攻击速度。
-    叶族武器/投掷物: 暴击几率+<green>2%</green>
+    弓：暴击伤害<green>+20%</green>，伤害<green+12%</green>，移动速度<green>+5%</green>，蓄力时间<green>-5%</green>
+    矛，匕首：伤害<green>+8%</green>，暴击几率<green>+3%</green>，<green>3%</green>的几率造成毒素伤害。
+    叶族武器，投掷武器: 暴击几率<green>+2%</green>
+    饱食度已满时：加快攻击速度。
 
     <red>［弱点］</red>
-    基础攻击会<red>消耗饱食度</red>
-    夜间：生命值上限<red>-10%</red>，能量值上限<red>-30%</red>
-    抗性：<red>-50%</red>火焰抗性，<red>-25%</red>毒素抗性
+    抗性：火焰抗性<red>-50%</red>，毒素抗性<red>-25%</red>
+    <red>基础攻击会消耗饱食度</red>
   rawValue: |-
     Florans are known throughout the universe to be aggressive, carnivorous hunters. They still partially sustain themselves on sunlight, but every blow they strike only adds to their hunger.
 

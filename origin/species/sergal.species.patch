@@ -1,26 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Nomadic tribal hunters. Low-tech, but capable of understanding technology with minimal training.
+    游牧的部落猎人。他们的科技水平很低，但是经过极少的学习和训练，就能手握科学之门的钥匙。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+7%</green> speed, <green>+6%</green> Jump
-    Resist: <green>10%</green> Physical, <green>40%</green> Poison
-    Tech: <green>Hunter's Claw</green>
+    增益：移动速度<green>+7%</green>，跳跃高度<green>+6%</green>
+    抗性：物理抗性<green>+10%</green>，毒素抗性<green>+40%</green>
+    科技：猎人之爪
 
     <orange>［环境］</orange>
-    Gain additional vitality, jumping and speed in <green>Rainforest, Jungle, Savannah, and Primeval</green> biomes
+    雨林，丛林，热带草原，原始森林生态：<green>增加生命值上限，移动速度和跳跃高度</green>
 
     <orange>［武器］</orange>
-    Bow: <green>+15%</green> Damage
-    Mace: <green>+25%</green> Stun Chance
-    Dagger: <green>+15%</green> Damage, +1% Crit Chance
-    Spear: <green>+25</green> Max Health, <green>+15%</green> Protection
+    弓：伤害<green>+15%</green>
+    锤矛：击晕几率<green>+25%</green>
+    匕首：伤害<green>+15%</green>，暴击几率<green>+1%</green>
+    矛：生命值上限<green>+25</green>，防御<green>+15%</green>
 
     <red>［弱点］</red>
-    <red>50%</red> Shadow, Knockback Resist, <red>-20%</red> Energy
+    减益：能量值上限<red>-20%</red>，击退抵抗<red>-50%</red>
+    抗性：暗影抗性<red>-50%</red>
   rawValue: |-
     Nomadic tribal hunters. Low-tech, but capable of understanding technology with minimal training.
 

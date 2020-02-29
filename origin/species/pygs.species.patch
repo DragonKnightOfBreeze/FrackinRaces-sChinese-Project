@@ -1,27 +1,28 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A species of once livestock pigs were given a special drug by the miniknog which made them sentient. They then began an uprising and reproduced to create a race of pigmen. That race is the pyg.
+    曾经有一些被作为牲畜的猪，他们被科技发展部施加了一种特殊的药物，从而有了自我意识。
+    然后，他们开始起义，开始繁殖，最终创造了一个猪人种族。这便是这个种族的由来。
 
     食性：素食性
 
     <orange>［天赋］</orange>
-    <green>+20%</green> Health, <green>+15%</green> Energy, <green>+10%</green> Jump
-    <green>+30%</green> Ice, <green>+10%</green> Poison resist
-    Immune: Mud, Jungle Title
+    增益：生命值上限<reen>+20%</green>，能量值上限<green>+15%</green>，跳跃高度<green>+10%</green>
+    抗性：寒冷抗性<green>+30%</green>，毒素抗性<green>+10%</green>
+    免疫：泥，丛林物块
 
     <orange>［环境］</orange>
-    <green>+20%</green> Health on Lush, Forest, and Rainforest biomes.
+    葱郁，森林，雨林生态：生命值上限<green>+20%</green>
 
     <orange>［武器］</orange>
-    Axe/Greataxe: <green>+10%</green> Damage
-    Scythe: <green>+25%</green> Damage
-    Spear/Shortspear: <green>+10%</green> Damage & Speed
-    Axe: Each hit fills <green>+0.5%</green> Hunger
+    斧，巨斧：伤害<green>+10%</green>
+    镰刀：伤害<green>+25%</green>
+    矛，短矛：伤害<green>+10%</green>，移动速度<green>+10%</green>
+    斧：每次攻击时饱食度<green>+0.5%</green>
 
     <red>［弱点］</red>
-    <red>-5%</red> Speed
-    <red>-20%</red> Fire
+    减益：移动速度<red>-5%</red>
+    抗性：火焰抗性<red>-20%</red>
   rawValue: |-
     A species of once livestock pigs were given a special drug by the miniknog which made them sentient. They then began an uprising and reproduced to create a race of pigmen. That race is the pyg.
 

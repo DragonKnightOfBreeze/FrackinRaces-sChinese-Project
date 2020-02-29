@@ -1,23 +1,24 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Adorable, Omnivorous and nearly electric-proof space rodents. They prowl the stars seeking excitement, and are abnormally brave for rodents. Trustworthy and wise, they've earned a reputation as traders.
+    可爱的，杂食性的，拥有防电能力的太空啮齿生物。
+    他们寻觅星星，发现惊奇，同时非常勇敢。而这为他们赢得了作为贸易商人的声誉。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    +<green>10%</green> Speed, +<green>10%</green> Jump
-    Resist: <green>50%</green> Electric, <green>20% Fall Damage</green>
-    Great Traders: +<green>21%</green> Charisma, +500 Start Cash
-    Immune: Electrified
+    增益：移动速度<green>+10%</green>，跳跃高度<green>+10%</green>，坠落伤害<green>-20%</green>
+    抗性：电系抗性<green>+50%</green>
+    免疫：感电
+    交易老手（魅力<green>+21%</green>，初始金钱<green>+500</green>）
 
     <orange>［武器］</orange>
-    Striker: +<green>1%</green> Crit, +<green>5</green> Crit Dmg
-    Scythe: +<green>15%</green> Protection
+    打击者：暴击几率<green>+1%</green>，暴击伤害<green>+5</green>
+    镰刀：防御<green>+15%</green>
 
     <red>［弱点］</red>
-    <red>-10%</red> Health
-    Weak: <red>-20%</red> Radioactive, <red>-25%</red>Poison, <red>-20%</red> Cosmic
+    减益：生命值上限<red>-10%</red>
+    抗性：辐射抗性<red>-20%</red>，毒素抗性<red>-25%</red>，射线抗性<red>-20%</red>
   rawValue: |-
     Adorable, Omnivorous and nearly electric-proof space rodents. They prowl the stars seeking excitement, and are abnormally brave for rodents. Trustworthy and wise, they've earned a reputation as traders.
 

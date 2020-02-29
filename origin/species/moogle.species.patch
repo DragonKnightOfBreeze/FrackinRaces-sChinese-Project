@@ -1,27 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Fluffy, adorable, cosmic-attuned lagomorphic critters from a distant world of fantasy that have a pom-pom, bat-like wings, and a thing for saying "Kupo!". They typically are very skilled machinists, but they sometimes choose to become a knight or a mage instead.
+    来自遥远的幻想世界的蓬松的，可爱的，协调的小动物。他们长有小绒球和蝙蝠状的翅膀，口头禅是“库啵！”。
+    他们通常是非常熟练的机械师，但有时，他们会选择成为骑士和法师。
+    （注：莫古力，虚构种族，来自《最终幻想》）
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    <green>+10%</green> Energy, Charisma, Speed
-    <green>+20%</green> Jump, <green>-50%</green> Fall Damage
-    <green>+30%</green> Cosmic & Ice Resist, <green>+20%</green> Electric Resist
-    Tech: <green>Glide</green>
-    Immune: Electrified, Mud
+    增益：能量值上限<green>+10%</green>，移动速度<green>+10%</green>，跳跃高度<green>+20%</green>，坠落伤害<green>-50%</green>，魅力<green>+10%</green>
+    抗性：射线抗性<green>+30%</green>，寒冷抗性<green>+30%</green>，电系抗性<green>+20%</green>
+    免疫：感电，泥
+    科技：滑翔
 
     <orange>［武器］</orange>
-    Shortswords, Staves, and Wands: <green>+5%</green> damage
-    Pistols, Spears, and Daggers: <green>+10%</green> damage, <green>+1%</green> crit
-    Energy Weapons: <green>+10%</green> damage, <green>+10%</green> crit damage
+    短剑，魔杖，法杖：伤害<green>+5%</green>
+    手枪，矛，匕首：伤害<green>+10%</green>，暴击几率<green>+1%</green>
+    能量武器：伤害<green>+10%</green>，暴击伤害<green>+10%</green>
 
     <red>［弱点］</red>
-    Terrible swimmers
-    <red>-20%</red> Max Food
-    <red>-20%</red> Health
-    <red>-40%</red> Shadow Resist, <red>-20%</red> Fire & Physical Resist
+    减益：生命值上限<red>-20%</red>，饱食度上限<red>-20%</red>
+    抗性：暗影抗性<red>-40%</red>，火焰抗性<red>-20%</red>，物理抗性<red>-20%</red>
+    <red>糟糕的游泳者</red>
   rawValue: |-
     Fluffy, adorable, cosmic-attuned lagomorphic critters from a distant world of fantasy that have a pom-pom, bat-like wings, and a thing for saying "Kupo!". They typically are very skilled machinists, but they sometimes choose to become a knight or a mage instead.
 

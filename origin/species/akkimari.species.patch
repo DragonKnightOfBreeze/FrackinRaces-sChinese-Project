@@ -4,19 +4,21 @@
     阿基米利是一个残缺的种族，他们的社会还未从统治者AI的遗失中恢复过来。
     现在，许多阿基米利作为拾荒者和赏金猎人在银河系中游荡，寻找着他们遗失的AI，当然，还有财富。
 
-    食性：什么都吃
+    食性：任何食物
 
     <orange>［天赋］</orange>
-    抗性：<green>10%</green>物理抗性，<green>30%</green>毒素抗性
-    磨损：很少需要进食 <green>缓慢回复生命</green>
+    增益：移动速度<green>+7%</green>，跳跃高度<green>+7%</green>
+    抗性：物理抗性<green>+10%</green>，毒素抗性<green>+30%</green>
+    磨损（饱食度上限<green>+100%</green>）
+    缓慢回复生命
 
     <orange>［环境］</orange>
-    <green>葱郁，森林，沙漠和沼泽</green>生态：获得额外15%的生命值和防御
+    葱郁，森林，沙漠，沼泽生态：生命值上限<green>+15%</green>，防御<green>+15%</green>
 
     <orange>［武器］</orange>
-    阔剑：+<green>10%</green>伤害，+<green>10%</green>防御
-    弓/弩：+<green>2%</green>暴击几率，+<green>15%</green>攻击力
-    矛/短矛：+<green>2%</green>暴击几率，+<green>25%</green>击退抵抗力
+    阔剑：伤害<green>+10%</green>，防御<green>+10%</green>
+    弓，弩：暴击几率<green>+2%</green>，攻击力<green>+15%</green>
+    矛，短矛：暴击几率<green>+2%</green>，击退抵抗<green>+25%</green>
 
     <red>［弱点］</red>
     抗性：暗影抗性<red>-10%</red>，辐射抗性<red>-20%</red>

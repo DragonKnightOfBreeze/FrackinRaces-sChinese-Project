@@ -1,23 +1,23 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Bizarre pseudo-dead constructs
+    奇怪的伪生命构造体。
 
-    食性：什么都吃，但是几乎不需要进食
+    食性：任何食物，但是几乎不需要进食
 
     <orange>［天赋］</orange>
-    <green>+20%</green> Health
-    <green>+20%</green> Physical Resist, <green>+50%</green> Poison Resist <green>+15%</green> Shadow Resist
-    Immune: Electrified, Cold, Radiation, Poison
+    增益：生命值上限<green>+20%</green>
+    抗性：物理抗性<green>+20%</green>，毒素抗性<green>+50%</green>，暗影抗性<green>+15%</green>
+    免疫：感电，寒冷，辐射，中毒
 
     <orange>［环境］</orange>
-    <green>+20%</green> on Atropus biomes
-    <green>+25%</green> Health and Energy, <green>+1.5%</green> Health Regenerate in Blood, Milk, Alien Juice and Dark Water
-    <red>-15%</red> Health, Energy, And Protection, take <red>-4.5%</red> damage per second in Healing Water
+    阿托罗斯生态：（不要问，问就原作者没写到底是什么能力值）<green>+20%</green>
+    血液，奶，外星汁液，腐化之水中：生命值上限<green>+25%</green>，生命回复速度<green>+1.5%</green>，能量值上限<green>+25%</green>
+    生命之水：生命值上限<red>-15%</red>，能量值上限<red>-15%</red>，防御<green>-15%</green>，<red>每秒受到4.5%的伤害</red>
 
     <red>［弱点］</red>
-    <red>-20%</red> Energy
-    <red>-100%</red> Fire resist
+    减益：能量值上限<red>-20%</red>
+    抗性：火焰抗性<red>-100%</red>
   rawValue: |-
     Bizarre pseudo-dead constructs
 

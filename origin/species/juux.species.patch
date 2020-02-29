@@ -1,27 +1,27 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    An unusual psionic species of extremophiles. Can generate a powerful psionic vibration through sheer willpower.
+    由无数极端微生物聚合而成的灵能种族，能够通过纯粹的意志力产生强大的灵能震动。
 
-    食性：什么都吃，包括处理后的同位素
+    食性：任何食物，包括处理后的同位素
 
     <orange>［天赋］</orange>
-    Resist: <green>30%</green> Electric, <green>15%</green> Ice , <green>20%</green> Mental Protection
-    Immune: Slipping, Electrified
-    Tech: <green>Psionic Wave</green>
+    抗性：电系抗性<green>+30%</green>，寒冷抗性<green>+15%</green>，精神抗性<green>+20%</green>
+    免疫：滑行，感电
+    科技：灵能波
 
     <orange>［环境］</orange>
-    On <green>electrically charged or crystal</green> biomes, gain <green>10% speed</green>
-    On <green>cold</green> biomes, gain <green>10% Protection</green>
+    带电，水晶生态：移动速度<green>+10%</green>
+    寒冷生态：防御<green>+10%</green>
 
     <orange>［武器］</orange>
-    Psionic Ejector:  +<green>20%</green> damage
-    Quarterstaff: +<green>10%</green> Dmg, +<green>15%</green> Protection
-    Magnorbs: <green>+15%</green> Dmg, +<green>10%</green> Protection
+    灵能喷射器：伤害<green>+20%</green>
+    长棍：伤害<green>+10%</green>，防御<green>+15%</green>
+    磁力珠：伤害<green>+15%</green>，防御<green>+10%</green>
 
     <red>［弱点］</red>
-    <red>23%</red> Cosmic and Shadow
-    <red>-10%</red> Charisma
+    减益：魅力<red>-10%</red>
+    抗性：射线抗性<red>-23%</red>，暗影抗性<red>-23%</red>
   rawValue: |-
     An unusual psionic species of extremophiles. Can generate a powerful psionic vibration through sheer willpower.
 
@@ -45,3 +45,4 @@
     ^red;23%^reset; Cosmic and Shadow
     ^red;-10%^reset; Charisma
   translationAnnotation: NotTranslated
+  translationNote: 灵能喷射器是什么鬼？

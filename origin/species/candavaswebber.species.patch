@@ -1,27 +1,28 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    韦伯(源自《饥荒》)的一种奇特的、近乎"魔法"的变种。由异常物质和大量的糖组成，他们的生物学特性还有待质疑。
+    韦伯是一种奇特的，近乎魔法的变种。由异常物质和大量的糖组成，他们的生物学特性仍然有待质疑。
+    （注：韦伯，游戏人物，来自《饥荒》）
 
     食性：高糖食物，完全无法安全地消化肉类
 
     <orange>［天赋］</orange>
-    能量值上限+<green>20%</green>，生命值上限+<green>10%</green>
-    抗性：<green>40%</green>射线抗性，<green>30%</green>暗影抗性
-    免疫：蜘蛛网
-    <orange>发出微光，进食含糖食物时获得10%的移动速度。</orange>
+    增益：能量值上限<green>+20%</green>，生命值上限<green>+10%</green>
+    抗性：射线抗性<green>+40%</green>，暗影抗性<green>+30%</green>
+    免疫：网
+    <orange>发出微光，进食含糖食物时获得10%的移动速度</orange>
 
     <orange>［环境］</orange>
-    <cyan>寒冷</cyan>生态中：物理抗性：<green>+5%</green>
-    <purple>以太</purple>生态：生命值上限<green>+5%</green>
+    寒冷生态：物理抗性<green>+5%</green>
+    以太生态：生命值上限<green>+5%</green>
 
     <orange>［武器］</orange>
-    魔杖：伤害+<green>8%</green>
-    长棍/能量武器：暴击几率+<green>3%</green>
+    魔杖：伤害<green>+5%</green>
+    长棍，能量武器：暴击几率<green>+3%</green>
 
     <red>［弱点］</red>
-    移动速度<red>-10%</red>
-    抗性：<red>-40%</red>火焰抗性，<red>-30%</red>毒素抗性，<red>-20%</red>辐射抗性
+    减益：移动速度<red>-10%</red>
+    抗性：火焰抗性<red>-40%</red>，毒素抗性<red>-30%</red>，辐射抗性<red>-20%</red>
   rawValue: |-
     An odd and near-"magical" variation of the webber clones. Composed of nothing but abnormal substances and plenty of sugar, their biology is left to be questioned.
 

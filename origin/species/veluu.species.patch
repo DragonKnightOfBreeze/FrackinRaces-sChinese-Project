@@ -1,29 +1,29 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    A fractured race of sapient cats. Half are peace loving free-thinkers, while the rest are war-hungry monsters.
+    被赋有智慧的猫咪的支离破碎的种族。一半是爱好和平的自由思想者，一半是渴望战争的怪物。
 
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    Very nimble. Gain <green>20%</green> Jump and <green>8%</green> Run Speed<reset>
-    <green>+20%</green> Cold Resist, <green>-50%</green> Fall Damage
-    Night Vision
-    Tech: <green>Veluu's Claws </green>
-    Immune: Jungle Dirt and Mud
+    增益：移动速度<green>+8%</green>，跳跃高度<green>+20%</green>，坠落伤害<green>-50%</green>
+    抗性：寒冷抗性<green>+20%</green>
+    科技：维鲁之爪
+    免疫：丛林泥土，泥
+    夜视
 
     <orange>［环境］</orange>
-    <green>+10%</green> Health, <green>+15%</green> Energy on <green>Jungle, Primeval, Forest, Rainforest, Desert</green> biomes
+    丛林，原始森林，森林，雨林，沙漠生态：生命值上限<green>+10%</green>，能量值上限<green>+15%</green>
 
     <orange>［武器］</orange>
-    Fists, Daggers, Shortswords: <green>+1%</green> Crit Chance
-    Thrown Weapons/Grenades: <green>+25%</green> Dmg
-    Magnorb: <green>+2%</green> Crit Chance
-    Arm Cannon: <green>+15%</green> Protection,<green>+15%</green> Damage
-    Bow: <green>-0.1</green>s Draw Time
+    拳套，匕首，短剑：暴击几率<green>+1%</green>
+    投掷武器，手榴弹：伤害<green>+25%</green>
+    磁力珠：：暴击几率<green>+2%</green>
+    手炮：伤害<green>+15%</green>，防御<green>+15%</green>
+    弓：蓄力时间<green>-0.1s</green>
 
     <red>［弱点］</red>
-    Weak: <red>20%</red> Cosmic and Electric
+    抗性：射线抗性<red>-20%</red>，电系抗性<red>-20%</red>
   rawValue: |-
     A fractured race of sapient cats. Half are peace loving free-thinkers, while the rest are war-hungry monsters.
 

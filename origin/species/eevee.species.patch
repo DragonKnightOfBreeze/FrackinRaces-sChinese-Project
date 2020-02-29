@@ -6,22 +6,22 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    能量值上限+<green>15</green>，机动性+10%
-    抗性：<green>5%</green>射线抗性，<green>20%</green>辐射抗性
-    免疫：轻微辐射
+    增益：能量值上限<green>+15</green>，移动速度<green>+10%</green>
+    抗性：射线抗性<green>+5%</green>，辐射抗性<green>+20%</green>
+    免疫：轻度辐射
 
     <orange>［环境］</orange>
-    葱郁/森林/丛林生态：机动性+<green>5%</green>
-    炎热生态：火焰抗性+<green>10%</green>，寒冷抗性<red>-10%</red>
-    寒冷生态：寒冷抗性+<green>10%</green>，火焰抗性<red>-10%</red>
+    葱郁，森林，丛林生态：机动性<green>+5%</green>
+    炎热生态：火焰抗性<green>+10%</green>，寒冷抗性<red>-10%</red>
+    寒冷生态：寒冷抗性<green>+10%</green>，火焰抗性<red>-10%</red>
 
     <orange>［武器］</orange>
-    阔剑/短剑/矛/短矛/镰刀/刺剑/匕首：伤害<green>+20%</green>
-    手枪/自动手枪/霰弹枪/弓/回旋镖/悠悠球：伤害<red>-15%</red>
+    阔剑，短剑，矛，短矛，镰刀，刺剑，匕首：伤害<green>+20%</green>
+    手枪，自动手枪，霰弹枪，弓，回旋镖，悠悠球：伤害<red>-15%</red>
 
     <red>［弱点］</red>
-    防御<red>-5</red>
-    抗性：<red>-50%</red>物理抗性，<red>-10%</red>毒素抗性，<red>-5%</red>暗影抗性
+    减益：防御<red>-5</red>
+    抗性：物理抗性<red>-50%</red>，毒素抗性<red>-10%</red>，暗影抗性<red>-5%</red>
   rawValue: |-
     Through natural evolution, these former quadrupeds gained more human characteristics, at the cost of their transformative abilities. Though they have accomodated for this with special armor.
 

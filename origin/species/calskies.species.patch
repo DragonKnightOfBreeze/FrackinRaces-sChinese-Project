@@ -1,25 +1,24 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    这些太空狼热爱能量武器和科技。他们敏捷而又极其灵活，几乎可以在任何地形上航行。
+    这些太空狼热爱能量武器和科技。他们敏捷而又极其灵活，几乎可以在任何地形上航行，但是也有脆弱的一面。
 
     食性：荤食性
 
     <orange>［天赋］</orange>
-    +<green>Staying fed <green>increases movement</green> (max 16.6%)
-    +<green>5% <green>power, +<green>12%</green> Energy</green>
-    Resist: <green>20%</green> Shadow, <green>20%</green> Radiation
-    Immune: Slush, Snow, Soil, Mud, Web and Sandstorm effects
+    增益：能量值上限<green>+12%</green>，伤害<green>+5%</green>，饥饿速度<green>-40%</green>
+    抗性：暗影抗性<green>+20%</green>，辐射抗性<green>+20%</green>
+    免疫：雪泥，雪，泥土，泥，网，沙暴
+    保持高饱食度能够增加移动速度（最大<green>+16.6%</green>）
 
     <orange>［环境］</orange>
-    Gain additional power and health in <green>Lush, Forest and Tundra</green> biomes
-    <green>40% Hunger Reduction</green>
+    葱郁，森林，冻土生态：<green>增加生命值上限和伤害</green>
 
     <orange>［武器］</orange>
-    Firearms: <green>+3%</green> Crit Chance, <green>+25%</green> Energy Regen
+    枪械：暴击几率<green>+3%</green>，能量回复速度<green>+25%</green>
 
     <red>［弱点］</red>
-    Weak: <red>20%</red> Cosmic, <red>-20%</red> Poison
+    抗性：射线抗性<red>-20%</red>，毒素抗性<red>-20%</red>
   rawValue: |-
     Space wolves with a love for energy weapons and tech. They're swift and extremely mobile, navigating almost any terrain, but a tad on the fragile side.
 
@@ -40,3 +39,4 @@
 
     ^red;Weaknesses^reset;:
     Weak: ^red;20%^reset; Cosmic, ^red;-20%^reset; Poison
+  translationNote: 不知道如何翻译那一句。

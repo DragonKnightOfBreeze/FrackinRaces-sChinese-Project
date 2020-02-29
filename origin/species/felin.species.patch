@@ -1,28 +1,28 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Meow. Space-cats with a funky culture and quirky language. Agility is their forte, and their claws and predatory instincts give them an edge in combat.
+    喵！这是一群具有流行文化和古怪语言的太空猫咪。
+    他们非常敏捷，而利爪和掠夺本能则使他们在战斗中更占优势。
 
     食性：荤食性
 
     <orange>［天赋］</orange>
-    <green>+75%</green> Fall Resistance
-    <green>+25%</green> Jump, <green>+6%</green> Speed
-    <green>+45%</green> Shadow Resist
-    Tech: <green>Hunter's Claw</green>
+    增益：移动速度<green>+6%</green>，跳跃高度<green>+25%</green>，坠落伤害<green>-75%</green>
+    抗性：暗影抗性<green>+45%</green>
+    科技：猎人之爪
 
     <orange>［环境］</orange>
-    On Jungle, Rainforest, Alien, Proto, And Primeval biomes gain <green>5%</green> Protection and <+green>10%</+green> Energy
+    丛林，雨林，外星，原毒，原始森林生态：能量值上限<green>+10%</green>，防御<green>+5%</green>
 
     <orange>［武器］</orange>
-    Fist: <green>+12%</green> Damage
-    Dagger: <green>+1%</green> Crit chance
-    x2 Fist: <green>+3%</green> Damage, <green>+1%</green> Crit Damage, <green>5%</green> Jump and <green>8%</green> Speed
-    x2 Dagger: <green>+3%</green> Damage, <green>+1%</green> Crit Damage
-    Pistol/Machine Pistol: <green>+20%</green> Crit Damage, <green>+1%</green> Crit Chance
+    拳套：伤害<green>+12%</green>
+    匕首：暴击几率<green>+1%</green>
+    双持拳套：伤害<green>+3%</green>，暴击伤害<green>+1%</green>，跳跃高度<green>+5%</green>，移动速度<green>+8%</green>
+    双持匕首：伤害<green>+3%</green>，暴击伤害<green>+1%</green>
+    手枪，自动手枪：暴击伤害<green>+20%</green>，暴击几率<green>+1%</green>
 
     <red>［弱点］</red>
-    Weak: <red>-40%</red> Poison
+    抗性：毒素抗性<red>-40%</red>
   rawValue: |-
     Meow. Space-cats with a funky culture and quirky language. Agility is their forte, and their claws and predatory instincts give them an edge in combat.
 

@@ -6,7 +6,7 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    增益：生命值上限<green>+20%</green>，防御<green>+10%</green>，饱食度上限<green>+100%</green>，呼吸时限<green>+2000</green>
+    增益：生命值上限<green>+20%</green>，饱食度上限<green>+40%</green>，呼吸时限<green>+2000</green>
     抗性：寒冷抗性<green>+30%</green>，火焰抗性<green>+20%</green>，辐射抗性<green>+20%</green>
     免疫：潮湿
 
@@ -15,8 +15,8 @@
     水，生命之水中：饥饿速度<green>-50%</green>，毒素抗性<green>+20%</green>，<green>得到微量的回复加成</green>
 
     <orange>［武器］</orange>
-    爆矢枪: 伤害<green>+20</green>，暴击几率<green>+1%</green>，暴击伤害<green>+3</green>
-    三叉戟：伤害<green>+10</green>，暴击几率<green>+3%</green>，暴击伤害<green>+5</green>
+    爆矢枪: 伤害<green>+20</green>，暴击几率<green>+1%</green>，暴击伤害<green>+7</green>
+    三叉戟：伤害<green>+10</green>，暴击几率<green>+2%</green>，暴击伤害<green>+5</green>
     矛：伤害<green>+20</green>
 
     <red>［弱点］</red>
@@ -27,7 +27,7 @@
     Diet: Omnivore
 
     ^orange;Perks^reset;:
-    ^green;+20%^reset; health, ^green;+10%^reset; Protection, +100% Max Food, ^green;2000 Breath
+    ^green;+20%^reset; health, +40% Max Food, ^green;2000 Breath
     Resist: ^green;30%^reset; Ice, ^green;20%^reset; Fire and Radiation
     Immune: Wet
 
@@ -36,11 +36,10 @@
     In water/healing water, you gain ^green;-50%^reset; Hunger Rate, ^green;+20%^reset; Poison Resist, and ^green;minor health regen^reset;
 
     ^orange;Weapons^reset;:
-    Boltgun: ^green;+20^reset; Damage, ^green;+1%^reset; Crit Chance,^green;+3^reset; Crit Bonus Damage
-    Trident: ^green;+10^reset; Damage, ^green;+3%^reset; Crit Chance, ^green;+5^reset; Crit Bonus Damage
+    Boltgun: ^green;+20^reset; Damage, ^green;+1%^reset; Crit Chance,^green;+7^reset; Crit Bonus Damage
+    Trident: ^green;+10^reset; Damage, ^green;+2%^reset; Crit Chance, ^green;+5^reset; Crit Bonus Damage
     Spear: ^green;+20^reset; Damage
 
     ^red;Weaknesses^reset;:
     ^red;30%^reset; Electric, ^red;20%^reset; Poison
-  translationAnnotation: NotTranslated
   translationNote: 不知道Boltgun的确切含义。

@@ -1,28 +1,29 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    An uplifted species by the Vel'uuish. This telepathic and telekinetic species follows their uplifters in their culture and use of technology. They love making terrible cat-based puns.
+    一个被Vel'uuish开化的种族。他们天生拥有灵力和念力，追随其开化者的文化和科学技术。
+    此外，他们也喜欢创造可怕的猫咪双关语。
 
     食性：荤食性
 
     <orange>［天赋］</orange>
-    Very nimble. Gain <green>20%</green> Jump and <green>8%</green> Run Speed<reset>
-    Resist: <green>15%</green> Cold
-    Race Tech: <green>Claws</green>
-    Immune: Jungle Dirt and Mud
+    增益：跳跃高度<green>+20%</green>，移动速度<green>+8%</green>
+    抗性：寒冷抗性<green>+15%</green>
+    免疫：丛林泥土，泥
+    科技：猫爪
 
     <orange>［环境］</orange>
-    Gain additional vitality and protection in <green>Jungle, Primeval, Forest, Rainforest, Desert</green> biomes
+    丛林，原始森林，森林，雨林，沙漠生态：<green>增加生命值上限和防御</green>
 
     <orange>［武器］</orange>
-    Fists, Daggers, Shortswords: <green>+1%</green> Crit Chance
-    Thrown Weapons: <green>+25%</green> Dmg
-    Magnorb: <green>+2%</green> Crit Chance
-    Arm Cannon: <green>+15%</green> Protection,<green>+15%</green> Damage
-    Bow: <green>-0.1</green>s Draw Time
+    拳套，匕首，短剑：暴击几率<green>+1%</green>
+    投掷武器：伤害<green>+25%</green>
+    磁力珠：暴击几率<green>+2%</green>
+    手炮：防御<green>+15%</green>，伤害<green>+15%</green>
+    弓：蓄力时间<green>-0.1s</green>
 
     <red>［弱点］</red>
-    Weak: <red>20%</red> Cosmic and Electric
+    抗性：射线抗性<red>-20%</red>，辐射抗性<red>-20%</red>
   rawValue: |-
     An uplifted species by the Vel'uuish. This telepathic and telekinetic species follows their uplifters in their culture and use of technology. They love making terrible cat-based puns.
 
@@ -46,4 +47,3 @@
 
     ^red;Weaknesses^reset;:
     Weak: ^red;20%^reset; Cosmic and Electric
-  translationAnnotation: NotTranslated

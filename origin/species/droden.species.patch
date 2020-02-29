@@ -6,16 +6,16 @@
     食性：机械食性
 
     <orange>［天赋］</orange>
-    能量值上限+<green>15%</green>，伤害+<green>10%</green>，移动速度+<green>10%</green>
-    抗性：<green>40%</green>毒素抗性，<green>40%</green>辐射抗性
-    免疫：中毒&窒息&饥饿
+    增益：能量值上限<green>+15%</green>，伤害<green>+10%</green>，移动速度<green>+10%</green>
+    抗性：毒素抗性<green>+40%</green>，辐射抗性<green>+40%</green>
+    免疫：中毒，窒息，饥饿
 
     <orange>［武器］</orange>
-    阔剑/短剑：暴击几率+<green>2%</green>
-    突击步枪：暴击伤害+<green>25%</green>
+    阔剑，短剑：暴击几率<green>+2%</green>
+    突击步枪：暴击伤害<green>+25%</green>
 
     <red>［弱点］</red>
-    抗性：<red>-25%</red>物理抗性，<red>-40%</red>电系抗性
+    抗性：物理抗性<red>-25%</red>，电系抗性<red>-40%</red>
   rawValue: |-
     Effective, light combat droids. Fragile, but resistant to radiation and poison. Capable with swords and assault rifles.
     Diet: Robotic

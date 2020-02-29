@@ -1,21 +1,23 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    滑溜溜的半蛛人。
+    一个蜘蛛形的外星种族，来自一个黑暗笼罩的星球。
+    自被保护团发现之后，阿拉克涅迅速地融入了航天社会。
+    虽然有些令人毛骨悚然，但是他们通常都很友善，并且非常富有好奇心。
 
     食性：杂食性，包括生肉
 
     <orange>［天赋］</orange>
-    生命值上限+<green>25%</green>，移动速度+<green>15%</green>
-    抗性：<green>40%</green>毒素抗性，<green>20%</green>暗影抗性
-    免疫：狂乱&蜘蛛网
+    增益：生命值上限<green>+25%</green>，移动速度<green>+15%</green>
+    抗性：毒素抗性<green>+40%</green>，暗影抗性<green>+20%</green>
+    免疫：狂乱，网
 
     <orange>［环境］</orange>
-    <green>黑暗</green>生态：增加生命值上限&能量值上限
+    黑暗生态（不包括非黑暗生态中的黑暗地形）：<green>增加生命值上限和能量值上限</green>
 
     <orange>［武器］</orange>
-    矛：伤害+<green>10%</green>
-    双手刀刃武器：防御+<green>15%</green>
+    矛：伤害<green>+10%</green>
+    双持刀刃武器，双持短矛：防御<green>+15%</green>
 
     <red>［弱点］</red>：
     抗性：火焰抗性<red>-20%</red>，射线抗性<red>-20%</red>

@@ -6,23 +6,22 @@
     食性：杂食性
 
     <orange>［天赋］</orange>
-    +<green>20%</green> Reduced hunger rate, +<green>20%</green> Health
-    +<green>10%</green> speed and jump,
-    Resist: <green>+20%</green> Ice, <green>+25%</green> Shadow, <green>+10%</green> Cosmic
+    增益：生命值上限<green>+20%</green>，移动速度<green>+10%</green>，跳跃高度<green>+10%</green>，饥饿回复速度<green>+20%</green>
+    抗性：寒冷抗性<green>+20%</green>，暗影抗性<green>+25%</green>，射线抗性<green>+10%</green>
 
     <orange>［环境］</orange>
-    Gain <green>+10%</green> Health and Protection in <green>Lush,Primeval, Forest, Jungle, Rainforest, Tundra, and Snow</green> biomes
+    葱郁，原始森林，丛林，雨林，冻土，雪地生态：生命值上限<green>+10%</green>，防御<green>+10%</green>
 
     <orange>［武器］</orange>
-    Dagger/Shortsword: <green>+3%</green> Crit Chance
-    Quarterstaff: <green>+15%</green> Dmg, +<green>20%</green> Protection
-    Hammer/Mace: <green>+15%</green> Stun Chance
-    Melee Combos increase protection per-strike
-    <orange>Perfect Blocks</orange> increase protection(<green>+2</green>) and damage(<green>+2%</green>)
+    匕首，短剑：暴击几率<green>+3%</green>
+    长棍：伤害<green>+15%</green>，防御<green>+20%</green>
+    锤，锤矛：击晕几率<green>+15%</green>
+    每次近战武器连击时增加防御
+    完美格挡时：防御<green>+2</green>，伤害<green>+2%</green>
 
     <red>［弱点］</red>
-    <red>-25%</red> Fire Resist
-    <red>-12%</red> Energy
+    减益：能量值上限<red>-12%</red>
+    抗性：火焰抗性<red>-25%</red>
   rawValue: |-
     Swift and dangerous fox people. Able warriors.
 

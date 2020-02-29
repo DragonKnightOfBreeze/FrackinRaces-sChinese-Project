@@ -1,22 +1,22 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Personable cat-people. Light on their feet and quick to regain their stamina, they excel in close quarters despite their frailty, and are hardened against the forces of nature.
+    风度翩翩的猫人种族。他们脚步轻盈，能够快速恢复体力。
+    尽管体质偏弱，他们仍然能够在近距离表现得相当出色，并且因为抵抗自然力量而变得坚强。
 
     食性：杂食性，包括生肉。
 
     <orange>［天赋］</orange>
-    Glowing Body
-    <green>+10%</green> Jump, <green>-20%</green> Fall Damage, <green>+5%</green> Speed
-    <green>-20%</green> Energy Regen Block Time
-    <green>+20%</green> Fire, Electric, Ice and Poison resist
+    增益：移动速度<reen>+5%</green>，跳跃高度<green>+10%</green>，坠落伤害<green>-20%</green>，能量回复速度<green>+20%</green>
+    抗性：火焰抗性<green>+20%</green>，电系抗性<green>+20%</green>，寒冷抗性<green>+20%</green>，毒素抗性<green>+20%</green>
+    发光
 
     <orange>［武器］</orange>
-    Fist: <green>+2%</green> Crit, <green>+5%</green> Damage
-    Shortsword/Dagger: <green>+10%</green> Damage, <green>+5%</green> Protection
+    拳套：暴击几率<green>+2%</green>，伤害<green>+5%</green>
+    短剑，匕首：伤害<green>+10%</green>，防御<green>+5%</green>
 
     <red>［弱点］</red>
-    <red>-20%</red> Physical, Shadow, Cosmic and Radiation Resist
+    抗性：物理抗性<red>-20%</red>，暗影抗性<red>-20%</red>，射线抗性<red>-20%</red>，辐射抗性<red>-20%</red>
   rawValue: |-
     Personable cat-people. Light on their feet and quick to regain their stamina, they excel in close quarters despite their frailty, and are hardened against the forces of nature.
 
@@ -35,3 +35,4 @@
     ^red;Weaknesses^reset;:
     ^red;-20%^reset; Physical, Shadow, Cosmic and Radiation Resist
   translationAnnotation: NotTranslated
+  translationNote: “Energy Regen Block Time”是否就是“能量回复速度”？

@@ -1,33 +1,33 @@
 - op: replace
   path: /charCreationTooltip/description
   value: |-
-    Adorable hybrid glowing space raptors with wings. Though they have a disputed, potentially nonexistant origin, they share traits with both Novakids and Avalis, and they are deadly with heavy weapons.
+    可爱的有翼太空猛禽。他们与星之子和羽族都有许多共同的特征，尽管他们的起源仍然存在争议，甚至并不存在。
+    此外，装备有重型武器的他们极其致命。
 
     食性：杂食性
 
     <orange>［天赋］</orange>
-    Glow in the Dark
-    <green>+12%</green> Speed <green>+15%</green> Jump, <green>+5%</green> Energy,
-    Resist: <green>+25%</green> Ice and fire,  <green>+40%</green> Radioactive
-    <green>-70%</green> Fall Dmg, <green>-5%</green> knockback,
-    Tech: <green>Avali Glide</green>
-    Immune: Snow, Ice, Radiation Burn, Basic Cold.
+    增益：能量值上限<green>+5%</green>，移动速度<green>+12%</green>，跳跃高度<green>+15%</green>，坠落伤害<green>-70%</green>，击退抵抗<green>-5%</green>
+    抗性：寒冷抗性<green>+25%</green>，火焰抗性<green>+25%</green>，辐射抗性<green>+40%</green>
+    免疫：雪，冰，辐射烧伤，轻度寒冷
+    科技：羽族滑翔
+    发光
 
     <orange>［环境］</orange>
-    High winds grant additional agility
-    On <green>Radioactive</green> biomes gain <green>15%</green> Energy and Health
-    <green>Regenerate</green> from sunlight when fed. <green>+20%</green> Energy Regen.
-    Night regen <red>consumes food</red> and <red>-25%</red> Energy
+    辐射生态：生命值上限<green>+15%</green>，能量值上限<green>+15%</green>
+    日间时：如果饱食度已满，<green>回复生命</green>。能量回复速度<green>+20%</green>
+    夜间回复会<red>消耗饱食度和-25%的能量</red>
+    高强度的风可以提供额外的灵活性
 
     <orange>［武器］</orange>
-    <green>+10%</green> airborne damage
-    Energy: <green>+12%</green> Dmg
-    Grenade Launcher: <green>+20%</green> Crit Dmg
-    Sniper: +<green>2%</green> Crit Chance and +<green>10%</green> Crit Damage
+    空中伤害<green>+10%</green>
+    能量武器：伤害<green>+12%</green>
+    榴弹发射器：暴击伤害<green>+20%</green>
+    狙击步枪：暴击伤害<green>+10%</green>，暴击几率<green>+2%</green>
 
     <red>［弱点］</red>
-    <red>-50%</red> Shadow, <red>-10%</red> Physical, <red>-15%</red> Electrical resists.
-    <red>-5%</red> Health
+    减益：生命值上限<red>-5%</red>
+    抗性：暗影抗性<red>-50%</red>，物理抗性<red>-10%</red>，电系抗性<red>-15%</red>
   rawValue: |-
     Adorable hybrid glowing space raptors with wings. Though they have a disputed, potentially nonexistant origin, they share traits with both Novakids and Avalis, and they are deadly with heavy weapons.
 

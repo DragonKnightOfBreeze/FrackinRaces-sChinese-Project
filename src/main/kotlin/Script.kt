@@ -49,7 +49,7 @@ private val selectRules = arrayOf(
 		"/completionText",
 		"scriptConfig/descriptions/{descriptionName}"
 	),
-	"exploration.radiomessages" to arrayOf(
+	"*.radiomessages" to arrayOf(
 		"/{messageName}/text"
 	),
 	"*.species" to arrayOf(
@@ -351,7 +351,7 @@ private fun List<*>.deepQueryAndFilterByPath(path: String): List<Map<String, Any
 	return (this as List<Map<String, Any?>>).flatMap {
 		val pathValue = it["path"].toString()
 		val value = it["value"]
-		//由于代码逻辑的问题，暂时无法处理路径部分匹配的情况（考虑完整文件名规则匹配）
+		//NOTE 由于代码逻辑的问题，暂时无法处理路径部分匹配的情况
 		when {
 			//如果路径匹配或者相等，说明value属性的值就是我们要找的值
 			pathValue == path || pathValue matches path.toRegexBy(MatchType.PathReference) -> {
@@ -394,6 +394,7 @@ private fun Any.handleSingleQuote(): String {
 	return this.toString().replace("''", "'").replace("''", "'")
 }
 
+/**将颜色标签改为Xml标记语法。*/
 private fun Any.toXmlText(): String {
 	return this.toString().replace("^#","^_")
 		.replace("\\^(.*?);(.*?)\\^reset;".toRegex(), "<$1>$2</$1>").replace("\\^(.*?);".toRegex(), "<$1>")
