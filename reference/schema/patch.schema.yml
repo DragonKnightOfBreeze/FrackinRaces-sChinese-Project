@@ -21,7 +21,7 @@ items:
     translationAnnotation:
       description: 翻译注解。用作备注。
       type: string
-      enum: [Translated, NotTranslated, Unsure, Fixed, Changed]
+      enum: [Changed, Unsure, Fixed]
       default: Translated
     translationNote:
       description: 翻译笔记。用作备注。

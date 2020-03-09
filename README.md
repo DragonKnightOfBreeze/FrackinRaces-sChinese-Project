@@ -25,11 +25,9 @@ Mod概述：见项目文件`translations/_metadata`。
   * `value` 翻译后文本。一般为中文，未翻译时为英文。
   * `rawValue` 原始文本。一般为英文。
   * `translationAnnotation` 翻译注解。用作备注。
-    * `Translated` 已翻译。
-    * `NotTranslated` 未翻译。
+    * `Changed` 原文已发生改变，但是尚未同步翻译。
     * `Unsure` 未确定原本含义的翻译。
     * `Fixed` 为了确保特殊名词之间的统一性，修改后的已确定原本含义的翻译。  
-    * `Changed` 原文已发生改变，但是尚未同步翻译。
   * `translationNote` 翻译笔记。用作备注。
 
 # 协助翻译指南

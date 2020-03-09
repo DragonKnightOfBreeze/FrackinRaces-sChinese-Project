@@ -248,8 +248,6 @@ private fun mergeFiles() {
 						"value" to b["value"],
 						"rawValue" to a["rawValue"]?.handleSingleQuote(),
 						"translationAnnotation" to when {
-							//如果b中没有value属性，则表明未翻译
-							b["value"] == null -> "NotTranslated"
 							//如果b中rawValue属性与a中rawValue属性不匹配，则表明原文发生了改变
 							b["rawValue"] != a["rawValue"] -> "Changed"
 							//否则使用a中translationAnnotation属性
@@ -285,9 +283,9 @@ private fun extractFiles() {
 					"op" to it["op"],
 					"path" to it["path"],
 					//如果找不到翻译后文本或者原文已更改，则采用rawValue
-					"value" to when(it["translationAnnotation"]) {
-						null -> it["rawValue"]?.handleSingleQuote()
-						"Changed" -> it["rawValue"]?.handleSingleQuote()
+					"value" to when {
+						it["value"] == null -> it["rawValue"]?.handleSingleQuote()
+						it["translationAnnotation"] =="Changed" -> it["rawValue"]?.handleSingleQuote()
 						else -> it["value"]?.toOriginText()
 					}
 				)
@@ -339,8 +337,7 @@ private fun Map<*, *>.deepQueryByPath(path: String): List<Map<String, Any?>> {
 		linkedMapOf(
 			"op" to "replace",
 			"path" to k,
-			"rawValue" to v?.handleSingleQuote(),
-			"translationAnnotation" to "NotTranslated"
+			"rawValue" to v?.handleSingleQuote()
 		)
 	}
 }
@@ -358,8 +355,7 @@ private fun List<*>.deepQueryAndFilterByPath(path: String): List<Map<String, Any
 				listOf(linkedMapOf(
 					"op" to "replace",
 					"path" to it["path"],
-					"rawValue" to it["value"]?.handleSingleQuote(),
-					"translationAnnotation" to "NotTranslated"
+					"rawValue" to it["value"]?.handleSingleQuote()
 				))
 			}
 			//如果路径部分相等，但value属性是列表，说明我们需要进一步到value属性中寻找我们要找的值
@@ -368,8 +364,7 @@ private fun List<*>.deepQueryAndFilterByPath(path: String): List<Map<String, Any
 					linkedMapOf(
 						"op" to "replace",
 						"path" to "$pathValue/$k",
-						"rawValue" to v?.handleSingleQuote(),
-						"translationAnnotation" to "NotTranslated"
+						"rawValue" to v?.handleSingleQuote()
 					)
 				}
 			}
@@ -379,8 +374,7 @@ private fun List<*>.deepQueryAndFilterByPath(path: String): List<Map<String, Any
 					linkedMapOf(
 						"op" to "replace",
 						"path" to "$pathValue/$k",
-						"rawValue" to v?.handleSingleQuote(),
-						"translationAnnotation" to "NotTranslated"
+						"rawValue" to v?.handleSingleQuote()
 					)
 				}
 			}
